@@ -1,7 +1,7 @@
 const request = require('request');
 const cheerio = require('cheerio');
 
-request('https://www.lyit.ie', (error, response, html) => {
+request('http://hdstreams.club/hd/ch1.php', (error, response, html) => {
     if(!error && response.statusCode==200){
         const $ = cheerio.load(html);
 
