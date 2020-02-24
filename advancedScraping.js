@@ -6,7 +6,7 @@ const writeStream = fs.createWriteStream('post.csv');
 // Write Headers
 writeStream.write(`Title,Link,Date \n`);
 
-request('https://twitter.com/search?q=dolphins&src=typd', (error, response, html) => {
+request('https://ads-blocker.com/testing/', (error, response, html) => {
   if (!error && response.statusCode == 200) {
     const $ = cheerio.load(html);
 
@@ -22,7 +22,6 @@ request('https://twitter.com/search?q=dolphins&src=typd', (error, response, html
         .find('.post-date')
         .text()
         .replace(/,/, '');
-
       // Write Row To CSV
       writeStream.write(`${title}, ${link}, ${date} \n`);
     });
