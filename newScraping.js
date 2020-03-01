@@ -1,29 +1,5 @@
-// const puppeteer = require('puppeteer');
-// const $ = require('cheerio');
-// const url = 'https://edition.cnn.com/';
-
-// puppeteer
-//   .launch()
-//   .then(function(browser) {
-//     return browser.newPage();
-//   })
-//   .then(function(page) {
-//     return page.goto(url).then(function() {
-//       return page.content();
-//     });
-//   })
-//   .then(function(html) {
-//     $('h2', html).each(function() {
-//       console.log($(this).text());
-//     });
-//   })
-//   .catch(function(err) {
-//     //handle error
-//   });
-
 const puppeteer = require('puppeteer');
-const fs = require('fs');
-const writeStream = fs.createWriteStream('cnn.csv');
+const $ = require('cheerio');
 const url = 'https://edition.cnn.com/';
 
 puppeteer
@@ -34,15 +10,39 @@ puppeteer
   .then(function(page) {
     return page.goto(url).then(function() {
       return page.content();
-      writeStream.write(`${results} /n`);
     });
   })
   .then(function(html) {
-    console.log(html);
+    $('h2', html).each(function() {
+      console.log($(this).text());
+    });
   })
   .catch(function(err) {
     //handle error
   });
+
+// const puppeteer = require('puppeteer');
+// const fs = require('fs');
+// const writeStream = fs.createWriteStream('cnn.csv');
+// const url = 'https://edition.cnn.com/';
+
+// puppeteer
+//   .launch()
+//   .then(function(browser) {
+//     return browser.newPage();
+//   })
+//   .then(function(page) {
+//     return page.goto(url).then(function() {
+//       return page.content();
+//       writeStream.write(`${results} /n`);
+//     });
+//   })
+//   .then(function(html) {
+//     console.log(html);
+//   })
+//   .catch(function(err) {
+//     //handle error
+//   });
 
 // var request = require('request');
 // var cheerio = require('cheerio');

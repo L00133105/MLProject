@@ -50,8 +50,8 @@ var natural = require('natural');
 var classifier = new natural.BayesClassifier();
 
 //Training Data
-classifier.addDocument("Do you want to place a bet?", "gambling");
-classifier.addDocument("Do you want to make free money?", "gambling");
+classifier.addDocument("place a bet?", "gambling");
+classifier.addDocument("make free money?", "gambling");
 classifier.addDocument("Get the best odds on your horse racing?", "gambling");
 classifier.addDocument("what do you want xx", "explicit");
 classifier.addDocument("where are you going x", "explicit");
@@ -61,5 +61,5 @@ classifier.addDocument("lets hang out xx", "explicit");
 classifier.train();
 
 //Apply and Predict
-console.log(classifier.classify("Bet on horses here for free money"));
+console.log(classifier.classify("wanna do something? xx "));
 
