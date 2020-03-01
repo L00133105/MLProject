@@ -61,5 +61,5 @@ classifier.addDocument("lets hang out xx", "explicit");
 classifier.train();
 
 //Apply and Predict
-console.log(classifier.classify("wanna do something? xx "));
+console.log(classifier.classify("make me some free moeny? "));
 
