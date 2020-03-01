@@ -1,7 +1,7 @@
 const request = require('request');
 const cheerio = require('cheerio');
 // Use Loop to cycle through .txt file for each URL :)
-var url = 'https://www.techradar.com/';
+var url = 'https://www.edition.cnn.com/';
 
 request(url, (error, response, html) => {
     if(!error && response.statusCode==200){
