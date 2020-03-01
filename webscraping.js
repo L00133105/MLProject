@@ -1,8 +1,9 @@
 const request = require('request');
 const cheerio = require('cheerio');
+// Use Loop to cycle through .txt file for each URL :)
+var url = 'https://www.techradar.com/';
 
-// https://www.techradar.com/ WORKS
-request('', (error, response, html) => {
+request(url, (error, response, html) => {
     if(!error && response.statusCode==200){
         const $ = cheerio.load(html);
         const siteHeading = $('.site-heading');
