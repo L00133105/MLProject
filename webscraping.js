@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 var fs = require('fs');
 const writeStream = fs.createWriteStream('websites.txt');
 // Use Loop to cycle through .txt file for each URL :)
-var url = 'https://www.techradar.com/';
+var url = 'urls.txt';
 
 request(url, (error, response, html) => {
     if(!error && response.statusCode==200){
