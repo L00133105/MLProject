@@ -1,7 +1,6 @@
 const request = require('request');
 const cheerio = require('cheerio');
 var fs = require('fs');
-const writeStream = fs.createWriteStream('websites.txt');
 // Use Loop to cycle through .txt file for each URL :)
 //var url = 'urls.txt';
 var url = 'https://techradar.com/';
@@ -16,7 +15,8 @@ request(url, (error, response, html) => {
             const link = $(el).attr('href');
             console.log(link);
             // writeStream.write(`${link} /n`);
-            writeStream.write(link);
+           // writeStream.write('/n' + link + '/n');
+            fs.appendFileSync('websiteurls.txt', " " + link + '\n');
         });
     }
 });
