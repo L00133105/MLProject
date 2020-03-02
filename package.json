@@ -19,7 +19,11 @@
   "homepage": "https://github.com/L00133105/MLProject#readme",
   "dependencies": {
     "axios": "^0.19.2",
+    "bayes": "^1.0.0",
     "cheerio": "^1.0.0-rc.3",
+    "classificator": "^0.3.3",
+    "get-urls": "^9.2.0",
+    "natural": "^0.6.3",
     "request": "^2.88.2"
   }
 }
