@@ -15,7 +15,7 @@ const SCRAPING_URL = 'https://edition.cnn.com/';
   if (response) {
     const $ = cheerio.load(response);
 
-    $('span').each(function() {
+    $('href.dns-prefetch').each(function() {
       results.push($(this).text());
       // Write Row To CSV
       writeStream.write(`${results} /n`);
