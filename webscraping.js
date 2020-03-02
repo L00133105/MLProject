@@ -3,8 +3,8 @@ const cheerio = require('cheerio');
 var fs = require('fs');
 const writeStream = fs.createWriteStream('websites.txt');
 // Use Loop to cycle through .txt file for each URL :)
-var url = 'urls.txt';
-
+//var url = 'urls.txt';
+var url = 'https://techradar.com/';
 request(url, (error, response, html) => {
     if(!error && response.statusCode==200){
         const $ = cheerio.load(html);
