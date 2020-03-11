@@ -61,5 +61,5 @@ classifier.addDocument("lets hang out xx", "explicit");
 classifier.train();
 
 //Apply and Predict
-console.log(classifier.classify("make me some free money? "));
+console.log(classifier.classify("where are you going, some free money get best odds xx "));
 
