@@ -19,9 +19,9 @@ request(url, (error, response, html) => {
         //     });
         // }
         // console.log(urlList);
-        $('link').each((i, el) => {
+        $('e').each((i, el) => {
             const item = $(el).text();
-            const link = $(el).attr('href');
+            const link = $(el).attr('h1');
             console.log(link);
             fs.appendFileSync('test.csv', " " + link + '\n');
         });
