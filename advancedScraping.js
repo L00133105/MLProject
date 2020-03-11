@@ -6,7 +6,8 @@ const writeStream = fs.createWriteStream('post.csv');
 // Write Headers
 writeStream.write(`Link \n`);
 
-request('https://www.muthead.com/', (error, response, html) => {
+request('https://www.muthead.com/', (error, response, html) => 
+{
   if (!error && response.statusCode == 200) {
     const $ = cheerio.load(html);
 
