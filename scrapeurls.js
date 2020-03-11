@@ -6,8 +6,10 @@ var url = "http://techradar.com";
 var urls = 'urls.txt';
 var urlList =[];
 
-request(url, (error, response, html) => {
-    if(!error && response.statusCode==200){
+request(url, (error, response, html) => 
+{
+    if(!error && response.statusCode==200)
+    {
         const $ = cheerio.load(html);
         // for(var e=0; e<urls.length; e++){
         //     urlList.push(urls[e].href);
@@ -19,7 +21,8 @@ request(url, (error, response, html) => {
         //     });
         // }
         // console.log(urlList);
-        $('link, a').each((i, el) => {
+        $('link, a').each((i, el) => 
+        {
             const item = $(el).text();
             const link = $(el).attr('href');
             console.log(link);
