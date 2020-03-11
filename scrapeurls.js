@@ -2,7 +2,7 @@ const request = require('request');
 const cheerio = require('cheerio');
 var fs = require('fs');
 // Use Loop to cycle through .txt file for each URL :)
- var url = "http://techradar.com";
+var url = "http://techradar.com";
 var urls = 'urls.txt';
 var urlList =[];
 

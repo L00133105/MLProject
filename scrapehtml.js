@@ -2,7 +2,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const writeStream = fs.createWriteStream('cnn.csv');
-const SCRAPING_URL = 'https://edition.cnn.com/';
+const SCRAPING_URL = 'https://skybet.com/';
 
 
 (async () => 
@@ -14,7 +14,7 @@ const SCRAPING_URL = 'https://edition.cnn.com/';
   if (response) 
   {
     const $ = cheerio.load(response);
-    $('a').each(function() 
+    $('html').each(function() 
     {
       results.push($(this).text());
       writeStream.write(`${results} /n`);
