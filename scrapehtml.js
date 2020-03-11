@@ -4,7 +4,6 @@ const fs = require('fs');
 const writeStream = fs.createWriteStream('cnn.csv');
 const SCRAPING_URL = 'https://skybet.com/';
 
-
 (async () => 
 {
   const response = await axios.get(SCRAPING_URL)
