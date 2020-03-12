@@ -14,7 +14,7 @@ var url = "http://techradar.com";
                 const item = $(el).text();
                 const link = $(el).attr('href');
                 console.log(link);
-                fs.appendFileSync('test.txt', " " + link + '\n');
+                fs.appendFileSync('techradar.txt', " " + link + '\n');
             });
         }
     });

@@ -44,12 +44,12 @@
 // console.log(text);
 
 var fs = require('fs');
-var array = fs.readFileSync('test.txt').toString().split("\n");
-for(i in array) {
-    var url = array[i];
-    var substr = "techradar.com";
-    array.splice(array.indexOf('https://www.techradar.com', ));
-    // if(array[i].includes(substr)){
-        console.log(array[i]);
+var array = fs.readFileSync('techradar.txt').toString().split("\n");
+var filteredArray = array.filter(item => item !== "https://global.techradar.com/es-us");
+console.log(array);
+fs.appendFileSync('techradar.txt', " " + filteredArray + '\n');
+// for(i in array) {
+//     if(array[i].includes("https://techradar.com")){
+
+//     }
     
-}
