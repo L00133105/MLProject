@@ -43,11 +43,30 @@
 // var text = fs.readFileSync("test.csv").toString('utf-8')
 // console.log(text);
 
+// var fs = require('fs');
+// var array = fs.readFileSync('techradar.txt').toString().split("\n");
+// for(i in array){
+// var el = array.find(a =>a.includes("https:"));
+// }
+// console.log(el)
+
+const removeItems = require('remove-array-items')
+var remove = require('unordered-array-remove')
 var fs = require('fs');
 var array = fs.readFileSync('techradar.txt').toString().split("\n");
-var filteredArray = array.filter(item => item !== "https://global.techradar.com/es-us");
-console.log(array);
-fs.appendFileSync('techradar.txt', " " + filteredArray + '\n');
+var substr = 'https://www.techradar.com/';
+for(i in array){
+     if(array[i].includes(substr) < 1){
+         console.log(array[i]);
+         fs.writeFileSync('techradar.txt', newArray + '\n');
+      }
+}
+//console.log(array);
+//console.log(array);
+//fs.appendFileSync('removing.txt', " " + array + '\n');
+
+// var filteredArray = array.filter(item => item !== "https://global.techradar.com/es-us");
+// fs.appendFileSync('techradar.txt', " " + filteredArray + '\n');
 // for(i in array) {
 //     if(array[i].includes("https://techradar.com")){
 
