@@ -50,16 +50,19 @@
 // }
 // console.log(el)
 
-const removeItems = require('remove-array-items')
-var remove = require('unordered-array-remove')
 var fs = require('fs');
-var array = fs.readFileSync('techradar.txt').toString().split("\n");
-var substr = 'https://www.techradar.com/';
+var array = fs.readFileSync('test.txt').toString().split("\n");
+var substr = fs.readFileSync('URLS.txt').toString().split("\n");
+var wstream = fs.createWriteStream('bigtest.txt');
+//var substr = 'https://www.techradar.com/';
 for(i in array){
-     if(array[i].includes(substr) < 1){
+    for(e in substr){
+     if(array[i].includes(substr[e]) < 1){
          console.log(array[i]);
-         fs.writeFileSync('techradar.txt', newArray + '\n');
+         //var newArray = fs.appendFileSync('bigtest.txt'," " + array[i] + '\n');
+         wstream.write(array[i] + '\n');
       }
+    }
 }
 //console.log(array);
 //console.log(array);
