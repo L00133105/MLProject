@@ -68,72 +68,22 @@
 var _ = require('lodash');
 var fs = require('fs');
 var array = fs.readFileSync('test.txt').toString().split("\n");
-var substr = fs.readFileSync('URLs.txt').toString().split("\n");
+var substr = fs.readFileSync('URLs.txt').toString().split("\r\n");
 var wstream = fs.createWriteStream('bigtest.txt');
 //var substr = 'https://www.techradar.com/';
+//console.log(substr);
+//console.log(array);
  for(i in array){
-    //for(e in substr){
-    //  if(_.includes[i], substr, substr){
-        if(array[i].includes(substr[0]) < 1){
+//     //  if(_.includes[i], substr, substr){
+        if(!array[i].includes(substr) && !array[i].includes("undefined", "#")){
          //console.log(substr);
          console.log(array[i]);
          //var newArray = fs.appendFileSync('bigtest.txt'," " + array[i] + '\n');
          wstream.write(array[i] + '\n');
       }
-    
-    //}
 }
-// for(i in substr){
-//     let filteredURLS = substr.filter((array) => {
-//        console.log(array.includes(substr[i]) < 1);
-//     //console.log(filteredURLS);
-//     wstream.write((array.includes(substr[i]) < 1) + '\n');
-//     })
-// }
-// for(i in array){
-//     for(e in substr){
-// var filteredURLS = array.filter( urls => array[e].includes(substr[i]) < 1);
-// console.log(filteredURLS);
-// }
-// }
-
-    // const temp = [];
-    // //var array = fs.readFileSync('test.txt').toString().split(",").map(String);;
-    // //var substr = fs.readFileSync('URLs.txt').toString().split(",").map(String);;
-    // // array = array.toString().split(',').map(Number);
-    // // substr = substr.toString().split(',').map(Number);
-
-    // for (var i in array) {
-    //     if (substr.includes(array[i]) < 1){
-    //      temp.push(array[i]);
-    //     }
-    // }
-    // for (i in substr ) {
-    //     if (!array.includes(substr[i]) < 1) 
-    //     {temp.push(substr[i]);
-    // }
-    // }
-    // filteredURLS = temp.sort((a, b) => a - b);
-    // console.log(filteredURLS);
-
-// array.forEach((url) => {
-//     for(i in substr){
-//         console.log(array.includes(substr[i]) < 1);
-//     }
-// })
-// let betterWords = storyWords.filter(function(currentWord) {
-//     return !unnecessaryWords.includes(currentWord);
-// });
-// const result = array.filter(array => array.includes(substr) < 1);
-// console.log(result);
-// wstream.write(result + '\n');
-//console.log(array);
-//fs.appendFileSync('removing.txt', " " + array + '\n');
-
-// var filteredArray = array.filter(item => item !== "https://global.techradar.com/es-us");
-// fs.appendFileSync('techradar.txt', " " + filteredArray + '\n');
-// for(i in array) {
-//     if(array[i].includes("https://techradar.com")){
-
-//     }
-    
+//  let differences = array
+//                 .filter(x => !substr.includes(x))
+//                 .concat(substr.filter(x => !array.includes(x)));
+//                 console.log(differences);
+//                 wstream.write(differences+"\n");
