@@ -48,18 +48,21 @@
 
 var natural = require('natural');
 var classifier = new natural.BayesClassifier();
+var fs = require('fs');
+var array = fs.readFileSync('test.txt').toString().split("\n");
 
 //Training Data
-classifier.addDocument("place a bet?", "gambling");
+classifier.addDocument("bet365", "gambling");
 classifier.addDocument("make free money?", "gambling");
 classifier.addDocument("Get the best odds on your horse racing?", "gambling");
 classifier.addDocument("what do you want xx", "explicit");
 classifier.addDocument("where are you going x", "explicit");
 classifier.addDocument("lets hang out xx", "explicit");
+classifier.addDocument("porn", "explicit");
 
 //Train
 classifier.train();
-
+for(i in array){
 //Apply and Predict
-console.log(classifier.classify("make me some free money? "));
-
+console.log(classifier.classify(array[i]));
+}

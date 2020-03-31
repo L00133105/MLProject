@@ -24,6 +24,7 @@
     const request = require('request');
     const cheerio = require('cheerio');
     var fs = require('fs');
+    var array = fs.readFileSync('URLs.txt').toString().split("\n");
     // Use Loop to cycle through .txt file for each URL :)
     var url = "//pubads.g.doubleclick.net";
     
@@ -35,7 +36,7 @@
                 $('html').each((i, el) => 
                 {
                     const item = $(el).text();
-                    const link = $(el).attr('body');
+                    const link = $(el).attr('html');
                     console.log(link);
  
                 });

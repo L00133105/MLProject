@@ -65,7 +65,6 @@
 //     }
 // }
 
-var _ = require('lodash');
 var fs = require('fs');
 var array = fs.readFileSync('test.txt').toString().split("\n");
 var substr = fs.readFileSync('URLs.txt').toString().split("\r\n");
