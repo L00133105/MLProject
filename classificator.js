@@ -49,7 +49,9 @@
 var natural = require('natural');
 var classifier = new natural.BayesClassifier();
 var fs = require('fs');
-var array = fs.readFileSync('test.txt').toString().split("\n");
+var array = fs.readFileSync('URLS.txt').toString().split("\n");
+var gambling = fs.createWriteStream('gambling.txt');
+var explicit = fs.createWriteStream('explicit.txt');
 
 //Training Data
 classifier.addDocument("bet365", "gambling");
@@ -59,10 +61,17 @@ classifier.addDocument("what do you want xx", "explicit");
 classifier.addDocument("where are you going x", "explicit");
 classifier.addDocument("lets hang out xx", "explicit");
 classifier.addDocument("porn", "explicit");
-
+classifier.addDocument("xvideos", "explicit");
 //Train
 classifier.train();
-for(i in array){
 //Apply and Predict
-console.log(classifier.classify(array[i]));
+for(i in array){
+    if(classifier.classify(array[i]) == "explicit"){
+        explicit.write(array[i]);
+    }
+    else if(classifier.classify(array[i]) == "gambling"){
+        gambling.write(array[i]);
+    }
+    else if(classifier.classify(array[i]) == "gambling"){
+        gambling.write(array[i]);
 }
