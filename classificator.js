@@ -75,3 +75,4 @@ for(i in array){
     else if(classifier.classify(array[i]) == "gambling"){
         gambling.write(array[i]);
 }
+}
