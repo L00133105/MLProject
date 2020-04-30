@@ -6,7 +6,6 @@ var fs = require('fs');
 var array = fs.readFileSync('uncategorisedBlockList.txt').toString().split("\n"); 
 //var array = fs.readFileSync('URLs.txt').toString().split("\n");   
 var wstream = fs.createWriteStream('test.txt');
-  
     // var url = "https://techradar.com/"; h3
     for(i in array) 
     {
@@ -22,16 +21,20 @@ var wstream = fs.createWriteStream('test.txt');
             {
                 //var link = $(el).attr('');
                 var link = $(el).text();
-                console.log(link);
+                //console.log(link);
                 // for(i in link){
                 //     if(link[i] == "\n"){
                 //         link.slice(link[i], 1);
                 //     }
                 //     wstream.write(link[i]);
                 //var update = link.replace("  ", "");
-                wstream.write(link+ " ");
+                //wstream.write(link+ " ");
                 //console.log(link);
             });
         }
+        else{
+            wstream.write(url + "\n");
+        }
     });
 }
+

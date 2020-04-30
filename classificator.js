@@ -54,25 +54,32 @@ var gambling = fs.createWriteStream('gambling.txt');
 var explicit = fs.createWriteStream('explicit.txt');
 
 //Training Data
-classifier.addDocument("bet365", "gambling");
-classifier.addDocument("make free money?", "gambling");
-classifier.addDocument("Get the best odds on your horse racing?", "gambling");
-classifier.addDocument("what do you want xx", "explicit");
-classifier.addDocument("where are you going x", "explicit");
-classifier.addDocument("lets hang out xx", "explicit");
-classifier.addDocument("porn", "explicit");
-classifier.addDocument("xvideos", "explicit");
+//classifier.addDocument("bet365", "gambling");
+// classifier.addDocument("make free money?", "gambling");
+// classifier.addDocument("Get the best odds on your horse racing?", "gambling");
+// classifier.addDocument("what do you want xx", "explicit");
+// classifier.addDocument("where are you going x", "explicit");
+// classifier.addDocument("lets hang out xx", "explicit");
+// classifier.addDocument("porn", "explicit");
+// classifier.addDocument("xvideos", "explicit");
+
+//External Dataset
+const trainer = require('./trainAlg.json');
+trainer.forEach(item=>{
+    classifier.addDocument(item.text, item.category);
+})
 //Train
 classifier.train();
+console.log(classifier.classify("https://www.bet365.com/"));
 //Apply and Predict
-for(i in array){
-    if(classifier.classify(array[i]) == "explicit"){
-        explicit.write(array[i]);
-    }
-    else if(classifier.classify(array[i]) == "gambling"){
-        gambling.write(array[i]);
-    }
-    else if(classifier.classify(array[i]) == "gambling"){
-        gambling.write(array[i]);
-}
+ for(i in array){
+     if(classifier.classify(array[i]) == "explicit"){
+         explicit.write(array[i]);
+     }
+     else if(classifier.classify(array[i]) == "gambling"){
+         gambling.write(array[i]);
+     }
+     else if(classifier.classify(array[i]) == "gambling"){
+          gambling.write(array[i]);
+ }
 }
