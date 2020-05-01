@@ -37,7 +37,7 @@ function writeCount(json, filePath) {
   fs.writeFileSync(filePath, JSON.stringify(json, null, 2))
 }
 
-const autoTrain = require('./wordCount.json');
+const autoTrain = require('../wordCount.json');
 autoTrain.forEach(item=>{
     if(item.count >= 10){
       console.log(item.word + ": " + item.count);

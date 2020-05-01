@@ -1,12 +1,10 @@
 var fs = require('fs');
-var testString = fs.readFileSync('test.txt').toString();
+var testString = fs.readFileSync('DataSports.txt').toString();
 var commonWords = fs.readFileSync('commonWords.txt').toString().split("\r\n"); 
-//console.log(occurrences(myStr)
 const OUTPUT_FILE = 'wordCount.json'
-
+const trainedAlgorithm = 'trainAlg.json'
 let formattedString = testString.toLowerCase().replace(/[^\w\s]/gi, '').replace(/(\r\n|\n|\r)/gm," ");
 let uniqueWords = [...new Set(formattedString.split(" "))];
-//let skipWords = new Set(['the','what','him','her','man','all','our','and','out','for','how','now','met','his',]);
 let skipWords = new Set(commonWords);
 let countArray=[];
 uniqueWords.forEach((word) => {
@@ -20,9 +18,9 @@ countArray.forEach((wordToFind) => {
   wordToFind.count=(occurrences(formattedString,wordToFind.word,false));
 });
 countArray.sort((a,b) => (b.count > a.count) ? 1 : ((a.count > b.count) ? -1 : 0));
-//console.log(countArray);
-console.log(skipWords);
+console.log(countArray);
 writeCount(countArray, OUTPUT_FILE)
+//trainingJSON(countArray, trainedAlgorithm)
 function occurrences(string, subString, allowOverlapping) {
     string += "";
     subString += "";
@@ -42,3 +40,30 @@ function occurrences(string, subString, allowOverlapping) {
 function writeCount(json, filePath) {
   fs.writeFileSync(filePath, JSON.stringify(json, null, 2))
 }
+
+
+
+// const autoTrain = require('./wordCount.json');
+// autoTrain.forEach(item=>{
+//   if(item.count >= 30){
+//     item.text == item.word;
+//     'sports' == item.category;
+//     //writeCount(item.word, trainAlg.json)
+//     console.log(item.word, item.category);
+//     //fs.writeFileSync(filePath, JSON.stringify(json, item.word, item.category))
+//   }
+// })
+
+
+
+// function trainingJSON(json, filePath) {
+//   autoTrain.forEach(item=>{
+//     if(item.count >= 30){
+//       item.text == item.word;
+//       item.category == "sports";
+//       //writeCount(item.word, trainAlg.json)
+//       console.log(item.word + ": " + item.count);
+//       //fs.writeFileSync(filePath, JSON.stringify(json, item.word, item.category))
+//     }
+// })
+// }

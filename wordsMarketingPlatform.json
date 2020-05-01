@@ -1,0 +1,714 @@
+[
+  {
+    "word": "learn",
+    "count": 217
+  },
+  {
+    "word": "amazon",
+    "count": 201
+  },
+  {
+    "word": "ads",
+    "count": 160
+  },
+  {
+    "word": "product",
+    "count": 151
+  },
+  {
+    "word": "sponsored",
+    "count": 144
+  },
+  {
+    "word": "custom",
+    "count": 112
+  },
+  {
+    "word": "products",
+    "count": 108
+  },
+  {
+    "word": "brand",
+    "count": 102
+  },
+  {
+    "word": "advertising",
+    "count": 87
+  },
+  {
+    "word": "store",
+    "count": 80
+  },
+  {
+    "word": "display",
+    "count": 77
+  },
+  {
+    "word": "united",
+    "count": 70
+  },
+  {
+    "word": "appear",
+    "count": 64
+  },
+  {
+    "word": "search",
+    "count": 64
+  },
+  {
+    "word": "results",
+    "count": 64
+  },
+  {
+    "word": "amazonlearn",
+    "count": 63
+  },
+  {
+    "word": "are",
+    "count": 58
+  },
+  {
+    "word": "solution",
+    "count": 54
+  },
+  {
+    "word": "brands",
+    "count": 48
+  },
+  {
+    "word": "stores",
+    "count": 48
+  },
+  {
+    "word": "english",
+    "count": 46
+  },
+  {
+    "word": "selfservice",
+    "count": 44
+  },
+  {
+    "word": "awareness",
+    "count": 43
+  },
+  {
+    "word": "customized",
+    "count": 43
+  },
+  {
+    "word": "customer",
+    "count": 42
+  },
+  {
+    "word": "case",
+    "count": 38
+  },
+  {
+    "word": "france",
+    "count": 36
+  },
+  {
+    "word": "espaol",
+    "count": 36
+  },
+  {
+    "word": "states",
+    "count": 34
+  },
+  {
+    "word": "visibility",
+    "count": 34
+  },
+  {
+    "word": "alt",
+    "count": 34
+  },
+  {
+    "word": "individual",
+    "count": 32
+  },
+  {
+    "word": "logo",
+    "count": 32
+  },
+  {
+    "word": "headline",
+    "count": 32
+  },
+  {
+    "word": "business",
+    "count": 32
+  },
+  {
+    "word": "reaching",
+    "count": 32
+  },
+  {
+    "word": "relevant",
+    "count": 32
+  },
+  {
+    "word": "audiences",
+    "count": 32
+  },
+  {
+    "word": "using",
+    "count": 32
+  },
+  {
+    "word": "loyalty",
+    "count": 32
+  },
+  {
+    "word": "free",
+    "count": 32
+  },
+  {
+    "word": "multipage",
+    "count": 32
+  },
+  {
+    "word": "improve",
+    "count": 32
+  },
+  {
+    "word": "pages",
+    "count": 32
+  },
+  {
+    "word": "boost",
+    "count": 32
+  },
+  {
+    "word": "grow",
+    "count": 32
+  },
+  {
+    "word": "inspire",
+    "count": 32
+  },
+  {
+    "word": "start",
+    "count": 31
+  },
+  {
+    "word": "productsimprove",
+    "count": 30
+  },
+  {
+    "word": "pageslearn",
+    "count": 30
+  },
+  {
+    "word": "brandsboost",
+    "count": 30
+  },
+  {
+    "word": "resultslearn",
+    "count": 30
+  },
+  {
+    "word": "solutionlearn",
+    "count": 30
+  },
+  {
+    "word": "storesinspire",
+    "count": 30
+  },
+  {
+    "word": "beta",
+    "count": 30
+  },
+  {
+    "word": "moresponsored",
+    "count": 28
+  },
+  {
+    "word": "video",
+    "count": 27
+  },
+  {
+    "word": "dsp",
+    "count": 27
+  },
+  {
+    "word": "attribution",
+    "count": 27
+  },
+  {
+    "word": "studies",
+    "count": 27
+  },
+  {
+    "word": "webinars",
+    "count": 27
+  },
+  {
+    "word": "faq",
+    "count": 27
+  },
+  {
+    "word": "reporting",
+    "count": 27
+  },
+  {
+    "word": "resources",
+    "count": 25
+  },
+  {
+    "word": "solutions",
+    "count": 22
+  },
+  {
+    "word": "devices",
+    "count": 22
+  },
+  {
+    "word": "sites",
+    "count": 22
+  },
+  {
+    "word": "started",
+    "count": 19
+  },
+  {
+    "word": "australia",
+    "count": 18
+  },
+  {
+    "word": "canada",
+    "count": 18
+  },
+  {
+    "word": "china",
+    "count": 18
+  },
+  {
+    "word": "germany",
+    "count": 18
+  },
+  {
+    "word": "india",
+    "count": 18
+  },
+  {
+    "word": "italy",
+    "count": 18
+  },
+  {
+    "word": "japan",
+    "count": 18
+  },
+  {
+    "word": "mexico",
+    "count": 18
+  },
+  {
+    "word": "spain",
+    "count": 18
+  },
+  {
+    "word": "arab",
+    "count": 18
+  },
+  {
+    "word": "emirates",
+    "count": 18
+  },
+  {
+    "word": "kingdom",
+    "count": 18
+  },
+  {
+    "word": "deutsch",
+    "count": 18
+  },
+  {
+    "word": "espaa",
+    "count": 18
+  },
+  {
+    "word": "mxico",
+    "count": 18
+  },
+  {
+    "word": "franais",
+    "count": 18
+  },
+  {
+    "word": "italiano",
+    "count": 18
+  },
+  {
+    "word": "moreamazon",
+    "count": 18
+  },
+  {
+    "word": "marketplace",
+    "count": 16
+  },
+  {
+    "word": "language",
+    "count": 16
+  },
+  {
+    "word": "apply",
+    "count": 16
+  },
+  {
+    "word": "betagrow",
+    "count": 16
+  },
+  {
+    "word": "learning",
+    "count": 14
+  },
+  {
+    "word": "console",
+    "count": 14
+  },
+  {
+    "word": "specs",
+    "count": 14
+  },
+  {
+    "word": "policies",
+    "count": 14
+  },
+  {
+    "word": "partner",
+    "count": 14
+  },
+  {
+    "word": "morestoresinspire",
+    "count": 14
+  },
+  {
+    "word": "displaygrow",
+    "count": 14
+  },
+  {
+    "word": "campaign",
+    "count": 13
+  },
+  {
+    "word": "blog",
+    "count": 12
+  },
+  {
+    "word": "moremore",
+    "count": 12
+  },
+  {
+    "word": "more0",
+    "count": 12
+  },
+  {
+    "word": "nowstart",
+    "count": 11
+  },
+  {
+    "word": "solutionssponsored",
+    "count": 11
+  },
+  {
+    "word": "adsshowcase",
+    "count": 11
+  },
+  {
+    "word": "websites",
+    "count": 11
+  },
+  {
+    "word": "apps",
+    "count": 11
+  },
+  {
+    "word": "adscombine",
+    "count": 11
+  },
+  {
+    "word": "sight",
+    "count": 11
+  },
+  {
+    "word": "sound",
+    "count": 11
+  },
+  {
+    "word": "motion",
+    "count": 11
+  },
+  {
+    "word": "fire",
+    "count": 11
+  },
+  {
+    "word": "tablet",
+    "count": 11
+  },
+  {
+    "word": "across",
+    "count": 11
+  },
+  {
+    "word": "weblearn",
+    "count": 11
+  },
+  {
+    "word": "adsgenerate",
+    "count": 11
+  },
+  {
+    "word": "innovative",
+    "count": 11
+  },
+  {
+    "word": "experienceslearn",
+    "count": 11
+  },
+  {
+    "word": "dspour",
+    "count": 11
+  },
+  {
+    "word": "demandside",
+    "count": 11
+  },
+  {
+    "word": "platform",
+    "count": 11
+  },
+  {
+    "word": "provides",
+    "count": 11
+  },
+  {
+    "word": "advanced",
+    "count": 11
+  },
+  {
+    "word": "tools",
+    "count": 11
+  },
+  {
+    "word": "buying",
+    "count": 11
+  },
+  {
+    "word": "placements",
+    "count": 11
+  },
+  {
+    "word": "betadiscover",
+    "count": 11
+  },
+  {
+    "word": "nonamazon",
+    "count": 11
+  },
+  {
+    "word": "digital",
+    "count": 11
+  },
+  {
+    "word": "marketing",
+    "count": 11
+  },
+  {
+    "word": "tactics",
+    "count": 11
+  },
+  {
+    "word": "helping",
+    "count": 11
+  },
+  {
+    "word": "drive",
+    "count": 11
+  },
+  {
+    "word": "sales",
+    "count": 11
+  },
+  {
+    "word": "covid19",
+    "count": 10
+  },
+  {
+    "word": "advertisingad",
+    "count": 10
+  },
+  {
+    "word": "attract",
+    "count": 10
+  },
+  {
+    "word": "engage",
+    "count": 10
+  },
+  {
+    "word": "millions",
+    "count": 10
+  },
+  {
+    "word": "customers",
+    "count": 10
+  },
+  {
+    "word": "every",
+    "count": 10
+  },
+  {
+    "word": "stage",
+    "count": 10
+  },
+  {
+    "word": "their",
+    "count": 10
+  },
+  {
+    "word": "journey",
+    "count": 10
+  },
+  {
+    "word": "morevideo",
+    "count": 9
+  },
+  {
+    "word": "morecustom",
+    "count": 9
+  },
+  {
+    "word": "studiescampaign",
+    "count": 9
+  },
+  {
+    "word": "journey0",
+    "count": 9
+  },
+  {
+    "word": "webinarscase",
+    "count": 9
+  },
+  {
+    "word": "reportingfaq",
+    "count": 9
+  },
+  {
+    "word": "productsdisplay",
+    "count": 8
+  },
+  {
+    "word": "journey0get",
+    "count": 6
+  },
+  {
+    "word": "resourceswebinarscase",
+    "count": 6
+  },
+  {
+    "word": "reportingfaq0",
+    "count": 6
+  },
+  {
+    "word": "linkedin",
+    "count": 6
+  },
+  {
+    "word": "were",
+    "count": 5
+  },
+  {
+    "word": "closely",
+    "count": 5
+  },
+  {
+    "word": "monitoring",
+    "count": 5
+  },
+  {
+    "word": "developments",
+    "count": 5
+  },
+  {
+    "word": "answers",
+    "count": 5
+  },
+  {
+    "word": "frequently",
+    "count": 5
+  },
+  {
+    "word": "asked",
+    "count": 5
+  },
+  {
+    "word": "questions",
+    "count": 5
+  },
+  {
+    "word": "sign",
+    "count": 4
+  },
+  {
+    "word": "register",
+    "count": 4
+  },
+  {
+    "word": "conditions",
+    "count": 4
+  },
+  {
+    "word": "privacy",
+    "count": 4
+  },
+  {
+    "word": "notice",
+    "count": 4
+  },
+  {
+    "word": "interestbased",
+    "count": 4
+  },
+  {
+    "word": "preferences",
+    "count": 4
+  },
+  {
+    "word": "careers",
+    "count": 4
+  },
+  {
+    "word": "copyright",
+    "count": 4
+  },
+  {
+    "word": "20152020",
+    "count": 4
+  },
+  {
+    "word": "img",
+    "count": 2
+  },
+  {
+    "word": "height1",
+    "count": 2
+  },
+  {
+    "word": "width1",
+    "count": 2
+  },
+  {
+    "word": "styledisplaynonevisibilityhidden",
+    "count": 2
+  },
+  {
+    "word": "srcflsnaamazoncom1batch1opa381wa5gosxmh71469100193443394654nx7raxjvdezetmjczbuedatas2fuedata2fuedata3fnoscript26id3d54nx7raxjvdezetmjczb0",
+    "count": 2
+  },
+  {
+    "word": "online",
+    "count": 1
+  }
+]

@@ -1,0 +1,2570 @@
+[
+  {
+    "word": "trivago",
+    "count": 979
+  },
+  {
+    "word": "hot",
+    "count": 468
+  },
+  {
+    "word": "hotel",
+    "count": 457
+  },
+  {
+    "word": "hotels",
+    "count": 274
+  },
+  {
+    "word": "are",
+    "count": 240
+  },
+  {
+    "word": "destination",
+    "count": 195
+  },
+  {
+    "word": "destinations",
+    "count": 169
+  },
+  {
+    "word": "book",
+    "count": 138
+  },
+  {
+    "word": "deal",
+    "count": 125
+  },
+  {
+    "word": "search",
+    "count": 124
+  },
+  {
+    "word": "site",
+    "count": 117
+  },
+  {
+    "word": "holiday",
+    "count": 106
+  },
+  {
+    "word": "booking",
+    "count": 104
+  },
+  {
+    "word": "per",
+    "count": 104
+  },
+  {
+    "word": "avg",
+    "count": 90
+  },
+  {
+    "word": "price",
+    "count": 87
+  },
+  {
+    "word": "mar",
+    "count": 78
+  },
+  {
+    "word": "website",
+    "count": 73
+  },
+  {
+    "word": "sites",
+    "count": 73
+  },
+  {
+    "word": "next",
+    "count": 71
+  },
+  {
+    "word": "las",
+    "count": 69
+  },
+  {
+    "word": "galway",
+    "count": 65
+  },
+  {
+    "word": "prices",
+    "count": 61
+  },
+  {
+    "word": "city",
+    "count": 60
+  },
+  {
+    "word": "ireland",
+    "count": 58
+  },
+  {
+    "word": "london",
+    "count": 55
+  },
+  {
+    "word": "articles",
+    "count": 54
+  },
+  {
+    "word": "users",
+    "count": 53
+  },
+  {
+    "word": "room",
+    "count": 52
+  },
+  {
+    "word": "deals",
+    "count": 52
+  },
+  {
+    "word": "youre",
+    "count": 52
+  },
+  {
+    "word": "include",
+    "count": 52
+  },
+  {
+    "word": "popular",
+    "count": 52
+  },
+  {
+    "word": "puerto",
+    "count": 52
+  },
+  {
+    "word": "del",
+    "count": 52
+  },
+  {
+    "word": "town",
+    "count": 52
+  },
+  {
+    "word": "list",
+    "count": 50
+  },
+  {
+    "word": "paris",
+    "count": 49
+  },
+  {
+    "word": "compare",
+    "count": 48
+  },
+  {
+    "word": "ideal",
+    "count": 47
+  },
+  {
+    "word": "websites",
+    "count": 47
+  },
+  {
+    "word": "boutique",
+    "count": 47
+  },
+  {
+    "word": "away",
+    "count": 46
+  },
+  {
+    "word": "done",
+    "count": 44
+  },
+  {
+    "word": "dublin",
+    "count": 42
+  },
+  {
+    "word": "wwwtrivagoie",
+    "count": 41
+  },
+  {
+    "word": "try",
+    "count": 39
+  },
+  {
+    "word": "travel",
+    "count": 39
+  },
+  {
+    "word": "weekend",
+    "count": 39
+  },
+  {
+    "word": "lists",
+    "count": 39
+  },
+  {
+    "word": "cities",
+    "count": 39
+  },
+  {
+    "word": "york",
+    "count": 39
+  },
+  {
+    "word": "san",
+    "count": 39
+  },
+  {
+    "word": "clare",
+    "count": 39
+  },
+  {
+    "word": "playa",
+    "count": 39
+  },
+  {
+    "word": "county",
+    "count": 39
+  },
+  {
+    "word": "click",
+    "count": 37
+  },
+  {
+    "word": "stay",
+    "count": 37
+  },
+  {
+    "word": "200",
+    "count": 36
+  },
+  {
+    "word": "getaway",
+    "count": 35
+  },
+  {
+    "word": "trip",
+    "count": 34
+  },
+  {
+    "word": "portugal",
+    "count": 31
+  },
+  {
+    "word": "usa",
+    "count": 31
+  },
+  {
+    "word": "nam",
+    "count": 30
+  },
+  {
+    "word": "cork",
+    "count": 29
+  },
+  {
+    "word": "belfast",
+    "count": 29
+  },
+  {
+    "word": "magazine",
+    "count": 26
+  },
+  {
+    "word": "allows",
+    "count": 26
+  },
+  {
+    "word": "luxury",
+    "count": 26
+  },
+  {
+    "word": "extended",
+    "count": 26
+  },
+  {
+    "word": "several",
+    "count": 26
+  },
+  {
+    "word": "accommodation",
+    "count": 26
+  },
+  {
+    "word": "complete",
+    "count": 26
+  },
+  {
+    "word": "its",
+    "count": 26
+  },
+  {
+    "word": "friend",
+    "count": 26
+  },
+  {
+    "word": "waiting",
+    "count": 26
+  },
+  {
+    "word": "ranking",
+    "count": 26
+  },
+  {
+    "word": "evaluated",
+    "count": 26
+  },
+  {
+    "word": "kilkenny",
+    "count": 26
+  },
+  {
+    "word": "barcelona",
+    "count": 26
+  },
+  {
+    "word": "edinburgh",
+    "count": 26
+  },
+  {
+    "word": "rome",
+    "count": 26
+  },
+  {
+    "word": "albufeira",
+    "count": 26
+  },
+  {
+    "word": "salou",
+    "count": 26
+  },
+  {
+    "word": "carmen",
+    "count": 26
+  },
+  {
+    "word": "islands",
+    "count": 26
+  },
+  {
+    "word": "dubai",
+    "count": 26
+  },
+  {
+    "word": "vegas",
+    "count": 26
+  },
+  {
+    "word": "orlando",
+    "count": 26
+  },
+  {
+    "word": "amsterdam",
+    "count": 26
+  },
+  {
+    "word": "nice",
+    "count": 26
+  },
+  {
+    "word": "ennis",
+    "count": 26
+  },
+  {
+    "word": "ballina",
+    "count": 26
+  },
+  {
+    "word": "palma",
+    "count": 26
+  },
+  {
+    "word": "trim",
+    "count": 26
+  },
+  {
+    "word": "ibiza",
+    "count": 26
+  },
+  {
+    "word": "los",
+    "count": 26
+  },
+  {
+    "word": "chester",
+    "count": 26
+  },
+  {
+    "word": "costa",
+    "count": 26
+  },
+  {
+    "word": "mayo",
+    "count": 26
+  },
+  {
+    "word": "abu",
+    "count": 26
+  },
+  {
+    "word": "malta",
+    "count": 26
+  },
+  {
+    "word": "tyne",
+    "count": 25
+  },
+  {
+    "word": "bed",
+    "count": 24
+  },
+  {
+    "word": "four",
+    "count": 24
+  },
+  {
+    "word": "unique",
+    "count": 23
+  },
+  {
+    "word": "chic",
+    "count": 23
+  },
+  {
+    "word": "bbs",
+    "count": 23
+  },
+  {
+    "word": "loading",
+    "count": 22
+  },
+  {
+    "word": "explore",
+    "count": 21
+  },
+  {
+    "word": "experience",
+    "count": 21
+  },
+  {
+    "word": "linked",
+    "count": 19
+  },
+  {
+    "word": "information",
+    "count": 18
+  },
+  {
+    "word": "apps",
+    "count": 18
+  },
+  {
+    "word": "choose",
+    "count": 18
+  },
+  {
+    "word": "south",
+    "count": 18
+  },
+  {
+    "word": "united",
+    "count": 18
+  },
+  {
+    "word": "vit",
+    "count": 18
+  },
+  {
+    "word": "argentina",
+    "count": 18
+  },
+  {
+    "word": "australia",
+    "count": 18
+  },
+  {
+    "word": "belgi",
+    "count": 18
+  },
+  {
+    "word": "brasil",
+    "count": 18
+  },
+  {
+    "word": "canada",
+    "count": 18
+  },
+  {
+    "word": "esko",
+    "count": 18
+  },
+  {
+    "word": "chile",
+    "count": 18
+  },
+  {
+    "word": "colombia",
+    "count": 18
+  },
+  {
+    "word": "danmark",
+    "count": 18
+  },
+  {
+    "word": "deutschland",
+    "count": 18
+  },
+  {
+    "word": "ecuador",
+    "count": 18
+  },
+  {
+    "word": "espaa",
+    "count": 18
+  },
+  {
+    "word": "france",
+    "count": 18
+  },
+  {
+    "word": "hrvatska",
+    "count": 18
+  },
+  {
+    "word": "india",
+    "count": 18
+  },
+  {
+    "word": "indonesia",
+    "count": 18
+  },
+  {
+    "word": "italia",
+    "count": 18
+  },
+  {
+    "word": "magyarorszg",
+    "count": 18
+  },
+  {
+    "word": "malaysia",
+    "count": 18
+  },
+  {
+    "word": "mxico",
+    "count": 18
+  },
+  {
+    "word": "nederland",
+    "count": 18
+  },
+  {
+    "word": "zealand",
+    "count": 18
+  },
+  {
+    "word": "norge",
+    "count": 18
+  },
+  {
+    "word": "sterreich",
+    "count": 18
+  },
+  {
+    "word": "philippines",
+    "count": 18
+  },
+  {
+    "word": "polska",
+    "count": 18
+  },
+  {
+    "word": "romnia",
+    "count": 18
+  },
+  {
+    "word": "schweiz",
+    "count": 18
+  },
+  {
+    "word": "singapore",
+    "count": 18
+  },
+  {
+    "word": "slovenija",
+    "count": 18
+  },
+  {
+    "word": "slovensko",
+    "count": 18
+  },
+  {
+    "word": "africa",
+    "count": 18
+  },
+  {
+    "word": "srbija",
+    "count": 18
+  },
+  {
+    "word": "suomi",
+    "count": 18
+  },
+  {
+    "word": "sverige",
+    "count": 18
+  },
+  {
+    "word": "trkiye",
+    "count": 18
+  },
+  {
+    "word": "uae",
+    "count": 18
+  },
+  {
+    "word": "kingdom",
+    "count": 18
+  },
+  {
+    "word": "uruguay",
+    "count": 18
+  },
+  {
+    "word": "tub",
+    "count": 17
+  },
+  {
+    "word": "killarney",
+    "count": 16
+  },
+  {
+    "word": "namtrivago",
+    "count": 16
+  },
+  {
+    "word": "press",
+    "count": 16
+  },
+  {
+    "word": "6419",
+    "count": 15
+  },
+  {
+    "word": "1517",
+    "count": 15
+  },
+  {
+    "word": "53993",
+    "count": 15
+  },
+  {
+    "word": "525",
+    "count": 15
+  },
+  {
+    "word": "761",
+    "count": 15
+  },
+  {
+    "word": "1969",
+    "count": 15
+  },
+  {
+    "word": "check",
+    "count": 14
+  },
+  {
+    "word": "leading",
+    "count": 14
+  },
+  {
+    "word": "global",
+    "count": 14
+  },
+  {
+    "word": "rooms",
+    "count": 14
+  },
+  {
+    "word": "prefer",
+    "count": 14
+  },
+  {
+    "word": "searching",
+    "count": 13
+  },
+  {
+    "word": "searchtrivagos",
+    "count": 13
+  },
+  {
+    "word": "meet",
+    "count": 13
+  },
+  {
+    "word": "criteria",
+    "count": 13
+  },
+  {
+    "word": "clicks",
+    "count": 13
+  },
+  {
+    "word": "personalising",
+    "count": 13
+  },
+  {
+    "word": "needs",
+    "count": 13
+  },
+  {
+    "word": "traveller",
+    "count": 13
+  },
+  {
+    "word": "informed",
+    "count": 13
+  },
+  {
+    "word": "decisions",
+    "count": 13
+  },
+  {
+    "word": "providing",
+    "count": 13
+  },
+  {
+    "word": "access",
+    "count": 13
+  },
+  {
+    "word": "supply",
+    "count": 13
+  },
+  {
+    "word": "million",
+    "count": 13
+  },
+  {
+    "word": "plus",
+    "count": 13
+  },
+  {
+    "word": "hundreds",
+    "count": 13
+  },
+  {
+    "word": "worldwidefrom",
+    "count": 13
+  },
+  {
+    "word": "discounted",
+    "count": 13
+  },
+  {
+    "word": "apartments",
+    "count": 13
+  },
+  {
+    "word": "properties",
+    "count": 13
+  },
+  {
+    "word": "lastminute",
+    "count": 13
+  },
+  {
+    "word": "trivagowith",
+    "count": 13
+  },
+  {
+    "word": "easily",
+    "count": 13
+  },
+  {
+    "word": "simply",
+    "count": 13
+  },
+  {
+    "word": "entering",
+    "count": 13
+  },
+  {
+    "word": "desired",
+    "count": 13
+  },
+  {
+    "word": "datesonce",
+    "count": 13
+  },
+  {
+    "word": "numerous",
+    "count": 13
+  },
+  {
+    "word": "displayed",
+    "count": 13
+  },
+  {
+    "word": "displays",
+    "count": 13
+  },
+  {
+    "word": "comparisons",
+    "count": 13
+  },
+  {
+    "word": "across",
+    "count": 13
+  },
+  {
+    "word": "process",
+    "count": 13
+  },
+  {
+    "word": "itself",
+    "count": 13
+  },
+  {
+    "word": "completed",
+    "count": 13
+  },
+  {
+    "word": "clicking",
+    "count": 13
+  },
+  {
+    "word": "view",
+    "count": 13
+  },
+  {
+    "word": "button",
+    "count": 13
+  },
+  {
+    "word": "forwarded",
+    "count": 13
+  },
+  {
+    "word": "reservation",
+    "count": 13
+  },
+  {
+    "word": "does",
+    "count": 13
+  },
+  {
+    "word": "matter",
+    "count": 13
+  },
+  {
+    "word": "desktop",
+    "count": 13
+  },
+  {
+    "word": "easy",
+    "count": 13
+  },
+  {
+    "word": "wwwtrivagoiewith",
+    "count": 13
+  },
+  {
+    "word": "abundance",
+    "count": 13
+  },
+  {
+    "word": "property",
+    "count": 13
+  },
+  {
+    "word": "types",
+    "count": 13
+  },
+  {
+    "word": "available",
+    "count": 13
+  },
+  {
+    "word": "fingertips",
+    "count": 13
+  },
+  {
+    "word": "options",
+    "count": 13
+  },
+  {
+    "word": "plethora",
+    "count": 13
+  },
+  {
+    "word": "spend",
+    "count": 13
+  },
+  {
+    "word": "quiet",
+    "count": 13
+  },
+  {
+    "word": "beautiful",
+    "count": 13
+  },
+  {
+    "word": "breakfast",
+    "count": 13
+  },
+  {
+    "word": "rural",
+    "count": 13
+  },
+  {
+    "word": "bring",
+    "count": 13
+  },
+  {
+    "word": "furry",
+    "count": 13
+  },
+  {
+    "word": "refine",
+    "count": 13
+  },
+  {
+    "word": "petfriendly",
+    "count": 13
+  },
+  {
+    "word": "exciting",
+    "count": 13
+  },
+  {
+    "word": "cultural",
+    "count": 13
+  },
+  {
+    "word": "heart",
+    "count": 13
+  },
+  {
+    "word": "theres",
+    "count": 13
+  },
+  {
+    "word": "myriad",
+    "count": 13
+  },
+  {
+    "word": "5star",
+    "count": 13
+  },
+  {
+    "word": "trying",
+    "count": 13
+  },
+  {
+    "word": "save",
+    "count": 13
+  },
+  {
+    "word": "cheap",
+    "count": 13
+  },
+  {
+    "word": "hostels",
+    "count": 13
+  },
+  {
+    "word": "guest",
+    "count": 13
+  },
+  {
+    "word": "houses",
+    "count": 13
+  },
+  {
+    "word": "abound",
+    "count": 13
+  },
+  {
+    "word": "wwwtrivagoieyou",
+    "count": 13
+  },
+  {
+    "word": "wont",
+    "count": 13
+  },
+  {
+    "word": "suggestions",
+    "count": 13
+  },
+  {
+    "word": "looking",
+    "count": 13
+  },
+  {
+    "word": "dream",
+    "count": 13
+  },
+  {
+    "word": "interested",
+    "count": 13
+  },
+  {
+    "word": "youll",
+    "count": 13
+  },
+  {
+    "word": "additionally",
+    "count": 13
+  },
+  {
+    "word": "engine",
+    "count": 13
+  },
+  {
+    "word": "technology",
+    "count": 13
+  },
+  {
+    "word": "uncovers",
+    "count": 13
+  },
+  {
+    "word": "holidaya",
+    "count": 13
+  },
+  {
+    "word": "provide",
+    "count": 13
+  },
+  {
+    "word": "ideas",
+    "count": 13
+  },
+  {
+    "word": "holidaytrivago",
+    "count": 13
+  },
+  {
+    "word": "regularly",
+    "count": 13
+  },
+  {
+    "word": "publishes",
+    "count": 13
+  },
+  {
+    "word": "inquiries",
+    "count": 13
+  },
+  {
+    "word": "overnight",
+    "count": 13
+  },
+  {
+    "word": "stays",
+    "count": 13
+  },
+  {
+    "word": "homepage",
+    "count": 13
+  },
+  {
+    "word": "collect",
+    "count": 13
+  },
+  {
+    "word": "searches",
+    "count": 13
+  },
+  {
+    "word": "duration",
+    "count": 13
+  },
+  {
+    "word": "days",
+    "count": 13
+  },
+  {
+    "word": "using",
+    "count": 13
+  },
+  {
+    "word": "requests",
+    "count": 13
+  },
+  {
+    "word": "least",
+    "count": 13
+  },
+  {
+    "word": "longin",
+    "count": 13
+  },
+  {
+    "word": "rankings",
+    "count": 13
+  },
+  {
+    "word": "multiple",
+    "count": 13
+  },
+  {
+    "word": "irish",
+    "count": 13
+  },
+  {
+    "word": "appear",
+    "count": 13
+  },
+  {
+    "word": "europe",
+    "count": 13
+  },
+  {
+    "word": "amsterdamtop",
+    "count": 13
+  },
+  {
+    "word": "beach",
+    "count": 13
+  },
+  {
+    "word": "lanzarote",
+    "count": 13
+  },
+  {
+    "word": "spanish",
+    "count": 13
+  },
+  {
+    "word": "particularly",
+    "count": 13
+  },
+  {
+    "word": "tenerife",
+    "count": 13
+  },
+  {
+    "word": "majorca",
+    "count": 13
+  },
+  {
+    "word": "gran",
+    "count": 13
+  },
+  {
+    "word": "canariafurther",
+    "count": 13
+  },
+  {
+    "word": "abroad",
+    "count": 13
+  },
+  {
+    "word": "upon",
+    "count": 13
+  },
+  {
+    "word": "covered",
+    "count": 13
+  },
+  {
+    "word": "wexford",
+    "count": 13
+  },
+  {
+    "word": "westport",
+    "count": 13
+  },
+  {
+    "word": "liverpool",
+    "count": 13
+  },
+  {
+    "word": "waterford",
+    "count": 13
+  },
+  {
+    "word": "donegal",
+    "count": 13
+  },
+  {
+    "word": "sligo",
+    "count": 13
+  },
+  {
+    "word": "limerick",
+    "count": 13
+  },
+  {
+    "word": "manchester",
+    "count": 13
+  },
+  {
+    "word": "wicklow",
+    "count": 13
+  },
+  {
+    "word": "dingle",
+    "count": 13
+  },
+  {
+    "word": "athlone",
+    "count": 13
+  },
+  {
+    "word": "cavan",
+    "count": 13
+  },
+  {
+    "word": "mlaga",
+    "count": 13
+  },
+  {
+    "word": "berlin",
+    "count": 13
+  },
+  {
+    "word": "tralee",
+    "count": 13
+  },
+  {
+    "word": "madrid",
+    "count": 13
+  },
+  {
+    "word": "benidorm",
+    "count": 13
+  },
+  {
+    "word": "kenmare",
+    "count": 13
+  },
+  {
+    "word": "kinsale",
+    "count": 13
+  },
+  {
+    "word": "santa",
+    "count": 13
+  },
+  {
+    "word": "ponsa",
+    "count": 13
+  },
+  {
+    "word": "marbella",
+    "count": 13
+  },
+  {
+    "word": "vilamoura",
+    "count": 13
+  },
+  {
+    "word": "venice",
+    "count": 13
+  },
+  {
+    "word": "boston",
+    "count": 13
+  },
+  {
+    "word": "torremolinos",
+    "count": 13
+  },
+  {
+    "word": "prague",
+    "count": 13
+  },
+  {
+    "word": "krakow",
+    "count": 13
+  },
+  {
+    "word": "carlow",
+    "count": 13
+  },
+  {
+    "word": "lisbon",
+    "count": 13
+  },
+  {
+    "word": "rico",
+    "count": 13
+  },
+  {
+    "word": "budapest",
+    "count": 13
+  },
+  {
+    "word": "nerja",
+    "count": 13
+  },
+  {
+    "word": "benalmadena",
+    "count": 13
+  },
+  {
+    "word": "birmingham",
+    "count": 13
+  },
+  {
+    "word": "kildare",
+    "count": 13
+  },
+  {
+    "word": "clonakilty",
+    "count": 13
+  },
+  {
+    "word": "newcastle",
+    "count": 13
+  },
+  {
+    "word": "letterkenny",
+    "count": 13
+  },
+  {
+    "word": "alicante",
+    "count": 13
+  },
+  {
+    "word": "glasgow",
+    "count": 13
+  },
+  {
+    "word": "chicago",
+    "count": 13
+  },
+  {
+    "word": "derrylondonderry",
+    "count": 13
+  },
+  {
+    "word": "sorrento",
+    "count": 13
+  },
+  {
+    "word": "bundoran",
+    "count": 13
+  },
+  {
+    "word": "munich",
+    "count": 13
+  },
+  {
+    "word": "francisco",
+    "count": 13
+  },
+  {
+    "word": "alvor",
+    "count": 13
+  },
+  {
+    "word": "brussels",
+    "count": 13
+  },
+  {
+    "word": "drogheda",
+    "count": 13
+  },
+  {
+    "word": "vienna",
+    "count": 13
+  },
+  {
+    "word": "naas",
+    "count": 13
+  },
+  {
+    "word": "bray",
+    "count": 13
+  },
+  {
+    "word": "seville",
+    "count": 13
+  },
+  {
+    "word": "dubrovnik",
+    "count": 13
+  },
+  {
+    "word": "clifden",
+    "count": 13
+  },
+  {
+    "word": "cascais",
+    "count": 13
+  },
+  {
+    "word": "blackpool",
+    "count": 13
+  },
+  {
+    "word": "bantry",
+    "count": 13
+  },
+  {
+    "word": "dundalk",
+    "count": 13
+  },
+  {
+    "word": "lagos",
+    "count": 13
+  },
+  {
+    "word": "dungarvan",
+    "count": 13
+  },
+  {
+    "word": "copenhagen",
+    "count": 13
+  },
+  {
+    "word": "castlebar",
+    "count": 13
+  },
+  {
+    "word": "biarritz",
+    "count": 13
+  },
+  {
+    "word": "amricas",
+    "count": 13
+  },
+  {
+    "word": "faro",
+    "count": 13
+  },
+  {
+    "word": "cardiff",
+    "count": 13
+  },
+  {
+    "word": "brighton",
+    "count": 13
+  },
+  {
+    "word": "bristol",
+    "count": 13
+  },
+  {
+    "word": "gorey",
+    "count": 13
+  },
+  {
+    "word": "leeds",
+    "count": 13
+  },
+  {
+    "word": "claregalway",
+    "count": 13
+  },
+  {
+    "word": "magaluf",
+    "count": 13
+  },
+  {
+    "word": "blanca",
+    "count": 13
+  },
+  {
+    "word": "palmanova",
+    "count": 13
+  },
+  {
+    "word": "florence",
+    "count": 13
+  },
+  {
+    "word": "bangkok",
+    "count": 13
+  },
+  {
+    "word": "fuengirola",
+    "count": 13
+  },
+  {
+    "word": "doolin",
+    "count": 13
+  },
+  {
+    "word": "milan",
+    "count": 13
+  },
+  {
+    "word": "kusadasi",
+    "count": 13
+  },
+  {
+    "word": "verona",
+    "count": 13
+  },
+  {
+    "word": "ingls",
+    "count": 13
+  },
+  {
+    "word": "praia",
+    "count": 13
+  },
+  {
+    "word": "rocha",
+    "count": 13
+  },
+  {
+    "word": "sydney",
+    "count": 13
+  },
+  {
+    "word": "lisdoonvarna",
+    "count": 13
+  },
+  {
+    "word": "stockholm",
+    "count": 13
+  },
+  {
+    "word": "rochelle",
+    "count": 13
+  },
+  {
+    "word": "sitges",
+    "count": 13
+  },
+  {
+    "word": "ashbourne",
+    "count": 13
+  },
+  {
+    "word": "alcudia",
+    "count": 13
+  },
+  {
+    "word": "maynooth",
+    "count": 13
+  },
+  {
+    "word": "rosslare",
+    "count": 13
+  },
+  {
+    "word": "portlaoise",
+    "count": 13
+  },
+  {
+    "word": "marnelavalle",
+    "count": 13
+  },
+  {
+    "word": "antrim",
+    "count": 13
+  },
+  {
+    "word": "bordeaux",
+    "count": 13
+  },
+  {
+    "word": "clonmel",
+    "count": 13
+  },
+  {
+    "word": "alghero",
+    "count": 13
+  },
+  {
+    "word": "frankfurt",
+    "count": 13
+  },
+  {
+    "word": "sebastin",
+    "count": 13
+  },
+  {
+    "word": "mullingar",
+    "count": 13
+  },
+  {
+    "word": "enniskillen",
+    "count": 13
+  },
+  {
+    "word": "laoghaire",
+    "count": 13
+  },
+  {
+    "word": "istanbul",
+    "count": 13
+  },
+  {
+    "word": "cannes",
+    "count": 13
+  },
+  {
+    "word": "valencia",
+    "count": 13
+  },
+  {
+    "word": "lahinch",
+    "count": 13
+  },
+  {
+    "word": "oslo",
+    "count": 13
+  },
+  {
+    "word": "youghal",
+    "count": 13
+  },
+  {
+    "word": "gerona",
+    "count": 13
+  },
+  {
+    "word": "angeles",
+    "count": 13
+  },
+  {
+    "word": "bruges",
+    "count": 13
+  },
+  {
+    "word": "tramore",
+    "count": 13
+  },
+  {
+    "word": "toronto",
+    "count": 13
+  },
+  {
+    "word": "cobh",
+    "count": 13
+  },
+  {
+    "word": "newry",
+    "count": 13
+  },
+  {
+    "word": "palermo",
+    "count": 13
+  },
+  {
+    "word": "adeje",
+    "count": 13
+  },
+  {
+    "word": "warsaw",
+    "count": 13
+  },
+  {
+    "word": "taormina",
+    "count": 13
+  },
+  {
+    "word": "oxford",
+    "count": 13
+  },
+  {
+    "word": "gatwick",
+    "count": 13
+  },
+  {
+    "word": "cristianos",
+    "count": 13
+  },
+  {
+    "word": "estoril",
+    "count": 13
+  },
+  {
+    "word": "tullamore",
+    "count": 13
+  },
+  {
+    "word": "maspalomas",
+    "count": 13
+  },
+  {
+    "word": "lloret",
+    "count": 13
+  },
+  {
+    "word": "perth",
+    "count": 13
+  },
+  {
+    "word": "hong",
+    "count": 13
+  },
+  {
+    "word": "kong",
+    "count": 13
+  },
+  {
+    "word": "banus",
+    "count": 13
+  },
+  {
+    "word": "corralejo",
+    "count": 13
+  },
+  {
+    "word": "dhabi",
+    "count": 13
+  },
+  {
+    "word": "nantes",
+    "count": 13
+  },
+  {
+    "word": "carcassonne",
+    "count": 13
+  },
+  {
+    "word": "tipperary",
+    "count": 13
+  },
+  {
+    "word": "monaghan",
+    "count": 13
+  },
+  {
+    "word": "swords",
+    "count": 13
+  },
+  {
+    "word": "ballinasloe",
+    "count": 13
+  },
+  {
+    "word": "washington",
+    "count": 13
+  },
+  {
+    "word": "cologne",
+    "count": 13
+  },
+  {
+    "word": "algarve",
+    "count": 13
+  },
+  {
+    "word": "spain",
+    "count": 13
+  },
+  {
+    "word": "greater",
+    "count": 13
+  },
+  {
+    "word": "fuerteventura",
+    "count": 13
+  },
+  {
+    "word": "canary",
+    "count": 13
+  },
+  {
+    "word": "sol",
+    "count": 13
+  },
+  {
+    "word": "sicily",
+    "count": 13
+  },
+  {
+    "word": "turkey",
+    "count": 13
+  },
+  {
+    "word": "north",
+    "count": 13
+  },
+  {
+    "word": "america",
+    "count": 13
+  },
+  {
+    "word": "lake",
+    "count": 13
+  },
+  {
+    "word": "garda",
+    "count": 13
+  },
+  {
+    "word": "meath",
+    "count": 13
+  },
+  {
+    "word": "international",
+    "count": 13
+  },
+  {
+    "word": "coveredhow",
+    "count": 12
+  },
+  {
+    "word": "trivagobook",
+    "count": 12
+  },
+  {
+    "word": "trivagowhere",
+    "count": 12
+  },
+  {
+    "word": "citiesnew",
+    "count": 12
+  },
+  {
+    "word": "yorkkilkennybarcelonawexfordpariswestportliverpoolwaterfordedinburghromedonegal",
+    "count": 12
+  },
+  {
+    "word": "townamsterdamalbufeirasalousligo",
+    "count": 12
+  },
+  {
+    "word": "townlimerick",
+    "count": 12
+  },
+  {
+    "word": "citymanchesterwicklowdingleathlonelas",
+    "count": 12
+  },
+  {
+    "word": "vegascavanpuerto",
+    "count": 12
+  },
+  {
+    "word": "carmenmlagadubaiorlandoberlintraleemadridbenidormkenmarekinsalenicesanta",
+    "count": 12
+  },
+  {
+    "word": "ponsamarbellavilamouravenicebostontorremolinospraguekrakowcarlowlisbonennispuerto",
+    "count": 12
+  },
+  {
+    "word": "ricobudapestnerjabenalmadenabirminghamkildareclonakiltynewcastle",
+    "count": 12
+  },
+  {
+    "word": "tyneletterkennyalicanteballinaglasgowchicagoderrylondonderrysorrentobundoranmunichsan",
+    "count": 12
+  },
+  {
+    "word": "franciscobestalvorbrusselsdroghedaviennanaasbrayclaresevilledubrovnikclifdencascaisblackpoolbantrydundalklagosdungarvancopenhagencastlebarbiarritzplaya",
+    "count": 12
+  },
+  {
+    "word": "amricasfarocardiff",
+    "count": 12
+  },
+  {
+    "word": "brightonbristolgoreyleedsclaregalwaymagalufplaya",
+    "count": 12
+  },
+  {
+    "word": "blancapalmanovapalmaflorencebangkokfuengiroladoolinmilankusadasiveronaplaya",
+    "count": 12
+  },
+  {
+    "word": "inglspraia",
+    "count": 12
+  },
+  {
+    "word": "rochasydneylisdoonvarnastockholmla",
+    "count": 12
+  },
+  {
+    "word": "rochellesitgesashbournealcudiamaynoothrosslareportlaoisetrimmarnelavalleantrimbordeauxclonmelalgherofrankfurtsan",
+    "count": 12
+  },
+  {
+    "word": "sebastinmullingarenniskillendn",
+    "count": 12
+  },
+  {
+    "word": "laoghaireistanbulcannesvalencialahinchosloyoughalgeronaibiza",
+    "count": 12
+  },
+  {
+    "word": "townlos",
+    "count": 12
+  },
+  {
+    "word": "angeleschesterbrugesyorktramoretorontocobhnewrypalermocosta",
+    "count": 12
+  },
+  {
+    "word": "adejewarsawtaorminaoxfordgatwicklos",
+    "count": 12
+  },
+  {
+    "word": "cristianosestoriltullamoremaspalomaslloret",
+    "count": 12
+  },
+  {
+    "word": "marmayoperthhong",
+    "count": 12
+  },
+  {
+    "word": "kongpuerto",
+    "count": 12
+  },
+  {
+    "word": "banusdealcorralejoabu",
+    "count": 12
+  },
+  {
+    "word": "dhabinantescarcassonnetipperary",
+    "count": 12
+  },
+  {
+    "word": "townmonaghanswordsballinasloewashington",
+    "count": 12
+  },
+  {
+    "word": "dccolognemore",
+    "count": 12
+  },
+  {
+    "word": "destinationsportugalalgarvespainmaltaibizagreater",
+    "count": 12
+  },
+  {
+    "word": "londonfuerteventuracanary",
+    "count": 12
+  },
+  {
+    "word": "islandscosta",
+    "count": 12
+  },
+  {
+    "word": "solsicilycounty",
+    "count": 12
+  },
+  {
+    "word": "clareturkeycounty",
+    "count": 12
+  },
+  {
+    "word": "mayonorth",
+    "count": 12
+  },
+  {
+    "word": "americalake",
+    "count": 12
+  },
+  {
+    "word": "gardacounty",
+    "count": 12
+  },
+  {
+    "word": "meathmaltatrivago",
+    "count": 12
+  },
+  {
+    "word": "internationaltrivago",
+    "count": 12
+  },
+  {
+    "word": "argentinatrivago",
+    "count": 12
+  },
+  {
+    "word": "australiatrivago",
+    "count": 12
+  },
+  {
+    "word": "belgitrivago",
+    "count": 12
+  },
+  {
+    "word": "brasiltrivago",
+    "count": 12
+  },
+  {
+    "word": "canadatrivago",
+    "count": 12
+  },
+  {
+    "word": "eskotrivago",
+    "count": 12
+  },
+  {
+    "word": "chiletrivago",
+    "count": 12
+  },
+  {
+    "word": "colombiatrivago",
+    "count": 12
+  },
+  {
+    "word": "danmarktrivago",
+    "count": 12
+  },
+  {
+    "word": "deutschlandtrivago",
+    "count": 12
+  },
+  {
+    "word": "ecuadortrivago",
+    "count": 12
+  },
+  {
+    "word": "espaatrivago",
+    "count": 12
+  },
+  {
+    "word": "francetrivago",
+    "count": 12
+  },
+  {
+    "word": "hrvatskatrivago",
+    "count": 12
+  },
+  {
+    "word": "indiatrivago",
+    "count": 12
+  },
+  {
+    "word": "indonesiatrivago",
+    "count": 12
+  },
+  {
+    "word": "italiatrivago",
+    "count": 12
+  },
+  {
+    "word": "magyarorszgtrivago",
+    "count": 12
+  },
+  {
+    "word": "malaysiatrivago",
+    "count": 12
+  },
+  {
+    "word": "mxicotrivago",
+    "count": 12
+  },
+  {
+    "word": "nederlandtrivago",
+    "count": 12
+  },
+  {
+    "word": "zealandtrivago",
+    "count": 12
+  },
+  {
+    "word": "norgetrivago",
+    "count": 12
+  },
+  {
+    "word": "sterreichtrivago",
+    "count": 12
+  },
+  {
+    "word": "pertrivago",
+    "count": 12
+  },
+  {
+    "word": "philippinestrivago",
+    "count": 12
+  },
+  {
+    "word": "polskatrivago",
+    "count": 12
+  },
+  {
+    "word": "portugaltrivago",
+    "count": 12
+  },
+  {
+    "word": "romniatrivago",
+    "count": 12
+  },
+  {
+    "word": "schweiztrivago",
+    "count": 12
+  },
+  {
+    "word": "singaporetrivago",
+    "count": 12
+  },
+  {
+    "word": "slovenijatrivago",
+    "count": 12
+  },
+  {
+    "word": "slovenskotrivago",
+    "count": 12
+  },
+  {
+    "word": "africatrivago",
+    "count": 12
+  },
+  {
+    "word": "srbijatrivago",
+    "count": 12
+  },
+  {
+    "word": "suomitrivago",
+    "count": 12
+  },
+  {
+    "word": "sverigetrivago",
+    "count": 12
+  },
+  {
+    "word": "trkiyetrivago",
+    "count": 12
+  },
+  {
+    "word": "uaetrivago",
+    "count": 12
+  },
+  {
+    "word": "kingdomtrivago",
+    "count": 12
+  },
+  {
+    "word": "uruguaytrivago",
+    "count": 12
+  },
+  {
+    "word": "usatrivago",
+    "count": 12
+  },
+  {
+    "word": "articlesexplore",
+    "count": 11
+  },
+  {
+    "word": "romantic",
+    "count": 11
+  },
+  {
+    "word": "getawaysthink",
+    "count": 11
+  },
+  {
+    "word": "fairytale",
+    "count": 11
+  },
+  {
+    "word": "fourposter",
+    "count": 11
+  },
+  {
+    "word": "beds",
+    "count": 11
+  },
+  {
+    "word": "turning",
+    "count": 11
+  },
+  {
+    "word": "heat",
+    "count": 11
+  },
+  {
+    "word": "articlesadventures",
+    "count": 11
+  },
+  {
+    "word": "familyenjoy",
+    "count": 11
+  },
+  {
+    "word": "bonding",
+    "count": 11
+  },
+  {
+    "word": "sun",
+    "count": 11
+  },
+  {
+    "word": "articlesimpress",
+    "count": 11
+  },
+  {
+    "word": "staya",
+    "count": 11
+  },
+  {
+    "word": "seriously",
+    "count": 11
+  },
+  {
+    "word": "stylish",
+    "count": 11
+  },
+  {
+    "word": "articlestrivago",
+    "count": 11
+  },
+  {
+    "word": "magazinefind",
+    "count": 11
+  },
+  {
+    "word": "orlandomore",
+    "count": 11
+  },
+  {
+    "word": "two",
+    "count": 11
+  },
+  {
+    "word": "level",
+    "count": 11
+  },
+  {
+    "word": "tag",
+    "count": 10
+  },
+  {
+    "word": "inspiration",
+    "count": 10
+  },
+  {
+    "word": "experiences",
+    "count": 10
+  },
+  {
+    "word": "cosy",
+    "count": 10
+  },
+  {
+    "word": "two15",
+    "count": 10
+  },
+  {
+    "word": "ones15",
+    "count": 10
+  },
+  {
+    "word": "level200",
+    "count": 10
+  },
+  {
+    "word": "95trivago",
+    "count": 10
+  },
+  {
+    "word": "semdsablocker",
+    "count": 10
+  },
+  {
+    "word": "loadingloadingreturn",
+    "count": 9
+  },
+  {
+    "word": "semdsablockerneed",
+    "count": 9
+  },
+  {
+    "word": "tripexplore",
+    "count": 9
+  },
+  {
+    "word": "galway10",
+    "count": 9
+  },
+  {
+    "word": "experiencethese",
+    "count": 9
+  },
+  {
+    "word": "different",
+    "count": 8
+  },
+  {
+    "word": "specific",
+    "count": 8
+  },
+  {
+    "word": "landmark",
+    "count": 8
+  },
+  {
+    "word": "gotrivago",
+    "count": 8
+  },
+  {
+    "word": "company",
+    "count": 7
+  },
+  {
+    "word": "searchcheck",
+    "count": 6
+  },
+  {
+    "word": "double",
+    "count": 6
+  },
+  {
+    "word": "facebook",
+    "count": 6
+  },
+  {
+    "word": "twitter",
+    "count": 6
+  },
+  {
+    "word": "instagram",
+    "count": 6
+  },
+  {
+    "word": "youtube",
+    "count": 6
+  },
+  {
+    "word": "linkedin",
+    "count": 6
+  },
+  {
+    "word": "sure",
+    "count": 5
+  },
+  {
+    "word": "country",
+    "count": 5
+  },
+  {
+    "word": "argentinaaustraliabelgibrasilcanadaeskochilecolombiadanmarkdeutschlandecuadorespaafrancehrvatskaindiaindonesiairelanditaliamagyarorszgmalaysiamxiconederlandnew",
+    "count": 5
+  },
+  {
+    "word": "zealandnorgesterreichperphilippinespolskaportugalromniaschweizsingaporeslovenijaslovenskosouth",
+    "count": 5
+  },
+  {
+    "word": "africasrbijasuomisverigetrkiyeuaeunited",
+    "count": 5
+  },
+  {
+    "word": "kingdomuruguayusavit",
+    "count": 5
+  },
+  {
+    "word": "kesselstrae",
+    "count": 5
+  },
+  {
+    "word": "40221",
+    "count": 5
+  },
+  {
+    "word": "dsseldorf",
+    "count": 5
+  },
+  {
+    "word": "business",
+    "count": 5
+  },
+  {
+    "word": "germanyfacebooktwitterinstagramyoutubelinkedin",
+    "count": 5
+  },
+  {
+    "word": "map",
+    "count": 5
+  },
+  {
+    "word": "jobs",
+    "count": 5
+  },
+  {
+    "word": "investor",
+    "count": 5
+  },
+  {
+    "word": "relations",
+    "count": 5
+  },
+  {
+    "word": "mobile",
+    "count": 5
+  },
+  {
+    "word": "studio",
+    "count": 5
+  },
+  {
+    "word": "learn",
+    "count": 5
+  },
+  {
+    "word": "works",
+    "count": 5
+  },
+  {
+    "word": "terms",
+    "count": 5
+  },
+  {
+    "word": "conditions",
+    "count": 5
+  },
+  {
+    "word": "legal",
+    "count": 5
+  },
+  {
+    "word": "privacy",
+    "count": 5
+  },
+  {
+    "word": "notice",
+    "count": 5
+  },
+  {
+    "word": "classalert",
+    "count": 4
+  },
+  {
+    "word": "javascript",
+    "count": 4
+  },
+  {
+    "word": "manager",
+    "count": 4
+  },
+  {
+    "word": "filters",
+    "count": 4
+  },
+  {
+    "word": "relationsmobile",
+    "count": 4
+  },
+  {
+    "word": "studiotrivago",
+    "count": 4
+  },
+  {
+    "word": "magazinehelplearn",
+    "count": 4
+  },
+  {
+    "word": "worksterms",
+    "count": 4
+  },
+  {
+    "word": "conditionslegal",
+    "count": 4
+  },
+  {
+    "word": "informationprivacy",
+    "count": 4
+  },
+  {
+    "word": "noticesite",
+    "count": 4
+  },
+  {
+    "word": "copyright",
+    "count": 4
+  },
+  {
+    "word": "2020",
+    "count": 4
+  },
+  {
+    "word": "rights",
+    "count": 4
+  },
+  {
+    "word": "reserved",
+    "count": 4
+  },
+  {
+    "word": "div",
+    "count": 4
+  },
+  {
+    "word": "trivagotrivago",
+    "count": 4
+  },
+  {
+    "word": "companyjobspressinvestor",
+    "count": 4
+  },
+  {
+    "word": "germanyfacebooktwitterinstagramyoutubelinkedincompanyjobspressinvestor",
+    "count": 3
+  },
+  {
+    "word": "maptrivago",
+    "count": 3
+  },
+  {
+    "word": "rolealert",
+    "count": 2
+  },
+  {
+    "word": "alertinfo",
+    "count": 2
+  },
+  {
+    "word": "alerttop",
+    "count": 2
+  },
+  {
+    "word": "tabindex0p",
+    "count": 2
+  },
+  {
+    "word": "classalert__messageplease",
+    "count": 2
+  },
+  {
+    "word": "activate",
+    "count": 2
+  },
+  {
+    "word": "read",
+    "count": 2
+  },
+  {
+    "word": "hrefhttpscompanytrivagocomjavascripthereapdiviframe",
+    "count": 2
+  },
+  {
+    "word": "srcwwwgoogletagmanagercomnshtmlidgtmnl4rmp",
+    "count": 2
+  },
+  {
+    "word": "titlegoogle",
+    "count": 2
+  },
+  {
+    "word": "height0",
+    "count": 2
+  },
+  {
+    "word": "width0",
+    "count": 2
+  },
+  {
+    "word": "styledisplaynonevisibilityhiddeniframetrivagotrivago",
+    "count": 2
+  },
+  {
+    "word": "hrefimpochtendhtmlimportant",
+    "count": 2
+  },
+  {
+    "word": "linka",
+    "count": 2
+  },
+  {
+    "word": "trivagoie ",
+    "count": 1
+  },
+  {
+    "word": "worldwidediv",
+    "count": 1
+  }
+]

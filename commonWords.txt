@@ -227,3 +227,5 @@ news
 discover
 big
 section
+hour
+hours

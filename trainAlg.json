@@ -1,18 +1,19 @@
+
 [
-    {
-    "text": "bet365",
-    "category": "gambling"
-    },
-    {
-    "text": "porn",
-    "category": "explicit"
-    },
-    {
-        "text": "techradar",
-        "category": "technology"
-    },
-    {
-        "text": "iphone",
-        "category": "technology"
-    }
+  {
+  "text": "bet365",
+  "category": "gambling"
+  },
+  {
+  "text": "porn",
+  "category": "explicit"
+  },
+  {
+      "text": "techradar",
+      "category": "technology"
+  },
+  {
+      "text": "iphone",
+      "category": "technology"
+  }
 ]
