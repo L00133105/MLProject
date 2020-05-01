@@ -2,7 +2,7 @@ function countWords(str) {
     const count = {}
     str.toLowerCase().split(' ').forEach(word => {
       // strip punctuation (todo: add more stripping)
-      word = word.replace(/('s|\?|\.|\!|\n)$/,'')
+      word = word.toLowerCase().replace(/[^\w\s]/gi, '').replace(/(\r\n|\n|\r)/gm," ");
       if (count[word]) count[word]++
       else count[word] = 1
     })
@@ -10,4 +10,4 @@ function countWords(str) {
   }
   var fs = require('fs');
   var myStr = fs.readFileSync('test.txt').toString();
-  console.log(countWords(myStr.sort((a,b) => (b.count > a.count) ? 1 : ((a.count > b.count) ? -1 : 0))));
+  console.log(countWords(myStr));

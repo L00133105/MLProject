@@ -7,13 +7,13 @@ let formattedString = testString.toLowerCase().replace(/[^\w\s]/gi, '').replace(
 let uniqueWords = [...new Set(formattedString.split(" "))];
 let countArray=[];
 uniqueWords.forEach((word) => {
-  countArray.push({word,"count":0});
+  countArray.push({"word":word,"count":0});
   //wstream.write(countArray.push({word:" ", "count":0}));
 });
 countArray.forEach((wordToFind) => {
   wordToFind.count=(occurrences(formattedString,wordToFind.word,false));
 });
-countArray.sort((a,b) => (b > a) ? 1 : ((a > b) ? -1 : 0));
+countArray.sort((a,b) => (b.count > a.count) ? 1 : ((a.count > b.count) ? -1 : 0));
 console.log(countArray);
 //wstream.write(countArray);
 
