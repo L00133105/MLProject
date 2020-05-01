@@ -1,6 +1,6 @@
 const fs = require('fs');
 const INPUT_FILE = 'test.txt'
-const OUTPUT_FILE = 'odhran.txt'
+const OUTPUT_FILE = 'wordCount.json'
 const skipWords = new Set(['a', 'is', 'of', 'the'])
 
 const inputString = fs.readFileSync(INPUT_FILE).toString();
@@ -36,3 +36,10 @@ function sortWordsAlphabetically(countObj) {
 function writeCount(json, filePath) {
   fs.writeFileSync(filePath, JSON.stringify(json, null, 2))
 }
+
+const autoTrain = require('./wordCount.json');
+autoTrain.forEach(item=>{
+    if(item.count >= 10){
+      console.log(item.word + ": " + item.count);
+    }
+})
