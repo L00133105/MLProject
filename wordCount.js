@@ -13,7 +13,7 @@ function countWords(str) {
   const count = {}
   str.toLowerCase().split(' ').forEach(word => {
     // strip punctuation (todo: add more stripping)
-    word = word.replace(/('s|\?|\.|\!)$/, '')
+    word = word.replace(/[^\w\s]/gi, '').replace(/(\r\n|\n|\r)/gm," ");
     if (skipWords.has(word)) return
     if (count[word]) count[word]++
     else count[word] = 1
@@ -28,6 +28,10 @@ function sortWordsAlphabetically(countObj) {
     .sort((wordA, wordB) => wordA.localeCompare(wordB))
     .map(word => ({ word, count: countObj[word]}))
 }
+//   return Object.keys(countObj)
+//   .sort((a,b) => (b.count > a.count) ? 1 : ((a.count > b.count) ? -1 : 0));
+//     // .map(word => ({ word, count: countObj[word]}))
+// }
 
 function writeCount(json, filePath) {
   fs.writeFileSync(filePath, JSON.stringify(json, null, 2))

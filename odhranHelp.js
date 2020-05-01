@@ -5,8 +5,10 @@ var wstream = fs.createWriteStream('odhran.txt');
 
 let formattedString = testString.toLowerCase().replace(/[^\w\s]/gi, '').replace(/(\r\n|\n|\r)/gm," ");
 let uniqueWords = [...new Set(formattedString.split(" "))];
+let skipWords = new Set(['a', 'is', 'of', 'the', 'we', 'he', 'or']);
 let countArray=[];
 uniqueWords.forEach((word) => {
+  if (skipWords.has(word)) return
   countArray.push({"word":word,"count":0});
   //wstream.write(countArray.push({word:" ", "count":0}));
 });

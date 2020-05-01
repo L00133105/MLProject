@@ -1,1186 +1,910 @@
 [
   {
     "word": "",
-    "count": 12006
+    "count": 13724
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pblack",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pblack",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pblonde",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pblonde",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pcollege",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pcollege",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pcute",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pcute",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080perster",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080perster",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080phot",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080phot",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pkumalott",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pkumalott",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pmilf",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pmilf",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pnasty",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pnasty",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080proommate",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080proommate",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pthe",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pthe",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080puk",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080puk",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pyanks",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pyanks",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1080pyoga",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1080pyoga",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n1440pugly",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1440pugly",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n360pcurious",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 360pcurious",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n360pkidnapped",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 360pkidnapped",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n360pme",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 360pme",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n360predhead",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 360predhead",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n360pstunning",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 360pstunning",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720p#jurtv4potus",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pcasting",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pcasting",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pcollege",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pcollege",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pcute",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pcute",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pdaddy4k",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pdaddy4k",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720peliza",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720peliza",
-    "count": 6
-  },
-  {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720penglish",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720penglish",
     "count": 12
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pfuck",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pfuck",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720phot",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720phot",
     "count": 12
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720phottest",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720phottest",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pi",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pi",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pmasturbação",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pjurtv4potus",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pmight",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pmasturbao",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pmy",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pmight",
+    "count": 6
+  },
+  {
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pmy",
     "count": 12
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720predhead",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720predhead",
     "count": 12
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720prough",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720prough",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720psexy",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720psexy",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pstep",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pstep",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720ptattooed",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720ptattooed",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pui032-mainteinance",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pui032mainteinance",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n720pverififcation10",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 720pverififcation10",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nfucking",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t fucking",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nmaria",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t maria",
     "count": 6
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n1080pbeautiful",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   1080pbeautiful",
     "count": 1
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n23456789101112131415161718192021next\t\t\t\t\n\nsubscriptions\n\n\n\n\n\n\t\t\t\t\n\n1080pbeautiful",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 23456789101112131415161718192021next\t\t\t\t  subscriptions      \t\t\t\t  1080pbeautiful",
     "count": 1
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n23456789101112131415161718192021next\t\t\t\t\n\nsubscriptions\n\n\n\n\n\n\nremove",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 23456789101112131415161718192021next\t\t\t\t  subscriptions       remove",
     "count": 3
   },
   {
-    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n23456789101112131415161718192021next\t\t\t\t\n\nsubscriptions\n\n\n\n\n1080pbeautiful",
+    "word": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 23456789101112131415161718192021next\t\t\t\t  subscriptions     1080pbeautiful",
     "count": 1
+  },
+  {
+    "word": "\t\tcontent",
+    "count": 6
   },
   {
     "word": "\t\txvideos",
     "count": 6
   },
   {
-    "word": "\n",
+    "word": " ",
     "count": 539
   },
   {
-    "word": "\n\t\t\t\t",
+    "word": " \t\t\t\t",
     "count": 5
   },
   {
-    "word": "\n\n",
+    "word": "  ",
     "count": 31
   },
   {
-    "word": "\n\n\n",
+    "word": "   ",
     "count": 4
   },
   {
-    "word": "\n\n\n\n",
+    "word": "    ",
     "count": 9
   },
   {
-    "word": "\n\n\n\n\n",
+    "word": "     ",
     "count": 70
   },
   {
-    "word": "\n\n\n\n\n\n",
+    "word": "      ",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\n\n",
+    "word": "       ",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\n\n\n",
+    "word": "            ",
     "count": 2
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntechradar",
+    "word": "                                                       techradar",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nxvideos.com\n\n accountjoin",
+    "word": "                           xvideoscom   accountjoin",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "                 how",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfitbit",
+    "word": "                fitbit",
     "count": 4
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "                how",
     "count": 4
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsamsung",
+    "word": "                samsung",
     "count": 4
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\n\n\n\n\ntechradar",
+    "word": "              techradar",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\n\nxbox",
+    "word": "           xbox",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\n\nmost",
+    "word": "          most",
     "count": 5
   },
   {
-    "word": "\n\n\n\n\n\n\n\n\nmost",
+    "word": "         most",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\n\nlatest",
+    "word": "       latest",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\napple’s",
+    "word": "      apples",
     "count": 14
   },
   {
-    "word": "\n\n\n\n\n\nfucking",
+    "word": "      fucking",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\nios",
+    "word": "      ios",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\n\nis",
+    "word": "      is",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\n\nit",
+    "word": "      it",
     "count": 14
   },
   {
-    "word": "\n\n\n\n\n\nlean",
+    "word": "      lean",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\n\nmaria",
+    "word": "      maria",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\nmicrosoft",
+    "word": "      microsoft",
     "count": 14
   },
   {
-    "word": "\n\n\n\n\n\nsearch",
+    "word": "      search",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\n\nsearch\n\n\n\t\t\t\n\n\n\n\n\n\ncategoriesireland",
+    "word": "      search   \t\t\t       categoriesireland",
     "count": 3
   },
   {
-    "word": "\n\n\n\n\n\nsearch\n\n\n\t\t\t\n\n\n\nxvideos.com\n\n accountjoin",
+    "word": "      search   \t\t\t    xvideoscom   accountjoin",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\nsearch\n\n\n\t\t\t\n\n\nsearch\n\n\n\nsearch\n\n\n\ncategoriesireland",
+    "word": "      search   \t\t\t   search    search    categoriesireland",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\nshuttling",
+    "word": "      shuttling",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\n\nskip",
+    "word": "      skip",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\n\nwant",
+    "word": "      want",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\n\nwith",
+    "word": "      with",
     "count": 21
   },
   {
-    "word": "\n\n\n\n\nguide\nhere",
+    "word": "     guide heres",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\nsearchworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
+    "word": "     searchworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\ntechradar",
+    "word": "     techradar",
     "count": 30
   },
   {
-    "word": "\n\n\n\n\nterms",
+    "word": "     terms",
     "count": 1
   },
   {
-    "word": "\n\n\n\n\nthe",
+    "word": "     the",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\nupdated\nour",
+    "word": "     updated our",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\nupdated\nright",
+    "word": "     updated right",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\nupdated\nsecret",
+    "word": "     updated secret",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\nupdated\ntaking",
+    "word": "     updated taking",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\nupdated\nwatching",
+    "word": "     updated watching",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\nupdated\nwebcams",
+    "word": "     updated webcams",
     "count": 7
   },
   {
-    "word": "\n\n\n\n\nversus\nhow",
+    "word": "     versus how",
     "count": 14
   },
   {
-    "word": "\n\n\n\n\nversus\nwe",
+    "word": "     versus we",
     "count": 7
   },
   {
-    "word": "\n\n\n\na",
+    "word": "    a",
     "count": 7
   },
   {
-    "word": "\n\n\n\nhow",
+    "word": "    how",
     "count": 5
   },
   {
-    "word": "\n\n\n\nnot",
+    "word": "    not",
     "count": 7
   },
   {
-    "word": "\n\n\n\ntrending\n\n\n",
+    "word": "    trending   ",
     "count": 1
   },
   {
-    "word": "\n\n\nfollow",
+    "word": "   follow",
     "count": 1
   },
   {
-    "word": "\n\n\nrecommended",
+    "word": "   recommended",
     "count": 14
   },
   {
-    "word": "\n\n\ntechradar",
+    "word": "   techradar",
     "count": 22
   },
   {
-    "word": "\n\nabout",
+    "word": "  about",
     "count": 1
   },
   {
-    "word": "\n\ndavid",
+    "word": "  david",
     "count": 7
   },
   {
-    "word": "\n\nmackenzie",
+    "word": "  mackenzie",
     "count": 21
   },
   {
-    "word": "\n\ntechradar",
+    "word": "  techradar",
     "count": 21
   },
   {
-    "word": "\n\nwearables\ntablets\ncomputing\naudiovisual\ngaming\nsmart",
+    "word": "  wearables tablets computing audiovisual gaming smart",
     "count": 5
   },
   {
-    "word": "\n1080p\n\n\n\n\nbeautiful",
+    "word": " 1080p     beautiful",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nblack",
+    "word": " 1080p     black",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nblonde",
+    "word": " 1080p     blonde",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\ncollege",
+    "word": " 1080p     college",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\ncute",
+    "word": " 1080p     cute",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nerster",
+    "word": " 1080p     erster",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nhot",
+    "word": " 1080p     hot",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nkumalott",
+    "word": " 1080p     kumalott",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nmilf",
+    "word": " 1080p     milf",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nnasty",
+    "word": " 1080p     nasty",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nroommate",
+    "word": " 1080p     roommate",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nthe",
+    "word": " 1080p     the",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nuk",
+    "word": " 1080p     uk",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nyanks",
+    "word": " 1080p     yanks",
     "count": 1
   },
   {
-    "word": "\n1080p\n\n\n\n\nyoga",
+    "word": " 1080p     yoga",
     "count": 1
   },
   {
-    "word": "\n1080pblack",
+    "word": " 1080pblack",
     "count": 1
   },
   {
-    "word": "\n1080pblonde",
+    "word": " 1080pblonde",
     "count": 1
   },
   {
-    "word": "\n1080pcollege",
+    "word": " 1080pcollege",
     "count": 1
   },
   {
-    "word": "\n1080pcute",
+    "word": " 1080pcute",
     "count": 1
   },
   {
-    "word": "\n1080perster",
+    "word": " 1080perster",
     "count": 1
   },
   {
-    "word": "\n1080phot",
+    "word": " 1080phot",
     "count": 1
   },
   {
-    "word": "\n1080pkumalott",
+    "word": " 1080pkumalott",
     "count": 1
   },
   {
-    "word": "\n1080pmilf",
+    "word": " 1080pmilf",
     "count": 1
   },
   {
-    "word": "\n1080pnasty",
+    "word": " 1080pnasty",
     "count": 1
   },
   {
-    "word": "\n1080proommate",
+    "word": " 1080proommate",
     "count": 1
   },
   {
-    "word": "\n1080pthe",
+    "word": " 1080pthe",
     "count": 1
   },
   {
-    "word": "\n1080puk",
+    "word": " 1080puk",
     "count": 1
   },
   {
-    "word": "\n1080pyanks",
+    "word": " 1080pyanks",
     "count": 1
   },
   {
-    "word": "\n1080pyoga",
+    "word": " 1080pyoga",
     "count": 1
   },
   {
-    "word": "\n1440p\n\n\n\n\nugly",
+    "word": " 1440p     ugly",
     "count": 1
   },
   {
-    "word": "\n1440pugly",
+    "word": " 1440pugly",
     "count": 1
   },
   {
-    "word": "\n23456789101112131415161718192021next\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\nnext\n\nsubscriptions\n\n\n\n\nremove",
+    "word": " 23456789101112131415161718192021next 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 next  subscriptions     remove",
     "count": 1
   },
   {
-    "word": "\n360p\n\n\n\n\ncurious",
+    "word": " 360p     curious",
     "count": 1
   },
   {
-    "word": "\n360p\n\n\n\n\nkidnapped",
+    "word": " 360p     kidnapped",
     "count": 1
   },
   {
-    "word": "\n360p\n\n\n\n\nme",
+    "word": " 360p     me",
     "count": 1
   },
   {
-    "word": "\n360p\n\n\n\n\nredhead",
+    "word": " 360p     redhead",
     "count": 1
   },
   {
-    "word": "\n360p\n\n\n\n\nstunning",
+    "word": " 360p     stunning",
     "count": 1
   },
   {
-    "word": "\n360pcurious",
+    "word": " 360pcurious",
     "count": 1
   },
   {
-    "word": "\n360pkidnapped",
+    "word": " 360pkidnapped",
     "count": 1
   },
   {
-    "word": "\n360pme",
+    "word": " 360pme",
     "count": 1
   },
   {
-    "word": "\n360predhead",
+    "word": " 360predhead",
     "count": 1
   },
   {
-    "word": "\n360pstunning",
+    "word": " 360pstunning",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\n#jurtv4potus",
+    "word": " 720p     casting",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\ncasting",
+    "word": " 720p     college",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\ncollege",
+    "word": " 720p     cute",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\ncute",
+    "word": " 720p     daddy4k",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\ndaddy4k",
+    "word": " 720p     eliza",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\neliza",
-    "count": 1
-  },
-  {
-    "word": "\n720p\n\n\n\n\nenglish",
+    "word": " 720p     english",
     "count": 2
   },
   {
-    "word": "\n720p\n\n\n\n\nfuck",
+    "word": " 720p     fuck",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\nhot",
+    "word": " 720p     hot",
     "count": 2
   },
   {
-    "word": "\n720p\n\n\n\n\nhottest",
+    "word": " 720p     hottest",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\ni",
+    "word": " 720p     i",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\nmasturbação",
+    "word": " 720p     jurtv4potus",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\nmight",
+    "word": " 720p     masturbao",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\nmy",
+    "word": " 720p     might",
+    "count": 1
+  },
+  {
+    "word": " 720p     my",
     "count": 2
   },
   {
-    "word": "\n720p\n\n\n\n\nredhead",
+    "word": " 720p     redhead",
     "count": 2
   },
   {
-    "word": "\n720p\n\n\n\n\nrough",
+    "word": " 720p     rough",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\nsexy",
+    "word": " 720p     sexy",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\nstep",
+    "word": " 720p     step",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\ntattooed",
+    "word": " 720p     tattooed",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\nui032-mainteinance",
+    "word": " 720p     ui032mainteinance",
     "count": 1
   },
   {
-    "word": "\n720p\n\n\n\n\nverififcation10",
+    "word": " 720p     verififcation10",
     "count": 1
   },
   {
-    "word": "\n720p#jurtv4potus",
+    "word": " 720pcasting",
     "count": 1
   },
   {
-    "word": "\n720pcasting",
+    "word": " 720pcollege",
     "count": 1
   },
   {
-    "word": "\n720pcollege",
+    "word": " 720pcute",
     "count": 1
   },
   {
-    "word": "\n720pcute",
+    "word": " 720pdaddy4k",
     "count": 1
   },
   {
-    "word": "\n720pdaddy4k",
+    "word": " 720peliza",
     "count": 1
   },
   {
-    "word": "\n720peliza",
-    "count": 1
-  },
-  {
-    "word": "\n720penglish",
+    "word": " 720penglish",
     "count": 2
   },
   {
-    "word": "\n720pfuck",
+    "word": " 720pfuck",
     "count": 1
   },
   {
-    "word": "\n720phot",
+    "word": " 720phot",
     "count": 2
   },
   {
-    "word": "\n720phottest",
+    "word": " 720phottest",
     "count": 1
   },
   {
-    "word": "\n720pi",
+    "word": " 720pi",
     "count": 1
   },
   {
-    "word": "\n720pmasturbação",
+    "word": " 720pjurtv4potus",
     "count": 1
   },
   {
-    "word": "\n720pmight",
+    "word": " 720pmasturbao",
     "count": 1
   },
   {
-    "word": "\n720pmy",
+    "word": " 720pmight",
+    "count": 1
+  },
+  {
+    "word": " 720pmy",
     "count": 2
   },
   {
-    "word": "\n720predhead",
+    "word": " 720predhead",
     "count": 2
   },
   {
-    "word": "\n720prough",
+    "word": " 720prough",
     "count": 1
   },
   {
-    "word": "\n720psexy",
+    "word": " 720psexy",
     "count": 1
   },
   {
-    "word": "\n720pstep",
+    "word": " 720pstep",
     "count": 1
   },
   {
-    "word": "\n720ptattooed",
+    "word": " 720ptattooed",
     "count": 1
   },
   {
-    "word": "\n720pui032-mainteinance",
+    "word": " 720pui032mainteinance",
     "count": 1
   },
   {
-    "word": "\n720pverififcation10",
+    "word": " 720pverififcation10",
     "count": 1
   },
   {
-    "word": "\nads",
+    "word": " ads",
     "count": 4
   },
   {
-    "word": "\ndigital",
+    "word": " advertising",
+    "count": 6
+  },
+  {
+    "word": " america",
+    "count": 7
+  },
+  {
+    "word": " digital",
     "count": 2
   },
   {
-    "word": "\nfollow",
+    "word": " follow",
     "count": 4
   },
   {
-    "word": "\nfucking",
+    "word": " fucking",
     "count": 1
   },
   {
-    "word": "\ngoogle\ngoogle�\n�\n�\n�\n\n",
+    "word": " google google     ",
     "count": 2
   },
   {
-    "word": "\ngooglegoogle�<meta",
+    "word": " googlegooglemeta",
     "count": 2
   },
   {
-    "word": "\nmaria",
+    "word": " httpswwwbbccom",
     "count": 1
   },
   {
-    "word": "\nnext",
+    "word": " httpswwwldoceonlinecom",
+    "count": 1
+  },
+  {
+    "word": " httpswwwwebmdcom",
+    "count": 1
+  },
+  {
+    "word": " maria",
+    "count": 1
+  },
+  {
+    "word": " next",
+    "count": 4
+  },
+  {
+    "word": " porn",
+    "count": 1
+  },
+  {
+    "word": " premium",
+    "count": 1
+  },
+  {
+    "word": " rss",
+    "count": 6
+  },
+  {
+    "word": " search",
     "count": 2
   },
   {
-    "word": "\nporn",
+    "word": " search search   editionusinternationalarabicespaol editionusinternationalarabicespaol edition usinternationalarabicespaol us international arabic espaol worldafricaamericasasiaaustraliachinaeuropeindiamiddle",
     "count": 1
   },
   {
-    "word": "\npremium",
+    "word": " searcheditionusinternationalarabicespaolworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
     "count": 1
   },
   {
-    "word": "\nsearch",
+    "word": " see",
+    "count": 7
+  },
+  {
+    "word": " sign",
     "count": 2
   },
   {
-    "word": "\nsearch\nsearch\n\n\neditionu.s.internationalarabicespañol\neditionu.s.internationalarabicespañol\nedition\nu.s.internationalarabicespañol\nu.s.\ninternational\narabic\nespañol\nworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
+    "word": " trendsjeny",
     "count": 1
   },
   {
-    "word": "\nsearcheditionu.s.internationalarabicespañolworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
-    "count": 1
-  },
-  {
-    "word": "\nupdated\nthe",
+    "word": " updated the",
     "count": 14
   },
   {
-    "word": "\nversion",
-    "count": 1
+    "word": " upload",
+    "count": 6
   },
   {
-    "word": "\nworldus",
+    "word": " version",
+    "count": 2
+  },
+  {
+    "word": " worldus",
     "count": 4
   },
   {
-    "word": "\nxnxx.com\n\n",
+    "word": " xnxxcom  ",
     "count": 1
   },
   {
-    "word": "\nxvideos.com\n\n",
-    "count": 1
-  },
-  {
-    "word": "-",
-    "count": 976
-  },
-  {
-    "word": "-\t\tcontent",
-    "count": 6
-  },
-  {
-    "word": "-\nadvertising",
-    "count": 6
-  },
-  {
-    "word": "-\nrss",
-    "count": 6
-  },
-  {
-    "word": "-\nupload",
-    "count": 6
-  },
-  {
-    "word": "-\nxvideos",
+    "word": " xvideos",
     "count": 12
   },
   {
-    "word": "–",
-    "count": 67
-  },
-  {
-    "word": ",big",
-    "count": 8
-  },
-  {
-    "word": ":",
-    "count": 67
-  },
-  {
-    "word": ":\ntrendsjeny",
+    "word": " xvideoscom  ",
     "count": 1
-  },
-  {
-    "word": ":trendsjeny",
-    "count": 4
-  },
-  {
-    "word": "..",
-    "count": 11
-  },
-  {
-    "word": "...\nhttps://www.bbc.com",
-    "count": 1
-  },
-  {
-    "word": "...\nhttps://www.ldoceonline.com",
-    "count": 1
-  },
-  {
-    "word": "...\nhttps://www.webmd.com",
-    "count": 1
-  },
-  {
-    "word": "...https://www.bbc.com",
-    "count": 6
-  },
-  {
-    "word": "...https://www.ldoceonline.com",
-    "count": 6
-  },
-  {
-    "word": "...https://www.webmd.com",
-    "count": 6
-  },
-  {
-    "word": "'embed",
-    "count": 5
-  },
-  {
-    "word": "'normal",
-    "count": 7
-  },
-  {
-    "word": "›",
-    "count": 280
-  },
-  {
-    "word": "“normal�...\n6",
-    "count": 5
-  },
-  {
-    "word": "“normal�...\nhow",
-    "count": 2
-  },
-  {
-    "word": "“normal�...\nthe",
-    "count": 1
-  },
-  {
-    "word": "“normal�...the",
-    "count": 3
-  },
-  {
-    "word": "(",
-    "count": 8
-  },
-  {
-    "word": "(ˈɡ�mbəl)",
-    "count": 11
-  },
-  {
-    "word": "(also",
-    "count": 11
-  },
-  {
-    "word": "(an",
-    "count": 11
-  },
-  {
-    "word": "(but",
-    "count": 11
-  },
-  {
-    "word": "(camgirl",
-    "count": 8
-  },
-  {
-    "word": "(entry",
-    "count": 11
-  },
-  {
-    "word": "(everything",
-    "count": 5
-  },
-  {
-    "word": "(gambling,",
-    "count": 11
-  },
-  {
-    "word": "(intr)",
-    "count": 11
-  },
-  {
-    "word": "(kristina",
-    "count": 8
-  },
-  {
-    "word": "(money",
-    "count": 11
-  },
-  {
-    "word": "(no",
-    "count": 5
-  },
-  {
-    "word": "(note",
-    "count": 5
-  },
-  {
-    "word": "(pvi),�...\nsex",
-    "count": 6
-  },
-  {
-    "word": "(pvi),�...\nthe",
-    "count": 2
-  },
-  {
-    "word": "(pvi),�...sex",
-    "count": 3
-  },
-  {
-    "word": "(something",
-    "count": 11
-  },
-  {
-    "word": "(used",
-    "count": 11
-  },
-  {
-    "word": "(usually",
-    "count": 11
-  },
-  {
-    "word": "[",
-    "count": 11
-  },
-  {
-    "word": "[intransitive,",
-    "count": 11
-  },
-  {
-    "word": "]",
-    "count": 11
-  },
-  {
-    "word": "/ˈɡ�mbəl/",
-    "count": 11
-  },
-  {
-    "word": "&",
-    "count": 30
-  },
-  {
-    "word": "#1",
-    "count": 5
-  },
-  {
-    "word": "©",
-    "count": 7
-  },
-  {
-    "word": "+",
-    "count": 17
-  },
-  {
-    "word": "<a",
-    "count": 4
-  },
-  {
-    "word": "<b>gambles",
-    "count": 12
-  },
-  {
-    "word": "<b>gambling",
-    "count": 12
-  },
-  {
-    "word": "<b>take",
-    "count": 12
-  },
-  {
-    "word": "<img",
-    "count": 2
-  },
-  {
-    "word": ">",
-    "count": 8
-  },
-  {
-    "word": ">\nnext",
-    "count": 2
-  },
-  {
-    "word": ">\nsign",
-    "count": 2
-  },
-  {
-    "word": "|",
-    "count": 78
-  },
-  {
-    "word": "▼\nversion",
-    "count": 1
-  },
-  {
-    "word": "▼version",
-    "count": 5
-  },
-  {
-    "word": "○○○",
-    "count": 11
-  },
-  {
-    "word": "$29.95/month\n",
-    "count": 5
-  },
-  {
-    "word": "$5",
-    "count": 15
-  },
-  {
-    "word": "$50",
-    "count": 16
-  },
-  {
-    "word": "$9.95/month\n",
-    "count": 5
-  },
-  {
-    "word": "$9.99/month\n",
-    "count": 5
-  },
-  {
-    "word": "€300",
-    "count": 6
-  },
-  {
-    "word": "€500",
-    "count": 6
-  },
-  {
-    "word": "€88",
-    "count": 6
   },
   {
     "word": "1",
-    "count": 33
-  },
-  {
-    "word": "1.1k",
-    "count": 8
-  },
-  {
-    "word": "1.2k",
-    "count": 8
-  },
-  {
-    "word": "1.2m",
-    "count": 8
-  },
-  {
-    "word": "1.4m",
-    "count": 8
-  },
-  {
-    "word": "1.6k",
-    "count": 8
-  },
-  {
-    "word": "1.6m",
-    "count": 8
-  },
-  {
-    "word": "1.9k",
-    "count": 8
+    "count": 38
   },
   {
     "word": "10",
-    "count": 24
+    "count": 36
   },
   {
-    "word": "10,",
-    "count": 12
-  },
-  {
-    "word": "100%",
+    "word": "100",
     "count": 15
   },
   {
@@ -1200,23 +924,27 @@
     "count": 3
   },
   {
-    "word": "11.30am",
+    "word": "1130am",
     "count": 6
   },
   {
-    "word": "119.4k\nliked",
+    "word": "1194k liked",
     "count": 1
   },
   {
-    "word": "119.4kliked",
+    "word": "1194kliked",
     "count": 5
+  },
+  {
+    "word": "11k",
+    "count": 8
   },
   {
     "word": "12",
     "count": 12
   },
   {
-    "word": "12\n",
+    "word": "12 ",
     "count": 6
   },
   {
@@ -1224,23 +952,35 @@
     "count": 5
   },
   {
+    "word": "12k",
+    "count": 8
+  },
+  {
+    "word": "12m",
+    "count": 8
+  },
+  {
     "word": "13",
     "count": 15
   },
   {
-    "word": "13.4.1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsell",
+    "word": "1341                    sell",
     "count": 1
   },
   {
-    "word": "13.4.1\n\n\nby\n\ndavid",
+    "word": "1341   by  david",
     "count": 7
   },
   {
-    "word": "13.9m",
+    "word": "139m",
     "count": 8
   },
   {
-    "word": "151.8k",
+    "word": "14m",
+    "count": 8
+  },
+  {
+    "word": "1518k",
     "count": 8
   },
   {
@@ -1252,11 +992,19 @@
     "count": 8
   },
   {
+    "word": "16k",
+    "count": 8
+  },
+  {
+    "word": "16m",
+    "count": 8
+  },
+  {
     "word": "17",
     "count": 15
   },
   {
-    "word": "17.7k",
+    "word": "177k",
     "count": 8
   },
   {
@@ -1264,39 +1012,19 @@
     "count": 5
   },
   {
+    "word": "19k",
+    "count": 8
+  },
+  {
     "word": "1st",
     "count": 6
   },
   {
     "word": "2",
-    "count": 14
+    "count": 25
   },
   {
-    "word": "2.7k",
-    "count": 16
-  },
-  {
-    "word": "2.9k",
-    "count": 8
-  },
-  {
-    "word": "2.9m",
-    "count": 8
-  },
-  {
-    "word": "2)",
-    "count": 11
-  },
-  {
-    "word": "20-hour",
-    "count": 14
-  },
-  {
-    "word": "20.7k",
-    "count": 8
-  },
-  {
-    "word": "200%",
+    "word": "200",
     "count": 12
   },
   {
@@ -1312,79 +1040,79 @@
     "count": 7
   },
   {
-    "word": "2019’s",
+    "word": "2019s",
     "count": 7
   },
   {
     "word": "2020",
-    "count": 28
+    "count": 35
   },
   {
-    "word": "2020\n",
-    "count": 6
-  },
-  {
-    "word": "2020\n\n\n\n\n\n",
-    "count": 1
-  },
-  {
-    "word": "2020\n\n\n\n\n\n\n\n",
-    "count": 1
-  },
-  {
-    "word": "2020\n\n\nby\n\ntabitha",
+    "word": "2020 ",
     "count": 7
   },
   {
-    "word": "2020\n\ngamble",
+    "word": "2020      ",
     "count": 1
   },
   {
-    "word": "2020\n\nview",
+    "word": "2020        ",
     "count": 1
   },
   {
-    "word": "2020\nadie.thetop10casinos.com/\ncompare",
-    "count": 1
-  },
-  {
-    "word": "2020:",
+    "word": "2020   by  tabitha",
     "count": 7
   },
   {
-    "word": "2020!\n",
+    "word": "2020  gamble",
     "count": 1
   },
   {
-    "word": "2020!\nbest",
+    "word": "2020  view",
     "count": 1
   },
   {
-    "word": "2020!\ndiscover",
+    "word": "2020 adiethetop10casinoscom compare",
     "count": 1
   },
   {
-    "word": "2020/04",
+    "word": "2020 best",
+    "count": 1
+  },
+  {
+    "word": "2020 discover",
+    "count": 1
+  },
+  {
+    "word": "202004",
     "count": 7
   },
   {
-    "word": "2020adie.thetop10casinos.com/\n10",
+    "word": "2020adiethetop10casinoscom 10",
     "count": 1
   },
   {
-    "word": "2020adie.thetop10casinos.com/compare",
+    "word": "2020adiethetop10casinoscomcompare",
     "count": 4
+  },
+  {
+    "word": "207k",
+    "count": 8
+  },
+  {
+    "word": "20hour",
+    "count": 14
   },
   {
     "word": "216",
     "count": 8
   },
   {
-    "word": "217.3k",
+    "word": "2173k",
     "count": 8
   },
   {
-    "word": "234.7k",
+    "word": "2347k",
     "count": 8
   },
   {
@@ -1392,15 +1120,15 @@
     "count": 20
   },
   {
-    "word": "24.1k",
+    "word": "241k",
     "count": 8
   },
   {
-    "word": "255.8k",
+    "word": "2558k",
     "count": 8
   },
   {
-    "word": "265.9k",
+    "word": "2659k",
     "count": 8
   },
   {
@@ -1412,7 +1140,23 @@
     "count": 8
   },
   {
-    "word": "281.9k",
+    "word": "27k",
+    "count": 16
+  },
+  {
+    "word": "2819k",
+    "count": 8
+  },
+  {
+    "word": "2995month ",
+    "count": 5
+  },
+  {
+    "word": "29k",
+    "count": 8
+  },
+  {
+    "word": "29m",
     "count": 8
   },
   {
@@ -1424,7 +1168,11 @@
     "count": 7
   },
   {
-    "word": "300,000",
+    "word": "300",
+    "count": 6
+  },
+  {
+    "word": "300000",
     "count": 6
   },
   {
@@ -1432,11 +1180,11 @@
     "count": 8
   },
   {
-    "word": "35.2k",
+    "word": "352k",
     "count": 8
   },
   {
-    "word": "35.6k",
+    "word": "356k",
     "count": 8
   },
   {
@@ -1448,7 +1196,7 @@
     "count": 7
   },
   {
-    "word": "42.2k",
+    "word": "422k",
     "count": 8
   },
   {
@@ -1456,11 +1204,11 @@
     "count": 3
   },
   {
-    "word": "434.9k",
+    "word": "4349k",
     "count": 8
   },
   {
-    "word": "438.1k",
+    "word": "4381k",
     "count": 8
   },
   {
@@ -1472,23 +1220,27 @@
     "count": 13
   },
   {
-    "word": "5.0",
-    "count": 14
+    "word": "5",
+    "count": 15
   },
   {
-    "word": "5.7m",
+    "word": "50",
+    "count": 30
+  },
+  {
+    "word": "500",
+    "count": 6
+  },
+  {
+    "word": "5001k",
     "count": 8
   },
   {
-    "word": "500.1k",
+    "word": "5156k",
     "count": 8
   },
   {
-    "word": "51.7k",
-    "count": 8
-  },
-  {
-    "word": "515.6k",
+    "word": "517k",
     "count": 8
   },
   {
@@ -1496,15 +1248,19 @@
     "count": 8
   },
   {
-    "word": "54+",
+    "word": "54",
     "count": 5
   },
   {
-    "word": "554.3k",
+    "word": "5543k",
     "count": 8
   },
   {
-    "word": "59.9k",
+    "word": "57m",
+    "count": 8
+  },
+  {
+    "word": "599k",
     "count": 8
   },
   {
@@ -1512,11 +1268,11 @@
     "count": 14
   },
   {
-    "word": "60.5k",
+    "word": "603",
     "count": 8
   },
   {
-    "word": "603",
+    "word": "605k",
     "count": 8
   },
   {
@@ -1524,7 +1280,7 @@
     "count": 8
   },
   {
-    "word": "6k+",
+    "word": "6k",
     "count": 5
   },
   {
@@ -1532,19 +1288,19 @@
     "count": 5
   },
   {
-    "word": "7.4k",
+    "word": "74k",
     "count": 8
   },
   {
-    "word": "7.6m+",
+    "word": "76m",
     "count": 5
   },
   {
-    "word": "7.7m",
+    "word": "77",
     "count": 8
   },
   {
-    "word": "77",
+    "word": "77m",
     "count": 8
   },
   {
@@ -1556,44 +1312,40 @@
     "count": 8
   },
   {
-    "word": "888casino",
+    "word": "88",
     "count": 6
   },
   {
-    "word": "888casino™",
-    "count": 6
+    "word": "888casino",
+    "count": 12
   },
   {
     "word": "92",
     "count": 8
   },
   {
-    "word": "92.4k",
+    "word": "924k",
     "count": 8
   },
   {
-    "word": "99.8k",
+    "word": "995month ",
+    "count": 5
+  },
+  {
+    "word": "998k",
     "count": 8
+  },
+  {
+    "word": "999month ",
+    "count": 5
   },
   {
     "word": "9th",
     "count": 6
   },
   {
-    "word": "9th-gen",
+    "word": "9thgen",
     "count": 14
-  },
-  {
-    "word": "a-z\ncnnvr\nfeaturescall",
-    "count": 2
-  },
-  {
-    "word": "a-zcnnvr\nlive",
-    "count": 2
-  },
-  {
-    "word": "a-zcnnvrfeaturescall",
-    "count": 16
   },
   {
     "word": "about",
@@ -1629,18 +1381,14 @@
   },
   {
     "word": "action",
-    "count": 35
-  },
-  {
-    "word": "action,",
-    "count": 11
+    "count": 46
   },
   {
     "word": "activities",
     "count": 11
   },
   {
-    "word": "activity,",
+    "word": "activity",
     "count": 11
   },
   {
@@ -1652,7 +1400,7 @@
     "count": 11
   },
   {
-    "word": "adara\npickup\nlora",
+    "word": "adara pickup lora",
     "count": 1
   },
   {
@@ -1664,19 +1412,19 @@
     "count": 7
   },
   {
-    "word": "addiction—also�...\n15",
+    "word": "addictionalso 15",
     "count": 5
   },
   {
-    "word": "addiction—also�...\ngamble",
+    "word": "addictionalso gamble",
     "count": 1
   },
   {
-    "word": "addiction—also�...\ngambling",
+    "word": "addictionalso gambling",
     "count": 2
   },
   {
-    "word": "addiction—also�...gamble",
+    "word": "addictionalsogamble",
     "count": 3
   },
   {
@@ -1688,7 +1436,7 @@
     "count": 9
   },
   {
-    "word": "ads\n",
+    "word": "ads ",
     "count": 5
   },
   {
@@ -1700,44 +1448,40 @@
     "count": 11
   },
   {
-    "word": "adventure\n\n\n\nupdated\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nthe",
+    "word": "adventure    updated                   the",
     "count": 1
   },
   {
-    "word": "adventure\n\n\n\nupdated\n\n\n\n\n\n\n\n\n\nthe",
+    "word": "adventure    updated          the",
     "count": 5
   },
   {
     "word": "advice",
-    "count": 14
+    "count": 25
   },
   {
-    "word": "advice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nskip",
+    "word": "advice                                                    skip",
     "count": 1
   },
   {
-    "word": "advice\n\n\n\n\n\n\n\n\n\ntechradar",
+    "word": "advice          techradar",
     "count": 1
   },
   {
-    "word": "advice\n\n\n\n\n\nsearch\n\n\n\n\n\n\n\n\nsubscribe\n\n\n\nrss\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntechradar",
+    "word": "advice      search         subscribe    rss                         techradar",
     "count": 1
   },
   {
-    "word": "advice\n\n\n\n\n\nsearch\n\n\n\n\n\n\n\n\nsubscribe\n\n\n\nrss\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntechradar",
+    "word": "advice      search         subscribe    rss                    techradar",
     "count": 1
   },
   {
-    "word": "advice\n\n\n\n\n\nsearch\n\n\n\n\n\n\n\n\nsubscribe\n\n\n\nrss\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsubscribe\n\nplease",
+    "word": "advice      search         subscribe    rss               subscribe  please",
     "count": 2
   },
   {
-    "word": "advice\n\n\n\nsubscribe\n\nsubscribe\n\n\nrss\n\n\n\n\n\n\n\n\n\n\n\n\nsubscribe\n\nsubscribe\nsubscribe\nplease",
+    "word": "advice    subscribe  subscribe   rss             subscribe  subscribe subscribe please",
     "count": 1
-  },
-  {
-    "word": "advice,",
-    "count": 11
   },
   {
     "word": "aero",
@@ -1756,7 +1500,7 @@
     "count": 7
   },
   {
-    "word": "africa\n2",
+    "word": "africa 2",
     "count": 2
   },
   {
@@ -1784,7 +1528,7 @@
     "count": 7
   },
   {
-    "word": "ahead\nupstarts\nwork",
+    "word": "ahead upstarts work",
     "count": 2
   },
   {
@@ -1796,24 +1540,20 @@
     "count": 87
   },
   {
-    "word": "all\n\n\n\n\nview",
-    "count": 1
-  },
-  {
-    "word": "all\n\ngambling",
-    "count": 1
-  },
-  {
-    "word": "all\nview",
-    "count": 6
-  },
-  {
-    "word": "all-new",
-    "count": 15
-  },
-  {
-    "word": "all.\n",
+    "word": "all ",
     "count": 5
+  },
+  {
+    "word": "all     view",
+    "count": 1
+  },
+  {
+    "word": "all  gambling",
+    "count": 1
+  },
+  {
+    "word": "all view",
+    "count": 6
   },
   {
     "word": "allan",
@@ -1832,27 +1572,31 @@
     "count": 8
   },
   {
+    "word": "allnew",
+    "count": 15
+  },
+  {
     "word": "also",
-    "count": 45
-  },
-  {
-    "word": "alt=\"quantcast\"/>\n\n",
-    "count": 1
-  },
-  {
-    "word": "alt=\"quantcast\"/>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-    "count": 1
+    "count": 56
   },
   {
     "word": "although",
     "count": 11
   },
   {
+    "word": "altquantcast  ",
+    "count": 1
+  },
+  {
+    "word": "altquantcast               ",
+    "count": 1
+  },
+  {
     "word": "amateur",
     "count": 18
   },
   {
-    "word": "amateur\nblack",
+    "word": "amateur black",
     "count": 1
   },
   {
@@ -1889,19 +1633,15 @@
   },
   {
     "word": "an",
-    "count": 118
+    "count": 129
   },
   {
     "word": "anal",
-    "count": 21
+    "count": 31
   },
   {
-    "word": "anal\nmilk\ngirlfriend",
+    "word": "anal milk girlfriend",
     "count": 1
-  },
-  {
-    "word": "anal,",
-    "count": 10
   },
   {
     "word": "analized",
@@ -1917,11 +1657,7 @@
   },
   {
     "word": "and",
-    "count": 535
-  },
-  {
-    "word": "and..",
-    "count": 14
+    "count": 549
   },
   {
     "word": "android",
@@ -1952,7 +1688,7 @@
     "count": 12
   },
   {
-    "word": "apertado.11",
+    "word": "apertado11",
     "count": 8
   },
   {
@@ -1960,7 +1696,7 @@
     "count": 6
   },
   {
-    "word": "app\n",
+    "word": "app ",
     "count": 10
   },
   {
@@ -1968,11 +1704,11 @@
     "count": 19
   },
   {
-    "word": "apple.\n\n\n\n\nmobile",
+    "word": "apple     mobile",
     "count": 6
   },
   {
-    "word": "apple.\n\n\nhands",
+    "word": "apple   hands",
     "count": 1
   },
   {
@@ -1980,15 +1716,15 @@
     "count": 6
   },
   {
-    "word": "apps.\n\n\n\n\nsoftware\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflock",
+    "word": "apps     software                      flock",
     "count": 1
   },
   {
-    "word": "apps.\n\n\n\n\nsoftware\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npurevpn",
+    "word": "apps     software                 purevpn",
     "count": 5
   },
   {
-    "word": "apps.\n\n\nflock",
+    "word": "apps   flock",
     "count": 1
   },
   {
@@ -2004,7 +1740,7 @@
     "count": 95
   },
   {
-    "word": "arm,",
+    "word": "arm",
     "count": 24
   },
   {
@@ -2017,15 +1753,11 @@
   },
   {
     "word": "asian",
-    "count": 8
+    "count": 13
   },
   {
-    "word": "asian\n2",
+    "word": "asian 2",
     "count": 1
-  },
-  {
-    "word": "asian,",
-    "count": 5
   },
   {
     "word": "asian2",
@@ -2036,15 +1768,15 @@
     "count": 11
   },
   {
-    "word": "ask\n\nwhat",
+    "word": "ask  what",
     "count": 1
   },
   {
-    "word": "ask\n\nwhy",
+    "word": "ask  why",
     "count": 1
   },
   {
-    "word": "ask\npeople",
+    "word": "ask people",
     "count": 2
   },
   {
@@ -2060,7 +1792,7 @@
     "count": 21
   },
   {
-    "word": "ass\nbig",
+    "word": "ass big",
     "count": 1
   },
   {
@@ -2084,11 +1816,11 @@
     "count": 67
   },
   {
-    "word": "at&t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nthe",
+    "word": "att               the",
     "count": 1
   },
   {
-    "word": "at&t\n\n\nby\n\nmackenzie",
+    "word": "att   by  mackenzie",
     "count": 7
   },
   {
@@ -2109,11 +1841,19 @@
   },
   {
     "word": "away",
-    "count": 11
+    "count": 22
   },
   {
-    "word": "away):",
-    "count": 11
+    "word": "az cnnvr featurescall",
+    "count": 2
+  },
+  {
+    "word": "azcnnvr live",
+    "count": 2
+  },
+  {
+    "word": "azcnnvrfeaturescall",
+    "count": 16
   },
   {
     "word": "babe",
@@ -2148,7 +1888,7 @@
     "count": 5
   },
   {
-    "word": "bangbros.com",
+    "word": "bangbroscom",
     "count": 6
   },
   {
@@ -2156,7 +1896,7 @@
     "count": 12
   },
   {
-    "word": "bargain,",
+    "word": "bargain",
     "count": 12
   },
   {
@@ -2172,39 +1912,39 @@
     "count": 29
   },
   {
-    "word": "battlegrounds\n\n\n\n\n\n\n\n\n\n3\nsamsung",
+    "word": "battlegrounds          3 samsung",
     "count": 8
   },
   {
-    "word": "battlegrounds\n\n\n\n\n\n\n\n\n\n5\nwindows",
+    "word": "battlegrounds          5 windows",
     "count": 8
   },
   {
-    "word": "battlegrounds\n\n\n\n\n\n\n\n\n2\npubg",
+    "word": "battlegrounds         2 pubg",
     "count": 1
   },
   {
-    "word": "battlegrounds\n\n\n\n\n\n\n\n\n4\npubg",
+    "word": "battlegrounds         4 pubg",
     "count": 1
   },
   {
-    "word": "battlegrounds\n\n\n\n\n\n\n3\nsamsung",
+    "word": "battlegrounds       3 samsung",
     "count": 1
   },
   {
-    "word": "battlegrounds\n\n\n\n\n\n\n5\nwindows",
+    "word": "battlegrounds       5 windows",
     "count": 1
   },
   {
-    "word": "battlegrounds\n\n\n\n2\npubg",
+    "word": "battlegrounds    2 pubg",
     "count": 1
   },
   {
-    "word": "battlegrounds\n\n\n\n4\npubg",
+    "word": "battlegrounds    4 pubg",
     "count": 1
   },
   {
-    "word": "battlegrounds\n\npubg",
+    "word": "battlegrounds  pubg",
     "count": 2
   },
   {
@@ -2240,7 +1980,7 @@
     "count": 8
   },
   {
-    "word": "benckiser,",
+    "word": "benckiser",
     "count": 11
   },
   {
@@ -2261,34 +2001,26 @@
   },
   {
     "word": "bet",
-    "count": 28
+    "count": 76
   },
   {
-    "word": "bet,",
-    "count": 48
-  },
-  {
-    "word": "bet?\n\n\n\n\n\n\n\nwhat",
+    "word": "bet        what",
     "count": 1
   },
   {
-    "word": "bet?\nis",
+    "word": "bet he",
+    "count": 1
+  },
+  {
+    "word": "bet is",
     "count": 3
   },
   {
-    "word": "bet?what",
-    "count": 4
-  },
-  {
-    "word": "bet.\n'he",
+    "word": "bet play",
     "count": 1
   },
   {
-    "word": "bet.\nplay",
-    "count": 1
-  },
-  {
-    "word": "bet.'he",
+    "word": "bethe",
     "count": 10
   },
   {
@@ -2297,26 +2029,34 @@
   },
   {
     "word": "betting",
-    "count": 22
-  },
-  {
-    "word": "betting)",
-    "count": 11
+    "count": 33
   },
   {
     "word": "between",
     "count": 7
   },
   {
+    "word": "betwhat",
+    "count": 4
+  },
+  {
+    "word": "bgambles",
+    "count": 12
+  },
+  {
+    "word": "bgambling",
+    "count": 12
+  },
+  {
     "word": "big",
-    "count": 48
+    "count": 56
   },
   {
     "word": "bit",
     "count": 12
   },
   {
-    "word": "bj,",
+    "word": "bj",
     "count": 5
   },
   {
@@ -2340,7 +2080,7 @@
     "count": 8
   },
   {
-    "word": "blonde\nnia",
+    "word": "blonde nia",
     "count": 1
   },
   {
@@ -2364,7 +2104,7 @@
     "count": 5
   },
   {
-    "word": "blowjob\nskinny",
+    "word": "blowjob skinny",
     "count": 1
   },
   {
@@ -2392,39 +2132,39 @@
     "count": 18
   },
   {
-    "word": "bonus\nadwww.888casino.com/\nplay",
+    "word": "bonus adwww888casinocom play",
     "count": 1
   },
   {
-    "word": "bonus\nadwww.top10casinositesuk.co.uk/\ndiscover",
+    "word": "bonus adwwwtop10casinositesukcouk discover",
     "count": 1
   },
   {
-    "word": "bonus\ngamble",
+    "word": "bonus gamble",
     "count": 1
   },
   {
-    "word": "bonus\nmobile",
+    "word": "bonus mobile",
     "count": 1
   },
   {
-    "word": "bonus\ntop",
+    "word": "bonus top",
     "count": 1
   },
   {
-    "word": "bonusadwww.888casino.com/\ngamble",
+    "word": "bonusadwww888casinocom gamble",
     "count": 1
   },
   {
-    "word": "bonusadwww.888casino.com/play",
+    "word": "bonusadwww888casinocomplay",
     "count": 4
   },
   {
-    "word": "bonusadwww.top10casinositesuk.co.uk/\nbest",
+    "word": "bonusadwwwtop10casinositesukcouk best",
     "count": 1
   },
   {
-    "word": "bonusadwww.top10casinositesuk.co.uk/discover",
+    "word": "bonusadwwwtop10casinositesukcoukdiscover",
     "count": 4
   },
   {
@@ -2436,15 +2176,15 @@
     "count": 16
   },
   {
-    "word": "boost\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "boost                    intel",
     "count": 1
   },
   {
-    "word": "boost\n\n\n\n\n\n\n\n\n\n\n\nxbox",
+    "word": "boost            xbox",
     "count": 1
   },
   {
-    "word": "boost\n\n\nby\n\ndavid",
+    "word": "boost   by  david",
     "count": 14
   },
   {
@@ -2452,7 +2192,7 @@
     "count": 12
   },
   {
-    "word": "border=\"0\"",
+    "word": "border0",
     "count": 2
   },
   {
@@ -2488,15 +2228,15 @@
     "count": 6
   },
   {
-    "word": "break.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "break                          how",
     "count": 1
   },
   {
-    "word": "break.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "break                     how",
     "count": 5
   },
   {
-    "word": "break.\n\n\nhow",
+    "word": "break   how",
     "count": 1
   },
   {
@@ -2528,15 +2268,15 @@
     "count": 7
   },
   {
-    "word": "brooke)2",
+    "word": "brooke2",
     "count": 8
   },
   {
-    "word": "bros\n",
+    "word": "bros ",
     "count": 5
   },
   {
-    "word": "bros\n\n",
+    "word": "bros  ",
     "count": 1
   },
   {
@@ -2560,12 +2300,12 @@
     "count": 8
   },
   {
-    "word": "buds",
-    "count": 6
+    "word": "btake",
+    "count": 12
   },
   {
-    "word": "buds,",
-    "count": 6
+    "word": "buds",
+    "count": 12
   },
   {
     "word": "bugs",
@@ -2573,23 +2313,19 @@
   },
   {
     "word": "business",
-    "count": 21
+    "count": 32
   },
   {
-    "word": "business-52490023\n\n10",
+    "word": "business52490023  10",
     "count": 1
   },
   {
-    "word": "business-52490023\ncoronavirus:",
+    "word": "business52490023 coronavirus",
     "count": 1
   },
   {
-    "word": "business-5249002310",
+    "word": "business5249002310",
     "count": 5
-  },
-  {
-    "word": "business,",
-    "count": 11
   },
   {
     "word": "busty",
@@ -2597,11 +2333,7 @@
   },
   {
     "word": "but",
-    "count": 91
-  },
-  {
-    "word": "but,",
-    "count": 7
+    "count": 109
   },
   {
     "word": "butt",
@@ -2632,7 +2364,7 @@
     "count": 14
   },
   {
-    "word": "caffè",
+    "word": "caff",
     "count": 12
   },
   {
@@ -2649,22 +2381,22 @@
   },
   {
     "word": "cameras",
-    "count": 7
+    "count": 14
   },
   {
-    "word": "cameras,",
-    "count": 7
+    "word": "camgirl",
+    "count": 8
   },
   {
     "word": "can",
     "count": 75
   },
   {
-    "word": "canceling\n\n\n\n",
+    "word": "canceling    ",
     "count": 5
   },
   {
-    "word": "canceling\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "word": "canceling             ",
     "count": 1
   },
   {
@@ -2672,7 +2404,7 @@
     "count": 12
   },
   {
-    "word": "cards)",
+    "word": "cards",
     "count": 11
   },
   {
@@ -2680,15 +2412,15 @@
     "count": 24
   },
   {
-    "word": "casino...\nmobile",
+    "word": "casino mobile",
     "count": 1
   },
   {
-    "word": "casino...\nplay",
+    "word": "casino play",
     "count": 1
   },
   {
-    "word": "casino...mobile",
+    "word": "casinomobile",
     "count": 4
   },
   {
@@ -2696,31 +2428,31 @@
     "count": 15
   },
   {
-    "word": "catch\n\n\n\n\n\n\n\n\n\n4\n10",
+    "word": "catch          4 10",
     "count": 8
   },
   {
-    "word": "catch\n\n\n\n\n\n\n\n\n3\nsamsung",
+    "word": "catch         3 samsung",
     "count": 1
   },
   {
-    "word": "catch\n\n\n\n\n\n\n4\n10",
+    "word": "catch       4 10",
     "count": 1
   },
   {
-    "word": "catch\n\n\n\n3\nsamsung",
+    "word": "catch    3 samsung",
     "count": 1
   },
   {
-    "word": "catch\n\nsamsung",
+    "word": "catch  samsung",
     "count": 1
   },
   {
-    "word": "categories).\nour",
+    "word": "categories our",
     "count": 5
   },
   {
-    "word": "cc\nadchoices\nabout",
+    "word": "cc adchoices about",
     "count": 1
   },
   {
@@ -2728,31 +2460,27 @@
     "count": 7
   },
   {
-    "word": "center:",
+    "word": "center",
     "count": 7
   },
   {
     "word": "chance",
-    "count": 76
-  },
-  {
-    "word": "chance,",
-    "count": 59
+    "count": 135
   },
   {
     "word": "changer",
     "count": 12
   },
   {
-    "word": "channel'\n'he",
+    "word": "channel he",
     "count": 1
   },
   {
-    "word": "channel'\nsynonyms:",
+    "word": "channel synonyms",
     "count": 1
   },
   {
-    "word": "channel'synonyms:",
+    "word": "channelsynonyms",
     "count": 10
   },
   {
@@ -2784,7 +2512,7 @@
     "count": 5
   },
   {
-    "word": "cheating\ndance",
+    "word": "cheating dance",
     "count": 1
   },
   {
@@ -2808,39 +2536,39 @@
     "count": 6
   },
   {
-    "word": "chrome\n",
+    "word": "chrome ",
     "count": 1
   },
   {
-    "word": "chrome\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "word": "chrome             ",
     "count": 4
   },
   {
-    "word": "chrome\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfitbit",
+    "word": "chrome                        fitbit",
     "count": 1
   },
   {
-    "word": "chrome\n\n\n\n\n\n\n\n\n\n\n\n\n\nmost",
+    "word": "chrome              most",
     "count": 1
   },
   {
-    "word": "chrome\n\n\n\n\n\n\n\n\n\nmost",
+    "word": "chrome          most",
     "count": 1
   },
   {
-    "word": "chrome\n\n\n\n\n\n\n\n\n5\nwindows",
+    "word": "chrome         5 windows",
     "count": 1
   },
   {
-    "word": "chrome\n\n\n\n\n\n\n\nmost",
+    "word": "chrome        most",
     "count": 1
   },
   {
-    "word": "chrome\n\n\n\n5\nwindows",
+    "word": "chrome    5 windows",
     "count": 1
   },
   {
-    "word": "chrome\n\nwindows",
+    "word": "chrome  windows",
     "count": 1
   },
   {
@@ -2848,11 +2576,11 @@
     "count": 7
   },
   {
-    "word": "cities\ninnovate\ngadget\nforeseeable",
+    "word": "cities innovate gadget foreseeable",
     "count": 2
   },
   {
-    "word": "cities\nstyleartsdesignfashionarchitectureluxurybeautyvideo\narts\ndesign\nfashion\narchitecture\nluxury\nbeauty\nvideo\ntraveldestinationsfood",
+    "word": "cities styleartsdesignfashionarchitectureluxurybeautyvideo arts design fashion architecture luxury beauty video traveldestinationsfood",
     "count": 2
   },
   {
@@ -2860,7 +2588,7 @@
     "count": 16
   },
   {
-    "word": "classy,",
+    "word": "classy",
     "count": 3
   },
   {
@@ -2873,30 +2601,26 @@
   },
   {
     "word": "clips",
-    "count": 5
-  },
-  {
-    "word": "clips,",
-    "count": 5
+    "count": 10
   },
   {
     "word": "cnn",
     "count": 19
   },
   {
-    "word": "cnn\n\nfollow",
+    "word": "cnn  follow",
     "count": 1
   },
   {
-    "word": "cnn\nfollow",
+    "word": "cnn follow",
     "count": 1
   },
   {
-    "word": "cnn\nphotos\nlongform\ninvestigations\ncnn",
+    "word": "cnn photos longform investigations cnn",
     "count": 2
   },
   {
-    "word": "cnn\nworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
+    "word": "cnn worldafricaamericasasiaaustraliachinaeuropeindiamiddle",
     "count": 4
   },
   {
@@ -2904,7 +2628,7 @@
     "count": 12
   },
   {
-    "word": "cock\nbig",
+    "word": "cock big",
     "count": 1
   },
   {
@@ -2928,7 +2652,7 @@
     "count": 8
   },
   {
-    "word": "code'",
+    "word": "code",
     "count": 5
   },
   {
@@ -2952,7 +2676,7 @@
     "count": 24
   },
   {
-    "word": "com\nuncensored",
+    "word": "com uncensored",
     "count": 1
   },
   {
@@ -2980,7 +2704,7 @@
     "count": 3
   },
   {
-    "word": "company",
+    "word": "companys",
     "count": 14
   },
   {
@@ -2988,7 +2712,7 @@
     "count": 7
   },
   {
-    "word": "compilation\nfull",
+    "word": "compilation full",
     "count": 1
   },
   {
@@ -3005,18 +2729,14 @@
   },
   {
     "word": "comprehensive",
-    "count": 7
-  },
-  {
-    "word": "comprehensive,",
-    "count": 7
+    "count": 14
   },
   {
     "word": "compromette",
     "count": 12
   },
   {
-    "word": "computers,",
+    "word": "computers",
     "count": 7
   },
   {
@@ -3024,19 +2744,19 @@
     "count": 6
   },
   {
-    "word": "conditions\nprivacy",
+    "word": "conditions privacy",
     "count": 4
   },
   {
-    "word": "condoms,",
+    "word": "condoms",
     "count": 11
   },
   {
-    "word": "connectivity.\n\n\n\n\nmobile",
+    "word": "connectivity     mobile",
     "count": 6
   },
   {
-    "word": "connectivity.\n\n\noneplus",
+    "word": "connectivity   oneplus",
     "count": 1
   },
   {
@@ -3044,7 +2764,7 @@
     "count": 11
   },
   {
-    "word": "consideration,",
+    "word": "consideration",
     "count": 10
   },
   {
@@ -3064,23 +2784,23 @@
     "count": 5
   },
   {
-    "word": "content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntechradar",
+    "word": "content                techradar",
     "count": 2
   },
   {
-    "word": "content=\"0;url=/search?q=gamble&amp;ie=utf-8&amp;gbv=1&amp;sei=zhmrxpm-ppyc1fap2-cmqaw\"",
+    "word": "content0urlsearchqgambleampieutf8ampgbv1ampseizhmrxpmppyc1fap2cmqaw",
     "count": 2
   },
   {
-    "word": "content=\"0;url=/search?q=sex&amp;ie=utf-8&amp;gbv=1&amp;sei=zhmrxqtmpmez1faptaub2ag\"",
+    "word": "content0urlsearchqsexampieutf8ampgbv1ampseizhmrxqtmpmez1faptaub2ag",
     "count": 2
   },
   {
-    "word": "controller\n\n\nby\n\ngerald",
+    "word": "controller   by  gerald",
     "count": 7
   },
   {
-    "word": "controller\n\nview",
+    "word": "controller  view",
     "count": 1
   },
   {
@@ -3104,7 +2824,7 @@
     "count": 68
   },
   {
-    "word": "cores,",
+    "word": "cores",
     "count": 6
   },
   {
@@ -3112,23 +2832,23 @@
     "count": 11
   },
   {
-    "word": "coronavirus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nios",
+    "word": "coronavirus                          how",
     "count": 1
   },
   {
-    "word": "coronavirus\n\n\nby\n\nbill",
-    "count": 7
-  },
-  {
-    "word": "coronavirus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
-    "count": 1
-  },
-  {
-    "word": "coronavirus.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nios",
+    "word": "coronavirus                     ios",
     "count": 5
   },
   {
-    "word": "coronavirus.\n\n\nhow",
+    "word": "coronavirus               ios",
+    "count": 1
+  },
+  {
+    "word": "coronavirus   by  bill",
+    "count": 7
+  },
+  {
+    "word": "coronavirus   how",
     "count": 1
   },
   {
@@ -3144,7 +2864,7 @@
     "count": 37
   },
   {
-    "word": "court\ncongress\nfacts",
+    "word": "court congress facts",
     "count": 2
   },
   {
@@ -3152,7 +2872,7 @@
     "count": 18
   },
   {
-    "word": "cpu\npitting",
+    "word": "cpu pitting",
     "count": 6
   },
   {
@@ -3168,7 +2888,7 @@
     "count": 3
   },
   {
-    "word": "creme:\n",
+    "word": "creme ",
     "count": 3
   },
   {
@@ -3176,15 +2896,15 @@
     "count": 11
   },
   {
-    "word": "crossing:",
+    "word": "crossing",
     "count": 15
   },
   {
-    "word": "crown?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\napple",
+    "word": "crown               apples",
     "count": 2
   },
   {
-    "word": "crown?\n\n\nby\n\ndarren",
+    "word": "crown   by  darren",
     "count": 14
   },
   {
@@ -3212,11 +2932,11 @@
     "count": 7
   },
   {
-    "word": "cut\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhere",
+    "word": "cut               where",
     "count": 2
   },
   {
-    "word": "cut\n\n\nby\n\nmackenzie",
+    "word": "cut   by  mackenzie",
     "count": 14
   },
   {
@@ -3236,7 +2956,7 @@
     "count": 16
   },
   {
-    "word": "daddy\npolish",
+    "word": "daddy polish",
     "count": 1
   },
   {
@@ -3244,11 +2964,11 @@
     "count": 6
   },
   {
-    "word": "dark,",
+    "word": "dark",
     "count": 24
   },
   {
-    "word": "date,",
+    "word": "date",
     "count": 8
   },
   {
@@ -3264,11 +2984,11 @@
     "count": 24
   },
   {
-    "word": "day\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "day               how",
     "count": 1
   },
   {
-    "word": "day\n\n\nby\n\nhenry",
+    "word": "day   by  henry",
     "count": 7
   },
   {
@@ -3285,26 +3005,22 @@
   },
   {
     "word": "deal",
-    "count": 28
-  },
-  {
-    "word": "deal:",
-    "count": 24
+    "count": 52
   },
   {
     "word": "deals",
     "count": 8
   },
   {
-    "word": "deals\nat&t",
+    "word": "deals att",
     "count": 7
   },
   {
-    "word": "deals\nget",
+    "word": "deals get",
     "count": 7
   },
   {
-    "word": "deals\nscore",
+    "word": "deals score",
     "count": 14
   },
   {
@@ -3329,14 +3045,10 @@
   },
   {
     "word": "definition",
-    "count": 60
+    "count": 71
   },
   {
-    "word": "definition,",
-    "count": 11
-  },
-  {
-    "word": "degrees\ncnn",
+    "word": "degrees cnn",
     "count": 2
   },
   {
@@ -3372,11 +3084,11 @@
     "count": 7
   },
   {
-    "word": "design.\n\n\n\n\nlaptops",
+    "word": "design     laptops",
     "count": 6
   },
   {
-    "word": "design.\n\n\ngigabyte",
+    "word": "design   gigabyte",
     "count": 1
   },
   {
@@ -3400,11 +3112,11 @@
     "count": 7
   },
   {
-    "word": "determination\norganisms",
+    "word": "determination organisms",
     "count": 5
   },
   {
-    "word": "determination\nsex",
+    "word": "determination sex",
     "count": 3
   },
   {
@@ -3440,35 +3152,35 @@
     "count": 67
   },
   {
-    "word": "dictionary\nhttps://dictionary.cambridge.org",
+    "word": "dictionary httpsdictionarycambridgeorg",
     "count": 1
   },
   {
-    "word": "dictionary\nhttps://www.collinsdictionary.com",
+    "word": "dictionary httpswwwcollinsdictionarycom",
     "count": 1
   },
   {
-    "word": "dictionary\nhttps://www.thefreedictionary.com",
+    "word": "dictionary httpswwwthefreedictionarycom",
     "count": 1
   },
   {
-    "word": "dictionary.com\nhttps://www.dictionary.com",
+    "word": "dictionarycom httpswwwdictionarycom",
     "count": 2
   },
   {
-    "word": "dictionary.comhttps://www.dictionary.com",
+    "word": "dictionarycomhttpswwwdictionarycom",
     "count": 12
   },
   {
-    "word": "dictionaryhttps://dictionary.cambridge.org",
+    "word": "dictionaryhttpsdictionarycambridgeorg",
     "count": 6
   },
   {
-    "word": "dictionaryhttps://www.collinsdictionary.com",
+    "word": "dictionaryhttpswwwcollinsdictionarycom",
     "count": 6
   },
   {
-    "word": "dictionaryhttps://www.thefreedictionary.com",
+    "word": "dictionaryhttpswwwthefreedictionarycom",
     "count": 6
   },
   {
@@ -3504,7 +3216,7 @@
     "count": 11
   },
   {
-    "word": "disney+\n",
+    "word": "disney ",
     "count": 6
   },
   {
@@ -3512,23 +3224,23 @@
     "count": 21
   },
   {
-    "word": "display.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncheap",
+    "word": "display                          cheap",
     "count": 1
   },
   {
-    "word": "display.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhere",
+    "word": "display                     where",
     "count": 5
   },
   {
-    "word": "display.\n\n\n\n\ncameras\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncheap",
+    "word": "display     cameras                      cheap",
     "count": 1
   },
   {
-    "word": "display.\n\n\n\n\ncameras\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhere",
+    "word": "display     cameras                 where",
     "count": 5
   },
   {
-    "word": "display.\n\n\ncheap",
+    "word": "display   cheap",
     "count": 2
   },
   {
@@ -3536,7 +3248,7 @@
     "count": 12
   },
   {
-    "word": "distraction,",
+    "word": "distraction",
     "count": 5
   },
   {
@@ -3548,7 +3260,7 @@
     "count": 79
   },
   {
-    "word": "do\n",
+    "word": "do ",
     "count": 6
   },
   {
@@ -3568,7 +3280,7 @@
     "count": 8
   },
   {
-    "word": "don't",
+    "word": "dont",
     "count": 6
   },
   {
@@ -3576,15 +3288,15 @@
     "count": 5
   },
   {
-    "word": "down.\n\n\n\n\nutilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nueni",
+    "word": "down     utilities                      ueni",
     "count": 1
   },
   {
-    "word": "down.\n\n\n\n\nutilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhands",
+    "word": "down     utilities                     hands",
     "count": 5
   },
   {
-    "word": "down.\n\n\nueni",
+    "word": "down   ueni",
     "count": 1
   },
   {
@@ -3592,11 +3304,11 @@
     "count": 20
   },
   {
-    "word": "drink\nstay\nnews\nvideos\nsportsfootballtennisequestriangolfskiinghorse",
+    "word": "drink stay news videos sportsfootballtennisequestriangolfskiinghorse",
     "count": 2
   },
   {
-    "word": "drinkstaynewsvideos\ndestinations\nfood",
+    "word": "drinkstaynewsvideos destinations food",
     "count": 2
   },
   {
@@ -3616,7 +3328,7 @@
     "count": 18
   },
   {
-    "word": "dying:",
+    "word": "dying",
     "count": 24
   },
   {
@@ -3624,7 +3336,7 @@
     "count": 8
   },
   {
-    "word": "e\nesports\nvideoslive",
+    "word": "e esports videoslive",
     "count": 2
   },
   {
@@ -3644,7 +3356,7 @@
     "count": 14
   },
   {
-    "word": "earth\nfreedom",
+    "word": "earth freedom",
     "count": 2
   },
   {
@@ -3656,7 +3368,7 @@
     "count": 5
   },
   {
-    "word": "east\nunited",
+    "word": "east united",
     "count": 2
   },
   {
@@ -3665,18 +3377,14 @@
   },
   {
     "word": "easy",
-    "count": 7
-  },
-  {
-    "word": "easy,",
-    "count": 7
+    "count": 14
   },
   {
     "word": "edge",
     "count": 15
   },
   {
-    "word": "edition\nfleshlight\nknickers\namirah",
+    "word": "edition fleshlight knickers amirah",
     "count": 1
   },
   {
@@ -3684,11 +3392,11 @@
     "count": 6
   },
   {
-    "word": "edt\nlet",
+    "word": "edt lets",
     "count": 6
   },
   {
-    "word": "eesports\nfootball\ntennis\nequestrian\ngolf\nskiing\nhorse",
+    "word": "eesports football tennis equestrian golf skiing horse",
     "count": 2
   },
   {
@@ -3701,18 +3409,14 @@
   },
   {
     "word": "either",
-    "count": 11
+    "count": 16
   },
   {
-    "word": "either)",
-    "count": 5
-  },
-  {
-    "word": "election\nbusinessmarketstechmediasuccessperspectivesvideos\nmarkets\ntech\nmedia\nsuccess\nperspectives\nvideos\nhealthfoodfitnesswellnessparentingvital",
+    "word": "election businessmarketstechmediasuccessperspectivesvideos markets tech media success perspectives videos healthfoodfitnesswellnessparentingvital",
     "count": 2
   },
   {
-    "word": "election\ndonald",
+    "word": "election donald",
     "count": 2
   },
   {
@@ -3726,6 +3430,10 @@
   {
     "word": "else",
     "count": 11
+  },
+  {
+    "word": "embed",
+    "count": 5
   },
   {
     "word": "end",
@@ -3748,11 +3456,11 @@
     "count": 35
   },
   {
-    "word": "english\n\n\n\ncategoriesireland",
+    "word": "english    categoriesireland",
     "count": 1
   },
   {
-    "word": "english\n\n\n\njoin",
+    "word": "english    join",
     "count": 3
   },
   {
@@ -3764,11 +3472,11 @@
     "count": 20
   },
   {
-    "word": "enough?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nassassin",
+    "word": "enough                      assassins",
     "count": 1
   },
   {
-    "word": "enough?\n\n\n\n\n\n\n\n\n\n\n\n\nassassin",
+    "word": "enough             assassins",
     "count": 5
   },
   {
@@ -3780,6 +3488,10 @@
     "count": 11
   },
   {
+    "word": "entry",
+    "count": 11
+  },
+  {
     "word": "epic",
     "count": 8
   },
@@ -3788,35 +3500,35 @@
     "count": 22
   },
   {
-    "word": "estate\n\nreal",
+    "word": "estate  real",
     "count": 1
   },
   {
-    "word": "estate\ngamble",
+    "word": "estate gamble",
     "count": 1
   },
   {
-    "word": "estate\ngambling\ngambling\nview",
+    "word": "estate gambling gambling view",
     "count": 1
   },
   {
-    "word": "estate\ngamblingview",
+    "word": "estate gamblingview",
     "count": 1
   },
   {
-    "word": "estate\ninvestment\ninvestment\n\ninvestment\ninvestment\ninvestment\nonline",
+    "word": "estate investment investment  investment investment investment online",
     "count": 1
   },
   {
-    "word": "estate\ninvestmentonline",
+    "word": "estate investmentonline",
     "count": 3
   },
   {
-    "word": "estate\npeople",
+    "word": "estate people",
     "count": 1
   },
   {
-    "word": "estate\nreal",
+    "word": "estate real",
     "count": 3
   },
   {
@@ -3824,15 +3536,15 @@
     "count": 3
   },
   {
-    "word": "etc\n\n\n\nplay",
-    "count": 6
-  },
-  {
-    "word": "etc!\n",
+    "word": "etc ",
     "count": 4
   },
   {
-    "word": "etc!\nbang",
+    "word": "etc    play",
+    "count": 6
+  },
+  {
+    "word": "etc bang",
     "count": 1
   },
   {
@@ -3853,11 +3565,7 @@
   },
   {
     "word": "ever",
-    "count": 17
-  },
-  {
-    "word": "ever,",
-    "count": 7
+    "count": 24
   },
   {
     "word": "everyday",
@@ -3869,7 +3577,7 @@
   },
   {
     "word": "everything",
-    "count": 11
+    "count": 16
   },
   {
     "word": "everywhere",
@@ -3944,7 +3652,7 @@
     "count": 8
   },
   {
-    "word": "family\ngangbang\ngapes\ngay\nindian\ninterracial\nirish\njoi\nlatina\nlesbian\nlingerie\nmature\nmilf\nnovinha\noiled\nomegle\npov\nreal\nredhead\nrough\nshemale\nsleeping\nsolo\nsquirting\nstockings\ntaboo\ntamil\nteacher\nteen\nwife\ngay",
+    "word": "family gangbang gapes gay indian interracial irish joi latina lesbian lingerie mature milf novinha oiled omegle pov real redhead rough shemale sleeping solo squirting stockings taboo tamil teacher teen wife gay",
     "count": 1
   },
   {
@@ -3956,27 +3664,27 @@
     "count": 5
   },
   {
-    "word": "fashion\n\n\n\n\n\n\n\n\n\n2\npubg",
+    "word": "fashion          2 pubg",
     "count": 8
   },
   {
-    "word": "fashion\n\n\n\n\n\n\n\n\n1\nthis",
+    "word": "fashion         1 this",
     "count": 1
   },
   {
-    "word": "fashion\n\n\n\n\n\n\n2\npubg",
+    "word": "fashion       2 pubg",
     "count": 1
   },
   {
-    "word": "fashion\n\n\n\n1\nthis",
+    "word": "fashion    1 this",
     "count": 1
   },
   {
-    "word": "fashion\n\nthis",
+    "word": "fashion  this",
     "count": 1
   },
   {
-    "word": "fast,",
+    "word": "fast",
     "count": 7
   },
   {
@@ -3997,30 +3705,26 @@
   },
   {
     "word": "features",
-    "count": 25
+    "count": 32
   },
   {
-    "word": "features\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhere",
+    "word": "features               where",
     "count": 1
   },
   {
-    "word": "features\n\n\nby\n\nbill",
+    "word": "features   by  bill",
     "count": 7
   },
   {
-    "word": "features\ncall",
+    "word": "features call",
     "count": 2
   },
   {
-    "word": "features\nmorephotoslongforminvestigationscnn",
+    "word": "features morephotoslongforminvestigationscnn",
     "count": 2
   },
   {
-    "word": "features,",
-    "count": 7
-  },
-  {
-    "word": "features...along",
+    "word": "featuresalong",
     "count": 7
   },
   {
@@ -4048,11 +3752,11 @@
     "count": 11
   },
   {
-    "word": "ffm\nanal",
+    "word": "ffm anal",
     "count": 1
   },
   {
-    "word": "ffm\nreporter",
+    "word": "ffm reporter",
     "count": 1
   },
   {
@@ -4064,7 +3768,7 @@
     "count": 6
   },
   {
-    "word": "fi\nmi",
+    "word": "fi mi",
     "count": 1
   },
   {
@@ -4084,23 +3788,19 @@
     "count": 5
   },
   {
-    "word": "filmed!\n",
-    "count": 4
+    "word": "filmed ",
+    "count": 9
   },
   {
-    "word": "filmed!\nlegal",
+    "word": "filmed legal",
     "count": 1
-  },
-  {
-    "word": "filmed.\n",
-    "count": 5
   },
   {
     "word": "films",
     "count": 8
   },
   {
-    "word": "films\nhln\ntv",
+    "word": "films hln tv",
     "count": 2
   },
   {
@@ -4136,19 +3836,19 @@
     "count": 7
   },
   {
-    "word": "first\n2020",
+    "word": "first 2020",
     "count": 2
-  },
-  {
-    "word": "first-person",
-    "count": 11
   },
   {
     "word": "first2020",
     "count": 18
   },
   {
-    "word": "fisting\nbrutal",
+    "word": "firstperson",
+    "count": 11
+  },
+  {
+    "word": "fisting brutal",
     "count": 1
   },
   {
@@ -4176,15 +3876,15 @@
     "count": 14
   },
   {
-    "word": "flaws.\n\n\n\n\nutilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwevpn",
+    "word": "flaws     utilities                      wevpn",
     "count": 1
   },
   {
-    "word": "flaws.\n\n\n\n\nutilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngigabyte",
+    "word": "flaws     utilities                 gigabyte",
     "count": 5
   },
   {
-    "word": "flaws.\n\n\nwevpn",
+    "word": "flaws   wevpn",
     "count": 1
   },
   {
@@ -4196,15 +3896,15 @@
     "count": 8
   },
   {
-    "word": "floor,\nnew",
+    "word": "floor new",
     "count": 3
   },
   {
-    "word": "flutter,",
+    "word": "flutter",
     "count": 24
   },
   {
-    "word": "flyer,",
+    "word": "flyer",
     "count": 12
   },
   {
@@ -4212,11 +3912,7 @@
     "count": 8
   },
   {
-    "word": "folding@home,",
-    "count": 7
-  },
-  {
-    "word": "follow-up",
+    "word": "foldinghome",
     "count": 7
   },
   {
@@ -4224,11 +3920,15 @@
     "count": 11
   },
   {
+    "word": "followup",
+    "count": 7
+  },
+  {
     "word": "foot",
     "count": 8
   },
   {
-    "word": "footage\ncnn",
+    "word": "footage cnn",
     "count": 1
   },
   {
@@ -4236,15 +3936,15 @@
     "count": 7
   },
   {
-    "word": "football'\n'he",
+    "word": "football he",
     "count": 1
   },
   {
-    "word": "football'\nsynonyms:",
+    "word": "football synonyms",
     "count": 1
   },
   {
-    "word": "football'synonyms:",
+    "word": "footballsynonyms",
     "count": 10
   },
   {
@@ -4252,15 +3952,15 @@
     "count": 278
   },
   {
-    "word": "for\ninvestmentonline",
+    "word": "for investmentonline",
     "count": 1
   },
   {
-    "word": "for\npeople",
+    "word": "for people",
     "count": 1
   },
   {
-    "word": "forced\nteen",
+    "word": "forced teen",
     "count": 1
   },
   {
@@ -4272,7 +3972,7 @@
     "count": 6
   },
   {
-    "word": "formats.\nyou",
+    "word": "formats you",
     "count": 5
   },
   {
@@ -4284,11 +3984,11 @@
     "count": 7
   },
   {
-    "word": "found.\n\n\n\n\nmobile",
+    "word": "found     mobile",
     "count": 6
   },
   {
-    "word": "found.\n\n\nios",
+    "word": "found   ios",
     "count": 1
   },
   {
@@ -4300,55 +4000,55 @@
     "count": 66
   },
   {
-    "word": "free\n",
+    "word": "free ",
     "count": 10
   },
   {
-    "word": "free\n\n\n\n\n\n\n\n\n\n\n\n1\niphone",
+    "word": "free   \t\t      xxvideos",
+    "count": 2
+  },
+  {
+    "word": "free            1 iphone",
     "count": 8
   },
   {
-    "word": "free\n\n\n\n\n\n\n\n\n5\nhow",
+    "word": "free         5 how",
     "count": 1
   },
   {
-    "word": "free\n\n\n\n\n\n\n1\niphone",
+    "word": "free       1 iphone",
     "count": 1
   },
   {
-    "word": "free\n\n\n\n5\nhow",
+    "word": "free      xvideoscom   accountjoin",
     "count": 1
   },
   {
-    "word": "free\n\nhow",
+    "word": "free    5 how",
     "count": 1
   },
   {
-    "word": "free.\n\n\n\t\t\n\n\n\n\n\nxxvideos",
+    "word": "free    xvideoscom",
+    "count": 1
+  },
+  {
+    "word": "free  how",
+    "count": 1
+  },
+  {
+    "word": "freedom gamble",
     "count": 2
   },
   {
-    "word": "free.\n\n\n\n\n\nxvideos.com\n\n accountjoin",
+    "word": "freedom gambling",
     "count": 1
   },
   {
-    "word": "free.\n\n\n\nxvideos.com",
-    "count": 1
-  },
-  {
-    "word": "freedom.\ngamble",
-    "count": 2
-  },
-  {
-    "word": "freedom.\ngambling",
-    "count": 1
-  },
-  {
-    "word": "freedom.\nverb",
+    "word": "freedom verb",
     "count": 5
   },
   {
-    "word": "freedom.gambling",
+    "word": "freedomgambling",
     "count": 3
   },
   {
@@ -4368,7 +4068,7 @@
     "count": 24
   },
   {
-    "word": "fuck\nluna",
+    "word": "fuck luna",
     "count": 1
   },
   {
@@ -4408,11 +4108,11 @@
     "count": 3
   },
   {
-    "word": "future\nmission:",
+    "word": "future mission",
     "count": 2
   },
   {
-    "word": "futuremission:",
+    "word": "futuremission",
     "count": 18
   },
   {
@@ -4425,143 +4125,107 @@
   },
   {
     "word": "gamble",
-    "count": 141
+    "count": 152
   },
   {
-    "word": "gamble\n\na",
+    "word": "gamble        is",
     "count": 1
   },
   {
-    "word": "gamble\n\nenglish",
+    "word": "gamble        why",
     "count": 1
   },
   {
-    "word": "gamble\n\nfrom",
+    "word": "gamble       gamblingview",
     "count": 1
   },
   {
-    "word": "gamble\n\ngamble",
+    "word": "gamble    gamble",
+    "count": 1
+  },
+  {
+    "word": "gamble  a",
+    "count": 1
+  },
+  {
+    "word": "gamble  english",
+    "count": 1
+  },
+  {
+    "word": "gamble  from",
+    "count": 1
+  },
+  {
+    "word": "gamble  gamble",
     "count": 2
   },
   {
-    "word": "gamble\n\nto",
+    "word": "gamble  to",
     "count": 1
   },
   {
-    "word": "gamble\n\nverb",
+    "word": "gamble  verb",
     "count": 1
   },
   {
-    "word": "gamble\n\nwhen",
+    "word": "gamble  when",
     "count": 1
   },
   {
-    "word": "gamble\n/ˈɡamb(ə)l/\n\nverb\nplay",
+    "word": "gamble a",
+    "count": 5
+  },
+  {
+    "word": "gamble ambl  verb play",
     "count": 1
   },
   {
-    "word": "gamble\n>\n>\n\ngamble",
+    "word": "gamble dad",
     "count": 1
   },
   {
-    "word": "gamble\ngamble",
-    "count": 8
-  },
-  {
-    "word": "gamble\nhow",
-    "count": 2
-  },
-  {
-    "word": "gamble,",
+    "word": "gamble gamble",
     "count": 11
   },
   {
-    "word": "gamble?\n\n\n\n\n\n\n\nis",
+    "word": "gamble how",
+    "count": 3
+  },
+  {
+    "word": "gamble people",
     "count": 1
   },
   {
-    "word": "gamble?\n\n\n\n\n\n\n\nwhy",
+    "word": "gamble synonyms",
     "count": 1
   },
   {
-    "word": "gamble?\n\n\n\n\n\n\ngamblingview",
-    "count": 1
-  },
-  {
-    "word": "gamble?\npeople",
-    "count": 1
-  },
-  {
-    "word": "gamble?\nwhat",
+    "word": "gamble what",
     "count": 6
   },
   {
-    "word": "gamble?\nwhy",
+    "word": "gamble why",
     "count": 3
-  },
-  {
-    "word": "gamble?gamblingview",
-    "count": 3
-  },
-  {
-    "word": "gamble?is",
-    "count": 4
-  },
-  {
-    "word": "gamble?why",
-    "count": 4
-  },
-  {
-    "word": "gamble.\na",
-    "count": 5
-  },
-  {
-    "word": "gamble.\ngamble",
-    "count": 3
-  },
-  {
-    "word": "gamble.gamble",
-    "count": 3
-  },
-  {
-    "word": "gamble'\n'dad",
-    "count": 1
-  },
-  {
-    "word": "gamble'\nsynonyms:",
-    "count": 1
-  },
-  {
-    "word": "gamble'synonyms:",
-    "count": 10
-  },
-  {
-    "word": "gamble/ˈɡamb(ə)l/\n",
-    "count": 1
-  },
-  {
-    "word": "gamble/ˈɡamb(ə)l/verb\nplay",
-    "count": 5
-  },
-  {
-    "word": "gamble</b>",
-    "count": 12
-  },
-  {
-    "word": "gamble>\nhow",
-    "count": 1
-  },
-  {
-    "word": "gamble>gamble",
-    "count": 5
   },
   {
     "word": "gamblea",
     "count": 5
   },
   {
+    "word": "gambleambl ",
+    "count": 1
+  },
+  {
+    "word": "gambleamblverb play",
+    "count": 5
+  },
+  {
+    "word": "gambleb",
+    "count": 12
+  },
+  {
     "word": "gambled",
-    "count": 11
+    "count": 22
   },
   {
     "word": "gambleenglish",
@@ -4572,16 +4236,28 @@
     "count": 5
   },
   {
-    "word": "gamblegam‧ble1",
+    "word": "gamblegamble",
+    "count": 18
+  },
+  {
+    "word": "gamblegamble1",
     "count": 11
   },
   {
-    "word": "gamblegamble",
-    "count": 10
+    "word": "gamblegamblingview",
+    "count": 3
+  },
+  {
+    "word": "gambleis",
+    "count": 4
   },
   {
     "word": "gambles",
     "count": 11
+  },
+  {
+    "word": "gamblesynonyms",
+    "count": 10
   },
   {
     "word": "gambleto",
@@ -4596,67 +4272,71 @@
     "count": 5
   },
   {
+    "word": "gamblewhy",
+    "count": 4
+  },
+  {
     "word": "gambling",
-    "count": 94
+    "count": 116
   },
   {
-    "word": "gambling\n\ngambling",
+    "word": "gambling  gambling",
     "count": 1
   },
   {
-    "word": "gambling\n\nonline",
+    "word": "gambling  online",
     "count": 1
   },
   {
-    "word": "gambling\nadwww.top10bestonlinecasinos.co.uk/\nfind",
+    "word": "gambling adwwwtop10bestonlinecasinoscouk find",
     "count": 1
   },
   {
-    "word": "gambling\nbusiness\nbusiness\n\nbusiness\nbusiness\nbusiness\ncompany\ncompany\n\ncompany\ncompany\ncompany\nculture\nculture\n\nculture\nculture\nculture\nreal",
+    "word": "gambling an",
     "count": 1
   },
   {
-    "word": "gambling\ngambling",
+    "word": "gambling business business  business business business company company  company company company culture culture  culture culture culture real",
     "count": 1
   },
   {
-    "word": "gambling\nonline",
+    "word": "gambling dad",
+    "count": 1
+  },
+  {
+    "word": "gambling gambling",
+    "count": 1
+  },
+  {
+    "word": "gambling online",
     "count": 3
   },
   {
-    "word": "gambling-addiction-and...\n\n15",
+    "word": "gamblingaddictionand  15",
     "count": 1
   },
   {
-    "word": "gambling-addiction-and...\ngambling",
+    "word": "gamblingaddictionand gambling",
     "count": 1
   },
   {
-    "word": "gambling-addiction-and...15",
+    "word": "gamblingaddictionand15",
     "count": 5
   },
   {
-    "word": "gambling.\n'dad",
+    "word": "gamblingadwwwtop10bestonlinecasinoscouk top",
     "count": 1
   },
   {
-    "word": "gambling.\nan",
-    "count": 1
-  },
-  {
-    "word": "gambling.'dad",
-    "count": 10
-  },
-  {
-    "word": "gamblingadwww.top10bestonlinecasinos.co.uk/\ntop",
-    "count": 1
-  },
-  {
-    "word": "gamblingadwww.top10bestonlinecasinos.co.uk/find",
+    "word": "gamblingadwwwtop10bestonlinecasinoscoukfind",
     "count": 4
   },
   {
     "word": "gamblingbusinesscompanyculturereal",
+    "count": 10
+  },
+  {
+    "word": "gamblingdad",
     "count": 10
   },
   {
@@ -4668,19 +4348,19 @@
     "count": 61
   },
   {
-    "word": "game\n\nplay",
+    "word": "game  play",
     "count": 1
   },
   {
-    "word": "game\nblowjob",
+    "word": "game blowjob",
     "count": 1
   },
   {
-    "word": "game\nsynonyms:",
+    "word": "game synonyms",
     "count": 1
   },
   {
-    "word": "game\ntake",
+    "word": "game take",
     "count": 1
   },
   {
@@ -4696,19 +4376,11 @@
     "count": 9
   },
   {
-    "word": "gam�bled,",
-    "count": 11
-  },
-  {
-    "word": "gam�bling",
-    "count": 11
-  },
-  {
     "word": "gay",
     "count": 9
   },
   {
-    "word": "gay\n",
+    "word": "gay ",
     "count": 1
   },
   {
@@ -4716,11 +4388,11 @@
     "count": 21
   },
   {
-    "word": "gen\n\n\n\nversus\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nthe",
+    "word": "gen    versus                   the",
     "count": 1
   },
   {
-    "word": "gen\n\n\n\nversus\n\n\n\n\n\n\n\n\n\nthe",
+    "word": "gen    versus          the",
     "count": 5
   },
   {
@@ -4756,7 +4428,7 @@
     "count": 15
   },
   {
-    "word": "girl\nlegalporno",
+    "word": "girl legalporno",
     "count": 1
   },
   {
@@ -4792,7 +4464,7 @@
     "count": 32
   },
   {
-    "word": "goddessamateurs.com13",
+    "word": "goddessamateurscom13",
     "count": 8
   },
   {
@@ -4804,7 +4476,7 @@
     "count": 7
   },
   {
-    "word": "gon’",
+    "word": "gon",
     "count": 6
   },
   {
@@ -4820,23 +4492,23 @@
     "count": 8
   },
   {
-    "word": "google.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfitbit",
+    "word": "google                          fitbit",
     "count": 1
   },
   {
-    "word": "google.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnew",
+    "word": "google                     new",
     "count": 5
   },
   {
-    "word": "google.\n\n\n\n\nwearables\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfitbit",
+    "word": "google     wearables                      fitbit",
     "count": 1
   },
   {
-    "word": "google.\n\n\n\n\nwearables\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnew",
+    "word": "google     wearables                 new",
     "count": 5
   },
   {
-    "word": "google.\n\n\nfitbit",
+    "word": "google   fitbit",
     "count": 2
   },
   {
@@ -4848,7 +4520,7 @@
     "count": 5
   },
   {
-    "word": "grande\nczech",
+    "word": "grande czech",
     "count": 1
   },
   {
@@ -4876,11 +4548,11 @@
     "count": 8
   },
   {
-    "word": "guardian\nhttps://www.theguardian.com",
+    "word": "guardian httpswwwtheguardiancom",
     "count": 1
   },
   {
-    "word": "guardianhttps://www.theguardian.com",
+    "word": "guardianhttpswwwtheguardiancom",
     "count": 6
   },
   {
@@ -4896,16 +4568,16 @@
     "count": 8
   },
   {
-    "word": "hands-on",
-    "count": 6
-  },
-  {
-    "word": "handset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'pew",
+    "word": "handset               pew",
     "count": 1
   },
   {
-    "word": "handset\n\n\nby\n\njon",
+    "word": "handset   by  jon",
     "count": 7
+  },
+  {
+    "word": "handson",
+    "count": 6
   },
   {
     "word": "happy",
@@ -4916,20 +4588,16 @@
     "count": 16
   },
   {
-    "word": "hard-earned",
-    "count": 11
-  },
-  {
     "word": "hardcore",
+    "count": 15
+  },
+  {
+    "word": "hardcore ",
     "count": 5
   },
   {
-    "word": "hardcore\n",
-    "count": 5
-  },
-  {
-    "word": "hardcore,",
-    "count": 10
+    "word": "hardearned",
+    "count": 11
   },
   {
     "word": "harper",
@@ -4948,7 +4616,7 @@
     "count": 29
   },
   {
-    "word": "hazard,",
+    "word": "hazard",
     "count": 12
   },
   {
@@ -4973,18 +4641,14 @@
   },
   {
     "word": "health",
-    "count": 25
+    "count": 36
   },
   {
-    "word": "health,",
-    "count": 11
-  },
-  {
-    "word": "healthline\nhttps://www.healthline.com",
+    "word": "healthline httpswwwhealthlinecom",
     "count": 1
   },
   {
-    "word": "healthlinehttps://www.healthline.com",
+    "word": "healthlinehttpswwwhealthlinecom",
     "count": 6
   },
   {
@@ -4992,15 +4656,15 @@
     "count": 11
   },
   {
-    "word": "healthy-sex-health-benefits\n\nsex",
+    "word": "healthysexhealthbenefits  sex",
     "count": 1
   },
   {
-    "word": "healthy-sex-health-benefits\nthe",
+    "word": "healthysexhealthbenefits the",
     "count": 1
   },
   {
-    "word": "healthy-sex-health-benefitssex",
+    "word": "healthysexhealthbenefitssex",
     "count": 5
   },
   {
@@ -5008,7 +4672,7 @@
     "count": 8
   },
   {
-    "word": "height=\"1\"",
+    "word": "height1",
     "count": 2
   },
   {
@@ -5020,19 +4684,19 @@
     "count": 15
   },
   {
-    "word": "helpful.\n\n\n\n\nmobile",
+    "word": "helpful     mobile",
     "count": 6
   },
   {
-    "word": "helpful.\n\n\nsell",
+    "word": "helpful   sell",
     "count": 1
   },
   {
-    "word": "helpguide.org\nhttps://www.helpguide.org",
+    "word": "helpguideorg httpswwwhelpguideorg",
     "count": 1
   },
   {
-    "word": "helpguide.orghttps://www.helpguide.org",
+    "word": "helpguideorghttpswwwhelpguideorg",
     "count": 6
   },
   {
@@ -5040,7 +4704,7 @@
     "count": 8
   },
   {
-    "word": "hentai\nteasing",
+    "word": "hentai teasing",
     "count": 1
   },
   {
@@ -5053,30 +4717,26 @@
   },
   {
     "word": "here",
-    "count": 27
+    "count": 13
   },
   {
-    "word": "here.\nhow",
+    "word": "here how",
     "count": 1
   },
   {
-    "word": "here.\nsex",
-    "count": 2
+    "word": "here sex",
+    "count": 7
   },
   {
-    "word": "here.\nsex,",
-    "count": 5
-  },
-  {
-    "word": "here.how",
+    "word": "herehow",
     "count": 3
   },
   {
-    "word": "here’s",
-    "count": 14
+    "word": "heres",
+    "count": 28
   },
   {
-    "word": "heroes\nall",
+    "word": "heroes all",
     "count": 2
   },
   {
@@ -5113,15 +4773,11 @@
   },
   {
     "word": "home",
-    "count": 26
+    "count": 40
   },
   {
-    "word": "home\nappliances\ncar",
+    "word": "home appliances car",
     "count": 6
-  },
-  {
-    "word": "home,",
-    "count": 14
   },
   {
     "word": "hood",
@@ -5136,23 +4792,23 @@
     "count": 7
   },
   {
-    "word": "horizons\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "horizons               how",
     "count": 1
   },
   {
-    "word": "horizons\n\n\nby\n\nvic",
-    "count": 7
-  },
-  {
-    "word": "horizons.\n\n\n\n\ngaming\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "horizons     gaming                      how",
     "count": 1
   },
   {
-    "word": "horizons.\n\n\n\n\ngaming\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "horizons     gaming                 how",
     "count": 5
   },
   {
-    "word": "horizons.\n\n\nhow",
+    "word": "horizons   by  vic",
+    "count": 7
+  },
+  {
+    "word": "horizons   how",
     "count": 1
   },
   {
@@ -5164,7 +4820,7 @@
     "count": 7
   },
   {
-    "word": "horses,",
+    "word": "horses",
     "count": 24
   },
   {
@@ -5176,15 +4832,15 @@
     "count": 10
   },
   {
-    "word": "hosting\nnews\nvideo\nmagazine\n\n\n\n\n\npro\n\n\n5g",
+    "word": "hosting news video magazine      pro   5g",
     "count": 4
   },
   {
-    "word": "hosting\nnews\nvideo\nmagazine\n\n\npro\n\n\n5g",
+    "word": "hosting news video magazine   pro   5g",
     "count": 1
   },
   {
-    "word": "hosting\nnews\nvideo\nmagazine\n\n\nwearables\ntablets\ncomputing\naudiovisual\ngaming\nsmart",
+    "word": "hosting news video magazine   wearables tablets computing audiovisual gaming smart",
     "count": 1
   },
   {
@@ -5196,7 +4852,7 @@
     "count": 10
   },
   {
-    "word": "hour\npast",
+    "word": "hour past",
     "count": 2
   },
   {
@@ -5208,7 +4864,7 @@
     "count": 22
   },
   {
-    "word": "hours\npast",
+    "word": "hours past",
     "count": 2
   },
   {
@@ -5220,20 +4876,32 @@
     "count": 99
   },
   {
-    "word": "href=\"/search?q=gamble&amp;ie=utf-8&amp;gbv=1&amp;sei=zhmrxpm-ppyc1fap2-cmqaw\">here</a>",
+    "word": "hrefsearchqgambleampieutf8ampgbv1ampseizhmrxpmppyc1fap2cmqawherea",
     "count": 2
   },
   {
-    "word": "href=\"/search?q=sex&amp;ie=utf-8&amp;gbv=1&amp;sei=zhmrxqtmpmez1faptaub2ag\">here</a>",
+    "word": "hrefsearchqsexampieutf8ampgbv1ampseizhmrxqtmpmez1faptaub2agherea",
     "count": 2
   },
   {
-    "word": "http-equiv=\"refresh\"><style>table,div,span,p{display:none}</style><div",
+    "word": "httpequivrefreshstyletabledivspanpdisplaynonestylediv",
     "count": 4
   },
   {
-    "word": "http://livesexcams.ml6",
+    "word": "httplivesexcamsml6",
     "count": 8
+  },
+  {
+    "word": "httpswwwbbccom",
+    "count": 6
+  },
+  {
+    "word": "httpswwwldoceonlinecom",
+    "count": 6
+  },
+  {
+    "word": "httpswwwwebmdcom",
+    "count": 6
   },
   {
     "word": "huawei",
@@ -5248,7 +4916,7 @@
     "count": 11
   },
   {
-    "word": "humans,",
+    "word": "humans",
     "count": 11
   },
   {
@@ -5256,35 +4924,35 @@
     "count": 20
   },
   {
-    "word": "i5-10600k",
+    "word": "i510600k",
     "count": 6
   },
   {
-    "word": "i7-10700k",
+    "word": "i710700k",
     "count": 15
   },
   {
-    "word": "i7-9700k:",
+    "word": "i79700k",
     "count": 8
   },
   {
-    "word": "i7-9700k.\n\n\n\n\ncomputing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "i79700k     computing                      intel",
     "count": 1
   },
   {
-    "word": "i7-9700k.\n\n\n\n\ncomputing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncheap",
+    "word": "i79700k     computing                 cheap",
     "count": 5
   },
   {
-    "word": "i7-9700k.\n\n\nintel",
+    "word": "i79700k   intel",
     "count": 1
   },
   {
-    "word": "i9-10900k",
+    "word": "i910900k",
     "count": 16
   },
   {
-    "word": "i9-9900k:",
+    "word": "i99900k",
     "count": 16
   },
   {
@@ -5308,16 +4976,16 @@
     "count": 15
   },
   {
+    "word": "img",
+    "count": 2
+  },
+  {
     "word": "immediate",
     "count": 6
   },
   {
     "word": "important",
-    "count": 11
-  },
-  {
-    "word": "important)",
-    "count": 11
+    "count": 22
   },
   {
     "word": "impressive",
@@ -5325,82 +4993,54 @@
   },
   {
     "word": "in",
-    "count": 450
+    "count": 462
   },
   {
-    "word": "in\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\n\n\nsearch\n\n\n\t\t\t\t\t\t\tthe",
+    "word": "in               \t\t\t   search   \t\t\t\t\t\t\tthe",
     "count": 5
   },
   {
-    "word": "in\n\n\n\n\nsearch\n\n\n\nsearch\n\n\t\t\t\tthe",
+    "word": "in     search    search  \t\t\t\tthe",
     "count": 1
   },
   {
-    "word": "in\nsettingsprivacyterms\n",
+    "word": "in settingsprivacyterms ",
     "count": 1
   },
   {
-    "word": "in\nsettingsprivacyterms\n\n100%",
+    "word": "in settingsprivacyterms  100",
     "count": 1
-  },
-  {
-    "word": "in-play\nbet365™",
-    "count": 2
-  },
-  {
-    "word": "in-play\nnext",
-    "count": 1
-  },
-  {
-    "word": "in-play\nrelated",
-    "count": 1
-  },
-  {
-    "word": "in-play.\nnext",
-    "count": 1
-  },
-  {
-    "word": "in-play.next",
-    "count": 5
-  },
-  {
-    "word": "in-playrelated",
-    "count": 3
-  },
-  {
-    "word": "in,",
-    "count": 12
   },
   {
     "word": "inc",
-    "count": 3
+    "count": 6
   },
   {
-    "word": "inc,",
-    "count": 3
-  },
-  {
-    "word": "inc.all",
+    "word": "incall",
     "count": 7
   },
   {
     "word": "independent",
-    "count": 22
+    "count": 11
   },
   {
-    "word": "independent\nhttps://www.independent.co.uk",
+    "word": "independent httpswwwindependentcouk",
     "count": 1
   },
   {
-    "word": "independenthttps://www.independent.co.uk",
+    "word": "independenthttpswwwindependentcouk",
     "count": 6
+  },
+  {
+    "word": "independents",
+    "count": 11
   },
   {
     "word": "indexes",
     "count": 5
   },
   {
-    "word": "informations.\n\nterms",
+    "word": "informations  terms",
     "count": 5
   },
   {
@@ -5412,11 +5052,31 @@
     "count": 4
   },
   {
+    "word": "inplay bet365",
+    "count": 2
+  },
+  {
+    "word": "inplay next",
+    "count": 2
+  },
+  {
+    "word": "inplay related",
+    "count": 1
+  },
+  {
+    "word": "inplaynext",
+    "count": 5
+  },
+  {
+    "word": "inplayrelated",
+    "count": 3
+  },
+  {
     "word": "insettingsprivacyterms",
     "count": 6
   },
   {
-    "word": "insettingsprivacyterms\nsign",
+    "word": "insettingsprivacyterms sign",
     "count": 2
   },
   {
@@ -5425,11 +5085,11 @@
   },
   {
     "word": "intel",
-    "count": 51
+    "count": 38
   },
   {
-    "word": "intel’s",
-    "count": 15
+    "word": "intels",
+    "count": 28
   },
   {
     "word": "intense",
@@ -5453,11 +5113,7 @@
   },
   {
     "word": "internet",
-    "count": 11
-  },
-  {
-    "word": "internet,",
-    "count": 4
+    "count": 15
   },
   {
     "word": "intimacy",
@@ -5465,6 +5121,14 @@
   },
   {
     "word": "into",
+    "count": 11
+  },
+  {
+    "word": "intr",
+    "count": 11
+  },
+  {
+    "word": "intransitive",
     "count": 11
   },
   {
@@ -5484,40 +5148,40 @@
     "count": 87
   },
   {
-    "word": "iphone\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "iphone               how",
     "count": 1
   },
   {
-    "word": "iphone\n\n\nby\n\nlloyd",
+    "word": "iphone   by  lloyd",
     "count": 7
   },
   {
     "word": "ireland",
-    "count": 17
+    "count": 11
+  },
+  {
+    "word": "irelands",
+    "count": 6
   },
   {
     "word": "issues",
     "count": 22
   },
   {
-    "word": "issues.\n\n\n\n\nutilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npurevpn",
+    "word": "issues     utilities                      purevpn",
     "count": 1
   },
   {
-    "word": "issues.\n\n\n\n\nutilities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nacronis",
+    "word": "issues     utilities                 acronis",
     "count": 5
   },
   {
-    "word": "issues.\n\n\npurevpn",
+    "word": "issues   purevpn",
     "count": 1
   },
   {
     "word": "it",
-    "count": 77
-  },
-  {
-    "word": "it’s",
-    "count": 7
+    "count": 58
   },
   {
     "word": "italian",
@@ -5525,7 +5189,7 @@
   },
   {
     "word": "its",
-    "count": 57
+    "count": 83
   },
   {
     "word": "jail5",
@@ -5568,11 +5232,11 @@
     "count": 16
   },
   {
-    "word": "kids\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnew",
+    "word": "kids               new",
     "count": 2
   },
   {
-    "word": "kids\n\n\nby\n\nsharmishta",
+    "word": "kids   by  sharmishta",
     "count": 14
   },
   {
@@ -5584,11 +5248,11 @@
     "count": 16
   },
   {
-    "word": "kingdom\nafrica\namericas\nasia\naustralia\nchina\neurope\nindia\nmiddle",
+    "word": "kingdom africa americas asia australia china europe india middle",
     "count": 2
   },
   {
-    "word": "kingdom\nus",
+    "word": "kingdom us",
     "count": 2
   },
   {
@@ -5616,6 +5280,10 @@
     "count": 22
   },
   {
+    "word": "kristina",
+    "count": 8
+  },
+  {
     "word": "krystal",
     "count": 8
   },
@@ -5636,7 +5304,7 @@
     "count": 35
   },
   {
-    "word": "lake-s",
+    "word": "lakes",
     "count": 6
   },
   {
@@ -5648,7 +5316,7 @@
     "count": 23
   },
   {
-    "word": "language\n3d\namateur\nanal\narab\nasian\nasmr\nass\naunt\nbbw\nbi\nbig",
+    "word": "language 3d amateur anal arab asian asmr ass aunt bbw bi big",
     "count": 1
   },
   {
@@ -5656,7 +5324,7 @@
     "count": 6
   },
   {
-    "word": "laptop\n",
+    "word": "laptop ",
     "count": 6
   },
   {
@@ -5684,35 +5352,35 @@
     "count": 33
   },
   {
-    "word": "latest...\n10",
+    "word": "latest 10",
     "count": 1
   },
   {
-    "word": "latest...\nfind",
+    "word": "latest find",
     "count": 1
   },
   {
-    "word": "latest...\ntop",
+    "word": "latest top",
     "count": 1
   },
   {
-    "word": "latest...10",
+    "word": "latest10",
     "count": 3
   },
   {
-    "word": "laxman�..",
+    "word": "laxman",
     "count": 3
   },
   {
-    "word": "laxman�...\n",
+    "word": "laxman ",
     "count": 1
   },
   {
-    "word": "laxman�...\n10",
+    "word": "laxman 10",
     "count": 5
   },
   {
-    "word": "laxman�...\ncoronavirus:",
+    "word": "laxman coronavirus",
     "count": 2
   },
   {
@@ -5720,7 +5388,7 @@
     "count": 12
   },
   {
-    "word": "leadership\ncnn",
+    "word": "leadership cnn",
     "count": 2
   },
   {
@@ -5756,7 +5424,7 @@
     "count": 5
   },
   {
-    "word": "legalporno.com",
+    "word": "legalpornocom",
     "count": 6
   },
   {
@@ -5780,7 +5448,7 @@
     "count": 7
   },
   {
-    "word": "lesbian\nhomewrecker\nsadie",
+    "word": "lesbian homewrecker sadie",
     "count": 1
   },
   {
@@ -5789,14 +5457,10 @@
   },
   {
     "word": "lesbians",
-    "count": 8
+    "count": 13
   },
   {
-    "word": "lesbians.",
-    "count": 5
-  },
-  {
-    "word": "lesbianxo.com6",
+    "word": "lesbianxocom6",
     "count": 8
   },
   {
@@ -5817,43 +5481,39 @@
   },
   {
     "word": "life",
-    "count": 22
+    "count": 36
   },
   {
-    "word": "life,",
-    "count": 14
-  },
-  {
-    "word": "life!11",
-    "count": 8
-  },
-  {
-    "word": "life?\n\n\n\n\n\n\nwebmd",
+    "word": "life       webmd",
     "count": 1
   },
   {
-    "word": "life?\nis",
-    "count": 3
-  },
-  {
-    "word": "life?\npeople",
-    "count": 1
-  },
-  {
-    "word": "life?webmd",
-    "count": 3
-  },
-  {
-    "word": "life.\n\n\n\n\nmobile",
+    "word": "life     mobile",
     "count": 6
   },
   {
-    "word": "life.\n\n\nhow",
+    "word": "life   how",
     "count": 1
+  },
+  {
+    "word": "life is",
+    "count": 3
+  },
+  {
+    "word": "life people",
+    "count": 1
+  },
+  {
+    "word": "life11",
+    "count": 8
   },
   {
     "word": "lifeandstyle",
     "count": 14
+  },
+  {
+    "word": "lifewebmd",
+    "count": 3
   },
   {
     "word": "light",
@@ -5864,23 +5524,23 @@
     "count": 25
   },
   {
-    "word": "like\t\t\n\n\n\t\t\t\t\n\n1080pbeautiful",
+    "word": "like\t\t   \t\t\t\t  1080pbeautiful",
     "count": 3
   },
   {
-    "word": "like\n\n\n\n\t\t\t\t\n\n1080pbeautiful",
+    "word": "like    \t\t\t\t  1080pbeautiful",
     "count": 1
   },
   {
-    "word": "like?\n\n\n\n\ncomputing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "like     computing                      intel",
     "count": 1
   },
   {
-    "word": "like?\n\n\n\n\ncomputing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhere",
+    "word": "like     computing                 where",
     "count": 5
   },
   {
-    "word": "like?\n\n\nintel",
+    "word": "like   intel",
     "count": 1
   },
   {
@@ -5892,7 +5552,7 @@
     "count": 8
   },
   {
-    "word": "limb,",
+    "word": "limb",
     "count": 12
   },
   {
@@ -5904,15 +5564,15 @@
     "count": 18
   },
   {
-    "word": "live\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nairpods",
+    "word": "live                   airpods",
     "count": 1
   },
   {
-    "word": "live\n\n\n\n\n\n\n\n\n\nairpods",
+    "word": "live          airpods",
     "count": 5
   },
   {
-    "word": "lockdown,",
+    "word": "lockdown",
     "count": 7
   },
   {
@@ -5920,7 +5580,7 @@
     "count": 6
   },
   {
-    "word": "long-lasting",
+    "word": "longlasting",
     "count": 7
   },
   {
@@ -5956,31 +5616,31 @@
     "count": 11
   },
   {
-    "word": "lottery\n",
+    "word": "lottery ",
     "count": 2
   },
   {
-    "word": "lottery\n\n\npeople",
+    "word": "lottery   people",
     "count": 1
   },
   {
-    "word": "lottery\n\na",
+    "word": "lottery  a",
     "count": 1
   },
   {
-    "word": "lottery\nan",
+    "word": "lottery an",
     "count": 1
   },
   {
-    "word": "lottery\nsynonyms:",
+    "word": "lottery synonyms",
     "count": 1
   },
   {
-    "word": "lottery\nverb\n\nverb\n\nplay",
+    "word": "lottery verb  verb  play",
     "count": 1
   },
   {
-    "word": "lottery\nverb\nplay",
+    "word": "lottery verb play",
     "count": 2
   },
   {
@@ -5993,11 +5653,7 @@
   },
   {
     "word": "luck",
-    "count": 12
-  },
-  {
-    "word": "luck,",
-    "count": 12
+    "count": 24
   },
   {
     "word": "lumb",
@@ -6032,19 +5688,15 @@
     "count": 11
   },
   {
-    "word": "malayalam\n>\n>\n\ngambler",
+    "word": "malayalam    gambler",
     "count": 1
   },
   {
-    "word": "malayalam\ngamble",
-    "count": 2
+    "word": "malayalam gamble",
+    "count": 3
   },
   {
-    "word": "malayalam>\ngamble",
-    "count": 1
-  },
-  {
-    "word": "malayalam>gambler",
+    "word": "malayalamgambler",
     "count": 5
   },
   {
@@ -6064,7 +5716,7 @@
     "count": 8
   },
   {
-    "word": "marianne",
+    "word": "mariannes",
     "count": 11
   },
   {
@@ -6108,6 +5760,10 @@
     "count": 42
   },
   {
+    "word": "mbl",
+    "count": 22
+  },
+  {
     "word": "mccann",
     "count": 7
   },
@@ -6128,19 +5784,15 @@
     "count": 39
   },
   {
-    "word": "meaning\n>\n>\n\ngamble",
+    "word": "meaning    gamble",
     "count": 1
   },
   {
-    "word": "meaning\ngambler",
-    "count": 2
+    "word": "meaning gambler",
+    "count": 3
   },
   {
-    "word": "meaning>\ngambler",
-    "count": 1
-  },
-  {
-    "word": "meaning>gamble",
+    "word": "meaninggamble",
     "count": 5
   },
   {
@@ -6164,11 +5816,11 @@
     "count": 5
   },
   {
-    "word": "merriam-webster\nhttps://www.merriam-webster.com",
+    "word": "merriamwebster httpswwwmerriamwebstercom",
     "count": 1
   },
   {
-    "word": "merriam-websterhttps://www.merriam-webster.com",
+    "word": "merriamwebsterhttpswwwmerriamwebstercom",
     "count": 6
   },
   {
@@ -6189,11 +5841,7 @@
   },
   {
     "word": "milf",
-    "count": 16
-  },
-  {
-    "word": "milf,",
-    "count": 5
+    "count": 21
   },
   {
     "word": "miller",
@@ -6276,7 +5924,7 @@
     "count": 8
   },
   {
-    "word": "minhottie-gina",
+    "word": "minhottiegina",
     "count": 8
   },
   {
@@ -6380,7 +6028,7 @@
     "count": 8
   },
   {
-    "word": "minyour-da",
+    "word": "minyourda",
     "count": 8
   },
   {
@@ -6392,7 +6040,7 @@
     "count": 6
   },
   {
-    "word": "mission-critical",
+    "word": "missioncritical",
     "count": 7
   },
   {
@@ -6412,11 +6060,11 @@
     "count": 15
   },
   {
-    "word": "mom\namateur",
+    "word": "mom amateur",
     "count": 1
   },
   {
-    "word": "mom\nmature",
+    "word": "mom mature",
     "count": 1
   },
   {
@@ -6429,39 +6077,19 @@
   },
   {
     "word": "money",
-    "count": 132
+    "count": 188
   },
   {
-    "word": "money\ncamping",
+    "word": "money camping",
     "count": 1
   },
   {
-    "word": "money,",
-    "count": 11
-  },
-  {
-    "word": "money;",
-    "count": 12
-  },
-  {
-    "word": "money:",
-    "count": 11
-  },
-  {
-    "word": "money.\ngamble",
+    "word": "money gamble",
     "count": 7
   },
   {
-    "word": "money.\ngambling",
+    "word": "money gambling",
     "count": 1
-  },
-  {
-    "word": "money.gambling",
-    "count": 3
-  },
-  {
-    "word": "money)",
-    "count": 11
   },
   {
     "word": "money8",
@@ -6472,11 +6100,15 @@
     "count": 6
   },
   {
+    "word": "moneygambling",
+    "count": 3
+  },
+  {
     "word": "month",
     "count": 15
   },
   {
-    "word": "month\npast",
+    "word": "month past",
     "count": 2
   },
   {
@@ -6485,38 +6117,30 @@
   },
   {
     "word": "more",
-    "count": 64
+    "count": 76
   },
   {
-    "word": "more\n\n\n\nlatest",
+    "word": "more \t\t\t terms",
+    "count": 1
+  },
+  {
+    "word": "more \t\t\t xvideoscom",
+    "count": 4
+  },
+  {
+    "word": "more    latest",
     "count": 3
   },
   {
-    "word": "more,",
-    "count": 4
-  },
-  {
-    "word": "more:",
+    "word": "more sex",
     "count": 8
   },
   {
-    "word": "more.\nsex",
-    "count": 8
-  },
-  {
-    "word": "more...\n\t\t\t\nterms",
+    "word": "more xxvideos",
     "count": 1
   },
   {
-    "word": "more...\n\t\t\t\nxvideos.com",
-    "count": 4
-  },
-  {
-    "word": "more...\nxxvideos",
-    "count": 1
-  },
-  {
-    "word": "more.sex",
+    "word": "moresex",
     "count": 3
   },
   {
@@ -6528,7 +6152,7 @@
     "count": 46
   },
   {
-    "word": "mother",
+    "word": "mothers",
     "count": 14
   },
   {
@@ -6548,35 +6172,31 @@
     "count": 58
   },
   {
-    "word": "movies\n",
+    "word": "movies ",
     "count": 3
   },
   {
-    "word": "movies.\n\n\n\n\ntv\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "movies     tv                      how",
     "count": 1
   },
   {
-    "word": "movies.\n\n\n\n\ntv\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "movies     tv                 how",
     "count": 5
   },
   {
-    "word": "movies.\n\n\nhow",
+    "word": "movies   how",
     "count": 1
   },
   {
-    "word": "mtg\n>\n>\n\ngamble'",
+    "word": "mtg    gamble",
     "count": 1
   },
   {
-    "word": "mtg\ngamble",
-    "count": 2
+    "word": "mtg gamble",
+    "count": 3
   },
   {
-    "word": "mtg>\ngamble",
-    "count": 1
-  },
-  {
-    "word": "mtg>gamble'",
+    "word": "mtggamble",
     "count": 5
   },
   {
@@ -6592,23 +6212,23 @@
     "count": 12
   },
   {
-    "word": "music\n\n\n\n\n\n\n\n\n\n4\npubg",
+    "word": "music          4 pubg",
     "count": 8
   },
   {
-    "word": "music\n\n\n\n\n\n\n\n\n3\nwhy",
+    "word": "music         3 why",
     "count": 1
   },
   {
-    "word": "music\n\n\n\n\n\n\n4\npubg",
+    "word": "music       4 pubg",
     "count": 1
   },
   {
-    "word": "music\n\n\n\n3\nwhy",
+    "word": "music    3 why",
     "count": 1
   },
   {
-    "word": "music\n\nwhy",
+    "word": "music  why",
     "count": 1
   },
   {
@@ -6620,7 +6240,7 @@
     "count": 8
   },
   {
-    "word": "nacci\nmom",
+    "word": "nacci mom",
     "count": 1
   },
   {
@@ -6652,15 +6272,15 @@
     "count": 7
   },
   {
-    "word": "need.\n\n\n\n\nstorage\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nacronis",
+    "word": "need     storage                      acronis",
     "count": 1
   },
   {
-    "word": "need.\n\n\n\n\nstorage\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncircledna",
+    "word": "need     storage                 circledna",
     "count": 5
   },
   {
-    "word": "need.\n\n\nacronis",
+    "word": "need   acronis",
     "count": 1
   },
   {
@@ -6668,35 +6288,35 @@
     "count": 8
   },
   {
-    "word": "netflix,",
+    "word": "netflix",
     "count": 12
   },
   {
-    "word": "network.\n",
+    "word": "network ",
     "count": 2
   },
   {
-    "word": "network.\n\n\n\n\n\n\n\nsex",
+    "word": "network        sex",
     "count": 1
   },
   {
-    "word": "network.\n\nterms",
+    "word": "network  terms",
     "count": 1
   },
   {
-    "word": "network.\nsearch\nsearch\nsearch\n\n\nworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
+    "word": "network search search search   worldafricaamericasasiaaustraliachinaeuropeindiamiddle",
     "count": 1
   },
   {
-    "word": "network.\nsearchworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
+    "word": "network searchworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
     "count": 1
   },
   {
-    "word": "network.\nterms",
+    "word": "network terms",
     "count": 1
   },
   {
-    "word": "network.turner",
+    "word": "networkturner",
     "count": 7
   },
   {
@@ -6709,22 +6329,18 @@
   },
   {
     "word": "news",
-    "count": 51
+    "count": 71
   },
   {
-    "word": "news\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfitbit",
+    "word": "news                fitbit",
     "count": 7
   },
   {
-    "word": "news\nview",
+    "word": "news view",
     "count": 4
   },
   {
-    "word": "news,",
-    "count": 20
-  },
-  {
-    "word": "newsletters\nwork",
+    "word": "newsletters work",
     "count": 2
   },
   {
@@ -6732,16 +6348,16 @@
     "count": 18
   },
   {
-    "word": "newsource\nsitemap\n©",
+    "word": "newsource sitemap ",
     "count": 1
   },
   {
-    "word": "newsourcesitemap\nterms",
-    "count": 1
-  },
-  {
-    "word": "newsourcesitemap©",
+    "word": "newsourcesitemap",
     "count": 6
+  },
+  {
+    "word": "newsourcesitemap terms",
+    "count": 1
   },
   {
     "word": "next",
@@ -6761,46 +6377,66 @@
   },
   {
     "word": "no",
-    "count": 22
+    "count": 27
   },
   {
     "word": "noise",
     "count": 6
   },
   {
-    "word": "none;\"",
+    "word": "none",
     "count": 2
   },
   {
     "word": "normal",
+    "count": 12
+  },
+  {
+    "word": "normal 6",
     "count": 5
   },
   {
-    "word": "normal-people-good-sex-scenes\n\n6",
+    "word": "normal how",
+    "count": 2
+  },
+  {
+    "word": "normal the",
     "count": 1
   },
   {
-    "word": "normal-people-good-sex-scenes\nhow",
+    "word": "normalpeoplegoodsexscenes  6",
     "count": 1
   },
   {
-    "word": "normal-people-good-sex-scenes6",
+    "word": "normalpeoplegoodsexscenes how",
+    "count": 1
+  },
+  {
+    "word": "normalpeoplegoodsexscenes6",
     "count": 5
+  },
+  {
+    "word": "normalthe",
+    "count": 3
   },
   {
     "word": "not",
     "count": 22
   },
   {
-    "word": "note.\n\n\n\n\nmobile",
+    "word": "note",
+    "count": 5
+  },
+  {
+    "word": "note     mobile",
     "count": 6
   },
   {
-    "word": "note.\n\n\noneplus",
+    "word": "note   oneplus",
     "count": 1
   },
   {
-    "word": "notifications\ncalifornia",
+    "word": "notifications california",
     "count": 4
   },
   {
@@ -6808,19 +6444,19 @@
     "count": 55
   },
   {
-    "word": "now!\n10",
+    "word": "now 10",
     "count": 1
   },
   {
-    "word": "now!\nbest",
+    "word": "now best",
     "count": 1
   },
   {
-    "word": "now!\ncompare",
+    "word": "now compare",
     "count": 1
   },
   {
-    "word": "now!best",
+    "word": "nowbest",
     "count": 3
   },
   {
@@ -6828,7 +6464,7 @@
     "count": 8
   },
   {
-    "word": "object),",
+    "word": "object",
     "count": 11
   },
   {
@@ -6836,15 +6472,15 @@
     "count": 8
   },
   {
-    "word": "of,",
-    "count": 12
+    "word": "of overview",
+    "count": 11
   },
   {
     "word": "off",
     "count": 8
   },
   {
-    "word": "off\nsci",
+    "word": "off sci",
     "count": 1
   },
   {
@@ -6852,11 +6488,11 @@
     "count": 12
   },
   {
-    "word": "offer\n\n\n\n\n\n",
+    "word": "offer      ",
     "count": 3
   },
   {
-    "word": "offer\nplease",
+    "word": "offer please",
     "count": 2
   },
   {
@@ -6880,11 +6516,7 @@
     "count": 6
   },
   {
-    "word": "of�...\noverview",
-    "count": 11
-  },
-  {
-    "word": "oil\nwatch",
+    "word": "oil watch",
     "count": 1
   },
   {
@@ -6901,39 +6533,31 @@
   },
   {
     "word": "on",
-    "count": 266
+    "count": 286
   },
   {
-    "word": "on\n\n\nnoun\n\nnoun\n\nan",
+    "word": "on   noun  noun  an",
     "count": 1
   },
   {
-    "word": "on\n\ntake",
+    "word": "on  take",
     "count": 1
   },
   {
-    "word": "on\nplay",
+    "word": "on play",
     "count": 1
   },
   {
-    "word": "on\nsynonyms:",
+    "word": "on synonyms",
     "count": 1
   },
   {
-    "word": "on,",
-    "count": 12
-  },
-  {
-    "word": "on:",
-    "count": 8
-  },
-  {
-    "word": "on</b>",
+    "word": "onb",
     "count": 24
   },
   {
     "word": "one",
-    "count": 76
+    "count": 17
   },
   {
     "word": "oneplus",
@@ -6941,22 +6565,14 @@
   },
   {
     "word": "ones",
-    "count": 7
+    "count": 66
   },
   {
     "word": "online",
-    "count": 92
+    "count": 109
   },
   {
-    "word": "online,",
-    "count": 5
-  },
-  {
-    "word": "online:",
-    "count": 12
-  },
-  {
-    "word": "onnoun\nan",
+    "word": "onnoun an",
     "count": 8
   },
   {
@@ -6976,27 +6592,27 @@
     "count": 16
   },
   {
-    "word": "order\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "order               how",
     "count": 2
   },
   {
-    "word": "order\n\n\nby\n\nnick",
-    "count": 7
-  },
-  {
-    "word": "order\n\n\nby\n\nsamuel",
-    "count": 7
-  },
-  {
-    "word": "order.\n\n\n\n\ntv\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "order     tv                      how",
     "count": 1
   },
   {
-    "word": "order.\n\n\n\n\ntv\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "order     tv                 how",
     "count": 5
   },
   {
-    "word": "order.\n\n\nhow",
+    "word": "order   by  nick",
+    "count": 7
+  },
+  {
+    "word": "order   by  samuel",
+    "count": 7
+  },
+  {
+    "word": "order   how",
     "count": 1
   },
   {
@@ -7005,11 +6621,7 @@
   },
   {
     "word": "orgies",
-    "count": 5
-  },
-  {
-    "word": "orgies,",
-    "count": 5
+    "count": 10
   },
   {
     "word": "other",
@@ -7021,18 +6633,14 @@
   },
   {
     "word": "out",
-    "count": 33
+    "count": 52
   },
   {
-    "word": "out,",
-    "count": 19
-  },
-  {
-    "word": "outcome,",
+    "word": "outcome",
     "count": 21
   },
   {
-    "word": "outdoors!!38",
+    "word": "outdoors38",
     "count": 8
   },
   {
@@ -7040,19 +6648,19 @@
     "count": 17
   },
   {
-    "word": "over\nitalian",
+    "word": "over italian",
     "count": 1
   },
   {
-    "word": "overall�...\nsex",
+    "word": "overall sex",
     "count": 6
   },
   {
-    "word": "overall�...\nwebmd",
+    "word": "overall webmd",
     "count": 2
   },
   {
-    "word": "overall�...sex",
+    "word": "overallsex",
     "count": 3
   },
   {
@@ -7076,31 +6684,27 @@
     "count": 7
   },
   {
-    "word": "pad.\n\n\n\n\ngaming\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "pad     gaming                      how",
     "count": 1
   },
   {
-    "word": "pad.\n\n\n\n\ngaming\n\n\n\nview",
+    "word": "pad     gaming    view",
     "count": 5
   },
   {
-    "word": "pad.\n\n\nhow",
+    "word": "pad   how",
     "count": 1
   },
   {
     "word": "page",
-    "count": 5
-  },
-  {
-    "word": "page,",
-    "count": 5
+    "count": 10
   },
   {
     "word": "pages",
     "count": 5
   },
   {
-    "word": "palmer\nbehind",
+    "word": "palmer behind",
     "count": 1
   },
   {
@@ -7121,11 +6725,7 @@
   },
   {
     "word": "parents",
-    "count": 8
-  },
-  {
-    "word": "parents,",
-    "count": 5
+    "count": 13
   },
   {
     "word": "paris",
@@ -7148,7 +6748,7 @@
     "count": 8
   },
   {
-    "word": "pawg\nbooty\nlesbian",
+    "word": "pawg booty lesbian",
     "count": 1
   },
   {
@@ -7160,15 +6760,15 @@
     "count": 15
   },
   {
-    "word": "pcs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngigabyte",
+    "word": "pcs                      gigabyte",
     "count": 1
   },
   {
-    "word": "pcs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\noneplus",
+    "word": "pcs                 oneplus",
     "count": 5
   },
   {
-    "word": "pdt/2.30pm",
+    "word": "pdt230pm",
     "count": 6
   },
   {
@@ -7176,35 +6776,31 @@
     "count": 7
   },
   {
-    "word": "penile-vaginal",
+    "word": "penilevaginal",
     "count": 11
   },
   {
     "word": "people",
-    "count": 42
+    "count": 49
   },
   {
-    "word": "people'",
-    "count": 7
-  },
-  {
-    "word": "performance?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "performance                          intel",
     "count": 1
   },
   {
-    "word": "performance?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\napple",
+    "word": "performance                     apples",
     "count": 5
   },
   {
-    "word": "performance?\n\n\n\n\nprocessors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "performance     processors                      intel",
     "count": 1
   },
   {
-    "word": "performance?\n\n\n\n\nprocessors\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\napple",
+    "word": "performance     processors                 apples",
     "count": 5
   },
   {
-    "word": "performance?\n\n\nintel",
+    "word": "performance   intel",
     "count": 2
   },
   {
@@ -7216,87 +6812,83 @@
     "count": 8
   },
   {
-    "word": "pew'",
+    "word": "pew",
     "count": 8
   },
   {
     "word": "phone",
-    "count": 14
+    "count": 22
   },
   {
-    "word": "phone\n",
+    "word": "phone ",
     "count": 6
   },
   {
-    "word": "phone\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "phone               how",
     "count": 1
   },
   {
-    "word": "phone\n\n\nby\n\ntom",
+    "word": "phone   by  tom",
     "count": 7
   },
   {
-    "word": "phone:",
-    "count": 8
-  },
-  {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'pew",
+    "word": "phones                      cheap",
     "count": 1
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncheap",
+    "word": "phones                      hands",
     "count": 1
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhands",
-    "count": 1
-  },
-  {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "phones                      how",
     "count": 2
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nios",
+    "word": "phones                      ios",
     "count": 1
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\noneplus",
+    "word": "phones                      oneplus",
     "count": 2
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsell",
+    "word": "phones                      pew",
     "count": 1
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsell",
+    "word": "phones                      sell",
+    "count": 1
+  },
+  {
+    "word": "phones                     sell",
     "count": 5
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'pew",
+    "word": "phones                 flock",
     "count": 5
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflock",
-    "count": 5
-  },
-  {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "phones                 how",
     "count": 15
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\noneplus",
+    "word": "phones                 oneplus",
     "count": 5
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nthe",
+    "word": "phones                 pew",
     "count": 5
   },
   {
-    "word": "phones\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwevpn",
+    "word": "phones                 the",
     "count": 5
   },
   {
-    "word": "pickavance,",
+    "word": "phones                 wevpn",
+    "count": 5
+  },
+  {
+    "word": "pickavance",
     "count": 7
   },
   {
@@ -7304,15 +6896,15 @@
     "count": 14
   },
   {
-    "word": "picks!\n\n\n\n\ngaming\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nthe",
+    "word": "picks     gaming                      the",
     "count": 1
   },
   {
-    "word": "picks!\n\n\n\n\ngaming\n\n\n\nview",
+    "word": "picks     gaming    view",
     "count": 5
   },
   {
-    "word": "picks!\n\n\nthe",
+    "word": "picks   the",
     "count": 1
   },
   {
@@ -7356,11 +6948,11 @@
     "count": 31
   },
   {
-    "word": "plan.\n\n\n\n\nmobile",
+    "word": "plan     mobile",
     "count": 6
   },
   {
-    "word": "plan.\n\n\ncheap",
+    "word": "plan   cheap",
     "count": 1
   },
   {
@@ -7372,7 +6964,7 @@
     "count": 7
   },
   {
-    "word": "playerunknown’s",
+    "word": "playerunknowns",
     "count": 24
   },
   {
@@ -7384,7 +6976,7 @@
     "count": 11
   },
   {
-    "word": "plug)4",
+    "word": "plug4",
     "count": 8
   },
   {
@@ -7392,35 +6984,35 @@
     "count": 15
   },
   {
-    "word": "poke,",
+    "word": "poke",
     "count": 24
   },
   {
-    "word": "policy\naccessibility",
+    "word": "policy        xvideoscom   accountjoin",
     "count": 1
   },
   {
-    "word": "policy\nadvertise",
+    "word": "policy       xvideoscom   accountjoin",
+    "count": 1
+  },
+  {
+    "word": "policy accessibility",
+    "count": 1
+  },
+  {
+    "word": "policy advertise",
     "count": 4
   },
   {
-    "word": "policy\ncookies",
+    "word": "policy cookies",
     "count": 4
   },
   {
-    "word": "policy.\n\n\n\n\n\n\n\nxvideos.com\n\n accountjoin",
+    "word": "policy x                 cnn",
     "count": 1
   },
   {
-    "word": "policy.\n\n\n\n\n\n\nxvideos.com\n\n accountjoin",
-    "count": 1
-  },
-  {
-    "word": "policy.\nx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncnn",
-    "count": 1
-  },
-  {
-    "word": "policy.\nxxvideos",
+    "word": "policy xxvideos",
     "count": 1
   },
   {
@@ -7428,23 +7020,23 @@
     "count": 7
   },
   {
-    "word": "politics\nbusiness\nhealth\nentertainment\nstyle\ntravel\nsports\nvideos\n\neditionu.s.internationalarabicespañol\neditionu.s.internationalarabicespañol\nedition\nu.s.internationalarabicespañol\nu.s.\ninternational\narabic\nespañol\nsearcheditionu.s.internationalarabicespañolworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
+    "word": "politics business health entertainment style travel sports videos  editionusinternationalarabicespaol editionusinternationalarabicespaol edition usinternationalarabicespaol us international arabic espaol searcheditionusinternationalarabicespaolworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
     "count": 1
   },
   {
-    "word": "politicsbusinesshealthentertainmentstyletravelsportsvideos\nworld\nus",
+    "word": "politicsbusinesshealthentertainmentstyletravelsportsvideos world us",
     "count": 1
   },
   {
-    "word": "politicsbusinesshealthentertainmentstyletravelsportsvideoseditionu.s.internationalarabicespañol\n\nworldus",
+    "word": "politicsbusinesshealthentertainmentstyletravelsportsvideoseditionusinternationalarabicespaol  worldus",
     "count": 1
   },
   {
-    "word": "politicsbusinesshealthentertainmentstyletravelsportsvideoseditionu.s.internationalarabicespañol\nworldus",
+    "word": "politicsbusinesshealthentertainmentstyletravelsportsvideoseditionusinternationalarabicespaol worldus",
     "count": 1
   },
   {
-    "word": "politicsbusinesshealthentertainmentstyletravelsportsvideoseditionu.s.internationalarabicespañolsearcheditionu.s.internationalarabicespañolworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
+    "word": "politicsbusinesshealthentertainmentstyletravelsportsvideoseditionusinternationalarabicespaolsearcheditionusinternationalarabicespaolworldafricaamericasasiaaustraliachinaeuropeindiamiddle",
     "count": 6
   },
   {
@@ -7456,7 +7048,7 @@
     "count": 7
   },
   {
-    "word": "ponies,",
+    "word": "ponies",
     "count": 12
   },
   {
@@ -7468,7 +7060,7 @@
     "count": 5
   },
   {
-    "word": "popular\n\n\nmost",
+    "word": "popular   most",
     "count": 9
   },
   {
@@ -7480,31 +7072,31 @@
     "count": 55
   },
   {
-    "word": "porn\n",
+    "word": "porn ",
     "count": 10
   },
   {
-    "word": "porn\n\n",
+    "word": "porn  ",
     "count": 2
   },
   {
-    "word": "porn\nall",
+    "word": "porn all",
     "count": 1
   },
   {
-    "word": "porn\ncasting\nchubby\ncompilation\ncreampie\ncumshot\ndrunk\nfisting\nfucked",
+    "word": "porn casting chubby compilation creampie cumshot drunk fisting fucked",
     "count": 1
   },
   {
-    "word": "porn\ndo",
+    "word": "porn do",
     "count": 3
   },
   {
-    "word": "porn\nporn",
+    "word": "porn porn",
     "count": 1
   },
   {
-    "word": "porn\nshemale",
+    "word": "porn shemale",
     "count": 1
   },
   {
@@ -7520,7 +7112,7 @@
     "count": 5
   },
   {
-    "word": "pornographic)",
+    "word": "pornographic",
     "count": 11
   },
   {
@@ -7528,15 +7120,15 @@
     "count": 6
   },
   {
-    "word": "pornvideos.com",
+    "word": "pornvideoscom",
     "count": 3
   },
   {
-    "word": "pornvideos.com\n",
+    "word": "pornvideoscom ",
     "count": 3
   },
   {
-    "word": "pornvideos.com\n\n",
+    "word": "pornvideoscom  ",
     "count": 1
   },
   {
@@ -7548,7 +7140,7 @@
     "count": 60
   },
   {
-    "word": "positions,",
+    "word": "positions",
     "count": 7
   },
   {
@@ -7573,11 +7165,7 @@
   },
   {
     "word": "power",
-    "count": 7
-  },
-  {
-    "word": "power,",
-    "count": 7
+    "count": 14
   },
   {
     "word": "pregnancies",
@@ -7588,15 +7176,15 @@
     "count": 3
   },
   {
-    "word": "premium\n",
+    "word": "premium ",
     "count": 18
   },
   {
-    "word": "present:",
+    "word": "present",
     "count": 10
   },
   {
-    "word": "president",
+    "word": "presidents",
     "count": 11
   },
   {
@@ -7628,27 +7216,27 @@
     "count": 12
   },
   {
-    "word": "printer:",
+    "word": "printer",
     "count": 16
   },
   {
-    "word": "printer.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhere",
+    "word": "printer                          where",
     "count": 1
   },
   {
-    "word": "printer.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "printer                     intel",
     "count": 5
   },
   {
-    "word": "printer.\n\n\n\n\ncomputing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhere",
+    "word": "printer     computing                      where",
     "count": 1
   },
   {
-    "word": "printer.\n\n\n\n\ncomputing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "printer     computing                 intel",
     "count": 5
   },
   {
-    "word": "printer.\n\n\nwhere",
+    "word": "printer   where",
     "count": 2
   },
   {
@@ -7668,27 +7256,27 @@
     "count": 15
   },
   {
-    "word": "pro\n\n\nacronis",
+    "word": "pro   acronis",
     "count": 7
   },
   {
-    "word": "pro\n\n\nflock",
+    "word": "pro   flock",
     "count": 7
   },
   {
-    "word": "pro\n\n\nthe",
+    "word": "pro   the",
     "count": 7
   },
   {
-    "word": "pro\n\n\nthis",
+    "word": "pro   this",
     "count": 7
   },
   {
-    "word": "pro\n\n\nueni",
+    "word": "pro   ueni",
     "count": 7
   },
   {
-    "word": "pro\n\nupdated\nthis",
+    "word": "pro  updated this",
     "count": 7
   },
   {
@@ -7696,7 +7284,7 @@
     "count": 7
   },
   {
-    "word": "problems:",
+    "word": "problems",
     "count": 8
   },
   {
@@ -7704,15 +7292,15 @@
     "count": 11
   },
   {
-    "word": "processors\nwith",
+    "word": "processors with",
     "count": 6
   },
   {
-    "word": "proctor’s",
+    "word": "proctors",
     "count": 8
   },
   {
-    "word": "profiles\ncnn",
+    "word": "profiles cnn",
     "count": 2
   },
   {
@@ -7724,7 +7312,7 @@
     "count": 12
   },
   {
-    "word": "project\nimpact",
+    "word": "project impact",
     "count": 2
   },
   {
@@ -7756,7 +7344,7 @@
     "count": 5
   },
   {
-    "word": "ps5\n",
+    "word": "ps5 ",
     "count": 6
   },
   {
@@ -7772,20 +7360,20 @@
     "count": 3
   },
   {
-    "word": "punt\n\nan",
-    "count": 1
-  },
-  {
-    "word": "punt\na",
-    "count": 1
-  },
-  {
-    "word": "punt\nsynonyms:",
-    "count": 1
-  },
-  {
-    "word": "punt,",
+    "word": "punt",
     "count": 12
+  },
+  {
+    "word": "punt  an",
+    "count": 1
+  },
+  {
+    "word": "punt a",
+    "count": 1
+  },
+  {
+    "word": "punt synonyms",
+    "count": 1
   },
   {
     "word": "punta",
@@ -7806,6 +7394,18 @@
   {
     "word": "putahot",
     "count": 8
+  },
+  {
+    "word": "pvi sex",
+    "count": 6
+  },
+  {
+    "word": "pvi the",
+    "count": 2
+  },
+  {
+    "word": "pvisex",
+    "count": 3
   },
   {
     "word": "qualifying",
@@ -7840,7 +7440,7 @@
     "count": 7
   },
   {
-    "word": "racing\nmotorsport\nsailing\nrugby\nformula",
+    "word": "racing motorsport sailing rugby formula",
     "count": 2
   },
   {
@@ -7848,23 +7448,23 @@
     "count": 18
   },
   {
-    "word": "radar\n\n\n\n\n\n",
+    "word": "radar      ",
     "count": 1
   },
   {
-    "word": "radar\n\n\n\n\n\n\n\n\n",
+    "word": "radar         ",
     "count": 1
   },
   {
-    "word": "radar\n\n\n\n\n\n\n\n\n\n\ntrending\n\n\n",
+    "word": "radar           trending   ",
     "count": 2
   },
   {
-    "word": "radar\n\n\n\n\n\n\ntrending\n\n\n",
+    "word": "radar       trending   ",
     "count": 1
   },
   {
-    "word": "radar\n\n\n\npro\n\n\n5g",
+    "word": "radar    pro   5g",
     "count": 1
   },
   {
@@ -7884,7 +7484,7 @@
     "count": 5
   },
   {
-    "word": "rated\n\n\nthe",
+    "word": "rated   the",
     "count": 7
   },
   {
@@ -7908,27 +7508,27 @@
     "count": 7
   },
   {
-    "word": "real-life",
-    "count": 7
-  },
-  {
     "word": "reality",
     "count": 8
+  },
+  {
+    "word": "reallife",
+    "count": 7
   },
   {
     "word": "rec",
     "count": 12
   },
   {
-    "word": "recently�...\npeople",
+    "word": "recently people",
     "count": 1
   },
   {
-    "word": "recently�...\nsex",
+    "word": "recently sex",
     "count": 7
   },
   {
-    "word": "recently�...people",
+    "word": "recentlypeople",
     "count": 3
   },
   {
@@ -7944,11 +7544,11 @@
     "count": 12
   },
   {
-    "word": "red\n",
+    "word": "red ",
     "count": 5
   },
   {
-    "word": "red\n\n",
+    "word": "red  ",
     "count": 1
   },
   {
@@ -7976,15 +7576,15 @@
     "count": 7
   },
   {
-    "word": "regions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsamsung",
+    "word": "regions                          samsung",
     "count": 1
   },
   {
-    "word": "regions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nueni",
+    "word": "regions                     ueni",
     "count": 5
   },
   {
-    "word": "regions.\n\n\nsamsung",
+    "word": "regions   samsung",
     "count": 1
   },
   {
@@ -8033,11 +7633,7 @@
   },
   {
     "word": "reproduction",
-    "count": 22
-  },
-  {
-    "word": "reproduction,",
-    "count": 11
+    "count": 33
   },
   {
     "word": "reproductive",
@@ -8048,7 +7644,7 @@
     "count": 10
   },
   {
-    "word": "reserved.cnn",
+    "word": "reservedcnn",
     "count": 7
   },
   {
@@ -8056,47 +7652,47 @@
     "count": 5
   },
   {
-    "word": "result.\n'he",
+    "word": "result he",
     "count": 1
   },
   {
-    "word": "result.\ntake",
+    "word": "result take",
     "count": 1
   },
   {
-    "word": "result.'he",
+    "word": "resulthe",
     "count": 10
   },
   {
-    "word": "results\nall",
+    "word": "results",
+    "count": 7
+  },
+  {
+    "word": "results all",
     "count": 4
   },
   {
-    "word": "results\nverbatim\n\ngamble",
+    "word": "results verbatim  gamble",
     "count": 1
   },
   {
-    "word": "results\nverbatim\n\nsex",
+    "word": "results verbatim  sex",
     "count": 1
-  },
-  {
-    "word": "results,",
-    "count": 7
   },
   {
     "word": "resultsall",
     "count": 18
   },
   {
-    "word": "resultsverbatim\n",
+    "word": "resultsverbatim ",
     "count": 2
   },
   {
-    "word": "resultsverbatim\nall",
+    "word": "resultsverbatim all",
     "count": 2
   },
   {
-    "word": "resultsverbatim\nany",
+    "word": "resultsverbatim any",
     "count": 8
   },
   {
@@ -8125,82 +7721,78 @@
   },
   {
     "word": "revenue",
-    "count": 16
+    "count": 30
   },
   {
-    "word": "revenue,",
-    "count": 14
-  },
-  {
-    "word": "review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhands",
+    "word": "review                    hands",
     "count": 1
   },
   {
-    "word": "review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nacronis",
+    "word": "review               acronis",
     "count": 1
   },
   {
-    "word": "review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncircledna",
+    "word": "review               circledna",
     "count": 1
   },
   {
-    "word": "review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflock",
+    "word": "review               flock",
     "count": 1
   },
   {
-    "word": "review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngigabyte",
+    "word": "review               gigabyte",
     "count": 1
   },
   {
-    "word": "review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\noneplus",
+    "word": "review               oneplus",
     "count": 2
   },
   {
-    "word": "review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npurevpn",
+    "word": "review               purevpn",
     "count": 1
   },
   {
-    "word": "review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nueni",
+    "word": "review               ueni",
     "count": 1
   },
   {
-    "word": "review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwevpn",
+    "word": "review               wevpn",
     "count": 1
   },
   {
-    "word": "review\n\n\n\nview",
+    "word": "review    view",
     "count": 1
   },
   {
-    "word": "review\n\n\nby\n\ndavid",
+    "word": "review   by  david",
     "count": 14
   },
   {
-    "word": "review\n\n\nby\n\nholly",
+    "word": "review   by  holly",
     "count": 7
   },
   {
-    "word": "review\n\n\nby\n\njames",
+    "word": "review   by  james",
     "count": 7
   },
   {
-    "word": "review\n\n\nby\n\njohn",
+    "word": "review   by  john",
     "count": 14
   },
   {
-    "word": "review\n\n\nby\n\nmark",
+    "word": "review   by  mark",
     "count": 7
   },
   {
-    "word": "review\n\n\nby\n\nmike",
+    "word": "review   by  mike",
     "count": 21
   },
   {
-    "word": "review\n\n\nby\n\nsteve",
+    "word": "review   by  steve",
     "count": 7
   },
   {
-    "word": "review\ngoogle",
+    "word": "review google",
     "count": 6
   },
   {
@@ -8208,27 +7800,27 @@
     "count": 11
   },
   {
-    "word": "reviews\n\n\n\n\n",
+    "word": "reviews     ",
     "count": 1
   },
   {
-    "word": "reviews\n\n\n\n\n\n\n\n\n\n\n",
+    "word": "reviews           ",
     "count": 4
   },
   {
-    "word": "reviews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsamsung",
+    "word": "reviews                      samsung",
     "count": 1
   },
   {
-    "word": "reviews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsamsung",
+    "word": "reviews                samsung",
     "count": 1
   },
   {
-    "word": "reviews\n\n\n\n\n\n\n\nview",
+    "word": "reviews        view",
     "count": 1
   },
   {
-    "word": "reviews\nview",
+    "word": "reviews view",
     "count": 4
   },
   {
@@ -8244,36 +7836,32 @@
     "count": 7
   },
   {
-    "word": "rights\n\n\n©\nfuture",
+    "word": "rights    future",
     "count": 3
   },
   {
-    "word": "rights\n\nfree",
+    "word": "rights  free",
     "count": 1
   },
   {
     "word": "risk",
-    "count": 33
+    "count": 89
   },
   {
-    "word": "risk,",
-    "count": 56
+    "word": "risk from",
+    "count": 5
+  },
+  {
+    "word": "risk gamble",
+    "count": 3
+  },
+  {
+    "word": "riskgamble",
+    "count": 3
   },
   {
     "word": "risky",
     "count": 57
-  },
-  {
-    "word": "risk�...\nfrom",
-    "count": 5
-  },
-  {
-    "word": "risk�...\ngamble",
-    "count": 3
-  },
-  {
-    "word": "risk�...gamble",
-    "count": 3
   },
   {
     "word": "roberts",
@@ -8284,11 +7872,11 @@
     "count": 8
   },
   {
-    "word": "rooney",
+    "word": "rooneys",
     "count": 11
   },
   {
-    "word": "rose)",
+    "word": "rose",
     "count": 8
   },
   {
@@ -8360,7 +7948,7 @@
     "count": 28
   },
   {
-    "word": "scenes\nreal",
+    "word": "scenes real",
     "count": 1
   },
   {
@@ -8368,7 +7956,7 @@
     "count": 6
   },
   {
-    "word": "schedule\ntv",
+    "word": "schedule tv",
     "count": 2
   },
   {
@@ -8385,11 +7973,7 @@
   },
   {
     "word": "screen",
-    "count": 7
-  },
-  {
-    "word": "screen,",
-    "count": 7
+    "count": 14
   },
   {
     "word": "screens",
@@ -8408,11 +7992,11 @@
     "count": 24
   },
   {
-    "word": "searches\n\ngamble",
+    "word": "searches  gamble",
     "count": 1
   },
   {
-    "word": "searches\n\nrelated",
+    "word": "searches  related",
     "count": 1
   },
   {
@@ -8420,7 +8004,7 @@
     "count": 5
   },
   {
-    "word": "searchgooglegoogle�<meta",
+    "word": "searchgooglegooglemeta",
     "count": 2
   },
   {
@@ -8444,7 +8028,7 @@
     "count": 20
   },
   {
-    "word": "seconds.</div>",
+    "word": "secondsdiv",
     "count": 4
   },
   {
@@ -8452,19 +8036,19 @@
     "count": 8
   },
   {
-    "word": "seduction\n\n\n\nxvideos.com",
+    "word": "seduction    xvideoscom",
     "count": 4
   },
   {
-    "word": "seduction\njeny",
+    "word": "seduction jeny",
     "count": 1
   },
   {
-    "word": "seduction\ntrends",
+    "word": "seduction trends",
     "count": 1
   },
   {
-    "word": "seduction\ntrends\njeny",
+    "word": "seduction trends jeny",
     "count": 1
   },
   {
@@ -8484,19 +8068,15 @@
     "count": 7
   },
   {
-    "word": "sentence\n>\n>\n\ngamble",
+    "word": "sentence    gamble",
     "count": 1
   },
   {
-    "word": "sentence\ngamble",
-    "count": 2
+    "word": "sentence gamble",
+    "count": 3
   },
   {
-    "word": "sentence>\ngamble",
-    "count": 1
-  },
-  {
-    "word": "sentence>gamble",
+    "word": "sentencegamble",
     "count": 5
   },
   {
@@ -8509,11 +8089,7 @@
   },
   {
     "word": "services",
-    "count": 16
-  },
-  {
-    "word": "services,",
-    "count": 14
+    "count": 30
   },
   {
     "word": "set",
@@ -8528,56 +8104,48 @@
     "count": 204
   },
   {
-    "word": "sex\n\nfrom",
-    "count": 1
-  },
-  {
-    "word": "sex\n\norganisms",
-    "count": 1
-  },
-  {
-    "word": "sex\n\nsex",
-    "count": 3
-  },
-  {
-    "word": "sex\n\nsex,",
-    "count": 1
-  },
-  {
-    "word": "sex\nsex",
-    "count": 6
-  },
-  {
-    "word": "sex-relationships\n\nsex",
-    "count": 1
-  },
-  {
-    "word": "sex-relationships\nwebmd",
-    "count": 1
-  },
-  {
-    "word": "sex-relationshipssex",
-    "count": 5
-  },
-  {
-    "word": "sex!3",
-    "count": 8
-  },
-  {
-    "word": "sex?\n\n\n\n\n\n\n\nwhat",
+    "word": "sex        what",
     "count": 2
   },
   {
-    "word": "sex?\nwhat",
-    "count": 3
+    "word": "sex  from",
+    "count": 1
   },
   {
-    "word": "sex?\nwhy",
-    "count": 3
+    "word": "sex  organisms",
+    "count": 1
   },
   {
-    "word": "sex?what",
+    "word": "sex  sex",
+    "count": 4
+  },
+  {
+    "word": "sex coronavirus",
+    "count": 1
+  },
+  {
+    "word": "sex from",
+    "count": 5
+  },
+  {
+    "word": "sex sex",
     "count": 8
+  },
+  {
+    "word": "sex what",
+    "count": 3
+  },
+  {
+    "word": "sex why",
+    "count": 3
+  },
+  {
+    "word": "sex3",
+    "count": 8
+  },
+  {
+    "word": "sexcoronavirus",
+    "count": 3
   },
   {
     "word": "sexfrom",
@@ -8592,12 +8160,20 @@
     "count": 5
   },
   {
-    "word": "sexsex",
-    "count": 15
+    "word": "sexrelationships  sex",
+    "count": 1
   },
   {
-    "word": "sexsex,",
+    "word": "sexrelationships webmd",
+    "count": 1
+  },
+  {
+    "word": "sexrelationshipssex",
     "count": 5
+  },
+  {
+    "word": "sexsex",
+    "count": 20
   },
   {
     "word": "sextape",
@@ -8609,54 +8185,38 @@
   },
   {
     "word": "sexuality",
-    "count": 11
+    "count": 22
   },
   {
-    "word": "sexuality,",
-    "count": 11
-  },
-  {
-    "word": "sexuality.\nsex",
+    "word": "sexuality sex",
     "count": 8
   },
   {
-    "word": "sexuality.sex",
+    "word": "sexualitysex",
     "count": 3
   },
   {
-    "word": "sexually?\n\n\n\n\n\n\n\nis",
+    "word": "sexually        is",
     "count": 1
   },
   {
-    "word": "sexually?\nwhat",
+    "word": "sexually what",
     "count": 3
   },
   {
-    "word": "sexually?is",
+    "word": "sexuallyis",
     "count": 4
   },
   {
-    "word": "sex�...\ncoronavirus:",
-    "count": 1
-  },
-  {
-    "word": "sex�...\nfrom",
-    "count": 5
-  },
-  {
-    "word": "sex�...\nsex",
-    "count": 2
-  },
-  {
-    "word": "sex�...coronavirus:",
-    "count": 3
-  },
-  {
-    "word": "shared\n\n\n\n\n\n\n\n\n\n1\nthis",
+    "word": "sexwhat",
     "count": 8
   },
   {
-    "word": "shared\n\n\n\n\n\n\n\n\n1\nthis",
+    "word": "shared          1 this",
+    "count": 8
+  },
+  {
+    "word": "shared         1 this",
     "count": 1
   },
   {
@@ -8676,7 +8236,7 @@
     "count": 8
   },
   {
-    "word": "shot,",
+    "word": "shot",
     "count": 12
   },
   {
@@ -8708,11 +8268,11 @@
     "count": 12
   },
   {
-    "word": "signs\nentertainmentstarsscreenbingeculturemedia\nstars\nscreen\nbinge\nculture\nmedia\ntechinnovategadgetforeseeable",
+    "word": "signs entertainmentstarsscreenbingeculturemedia stars screen binge culture media techinnovategadgetforeseeable",
     "count": 2
   },
   {
-    "word": "signs\nfood\nfitness\nwellness\nparenting\nvital",
+    "word": "signs food fitness wellness parenting vital",
     "count": 2
   },
   {
@@ -8724,11 +8284,11 @@
     "count": 5
   },
   {
-    "word": "singapore\nwww.psychologytoday.com",
+    "word": "singapore wwwpsychologytodaycom",
     "count": 1
   },
   {
-    "word": "singaporewww.psychologytoday.com",
+    "word": "singaporewwwpsychologytodaycom",
     "count": 6
   },
   {
@@ -8741,34 +8301,34 @@
   },
   {
     "word": "site",
-    "count": 27
+    "count": 30
   },
   {
-    "word": "site\t\t\t\n\n\n accountjoin",
+    "word": "site\t\t\t    accountjoin",
     "count": 1
   },
   {
-    "word": "site\t\t\t\n\nthe",
+    "word": "site\t\t\t  the",
     "count": 4
   },
   {
-    "word": "site\t\t\t\nthe",
+    "word": "site\t\t\t the",
     "count": 1
   },
   {
-    "word": "site\n�100",
+    "word": "site   about",
+    "count": 3
+  },
+  {
+    "word": "site 100",
     "count": 1
   },
   {
-    "word": "site,",
-    "count": 3
+    "word": "site please",
+    "count": 5
   },
   {
-    "word": "site.\n\n\nabout",
-    "count": 3
-  },
-  {
-    "word": "site.\nplease",
+    "word": "site100",
     "count": 5
   },
   {
@@ -8776,11 +8336,7 @@
     "count": 30
   },
   {
-    "word": "sites\n",
-    "count": 5
-  },
-  {
-    "word": "site�100",
+    "word": "sites ",
     "count": 5
   },
   {
@@ -8788,23 +8344,23 @@
     "count": 7
   },
   {
-    "word": "slack.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\napple",
+    "word": "slack                          apples",
     "count": 2
   },
   {
-    "word": "slack.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "slack                         intel",
     "count": 5
   },
   {
-    "word": "slack.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nxbox",
+    "word": "slack                   xbox",
     "count": 4
   },
   {
-    "word": "slack.\n\n\n\n\n\n\n\n\nlatest",
+    "word": "slack         latest",
     "count": 1
   },
   {
-    "word": "slack.\n\n\napple",
+    "word": "slack   apples",
     "count": 2
   },
   {
@@ -8820,7 +8376,7 @@
     "count": 7
   },
   {
-    "word": "slim,",
+    "word": "slim",
     "count": 7
   },
   {
@@ -8836,7 +8392,7 @@
     "count": 37
   },
   {
-    "word": "smartphones,",
+    "word": "smartphones",
     "count": 7
   },
   {
@@ -8848,7 +8404,7 @@
     "count": 12
   },
   {
-    "word": "smith\nmommysgirl\nsara",
+    "word": "smith mommysgirl sara",
     "count": 1
   },
   {
@@ -8873,26 +8429,22 @@
   },
   {
     "word": "something",
-    "count": 54
+    "count": 77
   },
   {
-    "word": "something,",
-    "count": 12
-  },
-  {
-    "word": "something.\nenglish",
+    "word": "something english",
     "count": 5
   },
   {
-    "word": "something.\ngamble",
+    "word": "something gamble",
     "count": 3
   },
   {
-    "word": "something.gamble",
+    "word": "somethinggamble",
     "count": 3
   },
   {
-    "word": "son\nanal",
+    "word": "son anal",
     "count": 1
   },
   {
@@ -8900,11 +8452,11 @@
     "count": 6
   },
   {
-    "word": "soon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncheap",
+    "word": "soon               cheap",
     "count": 2
   },
   {
-    "word": "soon\n\n\nby\n\nnick",
+    "word": "soon   by  nick",
     "count": 14
   },
   {
@@ -8912,27 +8464,23 @@
     "count": 7
   },
   {
-    "word": "spanish\n>\n>\n",
-    "count": 1
-  },
-  {
-    "word": "spanish\ngamble'",
-    "count": 2
-  },
-  {
-    "word": "spanish>",
+    "word": "spanish",
     "count": 3
   },
   {
-    "word": "spanish>\ngamble'",
+    "word": "spanish   ",
     "count": 1
   },
   {
-    "word": "spanish>\nrelated",
+    "word": "spanish gamble",
+    "count": 3
+  },
+  {
+    "word": "spanish related",
     "count": 2
   },
   {
-    "word": "spanking\ncute",
+    "word": "spanking cute",
     "count": 1
   },
   {
@@ -8949,30 +8497,22 @@
   },
   {
     "word": "species",
-    "count": 11
-  },
-  {
-    "word": "species,",
-    "count": 11
+    "count": 22
   },
   {
     "word": "specs",
-    "count": 7
+    "count": 28
   },
   {
-    "word": "specs,",
-    "count": 21
-  },
-  {
-    "word": "speculate,",
+    "word": "speculate",
     "count": 12
   },
   {
-    "word": "speculation,",
+    "word": "speculation",
     "count": 24
   },
   {
-    "word": "speeds,",
+    "word": "speeds",
     "count": 7
   },
   {
@@ -8984,7 +8524,7 @@
     "count": 6
   },
   {
-    "word": "spyware/adware/trojan/etc.\nthere",
+    "word": "spywareadwaretrojanetc there",
     "count": 5
   },
   {
@@ -8996,7 +8536,7 @@
     "count": 16
   },
   {
-    "word": "src=\"//pixel.quantserve.com/pixel/p-d1yc5zqgjmqr5.gif?labels=noscript%3ano%20labels%20set\"",
+    "word": "srcpixelquantservecompixelpd1yc5zqgjmqr5giflabelsnoscript3ano20labels20set",
     "count": 2
   },
   {
@@ -9008,15 +8548,15 @@
     "count": 22
   },
   {
-    "word": "staff'\n'we",
+    "word": "staff synonyms",
     "count": 1
   },
   {
-    "word": "staff'\nsynonyms:",
+    "word": "staff we",
     "count": 1
   },
   {
-    "word": "staff'synonyms:",
+    "word": "staffsynonyms",
     "count": 10
   },
   {
@@ -9036,7 +8576,7 @@
     "count": 7
   },
   {
-    "word": "statement\nadvertise",
+    "word": "statement advertise",
     "count": 1
   },
   {
@@ -9076,27 +8616,27 @@
     "count": 31
   },
   {
-    "word": "stock\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "stock               intel",
     "count": 3
   },
   {
-    "word": "stock\n\n\nby\n\nbill",
-    "count": 21
-  },
-  {
-    "word": "stock.\n\n\n\n\ncomputing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhere",
+    "word": "stock     computing                      where",
     "count": 1
   },
   {
-    "word": "stock.\n\n\n\n\ncomputing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "stock     computing                 intel",
     "count": 5
   },
   {
-    "word": "stock.\n\n\nwhere",
+    "word": "stock   by  bill",
+    "count": 21
+  },
+  {
+    "word": "stock   where",
     "count": 1
   },
   {
-    "word": "store\nnewsletters\ntranscripts\nlicense",
+    "word": "store newsletters transcripts license",
     "count": 1
   },
   {
@@ -9105,30 +8645,26 @@
   },
   {
     "word": "stories",
-    "count": 11
+    "count": 18
   },
   {
-    "word": "stories,",
-    "count": 7
-  },
-  {
-    "word": "stracciato\n\n\n\n\n\n\n\n\n\n3\nwhy",
+    "word": "stracciato          3 why",
     "count": 8
   },
   {
-    "word": "stracciato\n\n\n\n\n\n\n\n\n2\n100",
+    "word": "stracciato         2 100",
     "count": 1
   },
   {
-    "word": "stracciato\n\n\n\n\n\n\n3\nwhy",
+    "word": "stracciato       3 why",
     "count": 1
   },
   {
-    "word": "stracciato\n\n\n\n2\n100",
+    "word": "stracciato    2 100",
     "count": 1
   },
   {
-    "word": "stracciato\n\n100",
+    "word": "stracciato  100",
     "count": 1
   },
   {
@@ -9136,7 +8672,7 @@
     "count": 10
   },
   {
-    "word": "straight\n",
+    "word": "straight ",
     "count": 1
   },
   {
@@ -9144,7 +8680,7 @@
     "count": 8
   },
   {
-    "word": "strangers,",
+    "word": "strangers",
     "count": 5
   },
   {
@@ -9160,7 +8696,7 @@
     "count": 12
   },
   {
-    "word": "street,",
+    "word": "street",
     "count": 3
   },
   {
@@ -9172,15 +8708,15 @@
     "count": 15
   },
   {
-    "word": "stronger.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncircledna",
+    "word": "stronger                          circledna",
     "count": 1
   },
   {
-    "word": "stronger.\n\n\n\n\n\n\n\n\n\nview",
+    "word": "stronger          view",
     "count": 5
   },
   {
-    "word": "stronger.\n\n\ncircledna",
+    "word": "stronger   circledna",
     "count": 1
   },
   {
@@ -9188,7 +8724,7 @@
     "count": 7
   },
   {
-    "word": "studios\ncnn",
+    "word": "studios cnn",
     "count": 2
   },
   {
@@ -9196,11 +8732,11 @@
     "count": 18
   },
   {
-    "word": "style=\"display:",
+    "word": "styledisplay",
     "count": 2
   },
   {
-    "word": "style=\"display:block\">please",
+    "word": "styledisplayblockplease",
     "count": 4
   },
   {
@@ -9216,7 +8752,7 @@
     "count": 11
   },
   {
-    "word": "subs\nhistory\nbest",
+    "word": "subs history best",
     "count": 1
   },
   {
@@ -9237,22 +8773,18 @@
   },
   {
     "word": "success",
-    "count": 23
+    "count": 34
   },
   {
-    "word": "success,",
-    "count": 11
-  },
-  {
-    "word": "success.\n'we",
+    "word": "success a",
     "count": 1
   },
   {
-    "word": "success.\na",
+    "word": "success we",
     "count": 1
   },
   {
-    "word": "success.'we",
+    "word": "successwe",
     "count": 10
   },
   {
@@ -9276,11 +8808,11 @@
     "count": 8
   },
   {
-    "word": "sun\nhttps://www.thesun.co.uk",
+    "word": "sun httpswwwthesuncouk",
     "count": 1
   },
   {
-    "word": "sunhttps://www.thesun.co.uk",
+    "word": "sunhttpswwwthesuncouk",
     "count": 6
   },
   {
@@ -9296,11 +8828,11 @@
     "count": 30
   },
   {
-    "word": "swagger.\n\n\n\n\nmobile",
+    "word": "swagger     mobile",
     "count": 6
   },
   {
-    "word": "swagger.\n\n\n'pew",
+    "word": "swagger   pew",
     "count": 1
   },
   {
@@ -9312,51 +8844,35 @@
     "count": 8
   },
   {
-    "word": "synonym\n>\n>\n\ngamble",
+    "word": "synonym    gamble",
     "count": 1
   },
   {
-    "word": "synonym\ngamble",
-    "count": 2
+    "word": "synonym gamble",
+    "count": 3
   },
   {
-    "word": "synonym>\ngamble",
-    "count": 1
-  },
-  {
-    "word": "synonym>gamble",
+    "word": "synonymgamble",
     "count": 5
   },
   {
     "word": "synonyms",
-    "count": 11
-  },
-  {
-    "word": "synonyms:",
-    "count": 11
+    "count": 22
   },
   {
     "word": "system",
-    "count": 6
+    "count": 13
   },
   {
-    "word": "system,",
-    "count": 7
-  },
-  {
-    "word": "t&cs",
-    "count": 6
-  },
-  {
-    "word": "tags\n+\n\n",
-    "count": 1
-  },
-  {
-    "word": "tags+\n",
+    "word": "tags ",
     "count": 4
   },
   {
-    "word": "tags+\ncategories\nireland",
+    "word": "tags   ",
+    "count": 1
+  },
+  {
+    "word": "tags categories ireland",
     "count": 1
   },
   {
@@ -9368,24 +8884,24 @@
     "count": 11
   },
   {
-    "word": "tamil\n>\n>\n\nhow",
+    "word": "tamil    how",
     "count": 1
   },
   {
-    "word": "tamil\ngamble",
-    "count": 2
+    "word": "tamil gamble",
+    "count": 3
   },
   {
-    "word": "tamil>\ngamble",
-    "count": 1
-  },
-  {
-    "word": "tamil>how",
+    "word": "tamilhow",
     "count": 5
   },
   {
     "word": "taxi7",
     "count": 8
+  },
+  {
+    "word": "tcs",
+    "count": 6
   },
   {
     "word": "teacher",
@@ -9400,27 +8916,27 @@
     "count": 13
   },
   {
-    "word": "tech\n\n\n\n\n\n\n\n\n\n2\n100",
+    "word": "tech          2 100",
     "count": 8
   },
   {
-    "word": "tech\n\n\n\n\n\n\n\n\n1\niphone",
+    "word": "tech         1 iphone",
     "count": 1
   },
   {
-    "word": "tech\n\n\n\n\n\n\n2\n100",
+    "word": "tech       2 100",
     "count": 1
   },
   {
-    "word": "tech\n\n\n\n1\niphone",
+    "word": "tech    1 iphone",
     "count": 1
   },
   {
-    "word": "tech\n\niphone",
+    "word": "tech  iphone",
     "count": 1
   },
   {
-    "word": "tech\ncomponents\ndownloads\nvpn\nweb",
+    "word": "tech components downloads vpn web",
     "count": 6
   },
   {
@@ -9432,7 +8948,7 @@
     "count": 16
   },
   {
-    "word": "teen\nparty",
+    "word": "teen party",
     "count": 2
   },
   {
@@ -9476,15 +8992,15 @@
     "count": 85
   },
   {
-    "word": "that�...\ngamble",
+    "word": "that gamble",
     "count": 3
   },
   {
-    "word": "that�...\nto",
+    "word": "that to",
     "count": 5
   },
   {
-    "word": "that�...gamble",
+    "word": "thatgamble",
     "count": 3
   },
   {
@@ -9496,15 +9012,15 @@
     "count": 15
   },
   {
-    "word": "them\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "them               how",
     "count": 1
   },
   {
-    "word": "them\n\n\nby\n\ndavid",
+    "word": "them   by  david",
     "count": 7
   },
   {
-    "word": "there",
+    "word": "theres",
     "count": 12
   },
   {
@@ -9529,11 +9045,7 @@
   },
   {
     "word": "thomas",
-    "count": 14
-  },
-  {
-    "word": "thomas,",
-    "count": 21
+    "count": 35
   },
   {
     "word": "though",
@@ -9556,7 +9068,7 @@
     "count": 15
   },
   {
-    "word": "thresome,",
+    "word": "thresome",
     "count": 5
   },
   {
@@ -9580,11 +9092,11 @@
     "count": 14
   },
   {
-    "word": "time\nany",
+    "word": "time any",
     "count": 4
   },
   {
-    "word": "time\npast",
+    "word": "time past",
     "count": 2
   },
   {
@@ -9608,7 +9120,7 @@
     "count": 7
   },
   {
-    "word": "tits\nblack\nblackmail\nblonde\nblowjob\nbritish\nbrunette\ncam",
+    "word": "tits black blackmail blonde blowjob british brunette cam",
     "count": 1
   },
   {
@@ -9616,24 +9128,16 @@
     "count": 6
   },
   {
-    "word": "™",
-    "count": 7
-  },
-  {
     "word": "to",
     "count": 676
   },
   {
-    "word": "to\n\n\n\n\nreviews\n\n\n\n\nphones\n\n\n\n\ntvs\n\n\n\n\nlaptops\n\n\n\n\ncameras\n\n\n\n\ndeals\n\n\n\nmore",
+    "word": "to     reviews     phones     tvs     laptops     cameras     deals    more",
     "count": 5
   },
   {
     "word": "today",
-    "count": 7
-  },
-  {
-    "word": "today,",
-    "count": 6
+    "count": 13
   },
   {
     "word": "tommy",
@@ -9648,11 +9152,11 @@
     "count": 16
   },
   {
-    "word": "tools\nany",
+    "word": "tools any",
     "count": 2
   },
   {
-    "word": "toons\nhentai",
+    "word": "toons hentai",
     "count": 1
   },
   {
@@ -9668,7 +9172,7 @@
     "count": 14
   },
   {
-    "word": "topics:",
+    "word": "topics",
     "count": 11
   },
   {
@@ -9676,15 +9180,15 @@
     "count": 10
   },
   {
-    "word": "tos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow",
+    "word": "tos                how",
     "count": 1
   },
   {
-    "word": "tos\nview",
+    "word": "tos view",
     "count": 4
   },
   {
-    "word": "town,",
+    "word": "town",
     "count": 7
   },
   {
@@ -9696,39 +9200,39 @@
     "count": 16
   },
   {
-    "word": "tracking?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnew",
+    "word": "tracking                          new",
     "count": 1
   },
   {
-    "word": "tracking?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncheap",
+    "word": "tracking                     cheap",
     "count": 5
   },
   {
-    "word": "tracking?\n\n\n\n\naudio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnew",
+    "word": "tracking     audio                      new",
     "count": 1
   },
   {
-    "word": "tracking?\n\n\n\n\naudio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncheap",
+    "word": "tracking     audio                 cheap",
     "count": 5
   },
   {
-    "word": "tracking?\n\n\nnew",
+    "word": "tracking   new",
     "count": 2
   },
   {
-    "word": "trafficfactory.biz\n\n\ntrends",
+    "word": "trafficfactorybiz   trends",
     "count": 4
   },
   {
-    "word": "trans\n\njoin",
+    "word": "trans  join",
     "count": 1
   },
   {
-    "word": "trans\nlanguage",
+    "word": "trans language",
     "count": 4
   },
   {
-    "word": "transformed\ninnovative",
+    "word": "transformed innovative",
     "count": 2
   },
   {
@@ -9736,7 +9240,7 @@
     "count": 18
   },
   {
-    "word": "transitive]",
+    "word": "transitive",
     "count": 11
   },
   {
@@ -9748,11 +9252,15 @@
     "count": 7
   },
   {
+    "word": "trendsjeny",
+    "count": 4
+  },
+  {
     "word": "tried",
     "count": 8
   },
   {
-    "word": "triple-rear",
+    "word": "triplerear",
     "count": 7
   },
   {
@@ -9764,7 +9272,7 @@
     "count": 7
   },
   {
-    "word": "trump\nsupreme",
+    "word": "trump supreme",
     "count": 2
   },
   {
@@ -9784,11 +9292,11 @@
     "count": 5
   },
   {
-    "word": "tube\n",
+    "word": "tube ",
     "count": 13
   },
   {
-    "word": "tube\n\n",
+    "word": "tube  ",
     "count": 1
   },
   {
@@ -9796,7 +9304,7 @@
     "count": 52
   },
   {
-    "word": "tvs,",
+    "word": "tvs",
     "count": 7
   },
   {
@@ -9812,11 +9320,11 @@
     "count": 11
   },
   {
-    "word": "types\ngamble",
+    "word": "types gamble",
     "count": 1
   },
   {
-    "word": "types\ngambling",
+    "word": "types gambling",
     "count": 7
   },
   {
@@ -9825,7 +9333,11 @@
   },
   {
     "word": "uk",
-    "count": 20
+    "count": 8
+  },
+  {
+    "word": "uks",
+    "count": 12
   },
   {
     "word": "ultra",
@@ -9880,48 +9392,40 @@
     "count": 91
   },
   {
-    "word": "up?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncheap",
+    "word": "up               cheap",
     "count": 1
   },
   {
-    "word": "up?\n\n\nby\n\nadam",
+    "word": "up   by  adam",
     "count": 7
   },
   {
     "word": "uploaded",
-    "count": 10
+    "count": 15
   },
   {
-    "word": "uploaded,",
-    "count": 5
-  },
-  {
-    "word": "uploading.\nabout",
+    "word": "uploading about",
     "count": 5
   },
   {
     "word": "us",
-    "count": 18
+    "count": 21
   },
   {
-    "word": "us\ncnn",
+    "word": "us cnn",
     "count": 1
   },
   {
-    "word": "us\nmodern",
+    "word": "us modern",
     "count": 1
   },
   {
-    "word": "us\nterms",
+    "word": "us terms",
     "count": 4
   },
   {
-    "word": "us\nweb",
+    "word": "us web",
     "count": 4
-  },
-  {
-    "word": "us,",
-    "count": 3
   },
   {
     "word": "uscnn",
@@ -9929,15 +9433,15 @@
   },
   {
     "word": "use",
-    "count": 16
+    "count": 23
   },
   {
-    "word": "use\nprivacy",
+    "word": "use privacy",
     "count": 1
   },
   {
-    "word": "use:",
-    "count": 7
+    "word": "used",
+    "count": 11
   },
   {
     "word": "useprivacy",
@@ -9952,11 +9456,11 @@
     "count": 8
   },
   {
-    "word": "using.\n\n\n\n\nmobile",
+    "word": "using     mobile",
     "count": 6
   },
   {
-    "word": "using.\n\n\nhow",
+    "word": "using   how",
     "count": 1
   },
   {
@@ -9968,7 +9472,11 @@
     "count": 14
   },
   {
-    "word": "valhalla\neverything",
+    "word": "usually",
+    "count": 11
+  },
+  {
+    "word": "valhalla everything",
     "count": 6
   },
   {
@@ -9977,14 +9485,10 @@
   },
   {
     "word": "value",
-    "count": 21
+    "count": 32
   },
   {
-    "word": "value):",
-    "count": 11
-  },
-  {
-    "word": "varieties,",
+    "word": "varieties",
     "count": 11
   },
   {
@@ -10000,7 +9504,7 @@
     "count": 11
   },
   {
-    "word": "venture,",
+    "word": "venture",
     "count": 35
   },
   {
@@ -10008,7 +9512,7 @@
     "count": 11
   },
   {
-    "word": "verified\nprofiles\ngames\nporn",
+    "word": "verified profiles games porn",
     "count": 1
   },
   {
@@ -10017,54 +9521,46 @@
   },
   {
     "word": "version",
-    "count": 16
+    "count": 21
   },
   {
     "word": "video",
     "count": 27
   },
   {
-    "word": "video\n\n",
+    "word": "video  ",
     "count": 1
   },
   {
     "word": "videos",
-    "count": 55
+    "count": 60
   },
   {
-    "word": "videos\nmy",
+    "word": "videos ",
+    "count": 6
+  },
+  {
+    "word": "videos  ",
     "count": 1
   },
   {
-    "word": "videos\npornstars\nchannels\n100%",
+    "word": "videos   xvideos",
+    "count": 5
+  },
+  {
+    "word": "videos my",
     "count": 1
   },
   {
-    "word": "videos,",
-    "count": 5
-  },
-  {
-    "word": "videos:\n",
-    "count": 2
-  },
-  {
-    "word": "videos:\n\n",
+    "word": "videos pornstars channels 100",
     "count": 1
   },
   {
-    "word": "videos.\n",
-    "count": 4
-  },
-  {
-    "word": "videos.\n\n\nxvideos",
+    "word": "videos we",
     "count": 5
   },
   {
-    "word": "videos.\nwe",
-    "count": 5
-  },
-  {
-    "word": "videos.\nxvideos",
+    "word": "videos xvideos",
     "count": 1
   },
   {
@@ -10072,7 +9568,7 @@
     "count": 5
   },
   {
-    "word": "videospornstarschannels100%",
+    "word": "videospornstarschannels100",
     "count": 5
   },
   {
@@ -10080,7 +9576,7 @@
     "count": 5
   },
   {
-    "word": "vids\n",
+    "word": "vids ",
     "count": 10
   },
   {
@@ -10092,7 +9588,7 @@
     "count": 395
   },
   {
-    "word": "viking-inspired",
+    "word": "vikinginspired",
     "count": 6
   },
   {
@@ -10108,11 +9604,11 @@
     "count": 7
   },
   {
-    "word": "vocabulary.com\nhttps://www.vocabulary.com",
+    "word": "vocabularycom httpswwwvocabularycom",
     "count": 1
   },
   {
-    "word": "vocabulary.comhttps://www.vocabulary.com",
+    "word": "vocabularycomhttpswwwvocabularycom",
     "count": 6
   },
   {
@@ -10124,19 +9620,19 @@
     "count": 14
   },
   {
-    "word": "vpn\n\n\n\n\n\n\n\ntrending\n\n\n",
+    "word": "vpn        trending   ",
     "count": 1
   },
   {
-    "word": "vpn\n\n\n\n\n\ntechradar",
+    "word": "vpn      techradar",
     "count": 3
   },
   {
-    "word": "vpn\n\n\n\n\n\ntrending\n\n",
+    "word": "vpn      trending  ",
     "count": 1
   },
   {
-    "word": "vpn\n\n\n\nlatest",
+    "word": "vpn    latest",
     "count": 1
   },
   {
@@ -10144,20 +9640,16 @@
     "count": 30
   },
   {
-    "word": "vulture\nhttps://www.vulture.com",
+    "word": "vulture httpswwwvulturecom",
     "count": 1
   },
   {
-    "word": "vulturehttps://www.vulture.com",
+    "word": "vulturehttpswwwvulturecom",
     "count": 6
   },
   {
     "word": "wager",
-    "count": 11
-  },
-  {
-    "word": "wager,",
-    "count": 24
+    "count": 35
   },
   {
     "word": "wagering",
@@ -10200,14 +9692,6 @@
     "count": 45
   },
   {
-    "word": "we're",
-    "count": 11
-  },
-  {
-    "word": "we've",
-    "count": 7
-  },
-  {
     "word": "wearables",
     "count": 14
   },
@@ -10216,7 +9700,7 @@
     "count": 8
   },
   {
-    "word": "webcam:",
+    "word": "webcam",
     "count": 8
   },
   {
@@ -10224,47 +9708,47 @@
     "count": 6
   },
   {
-    "word": "website\nadwww.bet365.com/\nbet365™",
+    "word": "website adwwwbet365com bet365",
     "count": 1
   },
   {
-    "word": "website.\nevery",
+    "word": "website every",
     "count": 5
   },
   {
-    "word": "websiteadwww.bet365.com/\nbet365™",
+    "word": "websiteadwwwbet365com bet365",
     "count": 1
   },
   {
-    "word": "websiteadwww.bet365.com/bet365™",
+    "word": "websiteadwwwbet365combet365",
     "count": 4
   },
   {
-    "word": "week\n\n\n\n\n\n\n\n\n\n5\nhow",
+    "word": "week          5 how",
     "count": 8
   },
   {
-    "word": "week\n\n\n\n\n\n\n\n\n4\n10",
+    "word": "week         4 10",
     "count": 1
   },
   {
-    "word": "week\n\n\n\n\n\n\n5\nhow",
+    "word": "week       5 how",
     "count": 1
   },
   {
-    "word": "week\n\n\n\n4\n10",
+    "word": "week    4 10",
     "count": 1
   },
   {
-    "word": "week\n\n10",
+    "word": "week  10",
     "count": 1
   },
   {
-    "word": "week\npast",
+    "word": "week past",
     "count": 2
   },
   {
-    "word": "week\nx",
+    "word": "week x",
     "count": 6
   },
   {
@@ -10288,8 +9772,16 @@
     "count": 7
   },
   {
+    "word": "were",
+    "count": 11
+  },
+  {
     "word": "west",
     "count": 3
+  },
+  {
+    "word": "weve",
+    "count": 7
   },
   {
     "word": "whale35",
@@ -10316,7 +9808,7 @@
     "count": 7
   },
   {
-    "word": "width=\"1\"",
+    "word": "width1",
     "count": 2
   },
   {
@@ -10324,7 +9816,7 @@
     "count": 7
   },
   {
-    "word": "wife\nbusty",
+    "word": "wife busty",
     "count": 1
   },
   {
@@ -10336,19 +9828,19 @@
     "count": 14
   },
   {
-    "word": "wikipedia\n\npeople",
+    "word": "wikipedia  people",
     "count": 1
   },
   {
-    "word": "wikipedia\ngambling",
+    "word": "wikipedia gambling",
     "count": 4
   },
   {
-    "word": "wikipedia\nhttps://en.wikipedia.org",
+    "word": "wikipedia httpsenwikipediaorg",
     "count": 2
   },
   {
-    "word": "wikipediahttps://en.wikipedia.org",
+    "word": "wikipediahttpsenwikipediaorg",
     "count": 12
   },
   {
@@ -10376,7 +9868,7 @@
     "count": 10
   },
   {
-    "word": "winning�...\nhistory",
+    "word": "winning history",
     "count": 11
   },
   {
@@ -10420,20 +9912,24 @@
     "count": 7
   },
   {
-    "word": "works-",
+    "word": "works",
     "count": 8
   },
   {
     "word": "world",
-    "count": 37
+    "count": 31
   },
   {
-    "word": "world\ninside",
+    "word": "world inside",
     "count": 2
   },
   {
     "word": "worldinside",
     "count": 18
+  },
+  {
+    "word": "worlds",
+    "count": 6
   },
   {
     "word": "worldus",
@@ -10444,11 +9940,11 @@
     "count": 11
   },
   {
-    "word": "would,",
+    "word": "would",
     "count": 11
   },
   {
-    "word": "www.xvideos.com)",
+    "word": "wwwxvideoscom",
     "count": 5
   },
   {
@@ -10468,11 +9964,11 @@
     "count": 5
   },
   {
-    "word": "xnxx.com",
+    "word": "xnxxcom",
     "count": 5
   },
   {
-    "word": "xnxx.com\n",
+    "word": "xnxxcom ",
     "count": 11
   },
   {
@@ -10480,19 +9976,19 @@
     "count": 15
   },
   {
-    "word": "xvideos.com",
+    "word": "xvideoscom",
     "count": 5
   },
   {
-    "word": "xvideos.com\n",
+    "word": "xvideoscom ",
     "count": 11
   },
   {
-    "word": "xvideos.com\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "word": "xvideoscom             ",
     "count": 1
   },
   {
-    "word": "xvideos.red",
+    "word": "xvideosred",
     "count": 11
   },
   {
@@ -10500,19 +9996,19 @@
     "count": 8
   },
   {
-    "word": "ya\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "ya                      intel",
     "count": 1
   },
   {
-    "word": "ya\n\n\n\n\n\n\n\n\n\n\n\n\nintel",
+    "word": "ya             intel",
     "count": 5
   },
   {
-    "word": "year\nall",
+    "word": "year all",
     "count": 2
   },
   {
-    "word": "year\nany",
+    "word": "year any",
     "count": 2
   },
   {
@@ -10521,14 +10017,10 @@
   },
   {
     "word": "years",
-    "count": 8
+    "count": 15
   },
   {
-    "word": "years,",
-    "count": 7
-  },
-  {
-    "word": "yesterday,",
+    "word": "yesterday",
     "count": 11
   },
   {
@@ -10540,7 +10032,7 @@
     "count": 8
   },
   {
-    "word": "york,\nny",
+    "word": "york ny",
     "count": 3
   },
   {
@@ -10548,63 +10040,51 @@
     "count": 165
   },
   {
-    "word": "you'd",
+    "word": "you bet365",
+    "count": 1
+  },
+  {
+    "word": "you gamble",
+    "count": 2
+  },
+  {
+    "word": "you when",
+    "count": 5
+  },
+  {
+    "word": "youbet365",
+    "count": 3
+  },
+  {
+    "word": "youd",
     "count": 7
   },
   {
-    "word": "you'll",
+    "word": "youll",
     "count": 12
-  },
-  {
-    "word": "you're",
-    "count": 15
   },
   {
     "word": "your",
     "count": 152
   },
   {
-    "word": "yourdictionary\nhttps://www.yourdictionary.com",
-    "count": 1
-  },
-  {
-    "word": "yourdictionaryhttps://www.yourdictionary.com",
-    "count": 6
-  },
-  {
-    "word": "yourdictionary�...\ngamble",
+    "word": "yourdictionary gamble",
     "count": 8
   },
   {
-    "word": "yourdictionary�...gamble",
-    "count": 3
-  },
-  {
-    "word": "you�...\nbet365™",
+    "word": "yourdictionary httpswwwyourdictionarycom",
     "count": 1
   },
   {
-    "word": "you�...\ngamble",
-    "count": 2
-  },
-  {
-    "word": "you�...\nwhen",
-    "count": 5
-  },
-  {
-    "word": "you�...bet365™",
+    "word": "yourdictionarygamble",
     "count": 3
   },
   {
-    "word": "�",
-    "count": 129
+    "word": "yourdictionaryhttpswwwyourdictionarycom",
+    "count": 6
   },
   {
-    "word": "� america",
-    "count": 7
-  },
-  {
-    "word": "� see",
-    "count": 7
+    "word": "youre",
+    "count": 15
   }
 ]

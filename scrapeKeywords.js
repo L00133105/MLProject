@@ -1,7 +1,7 @@
 const request = require('request');
 const cheerio = require('cheerio');
 var fs = require('fs');
-var array = fs.readFileSync('URLS.txt').toString().split("\n");    
+var array = fs.readFileSync('sitesSport.txt').toString().split("\n");    
 var wstream = fs.createWriteStream('test.txt');
 for(i in array) 
 {
