@@ -2,6 +2,7 @@ const request = require('request');
 const cheerio = require('cheerio');
 var fs = require('fs');
 var array = fs.readFileSync('sitesGambling.txt').toString().split("\n");
+//var wstream = fs.createWriteStream('DataGambling.txt');
 for(i in array) 
 {
     var url = array[i];
@@ -21,7 +22,7 @@ for(i in array)
 }
 var commonWords = fs.readFileSync('commonWords.txt').toString().split("\r\n"); 
 const OUTPUT_FILE = 'wordsGambling.json'
-var testString = fs.readFileSync('DataGambling.txt').toString();
+let testString = fs.readFileSync('DataGambling.txt').toString();
 let formattedString = testString.toLowerCase().replace(/[^\w\s]/gi, '').replace(/(\r\n|\n|\r)/gm," ");
 let uniqueWords = [...new Set(formattedString.split(" "))];
 let skipWords = new Set(commonWords);
