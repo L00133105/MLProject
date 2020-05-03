@@ -4,15 +4,11 @@
     "category": "technology"
   },
   {
-    "text": "gaming",
-    "category": "technology"
-  },
-  {
     "text": "view",
     "category": "technology"
   },
   {
-    "text": "review",
+    "text": "gaming",
     "category": "technology"
   },
   {
@@ -24,11 +20,27 @@
     "category": "technology"
   },
   {
-    "text": "thin",
+    "text": "review",
     "category": "technology"
   },
   {
-    "text": "games",
+    "text": "phone",
+    "category": "technology"
+  },
+  {
+    "text": "eve",
+    "category": "technology"
+  },
+  {
+    "text": "pro",
+    "category": "technology"
+  },
+  {
+    "text": "watch",
+    "category": "technology"
+  },
+  {
+    "text": "laptop",
     "category": "technology"
   },
   {
@@ -40,39 +52,7 @@
     "category": "technology"
   },
   {
-    "text": "assassins",
-    "category": "technology"
-  },
-  {
-    "text": "laptop",
-    "category": "technology"
-  },
-  {
-    "text": "pro",
-    "category": "technology"
-  },
-  {
-    "text": "date",
-    "category": "technology"
-  },
-  {
-    "text": "2020",
-    "category": "technology"
-  },
-  {
-    "text": "phone",
-    "category": "technology"
-  },
-  {
-    "text": "creed",
-    "category": "technology"
-  },
-  {
     "text": "star",
-    "category": "technology"
-  },
-  {
-    "text": "valhalla",
     "category": "technology"
   },
   {
@@ -80,47 +60,7 @@
     "category": "technology"
   },
   {
-    "text": "intel",
-    "category": "technology"
-  },
-  {
-    "text": "per",
-    "category": "technology"
-  },
-  {
-    "text": "ever",
-    "category": "technology"
-  },
-  {
-    "text": "gamer",
-    "category": "technology"
-  },
-  {
-    "text": "free",
-    "category": "technology"
-  },
-  {
-    "text": "has",
-    "category": "technology"
-  },
-  {
-    "text": "moni",
-    "category": "technology"
-  },
-  {
-    "text": "andy",
-    "category": "technology"
-  },
-  {
-    "text": "monitor",
-    "category": "technology"
-  },
-  {
-    "text": "gen",
-    "category": "technology"
-  },
-  {
-    "text": "update",
+    "text": "date",
     "category": "technology"
   },
   {
@@ -128,119 +68,27 @@
     "category": "technology"
   },
   {
-    "text": "build",
+    "text": "games",
     "category": "technology"
   },
   {
-    "text": "deal",
+    "text": "thin",
     "category": "technology"
   },
   {
-    "text": "every",
+    "text": "free",
     "category": "technology"
   },
   {
-    "text": "deals",
+    "text": "assassins",
     "category": "technology"
   },
   {
-    "text": "team",
+    "text": "per",
     "category": "technology"
   },
   {
-    "text": "chalk",
-    "category": "technology"
-  },
-  {
-    "text": "things",
-    "category": "technology"
-  },
-  {
-    "text": "hard",
-    "category": "technology"
-  },
-  {
-    "text": "del",
-    "category": "technology"
-  },
-  {
-    "text": "battle",
-    "category": "technology"
-  },
-  {
-    "text": "fra",
-    "category": "technology"
-  },
-  {
-    "text": "air",
-    "category": "technology"
-  },
-  {
-    "text": "smart",
-    "category": "technology"
-  },
-  {
-    "text": "vic",
-    "category": "technology"
-  },
-  {
-    "text": "watch",
-    "category": "technology"
-  },
-  {
-    "text": "wars",
-    "category": "technology"
-  },
-  {
-    "text": "wes",
-    "category": "technology"
-  },
-  {
-    "text": "support",
-    "category": "technology"
-  },
-  {
-    "text": "start",
-    "category": "technology"
-  },
-  {
-    "text": "pcg",
-    "category": "technology"
-  },
-  {
-    "text": "fallout",
-    "category": "technology"
-  },
-  {
-    "text": "everything",
-    "category": "technology"
-  },
-  {
-    "text": "amd",
-    "category": "technology"
-  },
-  {
-    "text": "rec",
-    "category": "technology"
-  },
-  {
-    "text": "lake",
-    "category": "technology"
-  },
-  {
-    "text": "player",
-    "category": "technology"
-  },
-  {
-    "text": "alien",
-    "category": "technology"
-  },
-  {
-    "text": "updated",
-    "category": "technology"
-  },
-  {
-    "text": "force",
+    "text": "2020",
     "category": "technology"
   },
   {
@@ -248,23 +96,403 @@
     "category": "technology"
   },
   {
-    "text": "predator",
+    "text": "smart",
     "category": "technology"
   },
   {
-    "text": "fraser",
+    "text": "deal",
     "category": "technology"
   },
   {
-    "text": "brown",
+    "text": "online",
     "category": "technology"
   },
   {
-    "text": "chance",
+    "text": "tech",
     "category": "technology"
   },
   {
-    "text": "msi",
+    "text": "wars",
+    "category": "technology"
+  },
+  {
+    "text": "creed",
+    "category": "technology"
+  },
+  {
+    "text": "update",
+    "category": "technology"
+  },
+  {
+    "text": "google",
+    "category": "technology"
+  },
+  {
+    "text": "wes",
+    "category": "technology"
+  },
+  {
+    "text": "radar",
+    "category": "technology"
+  },
+  {
+    "text": "ever",
+    "category": "technology"
+  },
+  {
+    "text": "mac",
+    "category": "technology"
+  },
+  {
+    "text": "del",
+    "category": "technology"
+  },
+  {
+    "text": "team",
+    "category": "technology"
+  },
+  {
+    "text": "deals",
+    "category": "technology"
+  },
+  {
+    "text": "sale",
+    "category": "technology"
+  },
+  {
+    "text": "techradar",
+    "category": "technology"
+  },
+  {
+    "text": "has",
+    "category": "technology"
+  },
+  {
+    "text": "jon",
+    "category": "technology"
+  },
+  {
+    "text": "final",
+    "category": "technology"
+  },
+  {
+    "text": "valhalla",
+    "category": "technology"
+  },
+  {
+    "text": "buy",
+    "category": "technology"
+  },
+  {
+    "text": "vic",
+    "category": "technology"
+  },
+  {
+    "text": "andy",
+    "category": "technology"
+  },
+  {
+    "text": "phones",
+    "category": "technology"
+  },
+  {
+    "text": "jonathan",
+    "category": "technology"
+  },
+  {
+    "text": "bolding",
+    "category": "technology"
+  },
+  {
+    "text": "monitor",
+    "category": "technology"
+  },
+  {
+    "text": "anywhere",
+    "category": "technology"
+  },
+  {
+    "text": "rec",
+    "category": "technology"
+  },
+  {
+    "text": "hit",
+    "category": "technology"
+  },
+  {
+    "text": "every",
+    "category": "technology"
+  },
+  {
+    "text": "player",
+    "category": "technology"
+  },
+  {
+    "text": "hard",
+    "category": "technology"
+  },
+  {
+    "text": "gamer",
+    "category": "technology"
+  },
+  {
+    "text": "stream",
+    "category": "technology"
+  },
+  {
+    "text": "gen",
+    "category": "technology"
+  },
+  {
+    "text": "alien",
+    "category": "technology"
+  },
+  {
+    "text": "chalk",
+    "category": "technology"
+  },
+  {
+    "text": "iphone",
+    "category": "technology"
+  },
+  {
+    "text": "fit",
+    "category": "technology"
+  },
+  {
+    "text": "amd",
+    "category": "technology"
+  },
+  {
+    "text": "things",
+    "category": "technology"
+  },
+  {
+    "text": "rob",
+    "category": "technology"
+  },
+  {
+    "text": "latest",
+    "category": "technology"
+  },
+  {
+    "text": "intel",
+    "category": "technology"
+  },
+  {
+    "text": "hbo",
+    "category": "technology"
+  },
+  {
+    "text": "front",
+    "category": "technology"
+  },
+  {
+    "text": "updated",
+    "category": "technology"
+  },
+  {
+    "text": "air",
+    "category": "technology"
+  },
+  {
+    "text": "lets",
+    "category": "technology"
+  },
+  {
+    "text": "dell",
+    "category": "technology"
+  },
+  {
+    "text": "switch",
+    "category": "technology"
+  },
+  {
+    "text": "rts",
+    "category": "technology"
+  },
+  {
+    "text": "two",
+    "category": "technology"
+  },
+  {
+    "text": "offer",
+    "category": "technology"
+  },
+  {
+    "text": "month",
+    "category": "technology"
+  },
+  {
+    "text": "west",
+    "category": "technology"
+  },
+  {
+    "text": "rage",
+    "category": "technology"
+  },
+  {
+    "text": "morrowind",
+    "category": "technology"
+  },
+  {
+    "text": "tom",
+    "category": "technology"
+  },
+  {
+    "text": "mobile",
+    "category": "technology"
+  },
+  {
+    "text": "had",
+    "category": "technology"
+  },
+  {
+    "text": "mod",
+    "category": "technology"
+  },
+  {
+    "text": "build",
+    "category": "technology"
+  },
+  {
+    "text": "light",
+    "category": "technology"
+  },
+  {
+    "text": "features",
+    "category": "technology"
+  },
+  {
+    "text": "road",
+    "category": "technology"
+  },
+  {
+    "text": "pcg",
+    "category": "technology"
+  },
+  {
+    "text": "least",
+    "category": "technology"
+  },
+  {
+    "text": "lot",
+    "category": "technology"
+  },
+  {
+    "text": "price",
+    "category": "technology"
+  },
+  {
+    "text": "season",
+    "category": "technology"
+  },
+  {
+    "text": "coming",
+    "category": "technology"
+  },
+  {
+    "text": "release",
+    "category": "technology"
+  },
+  {
+    "text": "force",
+    "category": "technology"
+  },
+  {
+    "text": "less",
+    "category": "technology"
+  },
+  {
+    "text": "reviews",
+    "category": "technology"
+  },
+  {
+    "text": "everything",
+    "category": "technology"
+  },
+  {
+    "text": "start",
+    "category": "technology"
+  },
+  {
+    "text": "david",
+    "category": "technology"
+  },
+  {
+    "text": "doom",
+    "category": "technology"
+  },
+  {
+    "text": "away",
+    "category": "technology"
+  },
+  {
+    "text": "cat",
+    "category": "technology"
+  },
+  {
+    "text": "laptops",
+    "category": "technology"
+  },
+  {
+    "text": "specs",
+    "category": "technology"
+  },
+  {
+    "text": "car",
+    "category": "technology"
+  },
+  {
+    "text": "smartwatch",
+    "category": "technology"
+  },
+  {
+    "text": "fallout",
+    "category": "technology"
+  },
+  {
+    "text": "gta",
+    "category": "technology"
+  },
+  {
+    "text": "battle",
+    "category": "technology"
+  },
+  {
+    "text": "era",
+    "category": "technology"
+  },
+  {
+    "text": "dark",
+    "category": "technology"
+  },
+  {
+    "text": "subscribe",
+    "category": "technology"
+  },
+  {
+    "text": "popular",
+    "category": "technology"
+  },
+  {
+    "text": "steam",
+    "category": "technology"
+  },
+  {
+    "text": "report",
+    "category": "technology"
+  },
+  {
+    "text": "log",
+    "category": "technology"
+  },
+  {
+    "text": "beta",
+    "category": "technology"
+  },
+  {
+    "text": "vpn",
     "category": "technology"
   },
   {
@@ -272,11 +500,263 @@
     "category": "technology"
   },
   {
-    "text": "feature",
+    "text": "screen",
     "category": "technology"
   },
   {
-    "text": "car",
+    "text": "tyler",
+    "category": "technology"
+  },
+  {
+    "text": "wilde",
+    "category": "technology"
+  },
+  {
+    "text": "fenlon",
+    "category": "technology"
+  },
+  {
+    "text": "chance",
+    "category": "technology"
+  },
+  {
+    "text": "edition",
+    "category": "technology"
+  },
+  {
+    "text": "next",
+    "category": "technology"
+  },
+  {
+    "text": "zen",
+    "category": "technology"
+  },
+  {
+    "text": "options",
+    "category": "technology"
+  },
+  {
+    "text": "predator",
+    "category": "technology"
+  },
+  {
+    "text": "sex",
+    "category": "technology"
+  },
+  {
+    "text": "hbos",
+    "category": "technology"
+  },
+  {
+    "text": "sar",
+    "category": "technology"
+  },
+  {
+    "text": "steve",
+    "category": "technology"
+  },
+  {
+    "text": "hardware",
+    "category": "technology"
+  },
+  {
+    "text": "pretty",
+    "category": "technology"
+  },
+  {
+    "text": "fantastic",
+    "category": "technology"
+  },
+  {
+    "text": "navi",
+    "category": "technology"
+  },
+  {
+    "text": "fcc",
+    "category": "technology"
+  },
+  {
+    "text": "were",
+    "category": "technology"
+  },
+  {
+    "text": "dig",
+    "category": "technology"
+  },
+  {
+    "text": "street",
+    "category": "technology"
+  },
+  {
+    "text": "pick",
+    "category": "technology"
+  },
+  {
+    "text": "series",
+    "category": "technology"
+  },
+  {
+    "text": "power",
+    "category": "technology"
+  },
+  {
+    "text": "bit",
+    "category": "technology"
+  },
+  {
+    "text": "warcraft",
+    "category": "technology"
+  },
+  {
+    "text": "shadowlands",
+    "category": "technology"
+  },
+  {
+    "text": "square",
+    "category": "technology"
+  },
+  {
+    "text": "multiplayer",
+    "category": "technology"
+  },
+  {
+    "text": "broadband",
+    "category": "technology"
+  },
+  {
+    "text": "yours",
+    "category": "technology"
+  },
+  {
+    "text": "video",
+    "category": "technology"
+  },
+  {
+    "text": "msi",
+    "category": "technology"
+  },
+  {
+    "text": "finally",
+    "category": "technology"
+  },
+  {
+    "text": "gets",
+    "category": "technology"
+  },
+  {
+    "text": "read",
+    "category": "technology"
+  },
+  {
+    "text": "screens",
+    "category": "technology"
+  },
+  {
+    "text": "sim",
+    "category": "technology"
+  },
+  {
+    "text": "graphics",
+    "category": "technology"
+  },
+  {
+    "text": "gang",
+    "category": "technology"
+  },
+  {
+    "text": "shoot",
+    "category": "technology"
+  },
+  {
+    "text": "support",
+    "category": "technology"
+  },
+  {
+    "text": "200",
+    "category": "technology"
+  },
+  {
+    "text": "paul",
+    "category": "technology"
+  },
+  {
+    "text": "lilly",
+    "category": "technology"
+  },
+  {
+    "text": "demon",
+    "category": "technology"
+  },
+  {
+    "text": "geforce",
+    "category": "technology"
+  },
+  {
+    "text": "rtx",
+    "category": "technology"
+  },
+  {
+    "text": "2080",
+    "category": "technology"
+  },
+  {
+    "text": "cyberpunk",
+    "category": "technology"
+  },
+  {
+    "text": "2077",
+    "category": "technology"
+  },
+  {
+    "text": "cheap",
+    "category": "technology"
+  },
+  {
+    "text": "westworld",
+    "category": "technology"
+  },
+  {
+    "text": "finale",
+    "category": "technology"
+  },
+  {
+    "text": "speaker",
+    "category": "technology"
+  },
+  {
+    "text": "hits",
+    "category": "technology"
+  },
+  {
+    "text": "13inch",
+    "category": "technology"
+  },
+  {
+    "text": "macbook",
+    "category": "technology"
+  },
+  {
+    "text": "succession",
+    "category": "technology"
+  },
+  {
+    "text": "xps",
+    "category": "technology"
+  },
+  {
+    "text": "84999",
+    "category": "technology"
+  },
+  {
+    "text": "guide",
+    "category": "technology"
+  },
+  {
+    "text": "wireless",
+    "category": "technology"
+  },
+  {
+    "text": "movie",
     "category": "technology"
   }
 ]

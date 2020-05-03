@@ -48,6 +48,7 @@ for(i in array)
                 var link = $('li, h3, h2, body, div, html').text();
                 //console.log(link);
                 //Apply and Predict
+                console.log(classifier.classify(link), url);
                 if(classifier.classify(link) == "gambling")
                     gambling.write(url + '\n');
                 else if(classifier.classify(link) == "explicit")
