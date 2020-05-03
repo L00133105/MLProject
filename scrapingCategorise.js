@@ -1,7 +1,7 @@
 const request = require('request');
 const cheerio = require('cheerio');
 var fs = require('fs');
-var array = fs.readFileSync('URLS.txt').toString().split("\n");     
+var array = fs.readFileSync('URLs.txt').toString().split("\n");     
 var natural = require('natural');
 var classifier = new natural.BayesClassifier();
 var gambling = fs.createWriteStream('categoryGambling.txt');
@@ -33,8 +33,8 @@ trainTechnology.forEach(item=>{
     classifier.addDocument(item.text, item.category); })
 trainTravel.forEach(item=>{
     classifier.addDocument(item.text, item.category); })   
-
 classifier.train();
+//console.log(classifier.classify("on"));
 for(i in array) 
 {
     var url = array[i];
@@ -48,12 +48,10 @@ for(i in array)
                 var link = $('li, h3, h2, body, div, html').text();
                 //console.log(link);
                 //Apply and Predict
-                //console.log(classifier.classify(link));
-                if(classifier.classify(link) == "explicit")
-                    explicit.write(url + '\n');
-                
-                else if(classifier.classify(link) == "gambling")
-                    gambling.write(url  + '\n');               
+                if(classifier.classify(link) == "gambling")
+                    gambling.write(url + '\n');
+                else if(classifier.classify(link) == "explicit")
+                    explicit.write(url  + '\n');               
                 else if(classifier.classify(link) == "technology")
                     technology.write(url  + '\n');
                 else if(classifier.classify(link) == "entertainment")

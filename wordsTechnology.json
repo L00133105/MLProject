@@ -1,286 +1,282 @@
 [
   {
-    "item": "game",
+    "text": "game",
     "category": "technology"
   },
   {
-    "item": "gaming",
+    "text": "gaming",
     "category": "technology"
   },
   {
-    "item": "view",
+    "text": "view",
     "category": "technology"
   },
   {
-    "item": "review",
+    "text": "review",
     "category": "technology"
   },
   {
-    "item": "war",
+    "text": "war",
     "category": "technology"
   },
   {
-    "item": "are",
+    "text": "are",
     "category": "technology"
   },
   {
-    "item": "its",
+    "text": "thin",
     "category": "technology"
   },
   {
-    "item": "games",
+    "text": "games",
     "category": "technology"
   },
   {
-    "item": "thin",
+    "text": "its",
     "category": "technology"
   },
   {
-    "item": "pro",
+    "text": "win",
     "category": "technology"
   },
   {
-    "item": "phone",
+    "text": "assassins",
     "category": "technology"
   },
   {
-    "item": "laptop",
+    "text": "laptop",
     "category": "technology"
   },
   {
-    "item": "win",
+    "text": "pro",
     "category": "technology"
   },
   {
-    "item": "assassins",
+    "text": "date",
     "category": "technology"
   },
   {
-    "item": "date",
+    "text": "2020",
     "category": "technology"
   },
   {
-    "item": "2020",
+    "text": "phone",
     "category": "technology"
   },
   {
-    "item": "star",
+    "text": "creed",
     "category": "technology"
   },
   {
-    "item": "age",
+    "text": "star",
     "category": "technology"
   },
   {
-    "item": "creed",
+    "text": "valhalla",
     "category": "technology"
   },
   {
-    "item": "intel",
+    "text": "age",
     "category": "technology"
   },
   {
-    "item": "valhalla",
+    "text": "intel",
     "category": "technology"
   },
   {
-    "item": "per",
+    "text": "per",
     "category": "technology"
   },
   {
-    "item": "ever",
+    "text": "ever",
     "category": "technology"
   },
   {
-    "item": "free",
+    "text": "gamer",
     "category": "technology"
   },
   {
-    "item": "has",
+    "text": "free",
     "category": "technology"
   },
   {
-    "item": "update",
+    "text": "has",
     "category": "technology"
   },
   {
-    "item": "heres",
+    "text": "moni",
     "category": "technology"
   },
   {
-    "item": "deal",
+    "text": "andy",
     "category": "technology"
   },
   {
-    "item": "gamer",
+    "text": "monitor",
     "category": "technology"
   },
   {
-    "item": "andy",
+    "text": "gen",
     "category": "technology"
   },
   {
-    "item": "monitor",
+    "text": "update",
     "category": "technology"
   },
   {
-    "item": "build",
+    "text": "heres",
     "category": "technology"
   },
   {
-    "item": "gen",
+    "text": "build",
     "category": "technology"
   },
   {
-    "item": "every",
+    "text": "deal",
     "category": "technology"
   },
   {
-    "item": "deals",
+    "text": "every",
     "category": "technology"
   },
   {
-    "item": "smart",
+    "text": "deals",
     "category": "technology"
   },
   {
-    "item": "del",
+    "text": "team",
     "category": "technology"
   },
   {
-    "item": "watch",
+    "text": "chalk",
     "category": "technology"
   },
   {
-    "item": "vic",
+    "text": "things",
     "category": "technology"
   },
   {
-    "item": "team",
+    "text": "hard",
     "category": "technology"
   },
   {
-    "item": "things",
+    "text": "del",
     "category": "technology"
   },
   {
-    "item": "air",
+    "text": "battle",
     "category": "technology"
   },
   {
-    "item": "chalk",
+    "text": "fra",
     "category": "technology"
   },
   {
-    "item": "wars",
+    "text": "air",
     "category": "technology"
   },
   {
-    "item": "hard",
+    "text": "smart",
     "category": "technology"
   },
   {
-    "item": "fra",
+    "text": "vic",
     "category": "technology"
   },
   {
-    "item": "amd",
+    "text": "watch",
     "category": "technology"
   },
   {
-    "item": "inc",
+    "text": "wars",
     "category": "technology"
   },
   {
-    "item": "rec",
+    "text": "wes",
     "category": "technology"
   },
   {
-    "item": "battle",
+    "text": "support",
     "category": "technology"
   },
   {
-    "item": "wes",
+    "text": "start",
     "category": "technology"
   },
   {
-    "item": "player",
+    "text": "pcg",
     "category": "technology"
   },
   {
-    "item": "support",
+    "text": "fallout",
     "category": "technology"
   },
   {
-    "item": "updated",
+    "text": "everything",
     "category": "technology"
   },
   {
-    "item": "start",
+    "text": "amd",
     "category": "technology"
   },
   {
-    "item": "pcg",
+    "text": "rec",
     "category": "technology"
   },
   {
-    "item": "everything",
+    "text": "lake",
     "category": "technology"
   },
   {
-    "item": "force",
+    "text": "player",
     "category": "technology"
   },
   {
-    "item": "buy",
+    "text": "alien",
     "category": "technology"
   },
   {
-    "item": "alien",
+    "text": "updated",
     "category": "technology"
   },
   {
-    "item": "fallout",
+    "text": "force",
     "category": "technology"
   },
   {
-    "item": "lake",
+    "text": "inc",
     "category": "technology"
   },
   {
-    "item": "mac",
+    "text": "predator",
     "category": "technology"
   },
   {
-    "item": "feature",
+    "text": "fraser",
     "category": "technology"
   },
   {
-    "item": "tech",
+    "text": "brown",
     "category": "technology"
   },
   {
-    "item": "fit",
+    "text": "chance",
     "category": "technology"
   },
   {
-    "item": "fraser",
+    "text": "msi",
     "category": "technology"
   },
   {
-    "item": "brown",
+    "text": "been",
     "category": "technology"
   },
   {
-    "item": "chance",
+    "text": "feature",
     "category": "technology"
   },
   {
-    "item": "predator",
-    "category": "technology"
-  },
-  {
-    "item": "radar",
+    "text": "car",
     "category": "technology"
   }
 ]

@@ -63,7 +63,7 @@ let countArray=[];
           let addWords=[];
                   autoTrain.forEach((item) => {
                     if (item.count >= 30)
-                    addWords.push({"item":item.word,"category":"entertainment"});
+                    addWords.push({"text":item.word,"category":"entertainment"});
                   });
                   console.log(addWords);
                   writeCount(addWords, trainedPath)

@@ -1,994 +1,654 @@
 [
   {
-    "item": "hot",
+    "text": "hotel",
     "category": "travel"
   },
   {
-    "item": "hotel",
+    "text": "view",
     "category": "travel"
   },
   {
-    "item": "view",
+    "text": "views",
     "category": "travel"
   },
   {
-    "item": "hotels",
+    "text": "reviews",
     "category": "travel"
   },
   {
-    "item": "views",
+    "text": "hotels",
     "category": "travel"
   },
   {
-    "item": "reviews",
+    "text": "trip",
     "category": "travel"
   },
   {
-    "item": "trivago",
+    "text": "save",
     "category": "travel"
   },
   {
-    "item": "are",
+    "text": "post",
     "category": "travel"
   },
   {
-    "item": "trip",
+    "text": "helpful",
     "category": "travel"
   },
   {
-    "item": "save",
+    "text": "tripadvisor",
     "category": "travel"
   },
   {
-    "item": "post",
+    "text": "are",
     "category": "travel"
   },
   {
-    "item": "helpful",
+    "text": "travel",
     "category": "travel"
   },
   {
-    "item": "tripadvisor",
+    "text": "posted",
     "category": "travel"
   },
   {
-    "item": "destination",
+    "text": "share",
     "category": "travel"
   },
   {
-    "item": "travel",
+    "text": "eur",
     "category": "travel"
   },
   {
-    "item": "mar",
+    "text": "helpfulsaveshare",
     "category": "travel"
   },
   {
-    "item": "destinations",
+    "text": "votes",
     "category": "travel"
   },
   {
-    "item": "car",
+    "text": "europe",
     "category": "travel"
   },
   {
-    "item": "posted",
+    "text": "repost",
     "category": "travel"
   },
   {
-    "item": "share",
+    "text": "buncrana",
     "category": "travel"
   },
   {
-    "item": "eur",
+    "text": "buncranasee",
     "category": "travel"
   },
   {
-    "item": "site",
+    "text": "mar",
     "category": "travel"
   },
   {
-    "item": "book",
+    "text": "car",
     "category": "travel"
   },
   {
-    "item": "europe",
+    "text": "passport",
     "category": "travel"
   },
   {
-    "item": "helpfulsaveshare",
+    "text": "2019",
     "category": "travel"
   },
   {
-    "item": "holiday",
+    "text": "reposts",
     "category": "travel"
   },
   {
-    "item": "sea",
+    "text": "budapest",
     "category": "travel"
   },
   {
-    "item": "votes",
+    "text": "repostshelpfulsaveshare",
     "category": "travel"
   },
   {
-    "item": "per",
+    "text": "reviewsthe",
     "category": "travel"
   },
   {
-    "item": "repost",
+    "text": "banff",
     "category": "travel"
   },
   {
-    "item": "buncrana",
+    "text": "restaurant",
     "category": "travel"
   },
   {
-    "item": "buncranasee",
+    "text": "photo",
     "category": "travel"
   },
   {
-    "item": "budapest",
+    "text": "read",
     "category": "travel"
   },
   {
-    "item": "deal",
+    "text": "abu",
     "category": "travel"
   },
   {
-    "item": "passport",
+    "text": "dhabi",
     "category": "travel"
   },
   {
-    "item": "2019",
+    "text": "beach",
     "category": "travel"
   },
   {
-    "item": "reposts",
+    "text": "2020",
     "category": "travel"
   },
   {
-    "item": "search",
+    "text": "inn",
     "category": "travel"
   },
   {
-    "item": "abu",
+    "text": "passion",
     "category": "travel"
   },
   {
-    "item": "repostshelpfulsaveshare",
+    "text": "lake",
     "category": "travel"
   },
   {
-    "item": "town",
+    "text": "visit",
     "category": "travel"
   },
   {
-    "item": "reviewsthe",
+    "text": "ballyliffin",
     "category": "travel"
   },
   {
-    "item": "banff",
+    "text": "site",
     "category": "travel"
   },
   {
-    "item": "booking",
+    "text": "reviewsballyliffin",
     "category": "travel"
   },
   {
-    "item": "dhabi",
+    "text": "chile",
     "category": "travel"
   },
   {
-    "item": "beach",
+    "text": "italy",
     "category": "travel"
   },
   {
-    "item": "san",
+    "text": "holiday",
     "category": "travel"
   },
   {
-    "item": "restaurant",
+    "text": "water",
     "category": "travel"
   },
   {
-    "item": "del",
+    "text": "san",
     "category": "travel"
   },
   {
-    "item": "photo",
+    "text": "town",
     "category": "travel"
   },
   {
-    "item": "popular",
+    "text": "beaches",
     "category": "travel"
   },
   {
-    "item": "las",
+    "text": "restaurants",
     "category": "travel"
   },
   {
-    "item": "read",
+    "text": "lodge",
     "category": "travel"
   },
   {
-    "item": "2020",
+    "text": "shadows",
     "category": "travel"
   },
   {
-    "item": "price",
+    "text": "rome",
     "category": "travel"
   },
   {
-    "item": "lake",
+    "text": "national",
     "category": "travel"
   },
   {
-    "item": "city",
+    "text": "video",
     "category": "travel"
   },
   {
-    "item": "chile",
+    "text": "guide",
     "category": "travel"
   },
   {
-    "item": "inn",
+    "text": "travelers",
     "category": "travel"
   },
   {
-    "item": "list",
+    "text": "del",
     "category": "travel"
   },
   {
-    "item": "rome",
+    "text": "book",
     "category": "travel"
   },
   {
-    "item": "next",
+    "text": "reviewslake",
     "category": "travel"
   },
   {
-    "item": "passion",
+    "text": "reviewsst",
     "category": "travel"
   },
   {
-    "item": "water",
+    "text": "popular",
     "category": "travel"
   },
   {
-    "item": "sites",
+    "text": "travellers",
     "category": "travel"
   },
   {
-    "item": "visit",
+    "text": "sea",
     "category": "travel"
   },
   {
-    "item": "ballyliffin",
+    "text": "ray",
     "category": "travel"
   },
   {
-    "item": "avg",
+    "text": "destinations",
     "category": "travel"
   },
   {
-    "item": "ireland",
+    "text": "letterkenny",
     "category": "travel"
   },
   {
-    "item": "web",
+    "text": "catedral",
     "category": "travel"
   },
   {
-    "item": "galway",
+    "text": "marmol",
     "category": "travel"
   },
   {
-    "item": "low",
+    "text": "hungary",
     "category": "travel"
   },
   {
-    "item": "reviewsballyliffin",
+    "text": "airlines",
     "category": "travel"
   },
   {
-    "item": "county",
+    "text": "check",
     "category": "travel"
   },
   {
-    "item": "italy",
+    "text": "united",
     "category": "travel"
   },
   {
-    "item": "national",
+    "text": "2019featuring",
     "category": "travel"
   },
   {
-    "item": "prices",
+    "text": "yours",
     "category": "travel"
   },
   {
-    "item": "website",
+    "text": "loud",
     "category": "travel"
   },
   {
-    "item": "youre",
+    "text": "got",
     "category": "travel"
   },
   {
-    "item": "beaches",
+    "text": "rise",
     "category": "travel"
   },
   {
-    "item": "restaurants",
+    "text": "them",
     "category": "travel"
   },
   {
-    "item": "traveller",
+    "text": "underrated",
     "category": "travel"
   },
   {
-    "item": "york",
+    "text": "1333",
     "category": "travel"
   },
   {
-    "item": "boutique",
+    "text": "1340",
     "category": "travel"
   },
   {
-    "item": "letterkenny",
+    "text": "1837",
     "category": "travel"
   },
   {
-    "item": "ray",
+    "text": "344",
     "category": "travel"
   },
   {
-    "item": "lodge",
+    "text": "399",
     "category": "travel"
   },
   {
-    "item": "shadows",
+    "text": "159",
     "category": "travel"
   },
   {
-    "item": "video",
+    "text": "placestripadvisor",
     "category": "travel"
   },
   {
-    "item": "united",
+    "text": "blu",
     "category": "travel"
   },
   {
-    "item": "guide",
+    "text": "shoot",
     "category": "travel"
   },
   {
-    "item": "link",
+    "text": "inishowen",
     "category": "travel"
   },
   {
-    "item": "london",
+    "text": "gateway",
     "category": "travel"
   },
   {
-    "item": "travelers",
+    "text": "hotel1333",
     "category": "travel"
   },
   {
-    "item": "check",
+    "text": "spa1340",
     "category": "travel"
   },
   {
-    "item": "chic",
+    "text": "spa1837",
     "category": "travel"
   },
   {
-    "item": "users",
+    "text": "golf",
     "category": "travel"
   },
   {
-    "item": "puerto",
+    "text": "resort344",
     "category": "travel"
   },
   {
-    "item": "reviewslake",
+    "text": "clock",
     "category": "travel"
   },
   {
-    "item": "reviewsst",
+    "text": "road",
     "category": "travel"
   },
   {
-    "item": "399",
+    "text": "harbour",
     "category": "travel"
   },
   {
-    "item": "deals",
+    "text": "inn399",
     "category": "travel"
   },
   {
-    "item": "include",
+    "text": "hotel159",
     "category": "travel"
   },
   {
-    "item": "log",
+    "text": "columbs",
     "category": "travel"
   },
   {
-    "item": "paris",
+    "text": "house30",
     "category": "travel"
   },
   {
-    "item": "love",
+    "text": "bb68",
     "category": "travel"
   },
   {
-    "item": "its",
+    "text": "european",
     "category": "travel"
   },
   {
-    "item": "dubai",
+    "text": "ananya",
     "category": "travel"
   },
   {
-    "item": "vegas",
+    "text": "shandon",
     "category": "travel"
   },
   {
-    "item": "los",
+    "text": "rosapenna",
     "category": "travel"
   },
   {
-    "item": "travellers",
+    "text": "westbrook",
     "category": "travel"
   },
   {
-    "item": "road",
+    "text": "link",
     "category": "travel"
   },
   {
-    "item": "compare",
+    "text": "forum",
     "category": "travel"
   },
   {
-    "item": "pool",
+    "text": "visiting",
     "category": "travel"
   },
   {
-    "item": "ideal",
+    "text": "parks",
     "category": "travel"
   },
   {
-    "item": "got",
+    "text": "kids",
     "category": "travel"
   },
   {
-    "item": "done",
+    "text": "county",
     "category": "travel"
   },
   {
-    "item": "articles",
+    "text": "las",
     "category": "travel"
   },
   {
-    "item": "catedral",
+    "text": "477",
     "category": "travel"
   },
   {
-    "item": "marmol",
+    "text": "trips",
     "category": "travel"
   },
   {
-    "item": "hungary",
+    "text": "city",
     "category": "travel"
   },
   {
-    "item": "airlines",
+    "text": "flights",
     "category": "travel"
   },
   {
-    "item": "dublin",
+    "text": "reviewsshandon",
     "category": "travel"
   },
   {
-    "item": "room",
+    "text": "reviewsrosapenna",
     "category": "travel"
   },
   {
-    "item": "cork",
+    "text": "reviewswestbrook",
     "category": "travel"
   },
   {
-    "item": "try",
+    "text": "business",
     "category": "travel"
   },
   {
-    "item": "complete",
+    "text": "votes1",
     "category": "travel"
   },
   {
-    "item": "clare",
+    "text": "cruises",
     "category": "travel"
   },
   {
-    "item": "cities",
+    "text": "reviewsan",
     "category": "travel"
   },
   {
-    "item": "information",
+    "text": "log",
     "category": "travel"
   },
   {
-    "item": "edinburgh",
+    "text": "rentals",
     "category": "travel"
   },
   {
-    "item": "canada",
+    "text": "things",
     "category": "travel"
   },
   {
-    "item": "2019featuring",
+    "text": "sep",
     "category": "travel"
   },
   {
-    "item": "yours",
+    "text": "worlds",
     "category": "travel"
   },
   {
-    "item": "loud",
+    "text": "low",
     "category": "travel"
   },
   {
-    "item": "rise",
+    "text": "centre",
     "category": "travel"
   },
   {
-    "item": "them",
+    "text": "live",
     "category": "travel"
   },
   {
-    "item": "underrated",
+    "text": "updates",
     "category": "travel"
   },
   {
-    "item": "1333",
+    "text": "its",
     "category": "travel"
   },
   {
-    "item": "1340",
+    "text": "vegas",
     "category": "travel"
   },
   {
-    "item": "1837",
+    "text": "los",
     "category": "travel"
   },
   {
-    "item": "344",
+    "text": "angeles",
     "category": "travel"
   },
   {
-    "item": "159",
+    "text": "york",
     "category": "travel"
   },
   {
-    "item": "placestripadvisor",
+    "text": "francisco",
     "category": "travel"
   },
   {
-    "item": "websites",
+    "text": "dubai",
     "category": "travel"
   },
   {
-    "item": "blu",
+    "text": "pool",
     "category": "travel"
   },
   {
-    "item": "shoot",
+    "text": "latest",
     "category": "travel"
   },
   {
-    "item": "live",
+    "text": "ireland",
     "category": "travel"
   },
   {
-    "item": "away",
+    "text": "llc",
     "category": "travel"
   },
   {
-    "item": "business",
+    "text": "sponsored",
     "category": "travel"
   },
   {
-    "item": "francisco",
+    "text": "arab",
     "category": "travel"
   },
   {
-    "item": "angeles",
+    "text": "chico",
     "category": "travel"
   },
   {
-    "item": "inishowen",
+    "text": "planning",
     "category": "travel"
   },
   {
-    "item": "gateway",
+    "text": "information",
     "category": "travel"
   },
   {
-    "item": "hotel1333",
+    "text": "every",
     "category": "travel"
   },
   {
-    "item": "spa1340",
+    "text": "content",
     "category": "travel"
   },
   {
-    "item": "spa1837",
+    "text": "emirates",
     "category": "travel"
   },
   {
-    "item": "golf",
+    "text": "canada",
     "category": "travel"
   },
   {
-    "item": "resort344",
+    "text": "802",
     "category": "travel"
   },
   {
-    "item": "clock",
+    "text": "iceland",
     "category": "travel"
   },
   {
-    "item": "harbour",
+    "text": "switzerland",
     "category": "travel"
   },
   {
-    "item": "inn399",
+    "text": "wetterhorn",
     "category": "travel"
   },
   {
-    "item": "hotel159",
-    "category": "travel"
-  },
-  {
-    "item": "columbs",
-    "category": "travel"
-  },
-  {
-    "item": "house30",
-    "category": "travel"
-  },
-  {
-    "item": "bb68",
-    "category": "travel"
-  },
-  {
-    "item": "european",
-    "category": "travel"
-  },
-  {
-    "item": "ananya",
-    "category": "travel"
-  },
-  {
-    "item": "shandon",
-    "category": "travel"
-  },
-  {
-    "item": "rosapenna",
-    "category": "travel"
-  },
-  {
-    "item": "westbrook",
-    "category": "travel"
-  },
-  {
-    "item": "200",
-    "category": "travel"
-  },
-  {
-    "item": "sun",
-    "category": "travel"
-  },
-  {
-    "item": "forum",
-    "category": "travel"
-  },
-  {
-    "item": "visiting",
-    "category": "travel"
-  },
-  {
-    "item": "parks",
-    "category": "travel"
-  },
-  {
-    "item": "kids",
-    "category": "travel"
-  },
-  {
-    "item": "477",
-    "category": "travel"
-  },
-  {
-    "item": "click",
-    "category": "travel"
-  },
-  {
-    "item": "trips",
-    "category": "travel"
-  },
-  {
-    "item": "flights",
-    "category": "travel"
-  },
-  {
-    "item": "reviewsshandon",
-    "category": "travel"
-  },
-  {
-    "item": "reviewsrosapenna",
-    "category": "travel"
-  },
-  {
-    "item": "reviewswestbrook",
-    "category": "travel"
-  },
-  {
-    "item": "wwwtrivagoie",
-    "category": "travel"
-  },
-  {
-    "item": "belfast",
-    "category": "travel"
-  },
-  {
-    "item": "votes1",
-    "category": "travel"
-  },
-  {
-    "item": "cruises",
-    "category": "travel"
-  },
-  {
-    "item": "weekend",
-    "category": "travel"
-  },
-  {
-    "item": "lists",
-    "category": "travel"
-  },
-  {
-    "item": "playa",
-    "category": "travel"
-  },
-  {
-    "item": "stay",
-    "category": "travel"
-  },
-  {
-    "item": "beautiful",
-    "category": "travel"
-  },
-  {
-    "item": "youll",
-    "category": "travel"
-  },
-  {
-    "item": "days",
-    "category": "travel"
-  },
-  {
-    "item": "kilkenny",
-    "category": "travel"
-  },
-  {
-    "item": "barcelona",
-    "category": "travel"
-  },
-  {
-    "item": "albufeira",
-    "category": "travel"
-  },
-  {
-    "item": "carmen",
-    "category": "travel"
-  },
-  {
-    "item": "orlando",
-    "category": "travel"
-  },
-  {
-    "item": "amsterdam",
-    "category": "travel"
-  },
-  {
-    "item": "nice",
-    "category": "travel"
-  },
-  {
-    "item": "ennis",
-    "category": "travel"
-  },
-  {
-    "item": "ballina",
-    "category": "travel"
-  },
-  {
-    "item": "chester",
-    "category": "travel"
-  },
-  {
-    "item": "tips",
-    "category": "travel"
-  },
-  {
-    "item": "reviewsan",
-    "category": "travel"
-  },
-  {
-    "item": "guest",
-    "category": "travel"
-  },
-  {
-    "item": "explore",
-    "category": "travel"
-  },
-  {
-    "item": "nov",
-    "category": "travel"
-  },
-  {
-    "item": "getaway",
-    "category": "travel"
-  },
-  {
-    "item": "accommodation",
-    "category": "travel"
-  },
-  {
-    "item": "two",
-    "category": "travel"
-  },
-  {
-    "item": "athlone",
-    "category": "travel"
-  },
-  {
-    "item": "krakow",
-    "category": "travel"
-  },
-  {
-    "item": "lisbon",
-    "category": "travel"
-  },
-  {
-    "item": "sorrento",
-    "category": "travel"
-  },
-  {
-    "item": "carcassonne",
-    "category": "travel"
-  },
-  {
-    "item": "rentals",
-    "category": "travel"
-  },
-  {
-    "item": "things",
-    "category": "travel"
-  },
-  {
-    "item": "sep",
-    "category": "travel"
-  },
-  {
-    "item": "cheap",
-    "category": "travel"
-  },
-  {
-    "item": "provide",
-    "category": "travel"
-  },
-  {
-    "item": "worlds",
-    "category": "travel"
-  },
-  {
-    "item": "centre",
-    "category": "travel"
-  },
-  {
-    "item": "bed",
-    "category": "travel"
-  },
-  {
-    "item": "experience",
-    "category": "travel"
-  },
-  {
-    "item": "display",
-    "category": "travel"
-  },
-  {
-    "item": "updates",
-    "category": "travel"
-  },
-  {
-    "item": "landmark",
-    "category": "travel"
-  },
-  {
-    "item": "latest",
-    "category": "travel"
-  },
-  {
-    "item": "llc",
-    "category": "travel"
-  },
-  {
-    "item": "million",
-    "category": "travel"
-  },
-  {
-    "item": "portugal",
-    "category": "travel"
-  },
-  {
-    "item": "usa",
-    "category": "travel"
-  },
-  {
-    "item": "sponsored",
-    "category": "travel"
-  },
-  {
-    "item": "nam",
-    "category": "travel"
-  },
-  {
-    "item": "arab",
-    "category": "travel"
-  },
-  {
-    "item": "chico",
-    "category": "travel"
-  },
-  {
-    "item": "planning",
-    "category": "travel"
-  },
-  {
-    "item": "every",
-    "category": "travel"
-  },
-  {
-    "item": "content",
-    "category": "travel"
-  },
-  {
-    "item": "emirates",
-    "category": "travel"
-  },
-  {
-    "item": "802",
-    "category": "travel"
-  },
-  {
-    "item": "iceland",
-    "category": "travel"
-  },
-  {
-    "item": "switzerland",
-    "category": "travel"
-  },
-  {
-    "item": "wetterhorn",
-    "category": "travel"
-  },
-  {
-    "item": "grindelwald",
+    "text": "grindelwald",
     "category": "travel"
   }
 ]

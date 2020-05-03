@@ -1,1870 +1,1870 @@
 [
   {
-    "item": "bonus",
+    "text": "bonus",
     "category": "gambling"
   },
   {
-    "item": "casino",
+    "text": "casino",
     "category": "gambling"
   },
   {
-    "item": "win",
+    "text": "win",
     "category": "gambling"
   },
   {
-    "item": "pro",
+    "text": "pro",
     "category": "gambling"
   },
   {
-    "item": "wall",
+    "text": "wall",
     "category": "gambling"
   },
   {
-    "item": "wallet",
+    "text": "wallet",
     "category": "gambling"
   },
   {
-    "item": "game",
+    "text": "game",
     "category": "gambling"
   },
   {
-    "item": "balance",
+    "text": "balance",
     "category": "gambling"
   },
   {
-    "item": "age",
+    "text": "age",
     "category": "gambling"
   },
   {
-    "item": "term",
+    "text": "term",
     "category": "gambling"
   },
   {
-    "item": "winning",
+    "text": "winning",
     "category": "gambling"
   },
   {
-    "item": "terms",
+    "text": "terms",
     "category": "gambling"
   },
   {
-    "item": "winnings",
+    "text": "winnings",
     "category": "gambling"
   },
   {
-    "item": "ring",
+    "text": "ring",
     "category": "gambling"
   },
   {
-    "item": "requirement",
+    "text": "requirement",
     "category": "gambling"
   },
   {
-    "item": "promotion",
+    "text": "promotion",
     "category": "gambling"
   },
   {
-    "item": "wagering",
+    "text": "wagering",
     "category": "gambling"
   },
   {
-    "item": "bet",
+    "text": "bet",
     "category": "gambling"
   },
   {
-    "item": "are",
+    "text": "are",
     "category": "gambling"
   },
   {
-    "item": "condition",
+    "text": "condition",
     "category": "gambling"
   },
   {
-    "item": "requirements",
+    "text": "requirements",
     "category": "gambling"
   },
   {
-    "item": "conditions",
+    "text": "conditions",
     "category": "gambling"
   },
   {
-    "item": "promotional",
+    "text": "promotional",
     "category": "gambling"
   },
   {
-    "item": "games",
+    "text": "games",
     "category": "gambling"
   },
   {
-    "item": "cash",
+    "text": "cash",
     "category": "gambling"
   },
   {
-    "item": "able",
+    "text": "able",
     "category": "gambling"
   },
   {
-    "item": "bonuses",
+    "text": "bonuses",
     "category": "gambling"
   },
   {
-    "item": "pending",
+    "text": "pending",
     "category": "gambling"
   },
   {
-    "item": "red",
+    "text": "red",
     "category": "gambling"
   },
   {
-    "item": "per",
+    "text": "per",
     "category": "gambling"
   },
   {
-    "item": "bets",
+    "text": "bets",
     "category": "gambling"
   },
   {
-    "item": "count",
+    "text": "count",
     "category": "gambling"
   },
   {
-    "item": "buyin",
+    "text": "buyin",
     "category": "gambling"
   },
   {
-    "item": "slot",
+    "text": "slot",
     "category": "gambling"
   },
   {
-    "item": "abuse",
+    "text": "abuse",
     "category": "gambling"
   },
   {
-    "item": "playing",
+    "text": "playing",
     "category": "gambling"
   },
   {
-    "item": "pot",
+    "text": "pot",
     "category": "gambling"
   },
   {
-    "item": "withdraw",
+    "text": "withdraw",
     "category": "gambling"
   },
   {
-    "item": "ladbrokes",
+    "text": "ladbrokes",
     "category": "gambling"
   },
   {
-    "item": "account",
+    "text": "account",
     "category": "gambling"
   },
   {
-    "item": "qualify",
+    "text": "qualify",
     "category": "gambling"
   },
   {
-    "item": "andor",
+    "text": "andor",
     "category": "gambling"
   },
   {
-    "item": "king",
+    "text": "king",
     "category": "gambling"
   },
   {
-    "item": "aim",
+    "text": "aim",
     "category": "gambling"
   },
   {
-    "item": "fun",
+    "text": "fun",
     "category": "gambling"
   },
   {
-    "item": "wild",
+    "text": "wild",
     "category": "gambling"
   },
   {
-    "item": "scratch",
+    "text": "scratch",
     "category": "gambling"
   },
   {
-    "item": "ball",
+    "text": "ball",
     "category": "gambling"
   },
   {
-    "item": "jack",
+    "text": "jack",
     "category": "gambling"
   },
   {
-    "item": "claim",
+    "text": "claim",
     "category": "gambling"
   },
   {
-    "item": "gold",
+    "text": "gold",
     "category": "gambling"
   },
   {
-    "item": "bingo",
+    "text": "bingo",
     "category": "gambling"
   },
   {
-    "item": "gaming",
+    "text": "gaming",
     "category": "gambling"
   },
   {
-    "item": "credit",
+    "text": "credit",
     "category": "gambling"
   },
   {
-    "item": "using",
+    "text": "using",
     "category": "gambling"
   },
   {
-    "item": "active",
+    "text": "active",
     "category": "gambling"
   },
   {
-    "item": "strategies",
+    "text": "strategies",
     "category": "gambling"
   },
   {
-    "item": "luck",
+    "text": "luck",
     "category": "gambling"
   },
   {
-    "item": "funds",
+    "text": "funds",
     "category": "gambling"
   },
   {
-    "item": "war",
+    "text": "war",
     "category": "gambling"
   },
   {
-    "item": "applicable",
+    "text": "applicable",
     "category": "gambling"
   },
   {
-    "item": "customer",
+    "text": "customer",
     "category": "gambling"
   },
   {
-    "item": "tails",
+    "text": "tails",
     "category": "gambling"
   },
   {
-    "item": "placed",
+    "text": "placed",
     "category": "gambling"
   },
   {
-    "item": "slots",
+    "text": "slots",
     "category": "gambling"
   },
   {
-    "item": "credited",
+    "text": "credited",
     "category": "gambling"
   },
   {
-    "item": "online",
+    "text": "online",
     "category": "gambling"
   },
   {
-    "item": "apply",
+    "text": "apply",
     "category": "gambling"
   },
   {
-    "item": "been",
+    "text": "been",
     "category": "gambling"
   },
   {
-    "item": "deal",
+    "text": "deal",
     "category": "gambling"
   },
   {
-    "item": "details",
+    "text": "details",
     "category": "gambling"
   },
   {
-    "item": "log",
+    "text": "log",
     "category": "gambling"
   },
   {
-    "item": "receive",
+    "text": "receive",
     "category": "gambling"
   },
   {
-    "item": "qualifying",
+    "text": "qualifying",
     "category": "gambling"
   },
   {
-    "item": "customers",
+    "text": "customers",
     "category": "gambling"
   },
   {
-    "item": "available",
+    "text": "available",
     "category": "gambling"
   },
   {
-    "item": "relevant",
+    "text": "relevant",
     "category": "gambling"
   },
   {
-    "item": "excluded",
+    "text": "excluded",
     "category": "gambling"
   },
   {
-    "item": "once",
+    "text": "once",
     "category": "gambling"
   },
   {
-    "item": "bonus ",
+    "text": "bonus ",
     "category": "gambling"
   },
   {
-    "item": "please",
+    "text": "please",
     "category": "gambling"
   },
   {
-    "item": "deposit",
+    "text": "deposit",
     "category": "gambling"
   },
   {
-    "item": "spin",
+    "text": "spin",
     "category": "gambling"
   },
   {
-    "item": "welcome",
+    "text": "welcome",
     "category": "gambling"
   },
   {
-    "item": "super",
+    "text": "super",
     "category": "gambling"
   },
   {
-    "item": "important",
+    "text": "important",
     "category": "gambling"
   },
   {
-    "item": "towards",
+    "text": "towards",
     "category": "gambling"
   },
   {
-    "item": "conditions ",
+    "text": "conditions ",
     "category": "gambling"
   },
   {
-    "item": "made",
+    "text": "made",
     "category": "gambling"
   },
   {
-    "item": "card",
+    "text": "card",
     "category": "gambling"
   },
   {
-    "item": "below",
+    "text": "below",
     "category": "gambling"
   },
   {
-    "item": "sanctions",
+    "text": "sanctions",
     "category": "gambling"
   },
   {
-    "item": "full",
+    "text": "full",
     "category": "gambling"
   },
   {
-    "item": "lion",
+    "text": "lion",
     "category": "gambling"
   },
   {
-    "item": "table",
+    "text": "table",
     "category": "gambling"
   },
   {
-    "item": "roulette",
+    "text": "roulette",
     "category": "gambling"
   },
   {
-    "item": "reel",
+    "text": "reel",
     "category": "gambling"
   },
   {
-    "item": "restriction",
+    "text": "restriction",
     "category": "gambling"
   },
   {
-    "item": "ways",
+    "text": "ways",
     "category": "gambling"
   },
   {
-    "item": "lotto",
+    "text": "lotto",
     "category": "gambling"
   },
   {
-    "item": "cat",
+    "text": "cat",
     "category": "gambling"
   },
   {
-    "item": "poker",
+    "text": "poker",
     "category": "gambling"
   },
   {
-    "item": "wallets",
+    "text": "wallets",
     "category": "gambling"
   },
   {
-    "item": "mega",
+    "text": "mega",
     "category": "gambling"
   },
   {
-    "item": "amount",
+    "text": "amount",
     "category": "gambling"
   },
   {
-    "item": "following",
+    "text": "following",
     "category": "gambling"
   },
   {
-    "item": "money",
+    "text": "money",
     "category": "gambling"
   },
   {
-    "item": "deluxe",
+    "text": "deluxe",
     "category": "gambling"
   },
   {
-    "item": "hot",
+    "text": "hot",
     "category": "gambling"
   },
   {
-    "item": "jackpot",
+    "text": "jackpot",
     "category": "gambling"
   },
   {
-    "item": "blackjack",
+    "text": "blackjack",
     "category": "gambling"
   },
   {
-    "item": "ref",
+    "text": "ref",
     "category": "gambling"
   },
   {
-    "item": "taken",
+    "text": "taken",
     "category": "gambling"
   },
   {
-    "item": "received",
+    "text": "received",
     "category": "gambling"
   },
   {
-    "item": "offer",
+    "text": "offer",
     "category": "gambling"
   },
   {
-    "item": "wins",
+    "text": "wins",
     "category": "gambling"
   },
   {
-    "item": "complete",
+    "text": "complete",
     "category": "gambling"
   },
   {
-    "item": "impose",
+    "text": "impose",
     "category": "gambling"
   },
   {
-    "item": "whilst",
+    "text": "whilst",
     "category": "gambling"
   },
   {
-    "item": "dee",
+    "text": "dee",
     "category": "gambling"
   },
   {
-    "item": "love",
+    "text": "love",
     "category": "gambling"
   },
   {
-    "item": "drop",
+    "text": "drop",
     "category": "gambling"
   },
   {
-    "item": "pots",
+    "text": "pots",
     "category": "gambling"
   },
   {
-    "item": "lucky",
+    "text": "lucky",
     "category": "gambling"
   },
   {
-    "item": "night",
+    "text": "night",
     "category": "gambling"
   },
   {
-    "item": "sun",
+    "text": "sun",
     "category": "gambling"
   },
   {
-    "item": "web",
+    "text": "web",
     "category": "gambling"
   },
   {
-    "item": "rise",
+    "text": "rise",
     "category": "gambling"
   },
   {
-    "item": "match",
+    "text": "match",
     "category": "gambling"
   },
   {
-    "item": "million",
+    "text": "million",
     "category": "gambling"
   },
   {
-    "item": "roll",
+    "text": "roll",
     "category": "gambling"
   },
   {
-    "item": "deposits",
+    "text": "deposits",
     "category": "gambling"
   },
   {
-    "item": "restrictions",
+    "text": "restrictions",
     "category": "gambling"
   },
   {
-    "item": "type",
+    "text": "type",
     "category": "gambling"
   },
   {
-    "item": "iris",
+    "text": "iris",
     "category": "gambling"
   },
   {
-    "item": "gambling",
+    "text": "gambling",
     "category": "gambling"
   },
   {
-    "item": "accept",
+    "text": "accept",
     "category": "gambling"
   },
   {
-    "item": "megaways",
+    "text": "megaways",
     "category": "gambling"
   },
   {
-    "item": "side",
+    "text": "side",
     "category": "gambling"
   },
   {
-    "item": "and ",
+    "text": "and ",
     "category": "gambling"
   },
   {
-    "item": "view",
+    "text": "view",
     "category": "gambling"
   },
   {
-    "item": "further",
+    "text": "further",
     "category": "gambling"
   },
   {
-    "item": "reserve",
+    "text": "reserve",
     "category": "gambling"
   },
   {
-    "item": "website",
+    "text": "website",
     "category": "gambling"
   },
   {
-    "item": "until",
+    "text": "until",
     "category": "gambling"
   },
   {
-    "item": "forfeit",
+    "text": "forfeit",
     "category": "gambling"
   },
   {
-    "item": "dishonest",
+    "text": "dishonest",
     "category": "gambling"
   },
   {
-    "item": "example",
+    "text": "example",
     "category": "gambling"
   },
   {
-    "item": "dragon",
+    "text": "dragon",
     "category": "gambling"
   },
   {
-    "item": "slingo",
+    "text": "slingo",
     "category": "gambling"
   },
   {
-    "item": "balls",
+    "text": "balls",
     "category": "gambling"
   },
   {
-    "item": "fruit",
+    "text": "fruit",
     "category": "gambling"
   },
   {
-    "item": "cashpot",
+    "text": "cashpot",
     "category": "gambling"
   },
   {
-    "item": "circumstances",
+    "text": "circumstances",
     "category": "gambling"
   },
   {
-    "item": "constitute",
+    "text": "constitute",
     "category": "gambling"
   },
   {
-    "item": "deem",
+    "text": "deem",
     "category": "gambling"
   },
   {
-    "item": "live",
+    "text": "live",
     "category": "gambling"
   },
   {
-    "item": "list",
+    "text": "list",
     "category": "gambling"
   },
   {
-    "item": "rules",
+    "text": "rules",
     "category": "gambling"
   },
   {
-    "item": "access",
+    "text": "access",
     "category": "gambling"
   },
   {
-    "item": "payment",
+    "text": "payment",
     "category": "gambling"
   },
   {
-    "item": "fully",
+    "text": "fully",
     "category": "gambling"
   },
   {
-    "item": "fortune",
+    "text": "fortune",
     "category": "gambling"
   },
   {
-    "item": "safe",
+    "text": "safe",
     "category": "gambling"
   },
   {
-    "item": "read",
+    "text": "read",
     "category": "gambling"
   },
   {
-    "item": "irish",
+    "text": "irish",
     "category": "gambling"
   },
   {
-    "item": "limit",
+    "text": "limit",
     "category": "gambling"
   },
   {
-    "item": "intention",
+    "text": "intention",
     "category": "gambling"
   },
   {
-    "item": "accordance",
+    "text": "accordance",
     "category": "gambling"
   },
   {
-    "item": "specific",
+    "text": "specific",
     "category": "gambling"
   },
   {
-    "item": "yes",
+    "text": "yes",
     "category": "gambling"
   },
   {
-    "item": "information",
+    "text": "information",
     "category": "gambling"
   },
   {
-    "item": "explained",
+    "text": "explained",
     "category": "gambling"
   },
   {
-    "item": "within",
+    "text": "within",
     "category": "gambling"
   },
   {
-    "item": "withdrawal",
+    "text": "withdrawal",
     "category": "gambling"
   },
   {
-    "item": "above",
+    "text": "above",
     "category": "gambling"
   },
   {
-    "item": "required",
+    "text": "required",
     "category": "gambling"
   },
   {
-    "item": "minimum",
+    "text": "minimum",
     "category": "gambling"
   },
   {
-    "item": "include",
+    "text": "include",
     "category": "gambling"
   },
   {
-    "item": "automatically",
+    "text": "automatically",
     "category": "gambling"
   },
   {
-    "item": "kingdom",
+    "text": "kingdom",
     "category": "gambling"
   },
   {
-    "item": "payout",
+    "text": "payout",
     "category": "gambling"
   },
   {
-    "item": "dolphin",
+    "text": "dolphin",
     "category": "gambling"
   },
   {
-    "item": "lions",
+    "text": "lions",
     "category": "gambling"
   },
   {
-    "item": "joker",
+    "text": "joker",
     "category": "gambling"
   },
   {
-    "item": "treasure",
+    "text": "treasure",
     "category": "gambling"
   },
   {
-    "item": "100",
+    "text": "100",
     "category": "gambling"
   },
   {
-    "item": "jungle",
+    "text": "jungle",
     "category": "gambling"
   },
   {
-    "item": "fire",
+    "text": "fire",
     "category": "gambling"
   },
   {
-    "item": "golden",
+    "text": "golden",
     "category": "gambling"
   },
   {
-    "item": "coronation",
+    "text": "coronation",
     "category": "gambling"
   },
   {
-    "item": "spa",
+    "text": "spa",
     "category": "gambling"
   },
   {
-    "item": "pai",
+    "text": "pai",
     "category": "gambling"
   },
   {
-    "item": "light",
+    "text": "light",
     "category": "gambling"
   },
   {
-    "item": "cannot",
+    "text": "cannot",
     "category": "gambling"
   },
   {
-    "item": "certain",
+    "text": "certain",
     "category": "gambling"
   },
   {
-    "item": "transfer",
+    "text": "transfer",
     "category": "gambling"
   },
   {
-    "item": "deemed",
+    "text": "deemed",
     "category": "gambling"
   },
   {
-    "item": "casinos",
+    "text": "casinos",
     "category": "gambling"
   },
   {
-    "item": "types",
+    "text": "types",
     "category": "gambling"
   },
   {
-    "item": "sign",
+    "text": "sign",
     "category": "gambling"
   },
   {
-    "item": "technology",
+    "text": "technology",
     "category": "gambling"
   },
   {
-    "item": "gibraltar",
+    "text": "gibraltar",
     "category": "gambling"
   },
   {
-    "item": "claiming",
+    "text": "claiming",
     "category": "gambling"
   },
   {
-    "item": "contact",
+    "text": "contact",
     "category": "gambling"
   },
   {
-    "item": "persons",
+    "text": "persons",
     "category": "gambling"
   },
   {
-    "item": "suite",
+    "text": "suite",
     "category": "gambling"
   },
   {
-    "item": "010",
+    "text": "010",
     "category": "gambling"
   },
   {
-    "item": "fair",
+    "text": "fair",
     "category": "gambling"
   },
   {
-    "item": "weve",
+    "text": "weve",
     "category": "gambling"
   },
   {
-    "item": "quest",
+    "text": "quest",
     "category": "gambling"
   },
   {
-    "item": "played",
+    "text": "played",
     "category": "gambling"
   },
   {
-    "item": "being",
+    "text": "being",
     "category": "gambling"
   },
   {
-    "item": "allocated",
+    "text": "allocated",
     "category": "gambling"
   },
   {
-    "item": "intentionally",
+    "text": "intentionally",
     "category": "gambling"
   },
   {
-    "item": "does",
+    "text": "does",
     "category": "gambling"
   },
   {
-    "item": "found",
+    "text": "found",
     "category": "gambling"
   },
   {
-    "item": "ability",
+    "text": "ability",
     "category": "gambling"
   },
   {
-    "item": "their",
+    "text": "their",
     "category": "gambling"
   },
   {
-    "item": "requirements ",
+    "text": "requirements ",
     "category": "gambling"
   },
   {
-    "item": "otherwise",
+    "text": "otherwise",
     "category": "gambling"
   },
   {
-    "item": "cards",
+    "text": "cards",
     "category": "gambling"
   },
   {
-    "item": "contribute",
+    "text": "contribute",
     "category": "gambling"
   },
   {
-    "item": "prior",
+    "text": "prior",
     "category": "gambling"
   },
   {
-    "item": "result",
+    "text": "result",
     "category": "gambling"
   },
   {
-    "item": "dishonestly",
+    "text": "dishonestly",
     "category": "gambling"
   },
   {
-    "item": "share",
+    "text": "share",
     "category": "gambling"
   },
   {
-    "item": "satisfy",
+    "text": "satisfy",
     "category": "gambling"
   },
   {
-    "item": "below ",
+    "text": "below ",
     "category": "gambling"
   },
   {
-    "item": "relating",
+    "text": "relating",
     "category": "gambling"
   },
   {
-    "item": "used",
+    "text": "used",
     "category": "gambling"
   },
   {
-    "item": "satisfied",
+    "text": "satisfied",
     "category": "gambling"
   },
   {
-    "item": "sitting",
+    "text": "sitting",
     "category": "gambling"
   },
   {
-    "item": "fluffy",
+    "text": "fluffy",
     "category": "gambling"
   },
   {
-    "item": "clover",
+    "text": "clover",
     "category": "gambling"
   },
   {
-    "item": "white",
+    "text": "white",
     "category": "gambling"
   },
   {
-    "item": "fruits",
+    "text": "fruits",
     "category": "gambling"
   },
   {
-    "item": "jackpots",
+    "text": "jackpots",
     "category": "gambling"
   },
   {
-    "item": "bonanza",
+    "text": "bonanza",
     "category": "gambling"
   },
   {
-    "item": "chain",
+    "text": "chain",
     "category": "gambling"
   },
   {
-    "item": "reactors",
+    "text": "reactors",
     "category": "gambling"
   },
   {
-    "item": "foxin",
+    "text": "foxin",
     "category": "gambling"
   },
   {
-    "item": "millions",
+    "text": "millions",
     "category": "gambling"
   },
   {
-    "item": "barx",
+    "text": "barx",
     "category": "gambling"
   },
   {
-    "item": "spanish",
+    "text": "spanish",
     "category": "gambling"
   },
   {
-    "item": "viking",
+    "text": "viking",
     "category": "gambling"
   },
   {
-    "item": "reels",
+    "text": "reels",
     "category": "gambling"
   },
   {
-    "item": "wonderland",
+    "text": "wonderland",
     "category": "gambling"
   },
   {
-    "item": "gods",
+    "text": "gods",
     "category": "gambling"
   },
   {
-    "item": "street",
+    "text": "street",
     "category": "gambling"
   },
   {
-    "item": "jewel",
+    "text": "jewel",
     "category": "gambling"
   },
   {
-    "item": "mine",
+    "text": "mine",
     "category": "gambling"
   },
   {
-    "item": "ladies",
+    "text": "ladies",
     "category": "gambling"
   },
   {
-    "item": "mania",
+    "text": "mania",
     "category": "gambling"
   },
   {
-    "item": "pharaohs",
+    "text": "pharaohs",
     "category": "gambling"
   },
   {
-    "item": "kings",
+    "text": "kings",
     "category": "gambling"
   },
   {
-    "item": "rock",
+    "text": "rock",
     "category": "gambling"
   },
   {
-    "item": "note",
+    "text": "note",
     "category": "gambling"
   },
   {
-    "item": "examples",
+    "text": "examples",
     "category": "gambling"
   },
   {
-    "item": "engage",
+    "text": "engage",
     "category": "gambling"
   },
   {
-    "item": "constitutes",
+    "text": "constitutes",
     "category": "gambling"
   },
   {
-    "item": "identify",
+    "text": "identify",
     "category": "gambling"
   },
   {
-    "item": "participating",
+    "text": "participating",
     "category": "gambling"
   },
   {
-    "item": "deliberate",
+    "text": "deliberate",
     "category": "gambling"
   },
   {
-    "item": "claimed",
+    "text": "claimed",
     "category": "gambling"
   },
   {
-    "item": "including",
+    "text": "including",
     "category": "gambling"
   },
   {
-    "item": "key",
+    "text": "key",
     "category": "gambling"
   },
   {
-    "item": "buster",
+    "text": "buster",
     "category": "gambling"
   },
   {
-    "item": "baccarat",
+    "text": "baccarat",
     "category": "gambling"
   },
   {
-    "item": "double",
+    "text": "double",
     "category": "gambling"
   },
   {
-    "item": "every",
+    "text": "every",
     "category": "gambling"
   },
   {
-    "item": "bonuses ",
+    "text": "bonuses ",
     "category": "gambling"
   },
   {
-    "item": "has",
+    "text": "has",
     "category": "gambling"
   },
   {
-    "item": "favourite",
+    "text": "favourite",
     "category": "gambling"
   },
   {
-    "item": "contain",
+    "text": "contain",
     "category": "gambling"
   },
   {
-    "item": "familiar",
+    "text": "familiar",
     "category": "gambling"
   },
   {
-    "item": "dice",
+    "text": "dice",
     "category": "gambling"
   },
   {
-    "item": "classic",
+    "text": "classic",
     "category": "gambling"
   },
   {
-    "item": "leading",
+    "text": "leading",
     "category": "gambling"
   },
   {
-    "item": "them",
+    "text": "them",
     "category": "gambling"
   },
   {
-    "item": "today",
+    "text": "today",
     "category": "gambling"
   },
   {
-    "item": "paymentvisa",
+    "text": "paymentvisa",
     "category": "gambling"
   },
   {
-    "item": "join",
+    "text": "join",
     "category": "gambling"
   },
   {
-    "item": "licensed",
+    "text": "licensed",
     "category": "gambling"
   },
   {
-    "item": "regulated",
+    "text": "regulated",
     "category": "gambling"
   },
   {
-    "item": "commission",
+    "text": "commission",
     "category": "gambling"
   },
   {
-    "item": "britain",
+    "text": "britain",
     "category": "gambling"
   },
   {
-    "item": "next",
+    "text": "next",
     "category": "gambling"
   },
   {
-    "item": "deutsch",
+    "text": "deutsch",
     "category": "gambling"
   },
   {
-    "item": "login",
+    "text": "login",
     "category": "gambling"
   },
   {
-    "item": "quick",
+    "text": "quick",
     "category": "gambling"
   },
   {
-    "item": "provide",
+    "text": "provide",
     "category": "gambling"
   },
   {
-    "item": "review",
+    "text": "review",
     "category": "gambling"
   },
   {
-    "item": "always",
+    "text": "always",
     "category": "gambling"
   },
   {
-    "item": "flaw",
+    "text": "flaw",
     "category": "gambling"
   },
   {
-    "item": "complaints",
+    "text": "complaints",
     "category": "gambling"
   },
   {
-    "item": "procedure",
+    "text": "procedure",
     "category": "gambling"
   },
   {
-    "item": "01082018",
+    "text": "01082018",
     "category": "gambling"
   },
   {
-    "item": "register",
+    "text": "register",
     "category": "gambling"
   },
   {
-    "item": "stake",
+    "text": "stake",
     "category": "gambling"
   },
   {
-    "item": "casinoslotsgames",
+    "text": "casinoslotsgames",
     "category": "gambling"
   },
   {
-    "item": "combination",
+    "text": "combination",
     "category": "gambling"
   },
   {
-    "item": "appeal",
+    "text": "appeal",
     "category": "gambling"
   },
   {
-    "item": "legal",
+    "text": "legal",
     "category": "gambling"
   },
   {
-    "item": "regulatory",
+    "text": "regulatory",
     "category": "gambling"
   },
   {
-    "item": "reasons",
+    "text": "reasons",
     "category": "gambling"
   },
   {
-    "item": "impact",
+    "text": "impact",
     "category": "gambling"
   },
   {
-    "item": "specified",
+    "text": "specified",
     "category": "gambling"
   },
   {
-    "item": "attract",
+    "text": "attract",
     "category": "gambling"
   },
   {
-    "item": "purposes",
+    "text": "purposes",
     "category": "gambling"
   },
   {
-    "item": "debit",
+    "text": "debit",
     "category": "gambling"
   },
   {
-    "item": "basis",
+    "text": "basis",
     "category": "gambling"
   },
   {
-    "item": "strategy",
+    "text": "strategy",
     "category": "gambling"
   },
   {
-    "item": "exploit",
+    "text": "exploit",
     "category": "gambling"
   },
   {
-    "item": "participate",
+    "text": "participate",
     "category": "gambling"
   },
   {
-    "item": "provisions",
+    "text": "provisions",
     "category": "gambling"
   },
   {
-    "item": "completed",
+    "text": "completed",
     "category": "gambling"
   },
   {
-    "item": "forfeited",
+    "text": "forfeited",
     "category": "gambling"
   },
   {
-    "item": "necessary",
+    "text": "necessary",
     "category": "gambling"
   },
   {
-    "item": "wallet ",
+    "text": "wallet ",
     "category": "gambling"
   },
   {
-    "item": "beat",
+    "text": "beat",
     "category": "gambling"
   },
   {
-    "item": "prince",
+    "text": "prince",
     "category": "gambling"
   },
   {
-    "item": "favourites",
+    "text": "favourites",
     "category": "gambling"
   },
   {
-    "item": "fairground",
+    "text": "fairground",
     "category": "gambling"
   },
   {
-    "item": "haunted",
+    "text": "haunted",
     "category": "gambling"
   },
   {
-    "item": "post",
+    "text": "post",
     "category": "gambling"
   },
   {
-    "item": "garden",
+    "text": "garden",
     "category": "gambling"
   },
   {
-    "item": "sugar",
+    "text": "sugar",
     "category": "gambling"
   },
   {
-    "item": "train",
+    "text": "train",
     "category": "gambling"
   },
   {
-    "item": "xmas",
+    "text": "xmas",
     "category": "gambling"
   },
   {
-    "item": "temple",
+    "text": "temple",
     "category": "gambling"
   },
   {
-    "item": "wizard",
+    "text": "wizard",
     "category": "gambling"
   },
   {
-    "item": "extra",
+    "text": "extra",
     "category": "gambling"
   },
   {
-    "item": "extreme",
+    "text": "extreme",
     "category": "gambling"
   },
   {
-    "item": "chase",
+    "text": "chase",
     "category": "gambling"
   },
   {
-    "item": "atlantis",
+    "text": "atlantis",
     "category": "gambling"
   },
   {
-    "item": "queen",
+    "text": "queen",
     "category": "gambling"
   },
   {
-    "item": "club",
+    "text": "club",
     "category": "gambling"
   },
   {
-    "item": "emmerdale",
+    "text": "emmerdale",
     "category": "gambling"
   },
   {
-    "item": "roo",
+    "text": "roo",
     "category": "gambling"
   },
   {
-    "item": "stellar",
+    "text": "stellar",
     "category": "gambling"
   },
   {
-    "item": "silver",
+    "text": "silver",
     "category": "gambling"
   },
   {
-    "item": "vacation",
+    "text": "vacation",
     "category": "gambling"
   },
   {
-    "item": "gorilla",
+    "text": "gorilla",
     "category": "gambling"
   },
   {
-    "item": "eyes",
+    "text": "eyes",
     "category": "gambling"
   },
   {
-    "item": "jester",
+    "text": "jester",
     "category": "gambling"
   },
   {
-    "item": "knights",
+    "text": "knights",
     "category": "gambling"
   },
   {
-    "item": "lightning",
+    "text": "lightning",
     "category": "gambling"
   },
   {
-    "item": "gems",
+    "text": "gems",
     "category": "gambling"
   },
   {
-    "item": "medusa",
+    "text": "medusa",
     "category": "gambling"
   },
   {
-    "item": "merlins",
+    "text": "merlins",
     "category": "gambling"
   },
   {
-    "item": "monster",
+    "text": "monster",
     "category": "gambling"
   },
   {
-    "item": "two",
+    "text": "two",
     "category": "gambling"
   },
   {
-    "item": "owl",
+    "text": "owl",
     "category": "gambling"
   },
   {
-    "item": "pyramid",
+    "text": "pyramid",
     "category": "gambling"
   },
   {
-    "item": "volcano",
+    "text": "volcano",
     "category": "gambling"
   },
   {
-    "item": "eruption",
+    "text": "eruption",
     "category": "gambling"
   },
   {
-    "item": "jewels",
+    "text": "jewels",
     "category": "gambling"
   },
   {
-    "item": "witch",
+    "text": "witch",
     "category": "gambling"
   },
   {
-    "item": "49s",
+    "text": "49s",
     "category": "gambling"
   },
   {
-    "item": "daily",
+    "text": "daily",
     "category": "gambling"
   },
   {
-    "item": "cubes",
+    "text": "cubes",
     "category": "gambling"
   },
   {
-    "item": "legacy",
+    "text": "legacy",
     "category": "gambling"
   },
   {
-    "item": "cross",
+    "text": "cross",
     "category": "gambling"
   },
   {
-    "item": "adventures",
+    "text": "adventures",
     "category": "gambling"
   },
   {
-    "item": "lord",
+    "text": "lord",
     "category": "gambling"
   },
   {
-    "item": "bank",
+    "text": "bank",
     "category": "gambling"
   },
   {
-    "item": "bounty",
+    "text": "bounty",
     "category": "gambling"
   },
   {
-    "item": "brother",
+    "text": "brother",
     "category": "gambling"
   },
   {
-    "item": "bouncy",
+    "text": "bouncy",
     "category": "gambling"
   },
   {
-    "item": "castle",
+    "text": "castle",
     "category": "gambling"
   },
   {
-    "item": "corrie",
+    "text": "corrie",
     "category": "gambling"
   },
   {
-    "item": "funky",
+    "text": "funky",
     "category": "gambling"
   },
   {
-    "item": "multi",
+    "text": "multi",
     "category": "gambling"
   },
   {
-    "item": "rich",
+    "text": "rich",
     "category": "gambling"
   },
   {
-    "item": "scratchcard",
+    "text": "scratchcard",
     "category": "gambling"
   },
   {
-    "item": "wilds",
+    "text": "wilds",
     "category": "gambling"
   },
   {
-    "item": "diamond",
+    "text": "diamond",
     "category": "gambling"
   },
   {
-    "item": "spins",
+    "text": "spins",
     "category": "gambling"
   },
   {
-    "item": "cops",
+    "text": "cops",
     "category": "gambling"
   },
   {
-    "item": "robbers",
+    "text": "robbers",
     "category": "gambling"
   },
   {
-    "item": "ocean",
+    "text": "ocean",
     "category": "gambling"
   },
   {
-    "item": "charm",
+    "text": "charm",
     "category": "gambling"
   },
   {
-    "item": "ride",
+    "text": "ride",
     "category": "gambling"
   },
   {
-    "item": "roller",
+    "text": "roller",
     "category": "gambling"
   },
   {
-    "item": "wheel",
+    "text": "wheel",
     "category": "gambling"
   },
   {
-    "item": "ugga",
+    "text": "ugga",
     "category": "gambling"
   },
   {
-    "item": "blast",
+    "text": "blast",
     "category": "gambling"
   },
   {
-    "item": "countries",
+    "text": "countries",
     "category": "gambling"
   },
   {
-    "item": "via",
+    "text": "via",
     "category": "gambling"
   },
   {
-    "item": "offers",
+    "text": "offers",
     "category": "gambling"
   },
   {
-    "item": "shared",
+    "text": "shared",
     "category": "gambling"
   },
   {
-    "item": "limits",
+    "text": "limits",
     "category": "gambling"
   },
   {
-    "item": "check",
+    "text": "check",
     "category": "gambling"
   },
   {
-    "item": "subject",
+    "text": "subject",
     "category": "gambling"
   },
   {
-    "item": "completing",
+    "text": "completing",
     "category": "gambling"
   },
   {
-    "item": "period",
+    "text": "period",
     "category": "gambling"
   },
   {
-    "item": "allowed",
+    "text": "allowed",
     "category": "gambling"
   },
   {
-    "item": "confirmed",
+    "text": "confirmed",
     "category": "gambling"
   },
   {
-    "item": "accepting",
+    "text": "accepting",
     "category": "gambling"
   },
   {
-    "item": "applied",
+    "text": "applied",
     "category": "gambling"
   },
   {
-    "item": "rates",
+    "text": "rates",
     "category": "gambling"
   },
   {
-    "item": "eur",
+    "text": "eur",
     "category": "gambling"
   },
   {
-    "item": "action",
+    "text": "action",
     "category": "gambling"
   },
   {
-    "item": "withdrawn",
+    "text": "withdrawn",
     "category": "gambling"
   },
   {
-    "item": "longer",
+    "text": "longer",
     "category": "gambling"
   },
   {
-    "item": "activity",
+    "text": "activity",
     "category": "gambling"
   },
   {
-    "item": "addition",
+    "text": "addition",
     "category": "gambling"
   },
   {
-    "item": "outlined",
+    "text": "outlined",
     "category": "gambling"
   },
   {
-    "item": "seeking",
+    "text": "seeking",
     "category": "gambling"
   },
   {
-    "item": "reasonable",
+    "text": "reasonable",
     "category": "gambling"
   },
   {
-    "item": "deliberately",
+    "text": "deliberately",
     "category": "gambling"
   },
   {
-    "item": "attempt",
+    "text": "attempt",
     "category": "gambling"
   },
   {
-    "item": "name",
+    "text": "name",
     "category": "gambling"
   },
   {
-    "item": "paragraph",
+    "text": "paragraph",
     "category": "gambling"
   },
   {
-    "item": "reasonably",
+    "text": "reasonably",
     "category": "gambling"
   },
   {
-    "item": "determine",
+    "text": "determine",
     "category": "gambling"
   },
   {
-    "item": "engaged",
+    "text": "engaged",
     "category": "gambling"
   },
   {
-    "item": "imposed",
+    "text": "imposed",
     "category": "gambling"
   },
   {
-    "item": "shot",
+    "text": "shot",
     "category": "gambling"
   },
   {
-    "item": "rounds",
+    "text": "rounds",
     "category": "gambling"
   },
   {
-    "item": "agree",
+    "text": "agree",
     "category": "gambling"
   },
   {
-    "item": "particular",
+    "text": "particular",
     "category": "gambling"
   },
   {
-    "item": "alongside",
+    "text": "alongside",
     "category": "gambling"
   },
   {
-    "item": "accessed here",
+    "text": "accessed here",
     "category": "gambling"
   },
   {
-    "item": "terminology",
+    "text": "terminology",
     "category": "gambling"
   },
   {
-    "item": "visiting",
+    "text": "visiting",
     "category": "gambling"
   },
   {
-    "item": "jargon",
+    "text": "jargon",
     "category": "gambling"
   },
   {
-    "item": "steps",
+    "text": "steps",
     "category": "gambling"
   },
   {
-    "item": "times",
+    "text": "times",
     "category": "gambling"
   },
   {
-    "item": "james",
+    "text": "james",
     "category": "gambling"
   },
   {
-    "item": "realistic",
+    "text": "realistic",
     "category": "gambling"
   },
   {
-    "item": "power",
+    "text": "power",
     "category": "gambling"
   },
   {
-    "item": "video",
+    "text": "video",
     "category": "gambling"
   },
   {
-    "item": "craps",
+    "text": "craps",
     "category": "gambling"
   },
   {
-    "item": "click",
+    "text": "click",
     "category": "gambling"
   },
   {
-    "item": "development",
+    "text": "development",
     "category": "gambling"
   },
   {
-    "item": "second",
+    "text": "second",
     "category": "gambling"
   },
   {
-    "item": "whether",
+    "text": "whether",
     "category": "gambling"
   },
   {
-    "item": "rainbow",
+    "text": "rainbow",
     "category": "gambling"
   },
   {
-    "item": "start",
+    "text": "start",
     "category": "gambling"
   },
   {
-    "item": "carefully",
+    "text": "carefully",
     "category": "gambling"
   },
   {
-    "item": "collection",
+    "text": "collection",
     "category": "gambling"
   },
   {
-    "item": "chance",
+    "text": "chance",
     "category": "gambling"
   },
   {
-    "item": "enjoy",
+    "text": "enjoy",
     "category": "gambling"
   },
   {
-    "item": "encryption",
+    "text": "encryption",
     "category": "gambling"
   },
   {
-    "item": "personal",
+    "text": "personal",
     "category": "gambling"
   },
   {
-    "item": "secure",
+    "text": "secure",
     "category": "gambling"
   },
   {
-    "item": "excitement",
+    "text": "excitement",
     "category": "gambling"
   },
   {
-    "item": "france",
+    "text": "france",
     "category": "gambling"
   },
   {
-    "item": "american",
+    "text": "american",
     "category": "gambling"
   },
   {
-    "item": "three",
+    "text": "three",
     "category": "gambling"
   },
   {
-    "item": "original",
+    "text": "original",
     "category": "gambling"
   },
   {
-    "item": "protect",
+    "text": "protect",
     "category": "gambling"
   },
   {
-    "item": "popular",
+    "text": "popular",
     "category": "gambling"
   },
   {
-    "item": "movies",
+    "text": "movies",
     "category": "gambling"
   },
   {
-    "item": "graphics",
+    "text": "graphics",
     "category": "gambling"
   },
   {
-    "item": "famous",
+    "text": "famous",
     "category": "gambling"
   },
   {
-    "item": "bring",
+    "text": "bring",
     "category": "gambling"
   },
   {
-    "item": "range",
+    "text": "range",
     "category": "gambling"
   },
   {
-    "item": "youll",
+    "text": "youll",
     "category": "gambling"
   },
   {
-    "item": "industry",
+    "text": "industry",
     "category": "gambling"
   },
   {
-    "item": "themed",
+    "text": "themed",
     "category": "gambling"
   },
   {
-    "item": "comics",
+    "text": "comics",
     "category": "gambling"
   },
   {
-    "item": "remember",
+    "text": "remember",
     "category": "gambling"
   },
   {
-    "item": "previous",
+    "text": "previous",
     "category": "gambling"
   },
   {
-    "item": "english",
+    "text": "english",
     "category": "gambling"
   }
 ]
