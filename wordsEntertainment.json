@@ -1,1058 +1,438 @@
 [
   {
-    "word": "movie",
-    "count": 107
+    "item": "movie",
+    "category": "entertainment"
   },
   {
-    "word": "trailer",
-    "count": 80
+    "item": "movies",
+    "category": "entertainment"
   },
   {
-    "word": "season",
-    "count": 62
+    "item": "view",
+    "category": "entertainment"
   },
   {
-    "word": "hollywood",
-    "count": 62
+    "item": "watch",
+    "category": "entertainment"
   },
   {
-    "word": "teaser",
-    "count": 62
+    "item": "126",
+    "category": "entertainment"
   },
   {
-    "word": "126",
-    "count": 60
+    "item": "trailer",
+    "category": "entertainment"
   },
   {
-    "word": "403",
-    "count": 60
+    "item": "season",
+    "category": "entertainment"
   },
   {
-    "word": "148",
-    "count": 60
+    "item": "shows",
+    "category": "entertainment"
   },
   {
-    "word": "424",
-    "count": 60
+    "item": "netflix",
+    "category": "entertainment"
   },
   {
-    "word": "141",
-    "count": 60
+    "item": "series",
+    "category": "entertainment"
   },
   {
-    "word": "651",
-    "count": 60
+    "item": "wood",
+    "category": "entertainment"
   },
   {
-    "word": "101",
-    "count": 60
+    "item": "ever",
+    "category": "entertainment"
   },
   {
-    "word": "346",
-    "count": 60
+    "item": "are",
+    "category": "entertainment"
   },
   {
-    "word": "150",
-    "count": 60
+    "item": "rotten",
+    "category": "entertainment"
   },
   {
-    "word": "341",
-    "count": 60
+    "item": "love",
+    "category": "entertainment"
   },
   {
-    "word": "watch",
-    "count": 53
+    "item": "coming",
+    "category": "entertainment"
   },
   {
-    "word": "streaming",
-    "count": 51
+    "item": "featured",
+    "category": "entertainment"
   },
   {
-    "word": "whats",
-    "count": 51
+    "item": "tomatoes",
+    "category": "entertainment"
   },
   {
-    "word": "movies",
-    "count": 47
+    "item": "stream",
+    "category": "entertainment"
   },
   {
-    "word": "popular",
-    "count": 40
+    "item": "imdb",
+    "category": "entertainment"
   },
   {
-    "word": "comedy",
-    "count": 40
+    "item": "hes",
+    "category": "entertainment"
   },
   {
-    "word": "shows",
-    "count": 39
+    "item": "roles",
+    "category": "entertainment"
   },
   {
-    "word": "view",
-    "count": 39
+    "item": "has",
+    "category": "entertainment"
   },
   {
-    "word": "imdb",
-    "count": 35
+    "item": "evan",
+    "category": "entertainment"
   },
   {
-    "word": "rise",
-    "count": 31
+    "item": "teaser",
+    "category": "entertainment"
   },
   {
-    "word": "michelle",
-    "count": 31
+    "item": "345",
+    "category": "entertainment"
   },
   {
-    "word": "downton",
-    "count": 31
+    "item": "148",
+    "category": "entertainment"
   },
   {
-    "word": "abbey",
-    "count": 31
+    "item": "424",
+    "category": "entertainment"
   },
   {
-    "word": "defending",
-    "count": 31
+    "item": "205",
+    "category": "entertainment"
   },
   {
-    "word": "ali",
-    "count": 31
+    "item": "252",
+    "category": "entertainment"
   },
   {
-    "word": "joins",
-    "count": 31
+    "item": "101",
+    "category": "entertainment"
   },
   {
-    "word": "series",
-    "count": 31
+    "item": "418",
+    "category": "entertainment"
   },
   {
-    "word": "ryan",
-    "count": 31
+    "item": "031",
+    "category": "entertainment"
   },
   {
-    "word": "murphys",
-    "count": 31
+    "item": "341",
+    "category": "entertainment"
   },
   {
-    "word": "reenvisions",
-    "count": 31
+    "item": "fresh",
+    "category": "entertainment"
   },
   {
-    "word": "arrives",
-    "count": 31
+    "item": "fan",
+    "category": "entertainment"
   },
   {
-    "word": "weavings",
-    "count": 31
+    "item": "hollywood",
+    "category": "entertainment"
   },
   {
-    "word": "shes",
-    "count": 31
+    "item": "story",
+    "category": "entertainment"
   },
   {
-    "word": "eating",
-    "count": 31
+    "item": "binge",
+    "category": "entertainment"
   },
   {
-    "word": "morty",
-    "count": 31
+    "item": "popular",
+    "category": "entertainment"
   },
   {
-    "word": "final",
-    "count": 31
+    "item": "join",
+    "category": "entertainment"
   },
   {
-    "word": "mission",
-    "count": 31
+    "item": "comedy",
+    "category": "entertainment"
   },
   {
-    "word": "begins",
-    "count": 31
+    "item": "playing",
+    "category": "entertainment"
   },
   {
-    "word": "avatar",
-    "count": 31
+    "item": "exclusive",
+    "category": "entertainment"
   },
   {
-    "word": "roles",
-    "count": 31
+    "item": "disney",
+    "category": "entertainment"
   },
   {
-    "word": "has",
-    "count": 31
+    "item": "amazon",
+    "category": "entertainment"
   },
   {
-    "word": "chris",
-    "count": 31
+    "item": "comic",
+    "category": "entertainment"
   },
   {
-    "word": "evans",
-    "count": 31
+    "item": "history",
+    "category": "entertainment"
   },
   {
-    "word": "been",
-    "count": 31
+    "item": "dance",
+    "category": "entertainment"
   },
   {
-    "word": "considered",
-    "count": 31
+    "item": "girls",
+    "category": "entertainment"
   },
   {
-    "word": "lovecraft",
-    "count": 31
+    "item": "mandalorian",
+    "category": "entertainment"
   },
   {
-    "word": "country126",
-    "count": 31
+    "item": "career",
+    "category": "entertainment"
   },
   {
-    "word": "official",
-    "count": 31
+    "item": "streaming",
+    "category": "entertainment"
   },
   {
-    "word": "jacob",
-    "count": 31
+    "item": "tim",
+    "category": "entertainment"
   },
   {
-    "word": "dockery403",
-    "count": 31
+    "item": "trailers",
+    "category": "entertainment"
   },
   {
-    "word": "cast",
-    "count": 31
+    "item": "250",
+    "category": "entertainment"
   },
   {
-    "word": "ramy",
-    "count": 31
+    "item": "official",
+    "category": "entertainment"
   },
   {
-    "word": "trailer148",
-    "count": 31
+    "item": "list",
+    "category": "entertainment"
   },
   {
-    "word": "mahershala",
-    "count": 31
+    "item": "plus",
+    "category": "entertainment"
   },
   {
-    "word": "history",
-    "count": 31
+    "item": "space",
+    "category": "entertainment"
   },
   {
-    "word": "interview424",
-    "count": 31
+    "item": "release",
+    "category": "entertainment"
   },
   {
-    "word": "snowpiercer",
-    "count": 31
+    "item": "minds",
+    "category": "entertainment"
   },
   {
-    "word": "17141",
-    "count": 31
+    "item": "jordan",
+    "category": "entertainment"
   },
   {
-    "word": "popcorn",
-    "count": 31
+    "item": "peele",
+    "category": "entertainment"
   },
   {
-    "word": "samara",
-    "count": 31
+    "item": "scavenger",
+    "category": "entertainment"
   },
   {
-    "word": "audition651",
-    "count": 31
+    "item": "mcu",
+    "category": "entertainment"
   },
   {
-    "word": "plus",
-    "count": 31
+    "item": "easter",
+    "category": "entertainment"
   },
   {
-    "word": "nos4a2",
-    "count": 31
+    "item": "ali",
+    "category": "entertainment"
   },
   {
-    "word": "returns101",
-    "count": 31
+    "item": "joins",
+    "category": "entertainment"
   },
   {
-    "word": "picks",
-    "count": 31
+    "item": "ryan",
+    "category": "entertainment"
   },
   {
-    "word": "may346",
-    "count": 31
+    "item": "murphys",
+    "category": "entertainment"
   },
   {
-    "word": "rick",
-    "count": 31
+    "item": "reenvisions",
+    "category": "entertainment"
   },
   {
-    "word": "agents",
-    "count": 31
+    "item": "gallery",
+    "category": "entertainment"
   },
   {
-    "word": "shield150",
-    "count": 31
+    "item": "scenes",
+    "category": "entertainment"
   },
   {
-    "word": "milk341",
-    "count": 31
+    "item": "rachel",
+    "category": "entertainment"
   },
   {
-    "word": "country126official",
-    "count": 29
+    "item": "turned",
+    "category": "entertainment"
   },
   {
-    "word": "dockery403from",
-    "count": 29
+    "item": "salutes",
+    "category": "entertainment"
   },
   {
-    "word": "trailer148mahershala",
-    "count": 29
+    "item": "irrfan",
+    "category": "entertainment"
   },
   {
-    "word": "interview424how",
-    "count": 29
+    "item": "actors",
+    "category": "entertainment"
   },
   {
-    "word": "17141watch",
-    "count": 29
+    "item": "remarkable",
+    "category": "entertainment"
   },
   {
-    "word": "audition651plus",
-    "count": 29
+    "item": "avatar",
+    "category": "entertainment"
   },
   {
-    "word": "returns101season",
-    "count": 29
+    "item": "chris",
+    "category": "entertainment"
   },
   {
-    "word": "may346rick",
-    "count": 29
+    "item": "evans",
+    "category": "entertainment"
   },
   {
-    "word": "shield150the",
-    "count": 29
+    "item": "been",
+    "category": "entertainment"
   },
   {
-    "word": "milk341what",
-    "count": 29
+    "item": "considered",
+    "category": "entertainment"
   },
   {
-    "word": "browse",
-    "count": 28
+    "item": "seinfeld",
+    "category": "entertainment"
   },
   {
-    "word": "126lovecraft",
-    "count": 27
+    "item": "tuesday",
+    "category": "entertainment"
   },
   {
-    "word": "403the",
-    "count": 27
+    "item": "abrams",
+    "category": "entertainment"
   },
   {
-    "word": "148ramy",
-    "count": 27
+    "item": "lovecraft",
+    "category": "entertainment"
   },
   {
-    "word": "424hollywood",
-    "count": 27
+    "item": "country126",
+    "category": "entertainment"
   },
   {
-    "word": "141snowpiercer",
-    "count": 27
+    "item": "eggs",
+    "category": "entertainment"
   },
   {
-    "word": "651samara",
-    "count": 27
+    "item": "hunt345",
+    "category": "entertainment"
   },
   {
-    "word": "101nos4a2",
-    "count": 27
+    "item": "cast",
+    "category": "entertainment"
   },
   {
-    "word": "346whats",
-    "count": 27
+    "item": "ramy",
+    "category": "entertainment"
   },
   {
-    "word": "150agents",
-    "count": 27
+    "item": "trailer148",
+    "category": "entertainment"
   },
   {
-    "word": "341from",
-    "count": 27
+    "item": "mahershala",
+    "category": "entertainment"
   },
   {
-    "word": "site",
-    "count": 23
+    "item": "interview424",
+    "category": "entertainment"
   },
   {
-    "word": "rated",
-    "count": 20
+    "item": "trailer205",
+    "category": "entertainment"
   },
   {
-    "word": "newsindia",
-    "count": 20
+    "item": "behind",
+    "category": "entertainment"
   },
   {
-    "word": "picture",
-    "count": 20
+    "item": "runaways252",
+    "category": "entertainment"
   },
   {
-    "word": "film",
-    "count": 20
+    "item": "nos4a2",
+    "category": "entertainment"
   },
   {
-    "word": "spotlight",
-    "count": 20
+    "item": "returns101",
+    "category": "entertainment"
   },
   {
-    "word": "release",
-    "count": 20
+    "item": "khan418",
+    "category": "entertainment"
   },
   {
-    "word": "upload",
-    "count": 18
+    "item": "hanna",
+    "category": "entertainment"
   },
   {
-    "word": "awards",
-    "count": 18
+    "item": "returns031",
+    "category": "entertainment"
   },
   {
-    "word": "events",
-    "count": 18
+    "item": "milk341",
+    "category": "entertainment"
   },
   {
-    "word": "trailers",
-    "count": 18
+    "item": "jerry",
+    "category": "entertainment"
   },
   {
-    "word": "box",
-    "count": 17
+    "item": "kill126",
+    "category": "entertainment"
   },
   {
-    "word": "office",
-    "count": 17
-  },
-  {
-    "word": "today",
-    "count": 16
-  },
-  {
-    "word": "alt",
-    "count": 12
-  },
-  {
-    "word": "151",
-    "count": 11
-  },
-  {
-    "word": "photos",
-    "count": 11
-  },
-  {
-    "word": "322",
-    "count": 11
-  },
-  {
-    "word": "calendardvd",
-    "count": 10
-  },
-  {
-    "word": "bluray",
-    "count": 10
-  },
-  {
-    "word": "releasestop",
-    "count": 10
-  },
-  {
-    "word": "moviesmost",
-    "count": 10
-  },
-  {
-    "word": "moviesbrowse",
-    "count": 10
-  },
-  {
-    "word": "genretop",
-    "count": 10
-  },
-  {
-    "word": "officeshowtimes",
-    "count": 10
-  },
-  {
-    "word": "ticketsshowtimes",
-    "count": 10
-  },
-  {
-    "word": "ticketsin",
-    "count": 10
-  },
-  {
-    "word": "theaterscoming",
-    "count": 10
-  },
-  {
-    "word": "sooncoming",
-    "count": 10
-  },
-  {
-    "word": "soonmovie",
-    "count": 10
-  },
-  {
-    "word": "streamingwhats",
-    "count": 10
-  },
-  {
-    "word": "streamingtop",
-    "count": 10
-  },
-  {
-    "word": "showsmost",
-    "count": 10
-  },
-  {
-    "word": "showsbrowse",
-    "count": 10
-  },
-  {
-    "word": "genretv",
-    "count": 10
-  },
-  {
-    "word": "winnersbest",
-    "count": 10
-  },
-  {
-    "word": "winnersgolden",
-    "count": 10
-  },
-  {
-    "word": "globesemmyssan",
-    "count": 10
-  },
-  {
-    "word": "diego",
-    "count": 10
-  },
-  {
-    "word": "comicconnew",
-    "count": 10
-  },
-  {
-    "word": "york",
-    "count": 10
-  },
-  {
-    "word": "comicconsundance",
-    "count": 10
-  },
-  {
-    "word": "festivaltoronto",
-    "count": 10
-  },
-  {
-    "word": "intl",
-    "count": 10
-  },
-  {
-    "word": "festivalawards",
-    "count": 10
-  },
-  {
-    "word": "centralfestival",
-    "count": 10
-  },
-  {
-    "word": "centralall",
-    "count": 10
-  },
-  {
-    "word": "todaymost",
-    "count": 10
-  },
-  {
-    "word": "celebsmost",
-    "count": 10
-  },
-  {
-    "word": "celebscelebrity",
-    "count": 10
-  },
-  {
-    "word": "originalslatest",
-    "count": 10
-  },
-  {
-    "word": "centercontributor",
-    "count": 10
-  },
-  {
-    "word": "teaser126lovecraft",
-    "count": 10
-  },
-  {
-    "word": "jacob403the",
-    "count": 10
-  },
-  {
-    "word": "cast148ramy",
-    "count": 10
-  },
-  {
-    "word": "history424hollywood",
-    "count": 10
-  },
-  {
-    "word": "trailer141snowpiercer",
-    "count": 10
-  },
-  {
-    "word": "popcorn651samara",
-    "count": 10
-  },
-  {
-    "word": "teaser101nos4a2",
-    "count": 10
-  },
-  {
-    "word": "picks346whats",
-    "count": 10
-  },
-  {
-    "word": "27150agents",
-    "count": 10
-  },
-  {
-    "word": "for341from",
-    "count": 10
-  },
-  {
-    "word": "oscarsbest",
-    "count": 10
-  },
-  {
-    "word": "born",
-    "count": 10
-  },
-  {
-    "word": "zonepolls",
-    "count": 10
-  },
-  {
-    "word": "industry",
-    "count": 9
-  },
-  {
-    "word": "episodescelebscompanieskeywordsadvanced",
-    "count": 9
-  },
-  {
-    "word": "teaser403the",
-    "count": 9
-  },
-  {
-    "word": "jacob148ramy",
-    "count": 9
-  },
-  {
-    "word": "cast424hollywood",
-    "count": 9
-  },
-  {
-    "word": "history141snowpiercer",
-    "count": 9
-  },
-  {
-    "word": "trailer651samara",
-    "count": 9
-  },
-  {
-    "word": "popcorn101nos4a2",
-    "count": 9
-  },
-  {
-    "word": "teaser346whats",
-    "count": 9
-  },
-  {
-    "word": "picks150agents",
-    "count": 9
-  },
-  {
-    "word": "27341from",
-    "count": 9
-  },
-  {
-    "word": "151robbie",
-    "count": 9
-  },
-  {
-    "word": "amells",
-    "count": 9
-  },
-  {
-    "word": "reasons",
-    "count": 9
-  },
-  {
-    "word": "trippy",
-    "count": 9
-  },
-  {
-    "word": "anne",
-    "count": 9
-  },
-  {
-    "word": "hathaway",
-    "count": 9
-  },
-  {
-    "word": "daisy",
-    "count": 9
-  },
-  {
-    "word": "casa",
-    "count": 9
-  },
-  {
-    "word": "professionals",
-    "count": 9
-  },
-  {
-    "word": "search",
-    "count": 9
-  },
-  {
-    "word": "alltitlestv",
-    "count": 9
-  },
-  {
-    "word": "gentlemen",
-    "count": 9
-  },
-  {
-    "word": "photosis",
-    "count": 9
-  },
-  {
-    "word": "edgarjones",
-    "count": 9
-  },
-  {
-    "word": "322what",
-    "count": 9
-  },
-  {
-    "word": "86parasite",
-    "count": 9
-  },
-  {
-    "word": "85joker",
-    "count": 9
-  },
-  {
-    "word": "84la",
-    "count": 9
-  },
-  {
-    "word": "papel",
-    "count": 9
-  },
-  {
-    "word": "70el",
-    "count": 9
-  },
-  {
-    "word": "hoyo",
-    "count": 9
-  },
-  {
-    "word": "831917",
-    "count": 9
-  },
-  {
-    "word": "79the",
-    "count": 9
-  },
-  {
-    "word": "showswhats",
-    "count": 8
-  },
-  {
-    "word": "eventsoscarsbest",
-    "count": 8
-  },
-  {
-    "word": "uploadphotosis",
-    "count": 8
-  },
-  {
-    "word": "edgarjones322what",
-    "count": 8
-  },
-  {
-    "word": "weeks",
-    "count": 8
-  },
-  {
-    "word": "papel70el",
-    "count": 8
-  },
-  {
-    "word": "hoyo83191779the",
-    "count": 8
-  },
-  {
-    "word": "moviesrelease",
-    "count": 8
-  },
-  {
-    "word": "celebsborn",
-    "count": 8
-  },
-  {
-    "word": "videosimdb",
-    "count": 8
-  },
-  {
-    "word": "communityhelp",
-    "count": 8
-  },
-  {
-    "word": "fan",
-    "count": 8
-  },
-  {
-    "word": "favorites",
-    "count": 8
-  },
-  {
-    "word": "86parasite85joker84la",
-    "count": 8
-  },
-  {
-    "word": "spotlighttv",
-    "count": 7
-  },
-  {
-    "word": "spotlightawards",
-    "count": 7
-  },
-  {
-    "word": "eventscelebsborn",
-    "count": 7
-  },
-  {
-    "word": "newsvideosimdb",
-    "count": 7
-  },
-  {
-    "word": "trailerscommunityhelp",
-    "count": 7
-  },
-  {
-    "word": "zonepollsfor",
-    "count": 7
-  },
-  {
-    "word": "forbrowse",
-    "count": 7
-  },
-  {
-    "word": "favoritesthis",
-    "count": 7
-  },
-  {
-    "word": "full",
-    "count": 7
-  },
-  {
-    "word": "ads",
-    "count": 7
-  },
-  {
-    "word": "allalltitlestv",
-    "count": 7
-  },
-  {
-    "word": "index",
-    "count": 7
-  },
-  {
-    "word": "imdbpro",
-    "count": 7
-  },
-  {
-    "word": "mojo",
-    "count": 7
-  },
-  {
-    "word": "press",
-    "count": 7
-  },
-  {
-    "word": "room",
-    "count": 7
-  },
-  {
-    "word": "advertising",
-    "count": 7
-  },
-  {
-    "word": "jobs",
-    "count": 7
-  },
-  {
-    "word": "conditions",
-    "count": 7
-  },
-  {
-    "word": "privacy",
-    "count": 7
-  },
-  {
-    "word": "policy",
-    "count": 7
-  },
-  {
-    "word": "interestbased",
-    "count": 7
-  },
-  {
-    "word": "movies86parasite85joker84la",
-    "count": 6
-  },
-  {
-    "word": "appview",
-    "count": 6
-  },
-  {
-    "word": "sitehelpsite",
-    "count": 6
-  },
-  {
-    "word": "indeximdbprobox",
-    "count": 6
-  },
-  {
-    "word": "mojopress",
-    "count": 6
-  },
-  {
-    "word": "useprivacy",
-    "count": 6
-  },
-  {
-    "word": "policyinterestbased",
-    "count": 6
-  },
-  {
-    "word": "watchlist",
-    "count": 6
-  },
-  {
-    "word": "sign",
-    "count": 6
-  },
-  {
-    "word": "featured",
-    "count": 6
-  },
-  {
-    "word": "roomadvertising",
-    "count": 6
-  },
-  {
-    "word": "jobsconditions",
-    "count": 6
-  },
-  {
-    "word": "watchfan",
-    "count": 5
-  },
-  {
-    "word": "roomadvertisingjobsconditions",
-    "count": 5
-  },
-  {
-    "word": "menu",
-    "count": 5
-  },
-  {
-    "word": "menumoviesrelease",
-    "count": 4
-  },
-  {
-    "word": "professionalsallalltitlestv",
-    "count": 4
-  },
-  {
-    "word": "searchwatchlistsign",
-    "count": 4
-  },
-  {
-    "word": "trailersfeatured",
-    "count": 4
-  },
-  {
-    "word": "intowhat",
-    "count": 4
-  },
-  {
-    "word": "19902020",
-    "count": 4
-  },
-  {
-    "word": "imdbcom",
-    "count": 4
-  },
-  {
-    "word": "inc",
-    "count": 4
-  },
-  {
-    "word": "in126lovecraft",
-    "count": 3
-  },
-  {
-    "word": "gentlemenget",
-    "count": 3
-  },
-  {
-    "word": "appget",
-    "count": 3
-  },
-  {
-    "word": "img",
-    "count": 2
-  },
-  {
-    "word": "height1",
-    "count": 2
-  },
-  {
-    "word": "width1",
-    "count": 2
-  },
-  {
-    "word": "styledisplaynonevisibilityhidden",
-    "count": 2
-  },
-  {
-    "word": "srcflsnaamazoncom1batch1opa1evam02el8sfb13485264459407509zeg7rmed1m304v7k6rkmuedatas2fuedata2fuedata3fnoscript26id3dzeg7rmed1m304v7k6rkm0",
-    "count": 2
-  },
-  {
-    "word": "ratings",
-    "count": 1
-  },
-  {
-    "word": "reviews",
-    "count": 1
+    "item": "whats",
+    "category": "entertainment"
   }
 ]

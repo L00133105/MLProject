@@ -11,12 +11,29 @@ var entertainment = fs.createWriteStream('categoryEntertainment.txt');
 var sports = fs.createWriteStream('categorySports.txt');
 var marketingplatform = fs.createWriteStream('categoryMarketingplatform.txt');
 var travel = fs.createWriteStream('categoryTravel.txt');
-const trainer = require('./trainAlg.json');
-let formattedString = [];
+const trainEntertainment = require('./wordsEntertainment.json');
+const trainExplicit = require('./wordsExplicit.json');
+const trainGambling = require('./wordsGambling.json');
+const trainMarketingPlatform = require('./wordsMarketingPlatform.json');
+const trainSport = require('./wordsSport.json');
+const trainTechnology = require('./wordsTechnology.json');
+const trainTravel = require('./wordsTravel.json');
 //Train
-trainer.forEach(item=>{
-    classifier.addDocument(item.text, item.category);
-})
+trainEntertainment.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainExplicit.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainGambling.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainMarketingPlatform.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainSport.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainTechnology.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainTravel.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })   
+
 classifier.train();
 for(i in array) 
 {
@@ -29,27 +46,22 @@ for(i in array)
             //$('li, h3, h2, body, div, html').each((i, el) => 
             //{
                 var link = $('li, h3, h2, body, div, html').text();
-                console.log(link);
+                //console.log(link);
                 //Apply and Predict
                 //console.log(classifier.classify(link));
                 if(classifier.classify(link) == "explicit")
                     explicit.write(url + '\n');
                 
                 else if(classifier.classify(link) == "gambling")
-                    gambling.write(url  + '\n');
-                
+                    gambling.write(url  + '\n');               
                 else if(classifier.classify(link) == "technology")
                     technology.write(url  + '\n');
-                
                 else if(classifier.classify(link) == "entertainment")
                     entertainment.write(url  + '\n');
-                
                 else if(classifier.classify(link) == "sports")
                     sports.write(url  + '\n');
-                
-                else if(classifier.classify(link) == "marketingplatform")
+                else if(classifier.classify(link) == "marketingPlatform")
                     marketingplatform.write(url  + '\n');
-                
                 else if(classifier.classify(link) == "travel")
                     travel.write(url  + '\n');
                 }

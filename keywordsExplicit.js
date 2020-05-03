@@ -58,3 +58,12 @@ let countArray=[];
         function writeCount(json, filePath) {
           fs.writeFileSync(filePath, JSON.stringify(json, null, 2))
         }
+        const autoTrain = require('./wordsExplicit.json');
+        trainedPath = 'wordsExplicit.json'
+        let addWords=[];
+                autoTrain.forEach((item) => {
+                  if (item.count >= 30)
+                  addWords.push({"item":item.word,"category":"explicit"});
+                });
+                console.log(addWords);
+                writeCount(addWords, trainedPath)

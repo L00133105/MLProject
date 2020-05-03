@@ -1,714 +1,454 @@
 [
   {
-    "word": "learn",
-    "count": 217
+    "item": "learn",
+    "category": "marketingPlatform"
   },
   {
-    "word": "amazon",
-    "count": 201
+    "item": "market",
+    "category": "marketingPlatform"
   },
   {
-    "word": "ads",
-    "count": 160
+    "item": "ads",
+    "category": "marketingPlatform"
   },
   {
-    "word": "product",
-    "count": 151
+    "item": "amazon",
+    "category": "marketingPlatform"
   },
   {
-    "word": "sponsored",
-    "count": 144
+    "item": "custom",
+    "category": "marketingPlatform"
   },
   {
-    "word": "custom",
-    "count": 112
+    "item": "marketing",
+    "category": "marketingPlatform"
   },
   {
-    "word": "products",
-    "count": 108
+    "item": "product",
+    "category": "marketingPlatform"
   },
   {
-    "word": "brand",
-    "count": 102
+    "item": "advertising",
+    "category": "marketingPlatform"
   },
   {
-    "word": "advertising",
-    "count": 87
+    "item": "sponsored",
+    "category": "marketingPlatform"
   },
   {
-    "word": "store",
-    "count": 80
+    "item": "360",
+    "category": "marketingPlatform"
   },
   {
-    "word": "display",
-    "count": 77
+    "item": "solution",
+    "category": "marketingPlatform"
   },
   {
-    "word": "united",
-    "count": 70
+    "item": "analytics",
+    "category": "marketingPlatform"
   },
   {
-    "word": "appear",
-    "count": 64
+    "item": "search",
+    "category": "marketingPlatform"
   },
   {
-    "word": "search",
-    "count": 64
+    "item": "google",
+    "category": "marketingPlatform"
   },
   {
-    "word": "results",
-    "count": 64
+    "item": "are",
+    "category": "marketingPlatform"
   },
   {
-    "word": "amazonlearn",
-    "count": 63
+    "item": "products",
+    "category": "marketingPlatform"
   },
   {
-    "word": "are",
-    "count": 58
+    "item": "brand",
+    "category": "marketingPlatform"
   },
   {
-    "word": "solution",
-    "count": 54
+    "item": "display",
+    "category": "marketingPlatform"
   },
   {
-    "word": "brands",
-    "count": 48
+    "item": "platform",
+    "category": "marketingPlatform"
   },
   {
-    "word": "stores",
-    "count": 48
+    "item": "tag",
+    "category": "marketingPlatform"
   },
   {
-    "word": "english",
-    "count": 46
+    "item": "customer",
+    "category": "marketingPlatform"
   },
   {
-    "word": "selfservice",
-    "count": 44
+    "item": "logo",
+    "category": "marketingPlatform"
   },
   {
-    "word": "awareness",
-    "count": 43
+    "item": "data",
+    "category": "marketingPlatform"
   },
   {
-    "word": "customized",
-    "count": 43
+    "item": "manage",
+    "category": "marketingPlatform"
   },
   {
-    "word": "customer",
-    "count": 42
+    "item": "solutions",
+    "category": "marketingPlatform"
   },
   {
-    "word": "case",
-    "count": 38
+    "item": "business",
+    "category": "marketingPlatform"
   },
   {
-    "word": "france",
-    "count": 36
+    "item": "blog",
+    "category": "marketingPlatform"
   },
   {
-    "word": "espaol",
-    "count": 36
+    "item": "store",
+    "category": "marketingPlatform"
   },
   {
-    "word": "states",
-    "count": 34
+    "item": "results",
+    "category": "marketingPlatform"
   },
   {
-    "word": "visibility",
-    "count": 34
+    "item": "partner",
+    "category": "marketingPlatform"
   },
   {
-    "word": "alt",
-    "count": 34
+    "item": "resources",
+    "category": "marketingPlatform"
   },
   {
-    "word": "individual",
-    "count": 32
+    "item": "united",
+    "category": "marketingPlatform"
   },
   {
-    "word": "logo",
-    "count": 32
+    "item": "case",
+    "category": "marketingPlatform"
   },
   {
-    "word": "headline",
-    "count": 32
+    "item": "manager",
+    "category": "marketingPlatform"
   },
   {
-    "word": "business",
-    "count": 32
+    "item": "appear",
+    "category": "marketingPlatform"
   },
   {
-    "word": "reaching",
-    "count": 32
+    "item": "amazonlearn",
+    "category": "marketingPlatform"
   },
   {
-    "word": "relevant",
-    "count": 32
+    "item": "publisher",
+    "category": "marketingPlatform"
   },
   {
-    "word": "audiences",
-    "count": 32
+    "item": "english",
+    "category": "marketingPlatform"
   },
   {
-    "word": "using",
-    "count": 32
+    "item": "audience",
+    "category": "marketingPlatform"
   },
   {
-    "word": "loyalty",
-    "count": 32
+    "item": "brands",
+    "category": "marketingPlatform"
   },
   {
-    "word": "free",
-    "count": 32
+    "item": "video",
+    "category": "marketingPlatform"
   },
   {
-    "word": "multipage",
-    "count": 32
+    "item": "report",
+    "category": "marketingPlatform"
   },
   {
-    "word": "improve",
-    "count": 32
+    "item": "experience",
+    "category": "marketingPlatform"
   },
   {
-    "word": "pages",
-    "count": 32
+    "item": "site",
+    "category": "marketingPlatform"
   },
   {
-    "word": "boost",
-    "count": 32
+    "item": "sight",
+    "category": "marketingPlatform"
   },
   {
-    "word": "grow",
-    "count": 32
+    "item": "rise",
+    "category": "marketingPlatform"
   },
   {
-    "word": "inspire",
-    "count": 32
+    "item": "outbrain",
+    "category": "marketingPlatform"
   },
   {
-    "word": "start",
-    "count": 31
+    "item": "surveys",
+    "category": "marketingPlatform"
   },
   {
-    "word": "productsimprove",
-    "count": 30
+    "item": "audiences",
+    "category": "marketingPlatform"
   },
   {
-    "word": "pageslearn",
-    "count": 30
+    "item": "act",
+    "category": "marketingPlatform"
   },
   {
-    "word": "brandsboost",
-    "count": 30
+    "item": "overview",
+    "category": "marketingPlatform"
   },
   {
-    "word": "resultslearn",
-    "count": 30
+    "item": "advertise",
+    "category": "marketingPlatform"
   },
   {
-    "word": "solutionlearn",
-    "count": 30
+    "item": "alt",
+    "category": "marketingPlatform"
   },
   {
-    "word": "storesinspire",
-    "count": 30
+    "item": "better",
+    "category": "marketingPlatform"
   },
   {
-    "word": "beta",
-    "count": 30
+    "item": "reach",
+    "category": "marketingPlatform"
   },
   {
-    "word": "moresponsored",
-    "count": 28
+    "item": "stores",
+    "category": "marketingPlatform"
   },
   {
-    "word": "video",
-    "count": 27
+    "item": "experiences",
+    "category": "marketingPlatform"
   },
   {
-    "word": "dsp",
-    "count": 27
+    "item": "grow",
+    "category": "marketingPlatform"
   },
   {
-    "word": "attribution",
-    "count": 27
+    "item": "studies",
+    "category": "marketingPlatform"
   },
   {
-    "word": "studies",
-    "count": 27
+    "item": "faq",
+    "category": "marketingPlatform"
   },
   {
-    "word": "webinars",
-    "count": 27
+    "item": "studio",
+    "category": "marketingPlatform"
   },
   {
-    "word": "faq",
-    "count": 27
+    "item": "optimize",
+    "category": "marketingPlatform"
   },
   {
-    "word": "reporting",
-    "count": 27
+    "item": "sites",
+    "category": "marketingPlatform"
   },
   {
-    "word": "resources",
-    "count": 25
+    "item": "enterprise",
+    "category": "marketingPlatform"
   },
   {
-    "word": "solutions",
-    "count": 22
+    "item": "partners",
+    "category": "marketingPlatform"
   },
   {
-    "word": "devices",
-    "count": 22
+    "item": "free",
+    "category": "marketingPlatform"
   },
   {
-    "word": "sites",
-    "count": 22
+    "item": "insights",
+    "category": "marketingPlatform"
   },
   {
-    "word": "started",
-    "count": 19
+    "item": "publishers",
+    "category": "marketingPlatform"
   },
   {
-    "word": "australia",
-    "count": 18
+    "item": "advertiser",
+    "category": "marketingPlatform"
   },
   {
-    "word": "canada",
-    "count": 18
+    "item": "selfservice",
+    "category": "marketingPlatform"
   },
   {
-    "word": "china",
-    "count": 18
+    "item": "awareness",
+    "category": "marketingPlatform"
   },
   {
-    "word": "germany",
-    "count": 18
+    "item": "customized",
+    "category": "marketingPlatform"
   },
   {
-    "word": "india",
-    "count": 18
+    "item": "customers",
+    "category": "marketingPlatform"
   },
   {
-    "word": "italy",
-    "count": 18
+    "item": "tools",
+    "category": "marketingPlatform"
   },
   {
-    "word": "japan",
-    "count": 18
+    "item": "businesses",
+    "category": "marketingPlatform"
   },
   {
-    "word": "mexico",
-    "count": 18
+    "item": "espaol",
+    "category": "marketingPlatform"
   },
   {
-    "word": "spain",
-    "count": 18
+    "item": "campaign",
+    "category": "marketingPlatform"
   },
   {
-    "word": "arab",
-    "count": 18
+    "item": "support",
+    "category": "marketingPlatform"
   },
   {
-    "word": "emirates",
-    "count": 18
+    "item": "fast",
+    "category": "marketingPlatform"
   },
   {
-    "word": "kingdom",
-    "count": 18
+    "item": "using",
+    "category": "marketingPlatform"
   },
   {
-    "word": "deutsch",
-    "count": 18
+    "item": "boost",
+    "category": "marketingPlatform"
   },
   {
-    "word": "espaa",
-    "count": 18
+    "item": "relevant",
+    "category": "marketingPlatform"
   },
   {
-    "word": "mxico",
-    "count": 18
+    "item": "visibility",
+    "category": "marketingPlatform"
   },
   {
-    "word": "franais",
-    "count": 18
+    "item": "tech",
+    "category": "marketingPlatform"
   },
   {
-    "word": "italiano",
-    "count": 18
+    "item": "content",
+    "category": "marketingPlatform"
   },
   {
-    "word": "moreamazon",
-    "count": 18
+    "item": "deliver",
+    "category": "marketingPlatform"
   },
   {
-    "word": "marketplace",
-    "count": 16
+    "item": "france",
+    "category": "marketingPlatform"
   },
   {
-    "word": "language",
-    "count": 16
+    "item": "apps",
+    "category": "marketingPlatform"
   },
   {
-    "word": "apply",
-    "count": 16
+    "item": "advanced",
+    "category": "marketingPlatform"
   },
   {
-    "word": "betagrow",
-    "count": 16
+    "item": "states",
+    "category": "marketingPlatform"
   },
   {
-    "word": "learning",
-    "count": 14
+    "item": "read",
+    "category": "marketingPlatform"
   },
   {
-    "word": "console",
-    "count": 14
+    "item": "individual",
+    "category": "marketingPlatform"
   },
   {
-    "word": "specs",
-    "count": 14
+    "item": "headline",
+    "category": "marketingPlatform"
   },
   {
-    "word": "policies",
-    "count": 14
+    "item": "reaching",
+    "category": "marketingPlatform"
   },
   {
-    "word": "partner",
-    "count": 14
+    "item": "loyalty",
+    "category": "marketingPlatform"
   },
   {
-    "word": "morestoresinspire",
-    "count": 14
+    "item": "multipage",
+    "category": "marketingPlatform"
   },
   {
-    "word": "displaygrow",
-    "count": 14
+    "item": "improve",
+    "category": "marketingPlatform"
   },
   {
-    "word": "campaign",
-    "count": 13
+    "item": "pages",
+    "category": "marketingPlatform"
   },
   {
-    "word": "blog",
-    "count": 12
+    "item": "inspire",
+    "category": "marketingPlatform"
   },
   {
-    "word": "moremore",
-    "count": 12
+    "item": "every",
+    "category": "marketingPlatform"
   },
   {
-    "word": "more0",
-    "count": 12
+    "item": "start",
+    "category": "marketingPlatform"
   },
   {
-    "word": "nowstart",
-    "count": 11
+    "item": "understand",
+    "category": "marketingPlatform"
   },
   {
-    "word": "solutionssponsored",
-    "count": 11
+    "item": "test",
+    "category": "marketingPlatform"
   },
   {
-    "word": "adsshowcase",
-    "count": 11
+    "item": "marketer",
+    "category": "marketingPlatform"
   },
   {
-    "word": "websites",
-    "count": 11
+    "item": "dsp",
+    "category": "marketingPlatform"
   },
   {
-    "word": "apps",
-    "count": 11
+    "item": "productsimprove",
+    "category": "marketingPlatform"
   },
   {
-    "word": "adscombine",
-    "count": 11
+    "item": "pageslearn",
+    "category": "marketingPlatform"
   },
   {
-    "word": "sight",
-    "count": 11
+    "item": "brandsboost",
+    "category": "marketingPlatform"
   },
   {
-    "word": "sound",
-    "count": 11
+    "item": "resultslearn",
+    "category": "marketingPlatform"
   },
   {
-    "word": "motion",
-    "count": 11
+    "item": "solutionlearn",
+    "category": "marketingPlatform"
   },
   {
-    "word": "fire",
-    "count": 11
+    "item": "storesinspire",
+    "category": "marketingPlatform"
   },
   {
-    "word": "tablet",
-    "count": 11
+    "item": "beta",
+    "category": "marketingPlatform"
   },
   {
-    "word": "across",
-    "count": 11
-  },
-  {
-    "word": "weblearn",
-    "count": 11
-  },
-  {
-    "word": "adsgenerate",
-    "count": 11
-  },
-  {
-    "word": "innovative",
-    "count": 11
-  },
-  {
-    "word": "experienceslearn",
-    "count": 11
-  },
-  {
-    "word": "dspour",
-    "count": 11
-  },
-  {
-    "word": "demandside",
-    "count": 11
-  },
-  {
-    "word": "platform",
-    "count": 11
-  },
-  {
-    "word": "provides",
-    "count": 11
-  },
-  {
-    "word": "advanced",
-    "count": 11
-  },
-  {
-    "word": "tools",
-    "count": 11
-  },
-  {
-    "word": "buying",
-    "count": 11
-  },
-  {
-    "word": "placements",
-    "count": 11
-  },
-  {
-    "word": "betadiscover",
-    "count": 11
-  },
-  {
-    "word": "nonamazon",
-    "count": 11
-  },
-  {
-    "word": "digital",
-    "count": 11
-  },
-  {
-    "word": "marketing",
-    "count": 11
-  },
-  {
-    "word": "tactics",
-    "count": 11
-  },
-  {
-    "word": "helping",
-    "count": 11
-  },
-  {
-    "word": "drive",
-    "count": 11
-  },
-  {
-    "word": "sales",
-    "count": 11
-  },
-  {
-    "word": "covid19",
-    "count": 10
-  },
-  {
-    "word": "advertisingad",
-    "count": 10
-  },
-  {
-    "word": "attract",
-    "count": 10
-  },
-  {
-    "word": "engage",
-    "count": 10
-  },
-  {
-    "word": "millions",
-    "count": 10
-  },
-  {
-    "word": "customers",
-    "count": 10
-  },
-  {
-    "word": "every",
-    "count": 10
-  },
-  {
-    "word": "stage",
-    "count": 10
-  },
-  {
-    "word": "their",
-    "count": 10
-  },
-  {
-    "word": "journey",
-    "count": 10
-  },
-  {
-    "word": "morevideo",
-    "count": 9
-  },
-  {
-    "word": "morecustom",
-    "count": 9
-  },
-  {
-    "word": "studiescampaign",
-    "count": 9
-  },
-  {
-    "word": "journey0",
-    "count": 9
-  },
-  {
-    "word": "webinarscase",
-    "count": 9
-  },
-  {
-    "word": "reportingfaq",
-    "count": 9
-  },
-  {
-    "word": "productsdisplay",
-    "count": 8
-  },
-  {
-    "word": "journey0get",
-    "count": 6
-  },
-  {
-    "word": "resourceswebinarscase",
-    "count": 6
-  },
-  {
-    "word": "reportingfaq0",
-    "count": 6
-  },
-  {
-    "word": "linkedin",
-    "count": 6
-  },
-  {
-    "word": "were",
-    "count": 5
-  },
-  {
-    "word": "closely",
-    "count": 5
-  },
-  {
-    "word": "monitoring",
-    "count": 5
-  },
-  {
-    "word": "developments",
-    "count": 5
-  },
-  {
-    "word": "answers",
-    "count": 5
-  },
-  {
-    "word": "frequently",
-    "count": 5
-  },
-  {
-    "word": "asked",
-    "count": 5
-  },
-  {
-    "word": "questions",
-    "count": 5
-  },
-  {
-    "word": "sign",
-    "count": 4
-  },
-  {
-    "word": "register",
-    "count": 4
-  },
-  {
-    "word": "conditions",
-    "count": 4
-  },
-  {
-    "word": "privacy",
-    "count": 4
-  },
-  {
-    "word": "notice",
-    "count": 4
-  },
-  {
-    "word": "interestbased",
-    "count": 4
-  },
-  {
-    "word": "preferences",
-    "count": 4
-  },
-  {
-    "word": "careers",
-    "count": 4
-  },
-  {
-    "word": "copyright",
-    "count": 4
-  },
-  {
-    "word": "20152020",
-    "count": 4
-  },
-  {
-    "word": "img",
-    "count": 2
-  },
-  {
-    "word": "height1",
-    "count": 2
-  },
-  {
-    "word": "width1",
-    "count": 2
-  },
-  {
-    "word": "styledisplaynonevisibilityhidden",
-    "count": 2
-  },
-  {
-    "word": "srcflsnaamazoncom1batch1opa381wa5gosxmh71469100193443394654nx7raxjvdezetmjczbuedatas2fuedata2fuedata3fnoscript26id3d54nx7raxjvdezetmjczb0",
-    "count": 2
-  },
-  {
-    "word": "online",
-    "count": 1
+    "item": "native",
+    "category": "marketingPlatform"
   }
 ]
