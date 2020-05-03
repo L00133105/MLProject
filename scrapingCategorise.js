@@ -12,12 +12,12 @@ var sports = fs.createWriteStream('categorySports.txt');
 var marketingplatform = fs.createWriteStream('categoryMarketingplatform.txt');
 var travel = fs.createWriteStream('categoryTravel.txt');
 const trainer = require('./trainAlg.json');
+let formattedString = [];
 //Train
 trainer.forEach(item=>{
     classifier.addDocument(item.text, item.category);
 })
 classifier.train();
-
 for(i in array) 
 {
     var url = array[i];
@@ -26,32 +26,32 @@ for(i in array)
         if(!error && response.statusCode==200)
         {
             const $ = cheerio.load(html);
-            $('li, h3, h2, body, div, html').each((i, el) => 
-            {
-                var link = $(el).text();
+            //$('li, h3, h2, body, div, html').each((i, el) => 
+            //{
+                var link = $('li, h3, h2, body, div, html').text();
                 //Apply and Predict
-                if(classifier.classify(link) == "explicit"){
-                    explicit.write(link + '\n');
+                //console.log(classifier.classify(link));
+                if(classifier.classify(link) == "explicit")
+                    explicit.write(url + '\n');
+                
+                else if(classifier.classify(link) == "gambling")
+                    gambling.write(url  + '\n');
+                
+                else if(classifier.classify(link) == "technology")
+                    technology.write(url  + '\n');
+                
+                else if(classifier.classify(link) == "entertainment")
+                    entertainment.write(url  + '\n');
+                
+                else if(classifier.classify(link) == "sports")
+                    sports.write(url  + '\n');
+                
+                else if(classifier.classify(link) == "marketingplatform")
+                    marketingplatform.write(url  + '\n');
+                
+                else if(classifier.classify(link) == "travel")
+                    travel.write(url  + '\n');
                 }
-                else if(classifier.classify(link) == "gambling"){
-                    gambling.write(link + '\n');
-                }
-                else if(classifier.classify(link) == "technology"){ 
-                    technology.write(link + '\n');
-                }
-                else if(classifier.classify(link) == "entertainment"){ 
-                    entertainment.write(link + '\n');
-                }
-                else if(classifier.classify(link) == "sports"){ 
-                    sports.write(link + '\n');
-                }
-                else if(classifier.classify(link) == "marketingplatform"){ 
-                    marketingplatform.write(link + '\n');
-                }
-                else if(classifier.classify(link) == "travel"){ 
-                    travel.write(link + '\n');
-                }
-            });
-        }
+            //});
     });
 }
