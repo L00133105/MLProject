@@ -1,8 +1,8 @@
 const request = require('request');
 const cheerio = require('cheerio');
 var fs = require('fs');
-var array = fs.readFileSync('URLs.txt').toString().split("\n");    
-var wstream = fs.createWriteStream('test.txt');
+var array = fs.readFileSync('baseURLs.txt').toString().split("\n");    
+var wstream = fs.createWriteStream('updatedURLs.txt');
 for(i in array) 
 {
     var url = array[i];
@@ -15,6 +15,7 @@ for(i in array)
             {
                 var link = $(el).attr('href');
                 wstream.write(link + '\n');
+                console.log(link + "\n");
             });
         }
     });

@@ -1,18 +1,17 @@
-#!/bin/node
-cd /home/pi/Documents/MLProject/
+#!/bin/sh
 node keywordsAllScrape
-echo 'keyWordsScraped'
-node keywordsEntertainment
-echo 'Scrape and Count Entertainment Keywords'
-node keywordsExplicit
-echo 'Scrape and Count Explicit Keywords'
-node keywordsGambling
-echo 'Scrape and Count Gambling Keywords'
-node keywordsMarketingPlatform
-echo 'Scrape and Count Marketing Platform Keywords'
-node keywordsSport
-echo 'Scrape and Count Sport Keywords'
-node keywordsTechnology
-echo 'Scrape and Count Technology Keywords'
-node keywordsTravel
-echo 'Scrape and Count Travel Keywords'
+echo "keywords Scraped"
+node /home/pi/Documents/MLProject/keywordsEntertainment
+echo "Entertainment keywords scraped and counted"
+node /home/pi/Documents/MLProject/keywordsExplicit
+echo "Explicit keywords scraped and counted"
+node /home/pi/Documents/MLProject/keywordsGambling
+echo "Gambling keywords scraped and counted"
+node /home/pi/Documents/MLProject/keywordsMarketingPlatform
+echo "Marketing Platform keywords scraped and counted"
+node /home/pi/Documents/MLProject/keywordsSport
+echo "Sport keywords scraped and counted"
+node /home/pi/Documents/MLProject/keywordsTechnology
+echo "Technology keywords scraped and counted"
+node /home/pi/Documents/MLProject/keywordsTravel
+echo "Travel keywords scraped and counted"

@@ -1,7 +1,7 @@
 const request = require('request');
 const cheerio = require('cheerio');
 var fs = require('fs');
-var array = fs.readFileSync('URLs.txt').toString().split("\n");     
+var array = fs.readFileSync('filteredURLs.txt').toString().split("\n");     
 var natural = require('natural');
 var classifier = new natural.BayesClassifier();
 var gambling = fs.createWriteStream('categoryGambling.txt');
@@ -46,7 +46,7 @@ for(i in array)
             //$('li, h3, h2, body, div, html').each((i, el) => 
             //{
                 var link = $('li, h3, h2, body, div, html').text();
-                //console.log(link);
+                console.log(link);
                 //Apply and Predict
                 console.log(classifier.classify(link), url);
                 if(classifier.classify(link) == "gambling")
