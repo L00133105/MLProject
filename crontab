@@ -1,0 +1,4 @@
+# Edit this file to introduce tasks to be run by cron.
+# 
+0 4 * * 4 /home/pi/Documents/MLProject/weekly.sh
+0 5 30 * * /home/pi/Documents/MLProject/monthly.sh
