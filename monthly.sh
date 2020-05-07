@@ -15,3 +15,5 @@ node /home/pi/Documents/MLProject/keywordsTechnology
 echo "Technology keywords scraped and counted"
 node /home/pi/Documents/MLProject/keywordsTravel
 echo "Travel keywords scraped and counted"
+git commit -m 'Monthly Script'
+git push

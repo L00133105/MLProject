@@ -7,3 +7,5 @@ node removeExtension
 echo "Remove extensions and filter URLs"
 node scrapingCategorise
 echo "Scrape and Categorise URLs"
+git commit -m 'Weekly Script'
+git push
