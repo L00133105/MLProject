@@ -1,19 +1,19 @@
 #!/bin/sh
 node keywordsAllScrape
 echo "keywords Scraped"
-node /home/pi/Documents/MLProject/keywordsEntertainment
+node keywordsEntertainment
 echo "Entertainment keywords scraped and counted"
-node /home/pi/Documents/MLProject/keywordsExplicit
+node keywordsExplicit
 echo "Explicit keywords scraped and counted"
-node /home/pi/Documents/MLProject/keywordsGambling
+node keywordsGambling
 echo "Gambling keywords scraped and counted"
-node /home/pi/Documents/MLProject/keywordsMarketingPlatform
+node keywordsMarketingPlatform
 echo "Marketing Platform keywords scraped and counted"
-node /home/pi/Documents/MLProject/keywordsSport
+node keywordsSport
 echo "Sport keywords scraped and counted"
-node /home/pi/Documents/MLProject/keywordsTechnology
+node keywordsTechnology
 echo "Technology keywords scraped and counted"
-node /home/pi/Documents/MLProject/keywordsTravel
+node keywordsTravel
 echo "Travel keywords scraped and counted"
 git add -u
 git commit -m 'Monthly Script'

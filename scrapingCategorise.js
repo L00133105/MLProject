@@ -21,23 +21,23 @@ const trainTravel = require('./wordsTravel.json');
 //Train
 trainEntertainment.forEach(item=>{
     classifier.addDocument(item.text, item.category); })
-//  trainExplicit.forEach(item=>{
-//      classifier.addDocument(item.text, item.category); })
-// trainGambling.forEach(item=>{
-//     classifier.addDocument(item.text, item.category); })
-// trainMarketingPlatform.forEach(item=>{
-//     classifier.addDocument(item.text, item.category); })
-// trainSport.forEach(item=>{
-//     classifier.addDocument(item.text, item.category); })
-// trainTechnology.forEach(item=>{
-//     classifier.addDocument(item.text, item.category); })
-// trainTravel.forEach(item=>{
-//     classifier.addDocument(item.text, item.category); })   
+ trainExplicit.forEach(item=>{
+     classifier.addDocument(item.text, item.category); })
+trainGambling.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainMarketingPlatform.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainSport.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainTechnology.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })
+trainTravel.forEach(item=>{
+    classifier.addDocument(item.text, item.category); })   
  classifier.train();
-//console.log(classifier.classify("on"));
-//for(i in array) 
-//{
-    //var url = array[i];
+
+for(i in array) 
+{
+    var url = array[i];
     var url = "https://www.primevideo.com/"
     request(url, (error, response, html) => 
     {
@@ -46,8 +46,7 @@ trainEntertainment.forEach(item=>{
             const $ = cheerio.load(html);
             //$('li, h3, h2, body, div, html').each((i, el) => 
             //{
-                // var link = $('li, h3, h2, body, div, html').text();
-                var link = $('h2, h3, li').text();
+                var link = $('li, h3, h2, body, div, html').text();
                 console.log(link);
                 //Apply and Predict
                 console.log(classifier.classify(link), url);
@@ -55,17 +54,17 @@ trainEntertainment.forEach(item=>{
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
                     gambling.write(filteredURL + '\n'); 
                     console.log(filteredURL + '\n');}
-                    else if(classifier.classify(link) == "marketingPlatform"){
-                        var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                        console.log(filteredURL + '\n');
-                        marketingplatform.write(filteredURL  + '\n'); }
+                else if(classifier.classify(link) == "marketingPlatform"){
+                    var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                    console.log(filteredURL + '\n');
+                    marketingplatform.write(filteredURL  + '\n'); }
                 else if(classifier.classify(link) == "explicit"){
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    // explicit.write(filteredURL  + '\n'); }
+                    explicit.write(filteredURL  + '\n');
                     console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "technology"){
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    // technology.write(filteredURL  + '\n'); }
+                    technology.write(filteredURL  + '\n'); 
                     console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "entertainment") {
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
@@ -73,13 +72,13 @@ trainEntertainment.forEach(item=>{
                     console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "sports"){
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    // sports.write(filteredURL  + '\n'); }
+                    sports.write(filteredURL  + '\n'); 
                     console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "travel"){
-                var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    // travel.write(filteredURL  + '\n'); }
+                    var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                    travel.write(filteredURL  + '\n');
                     console.log(filteredURL + '\n');}
                 }
             //});
     });
-//}
+}
