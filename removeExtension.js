@@ -1,5 +1,5 @@
 var fs = require('fs');
-var array = fs.readFileSync('updatedURLs.txt').toString().split("\n");
+var array = fs.readFileSync('knownAds.txt').toString().split("\n");
 var urlextend1 = 'https://';
 var urlextend2 = 'http://';
 var wstream = fs.createWriteStream('filteredURLs.txt'); 

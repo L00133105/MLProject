@@ -29,16 +29,11 @@ let countArray=[];
         uniqueWords.forEach((word) => {
           if (skipWords.has(word)) return
           if (word.length <=2) return
-          //if (include.has(word))
-          //if (word.length <=3 && !include.has(word)) return
           countArray.push({"word":word,"count":0});
         });
         countArray.forEach((wordToFind) => {
           wordToFind.count=(occurrences(formattedString,wordToFind.word,false));
         });
-        countArray.sort((a,b) => (b.count > a.count) ? 1 : ((a.count > b.count) ? -1 : 0));
-        console.log(countArray);
-        writeCount(countArray, OUTPUT_FILE)
         function occurrences(string, subString, allowOverlapping) {
             string += "";
             subString += "";
@@ -55,9 +50,15 @@ let countArray=[];
             }
             return n;
         }
+        
         function writeCount(json, filePath) {
           fs.writeFileSync(filePath, JSON.stringify(json, null, 2))
         }
+        countArray.sort((a,b) => (b.count > a.count) ? 1 : ((a.count > b.count) ? -1 : 0));
+        console.log(countArray);
+        writeCount(countArray, OUTPUT_FILE)
+
+
           const autoTrain = require('./wordsEntertainment.json');
           trainedPath = 'wordsEntertainment.json'
           let addWords=[];
@@ -65,5 +66,5 @@ let countArray=[];
                     if (item.count >= 30)
                     addWords.push({"text":item.word,"category":"entertainment"});
                   });
-                  console.log(addWords);
-                  writeCount(addWords, trainedPath)
+          console.log(addWords);
+          writeCount(addWords, trainedPath)

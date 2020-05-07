@@ -607,10 +607,6 @@ https://static-l3.xvideos-cdn.com/v-5794fd21ac8/v3/css/default/main.css
 #
 https://www.xvideos.red
 /
-undefined
-undefined
-undefined
-undefined
 /red/videos
 /videos-i-like
 /my-subs/videos
@@ -682,11 +678,9 @@ undefined
 /gay?fmc=1
 /shemale?fmc=1
 /tags
-undefined
 /switch-sexual-orientation/straight/straight
 /switch-sexual-orientation/gay/straight
 /switch-sexual-orientation/shemale/straight
-undefined
 #
 #
 /my-subs/videos
@@ -1109,12 +1103,6 @@ https://contribute.imdb.com/czone?ref_=nv_cm_cz
 /poll/?ref_=nv_cm_pl
 https://pro.imdb.com?ref_=cons_nb_hm&rf=cons_nb_hm
 /?ref_=nv_home
-undefined
-undefined
-undefined
-undefined
-undefined
-undefined
 https://www.imdb.com/search/
 https://pro.imdb.com/login/ap?u=/login/lwa&imdbPageAction=signUp&rf=cons_nb_hm&ref_=cons_nb_hm
 /list/watchlist?ref_=nv_usr_wl_all_0
@@ -1260,3 +1248,4 @@ https://www.amazon.jobs/en/teams/imdb?ref_=ft_jb
 /conditions?ref_=ft_cou
 /privacy?ref_=ft_pvc
 /whitelist-offsite?url=https%3A%2F%2Fwww.amazon.com%2Fb%2F%3F%26node%3D5160028011%26ref_%3Dft_iba&page-action=ft-iba&ref=ft_iba
+

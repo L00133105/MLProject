@@ -23,22 +23,22 @@ trainEntertainment.forEach(item=>{
     classifier.addDocument(item.text, item.category); })
 //  trainExplicit.forEach(item=>{
 //      classifier.addDocument(item.text, item.category); })
-trainGambling.forEach(item=>{
-    classifier.addDocument(item.text, item.category); })
-trainMarketingPlatform.forEach(item=>{
-    classifier.addDocument(item.text, item.category); })
-trainSport.forEach(item=>{
-    classifier.addDocument(item.text, item.category); })
-trainTechnology.forEach(item=>{
-    classifier.addDocument(item.text, item.category); })
-trainTravel.forEach(item=>{
-    classifier.addDocument(item.text, item.category); })   
-classifier.train();
+// trainGambling.forEach(item=>{
+//     classifier.addDocument(item.text, item.category); })
+// trainMarketingPlatform.forEach(item=>{
+//     classifier.addDocument(item.text, item.category); })
+// trainSport.forEach(item=>{
+//     classifier.addDocument(item.text, item.category); })
+// trainTechnology.forEach(item=>{
+//     classifier.addDocument(item.text, item.category); })
+// trainTravel.forEach(item=>{
+//     classifier.addDocument(item.text, item.category); })   
+ classifier.train();
 //console.log(classifier.classify("on"));
 //for(i in array) 
 //{
     //var url = array[i];
-    var url = "https://www.outbrain.com/"
+    var url = "https://www.primevideo.com/"
     request(url, (error, response, html) => 
     {
         if(!error && response.statusCode==200)
@@ -46,13 +46,14 @@ classifier.train();
             const $ = cheerio.load(html);
             //$('li, h3, h2, body, div, html').each((i, el) => 
             //{
-                var link = $('li, h3, h2, body, div, html').text();
+                // var link = $('li, h3, h2, body, div, html').text();
+                var link = $('h2, h3, li').text();
                 console.log(link);
                 //Apply and Predict
                 console.log(classifier.classify(link), url);
                 if(classifier.classify(link) == "gambling"){
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    //gambling.write(filteredURL + '\n'); 
+                    gambling.write(filteredURL + '\n'); 
                     console.log(filteredURL + '\n');}
                     else if(classifier.classify(link) == "marketingPlatform"){
                         var filteredURL = url.replace("https://www.", "0.0.0.0 ");
@@ -68,7 +69,7 @@ classifier.train();
                     console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "entertainment") {
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    // entertainment.write(filteredURL  + '\n'); }
+                    entertainment.write(filteredURL  + '\n'); 
                     console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "sports"){
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");

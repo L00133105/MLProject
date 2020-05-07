@@ -9,3 +9,4 @@ node scrapingCategorise
 echo "Scrape and Categorise URLs"
 git commit -m 'Weekly Script'
 git push
+echo "Pushed to GitHub"
