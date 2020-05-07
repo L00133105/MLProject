@@ -21,8 +21,8 @@ const trainTravel = require('./wordsTravel.json');
 //Train
 trainEntertainment.forEach(item=>{
     classifier.addDocument(item.text, item.category); })
- trainExplicit.forEach(item=>{
-     classifier.addDocument(item.text, item.category); })
+//  trainExplicit.forEach(item=>{
+//      classifier.addDocument(item.text, item.category); })
 trainGambling.forEach(item=>{
     classifier.addDocument(item.text, item.category); })
 trainMarketingPlatform.forEach(item=>{
@@ -35,9 +35,10 @@ trainTravel.forEach(item=>{
     classifier.addDocument(item.text, item.category); })   
 classifier.train();
 //console.log(classifier.classify("on"));
-for(i in array) 
-{
-    var url = array[i];
+//for(i in array) 
+//{
+    //var url = array[i];
+    var url = "https://www.outbrain.com/"
     request(url, (error, response, html) => 
     {
         if(!error && response.statusCode==200)
@@ -51,26 +52,33 @@ for(i in array)
                 console.log(classifier.classify(link), url);
                 if(classifier.classify(link) == "gambling"){
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    gambling.write(filteredURL + '\n'); }
+                    //gambling.write(filteredURL + '\n'); 
+                    console.log(filteredURL + '\n');}
+                    else if(classifier.classify(link) == "marketingPlatform"){
+                        var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                        console.log(filteredURL + '\n');
+                        marketingplatform.write(filteredURL  + '\n'); }
                 else if(classifier.classify(link) == "explicit"){
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    explicit.write(filteredURL  + '\n'); }
+                    // explicit.write(filteredURL  + '\n'); }
+                    console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "technology"){
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    technology.write(filteredURL  + '\n'); }
+                    // technology.write(filteredURL  + '\n'); }
+                    console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "entertainment") {
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    entertainment.write(filteredURL  + '\n'); }
+                    // entertainment.write(filteredURL  + '\n'); }
+                    console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "sports"){
                     var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    sports.write(filteredURL  + '\n'); }
-                else if(classifier.classify(link) == "marketingPlatform"){
-                    var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    marketingplatform.write(filteredURL  + '\n'); }
+                    // sports.write(filteredURL  + '\n'); }
+                    console.log(filteredURL + '\n');}
                 else if(classifier.classify(link) == "travel"){
                 var filteredURL = url.replace("https://www.", "0.0.0.0 ");
-                    travel.write(filteredURL  + '\n'); }
+                    // travel.write(filteredURL  + '\n'); }
+                    console.log(filteredURL + '\n');}
                 }
             //});
     });
-}
+//}

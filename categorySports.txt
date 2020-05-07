@@ -1,7 +1,0 @@
-vitalfootball.uk.intellitxt.com
-0.0.0.0 squarefootball.uk.intellitxt.com
-0.0.0.0 collegefootballnews.us.intellitxt.com
-0.0.0.0 profootballweekly.us.intellitxt.com
-0.0.0.0 ads.profootballtalk.com
-0.0.0.0 footballnet.vis1.shinobi.jp
-0.0.0.0 stats.mirrorfootball.co.uk
