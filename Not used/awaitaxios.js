@@ -33,7 +33,7 @@ for(i in array)
         if (response) {
           const $ = cheerio.load(response);
       
-          $('li, h3, h2, body, div, html').each((i, el) => 
+          $('li, h3, h2').each((i, el) => 
           {
               link.push =($(el).text());
               //Apply and Predict
