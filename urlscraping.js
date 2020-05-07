@@ -3,6 +3,7 @@ const cheerio = require('cheerio');
 var fs = require('fs');
 var array = fs.readFileSync('baseURLs.txt').toString().split("\n");    
 var wstream = fs.createWriteStream('updatedURLs.txt');
+
 for(i in array) 
 {
     var url = array[i];

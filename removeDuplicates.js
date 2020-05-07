@@ -1,3 +1,17 @@
+var fs = require('fs');
+var array = fs.readFileSync('updatedURLs.txt').toString().split("\n");
+var substr = fs.readFileSync('baseURLs.txt').toString().split("\r\n");
+var wstream = fs.createWriteStream('filteredBaseURLs.txt');
+//console.log(substr);
+//console.log(array);
+ for(i in array){
+        if(!array[i].includes(substr) && !array[i].includes("undefined", "#")){
+         //console.log(substr);
+         wstream.write(array[i] + '\n');
+         console.log(array[i]);
+      }
+}
+
 // fs.readFile(FILE_LOCATION, function (err, data) {
 //   if (err) throw err;
 //   if(data.includes('search string')){
@@ -65,22 +79,6 @@
 //     }
 // }
 
-var fs = require('fs');
-var array = fs.readFileSync('test.txt').toString().split("\n");
-var substr = fs.readFileSync('baseURLs.txt').toString().split("\r\n");
-var wstream = fs.createWriteStream('updatedURLs.txt');
-//var substr = 'https://www.techradar.com/';
-//console.log(substr);
-//console.log(array);
- for(i in array){
-//     //  if(_.includes[i], substr, substr){
-        if(!array[i].includes(substr) && !array[i].includes("undefined", "#")){
-         //console.log(substr);
-         //var newArray = fs.appendFileSync('bigtest.txt'," " + array[i] + '\n');
-         wstream.write(array[i] + '\n');
-         console.log(array[i]);
-      }
-}
 //  let differences = array
 //                 .filter(x => !substr.includes(x))
 //                 .concat(substr.filter(x => !array.includes(x)));

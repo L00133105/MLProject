@@ -1,0 +1,9 @@
+0.0.0.0 betpromo247.com
+0.0.0.0 www.betpromo247.com
+0.0.0.0 adbetnet.advertserve.com
+0.0.0.0 c-betrad-com.cdn.ampproject.org
+0.0.0.0 c.betrad.com
+0.0.0.0 gamblerush.com
+0.0.0.0 www.gamblerush.com
+0.0.0.0 gdwbetvn888.com
+0.0.0.0 bet.122.2o7.net

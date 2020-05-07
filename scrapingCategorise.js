@@ -1,7 +1,7 @@
 const request = require('request');
 const cheerio = require('cheerio');
 var fs = require('fs');
-var array = fs.readFileSync('filteredURLs.txt').toString().split("\n");     
+var array = fs.readFileSync('baseURLs.txt').toString().split("\n");     
 var natural = require('natural');
 var classifier = new natural.BayesClassifier();
 var gambling = fs.createWriteStream('categoryGambling.txt');
@@ -21,8 +21,8 @@ const trainTravel = require('./wordsTravel.json');
 //Train
 trainEntertainment.forEach(item=>{
     classifier.addDocument(item.text, item.category); })
-trainExplicit.forEach(item=>{
-    classifier.addDocument(item.text, item.category); })
+ trainExplicit.forEach(item=>{
+     classifier.addDocument(item.text, item.category); })
 trainGambling.forEach(item=>{
     classifier.addDocument(item.text, item.category); })
 trainMarketingPlatform.forEach(item=>{
@@ -49,20 +49,27 @@ for(i in array)
                 console.log(link);
                 //Apply and Predict
                 console.log(classifier.classify(link), url);
-                if(classifier.classify(link) == "gambling")
-                    gambling.write(url + '\n');
-                else if(classifier.classify(link) == "explicit")
-                    explicit.write(url  + '\n');               
-                else if(classifier.classify(link) == "technology")
-                    technology.write(url  + '\n');
-                else if(classifier.classify(link) == "entertainment")
-                    entertainment.write(url  + '\n');
-                else if(classifier.classify(link) == "sports")
-                    sports.write(url  + '\n');
-                else if(classifier.classify(link) == "marketingPlatform")
-                    marketingplatform.write(url  + '\n');
-                else if(classifier.classify(link) == "travel")
-                    travel.write(url  + '\n');
+                if(classifier.classify(link) == "gambling"){
+                    var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                    gambling.write(filteredURL + '\n'); }
+                else if(classifier.classify(link) == "explicit"){
+                    var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                    explicit.write(filteredURL  + '\n'); }
+                else if(classifier.classify(link) == "technology"){
+                    var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                    technology.write(filteredURL  + '\n'); }
+                else if(classifier.classify(link) == "entertainment") {
+                    var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                    entertainment.write(filteredURL  + '\n'); }
+                else if(classifier.classify(link) == "sports"){
+                    var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                    sports.write(filteredURL  + '\n'); }
+                else if(classifier.classify(link) == "marketingPlatform"){
+                    var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                    marketingplatform.write(filteredURL  + '\n'); }
+                else if(classifier.classify(link) == "travel"){
+                var filteredURL = url.replace("https://www.", "0.0.0.0 ");
+                    travel.write(filteredURL  + '\n'); }
                 }
             //});
     });
