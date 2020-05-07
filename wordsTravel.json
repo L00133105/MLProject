@@ -16,55 +16,11 @@
     "category": "travel"
   },
   {
-    "text": "hotels",
-    "category": "travel"
-  },
-  {
     "text": "reviews",
     "category": "travel"
   },
   {
-    "text": "the",
-    "category": "travel"
-  },
-  {
-    "text": "and",
-    "category": "travel"
-  },
-  {
-    "text": "trivago",
-    "category": "travel"
-  },
-  {
-    "text": "you",
-    "category": "travel"
-  },
-  {
-    "text": "our",
-    "category": "travel"
-  },
-  {
-    "text": "all",
-    "category": "travel"
-  },
-  {
-    "text": "for",
-    "category": "travel"
-  },
-  {
-    "text": "are",
-    "category": "travel"
-  },
-  {
-    "text": "your",
-    "category": "travel"
-  },
-  {
-    "text": "help",
-    "category": "travel"
-  },
-  {
-    "text": "trip",
+    "text": "hotels",
     "category": "travel"
   },
   {
@@ -72,7 +28,15 @@
     "category": "travel"
   },
   {
+    "text": "trip",
+    "category": "travel"
+  },
+  {
     "text": "post",
+    "category": "travel"
+  },
+  {
+    "text": "are",
     "category": "travel"
   },
   {
@@ -80,39 +44,7 @@
     "category": "travel"
   },
   {
-    "text": "use",
-    "category": "travel"
-  },
-  {
-    "text": "from",
-    "category": "travel"
-  },
-  {
-    "text": "destination",
-    "category": "travel"
-  },
-  {
-    "text": "sea",
-    "category": "travel"
-  },
-  {
-    "text": "see",
-    "category": "travel"
-  },
-  {
-    "text": "with",
-    "category": "travel"
-  },
-  {
-    "text": "ice",
-    "category": "travel"
-  },
-  {
     "text": "buncrana",
-    "category": "travel"
-  },
-  {
-    "text": "more",
     "category": "travel"
   },
   {
@@ -124,39 +56,7 @@
     "category": "travel"
   },
   {
-    "text": "king",
-    "category": "travel"
-  },
-  {
-    "text": "site",
-    "category": "travel"
-  },
-  {
-    "text": "destinations",
-    "category": "travel"
-  },
-  {
-    "text": "one",
-    "category": "travel"
-  },
-  {
-    "text": "here",
-    "category": "travel"
-  },
-  {
-    "text": "house",
-    "category": "travel"
-  },
-  {
-    "text": "top",
-    "category": "travel"
-  },
-  {
-    "text": "can",
-    "category": "travel"
-  },
-  {
-    "text": "travel",
+    "text": "posted",
     "category": "travel"
   },
   {
@@ -164,31 +64,7 @@
     "category": "travel"
   },
   {
-    "text": "posted",
-    "category": "travel"
-  },
-  {
-    "text": "any",
-    "category": "travel"
-  },
-  {
-    "text": "per",
-    "category": "travel"
-  },
-  {
-    "text": "book",
-    "category": "travel"
-  },
-  {
-    "text": "get",
-    "category": "travel"
-  },
-  {
     "text": "utah",
-    "category": "travel"
-  },
-  {
-    "text": "out",
     "category": "travel"
   },
   {
@@ -196,15 +72,11 @@
     "category": "travel"
   },
   {
+    "text": "sea",
+    "category": "travel"
+  },
+  {
     "text": "passion",
-    "category": "travel"
-  },
-  {
-    "text": "holiday",
-    "category": "travel"
-  },
-  {
-    "text": "car",
     "category": "travel"
   },
   {
@@ -220,19 +92,11 @@
     "category": "travel"
   },
   {
-    "text": "how",
+    "text": "ice",
     "category": "travel"
   },
   {
-    "text": "town",
-    "category": "travel"
-  },
-  {
-    "text": "mar",
-    "category": "travel"
-  },
-  {
-    "text": "find",
+    "text": "travel",
     "category": "travel"
   },
   {
@@ -240,35 +104,7 @@
     "category": "travel"
   },
   {
-    "text": "deal",
-    "category": "travel"
-  },
-  {
-    "text": "let",
-    "category": "travel"
-  },
-  {
-    "text": "search",
-    "category": "travel"
-  },
-  {
-    "text": "may",
-    "category": "travel"
-  },
-  {
     "text": "jaipur",
-    "category": "travel"
-  },
-  {
-    "text": "new",
-    "category": "travel"
-  },
-  {
-    "text": "app",
-    "category": "travel"
-  },
-  {
-    "text": "booking",
     "category": "travel"
   },
   {
@@ -276,7 +112,7 @@
     "category": "travel"
   },
   {
-    "text": "best",
+    "text": "site",
     "category": "travel"
   },
   {
@@ -288,19 +124,7 @@
     "category": "travel"
   },
   {
-    "text": "las",
-    "category": "travel"
-  },
-  {
-    "text": "low",
-    "category": "travel"
-  },
-  {
-    "text": "cruise",
-    "category": "travel"
-  },
-  {
-    "text": "price",
+    "text": "town",
     "category": "travel"
   },
   {
@@ -308,11 +132,7 @@
     "category": "travel"
   },
   {
-    "text": "city",
-    "category": "travel"
-  },
-  {
-    "text": "west",
+    "text": "cruise",
     "category": "travel"
   },
   {
@@ -320,67 +140,19 @@
     "category": "travel"
   },
   {
-    "text": "san",
+    "text": "destination",
     "category": "travel"
   },
   {
-    "text": "wee",
+    "text": "trivago",
     "category": "travel"
   },
   {
-    "text": "not",
-    "category": "travel"
-  },
-  {
-    "text": "youre",
-    "category": "travel"
-  },
-  {
-    "text": "india",
-    "category": "travel"
-  },
-  {
-    "text": "many",
-    "category": "travel"
-  },
-  {
-    "text": "ray",
-    "category": "travel"
-  },
-  {
-    "text": "sites",
-    "category": "travel"
-  },
-  {
-    "text": "link",
-    "category": "travel"
-  },
-  {
-    "text": "popular",
-    "category": "travel"
-  },
-  {
-    "text": "avg",
-    "category": "travel"
-  },
-  {
-    "text": "ireland",
-    "category": "travel"
-  },
-  {
-    "text": "web",
-    "category": "travel"
-  },
-  {
-    "text": "show",
+    "text": "west",
     "category": "travel"
   },
   {
     "text": "cream",
-    "category": "travel"
-  },
-  {
-    "text": "galway",
     "category": "travel"
   },
   {
@@ -392,19 +164,11 @@
     "category": "travel"
   },
   {
-    "text": "log",
+    "text": "ray",
     "category": "travel"
   },
   {
-    "text": "county",
-    "category": "travel"
-  },
-  {
-    "text": "will",
-    "category": "travel"
-  },
-  {
-    "text": "prices",
+    "text": "india",
     "category": "travel"
   },
   {
@@ -412,19 +176,15 @@
     "category": "travel"
   },
   {
-    "text": "website",
-    "category": "travel"
-  },
-  {
     "text": "assisi",
     "category": "travel"
   },
   {
-    "text": "traveller",
+    "text": "king",
     "category": "travel"
   },
   {
-    "text": "yours",
+    "text": "link",
     "category": "travel"
   },
   {
@@ -432,27 +192,19 @@
     "category": "travel"
   },
   {
-    "text": "york",
+    "text": "yours",
     "category": "travel"
   },
   {
-    "text": "castle",
+    "text": "holiday",
     "category": "travel"
   },
   {
-    "text": "have",
+    "text": "destinations",
     "category": "travel"
   },
   {
-    "text": "next",
-    "category": "travel"
-  },
-  {
-    "text": "letterkenny",
-    "category": "travel"
-  },
-  {
-    "text": "boutique",
+    "text": "clock",
     "category": "travel"
   },
   {
@@ -464,7 +216,11 @@
     "category": "travel"
   },
   {
-    "text": "clock",
+    "text": "photoapr",
+    "category": "travel"
+  },
+  {
+    "text": "log",
     "category": "travel"
   },
   {
@@ -472,47 +228,7 @@
     "category": "travel"
   },
   {
-    "text": "united",
-    "category": "travel"
-  },
-  {
-    "text": "photoapr",
-    "category": "travel"
-  },
-  {
-    "text": "rome",
-    "category": "travel"
-  },
-  {
-    "text": "london",
-    "category": "travel"
-  },
-  {
-    "text": "right",
-    "category": "travel"
-  },
-  {
-    "text": "users",
-    "category": "travel"
-  },
-  {
-    "text": "puerto",
-    "category": "travel"
-  },
-  {
-    "text": "del",
-    "category": "travel"
-  },
-  {
-    "text": "there",
-    "category": "travel"
-  },
-  {
-    "text": "include",
-    "category": "travel"
-  },
-  {
-    "text": "deals",
+    "text": "low",
     "category": "travel"
   },
   {
@@ -520,35 +236,19 @@
     "category": "travel"
   },
   {
-    "text": "stay",
+    "text": "san",
     "category": "travel"
   },
   {
-    "text": "paris",
+    "text": "book",
     "category": "travel"
   },
   {
-    "text": "explore",
+    "text": "traveller",
     "category": "travel"
   },
   {
-    "text": "road",
-    "category": "travel"
-  },
-  {
-    "text": "los",
-    "category": "travel"
-  },
-  {
-    "text": "abu",
-    "category": "travel"
-  },
-  {
-    "text": "vegas",
-    "category": "travel"
-  },
-  {
-    "text": "dubai",
+    "text": "letterkenny",
     "category": "travel"
   },
   {
@@ -556,75 +256,11 @@
     "category": "travel"
   },
   {
-    "text": "compare",
-    "category": "travel"
-  },
-  {
-    "text": "pool",
-    "category": "travel"
-  },
-  {
-    "text": "experience",
-    "category": "travel"
-  },
-  {
-    "text": "that",
-    "category": "travel"
-  },
-  {
-    "text": "island",
-    "category": "travel"
-  },
-  {
-    "text": "ideal",
-    "category": "travel"
-  },
-  {
-    "text": "ait",
-    "category": "travel"
-  },
-  {
-    "text": "ben",
-    "category": "travel"
-  },
-  {
-    "text": "even",
-    "category": "travel"
-  },
-  {
-    "text": "each",
-    "category": "travel"
-  },
-  {
     "text": "inn",
     "category": "travel"
   },
   {
-    "text": "done",
-    "category": "travel"
-  },
-  {
-    "text": "usa",
-    "category": "travel"
-  },
-  {
-    "text": "bed",
-    "category": "travel"
-  },
-  {
-    "text": "instagram",
-    "category": "travel"
-  },
-  {
-    "text": "munich",
-    "category": "travel"
-  },
-  {
-    "text": "articles",
-    "category": "travel"
-  },
-  {
-    "text": "dublin",
+    "text": "wee",
     "category": "travel"
   },
   {
@@ -632,79 +268,15 @@
     "category": "travel"
   },
   {
-    "text": "these",
+    "text": "youre",
     "category": "travel"
   },
   {
-    "text": "room",
+    "text": "united",
     "category": "travel"
   },
   {
-    "text": "week",
-    "category": "travel"
-  },
-  {
-    "text": "cork",
-    "category": "travel"
-  },
-  {
-    "text": "where",
-    "category": "travel"
-  },
-  {
-    "text": "list",
-    "category": "travel"
-  },
-  {
-    "text": "try",
-    "category": "travel"
-  },
-  {
-    "text": "clare",
-    "category": "travel"
-  },
-  {
-    "text": "most",
-    "category": "travel"
-  },
-  {
-    "text": "cities",
-    "category": "travel"
-  },
-  {
-    "text": "blogtripadvisorcom",
-    "category": "travel"
-  },
-  {
-    "text": "edinburgh",
-    "category": "travel"
-  },
-  {
-    "text": "philippines",
-    "category": "travel"
-  },
-  {
-    "text": "guide",
-    "category": "travel"
-  },
-  {
-    "text": "344",
-    "category": "travel"
-  },
-  {
-    "text": "visit",
-    "category": "travel"
-  },
-  {
-    "text": "desert",
-    "category": "travel"
-  },
-  {
-    "text": "could",
-    "category": "travel"
-  },
-  {
-    "text": "1837",
+    "text": "instagram",
     "category": "travel"
   },
   {
@@ -712,31 +284,75 @@
     "category": "travel"
   },
   {
+    "text": "desert",
+    "category": "travel"
+  },
+  {
+    "text": "guide",
+    "category": "travel"
+  },
+  {
+    "text": "castle",
+    "category": "travel"
+  },
+  {
+    "text": "visit",
+    "category": "travel"
+  },
+  {
+    "text": "las",
+    "category": "travel"
+  },
+  {
     "text": "1333",
     "category": "travel"
   },
   {
-    "text": "websites",
+    "text": "1837",
     "category": "travel"
   },
   {
-    "text": "need",
+    "text": "344",
     "category": "travel"
   },
   {
-    "text": "check",
+    "text": "blogtripadvisorcom",
     "category": "travel"
   },
   {
-    "text": "discover",
+    "text": "road",
     "category": "travel"
   },
   {
-    "text": "away",
+    "text": "inishowen",
     "category": "travel"
   },
   {
-    "text": "rosapenna",
+    "text": "gateway",
+    "category": "travel"
+  },
+  {
+    "text": "hotel1333",
+    "category": "travel"
+  },
+  {
+    "text": "lodge",
+    "category": "travel"
+  },
+  {
+    "text": "spa1837",
+    "category": "travel"
+  },
+  {
+    "text": "golf",
+    "category": "travel"
+  },
+  {
+    "text": "resort344",
+    "category": "travel"
+  },
+  {
+    "text": "bb39",
     "category": "travel"
   },
   {
@@ -748,19 +364,7 @@
     "category": "travel"
   },
   {
-    "text": "golf",
-    "category": "travel"
-  },
-  {
-    "text": "angeles",
-    "category": "travel"
-  },
-  {
     "text": "columbs",
-    "category": "travel"
-  },
-  {
-    "text": "westbrook",
     "category": "travel"
   },
   {
@@ -768,23 +372,7 @@
     "category": "travel"
   },
   {
-    "text": "francisco",
-    "category": "travel"
-  },
-  {
-    "text": "great",
-    "category": "travel"
-  },
-  {
     "text": "bb68",
-    "category": "travel"
-  },
-  {
-    "text": "box20",
-    "category": "travel"
-  },
-  {
-    "text": "fishermans",
     "category": "travel"
   },
   {
@@ -792,47 +380,11 @@
     "category": "travel"
   },
   {
-    "text": "spa1837",
-    "category": "travel"
-  },
-  {
-    "text": "beach",
-    "category": "travel"
-  },
-  {
-    "text": "bb5",
-    "category": "travel"
-  },
-  {
-    "text": "bb39",
-    "category": "travel"
-  },
-  {
     "text": "shandon",
     "category": "travel"
   },
   {
-    "text": "dhabi",
-    "category": "travel"
-  },
-  {
-    "text": "inishowen",
-    "category": "travel"
-  },
-  {
     "text": "coffee",
-    "category": "travel"
-  },
-  {
-    "text": "gateway",
-    "category": "travel"
-  },
-  {
-    "text": "resort344",
-    "category": "travel"
-  },
-  {
-    "text": "hotel1333",
     "category": "travel"
   },
   {
@@ -844,23 +396,35 @@
     "category": "travel"
   },
   {
-    "text": "ballyliffin",
-    "category": "travel"
-  },
-  {
     "text": "lunch",
     "category": "travel"
   },
   {
-    "text": "lodge",
+    "text": "box20",
     "category": "travel"
   },
   {
-    "text": "sun",
+    "text": "bb5",
     "category": "travel"
   },
   {
-    "text": "200",
+    "text": "county",
+    "category": "travel"
+  },
+  {
+    "text": "ballyliffin",
+    "category": "travel"
+  },
+  {
+    "text": "rosapenna",
+    "category": "travel"
+  },
+  {
+    "text": "westbrook",
+    "category": "travel"
+  },
+  {
+    "text": "fishermans",
     "category": "travel"
   },
   {
@@ -868,11 +432,7 @@
     "category": "travel"
   },
   {
-    "text": "world",
-    "category": "travel"
-  },
-  {
-    "text": "bay",
+    "text": "city",
     "category": "travel"
   },
   {
@@ -880,11 +440,11 @@
     "category": "travel"
   },
   {
-    "text": "click",
+    "text": "bay",
     "category": "travel"
   },
   {
-    "text": "breakfast",
+    "text": "reviewsballyliffin",
     "category": "travel"
   },
   {
@@ -896,15 +456,15 @@
     "category": "travel"
   },
   {
-    "text": "reviewsbuncrana",
-    "category": "travel"
-  },
-  {
     "text": "reviewsfishermans",
     "category": "travel"
   },
   {
-    "text": "reviewsballyliffin",
+    "text": "explore",
+    "category": "travel"
+  },
+  {
+    "text": "reviewsbuncrana",
     "category": "travel"
   },
   {
@@ -912,11 +472,15 @@
     "category": "travel"
   },
   {
-    "text": "wwwtrivagoie",
+    "text": "popular",
     "category": "travel"
   },
   {
-    "text": "belfast",
+    "text": "rome",
+    "category": "travel"
+  },
+  {
+    "text": "munich",
     "category": "travel"
   },
   {
@@ -928,15 +492,7 @@
     "category": "travel"
   },
   {
-    "text": "lists",
-    "category": "travel"
-  },
-  {
-    "text": "playa",
-    "category": "travel"
-  },
-  {
-    "text": "weekend",
+    "text": "voteshelpfulsaveshare",
     "category": "travel"
   },
   {
@@ -944,123 +500,15 @@
     "category": "travel"
   },
   {
-    "text": "voteshelpfulsaveshare",
+    "text": "experience",
     "category": "travel"
   },
   {
-    "text": "nice",
+    "text": "ireland",
     "category": "travel"
   },
   {
-    "text": "carmen",
-    "category": "travel"
-  },
-  {
-    "text": "orlando",
-    "category": "travel"
-  },
-  {
-    "text": "just",
-    "category": "travel"
-  },
-  {
-    "text": "beautiful",
-    "category": "travel"
-  },
-  {
-    "text": "amsterdam",
-    "category": "travel"
-  },
-  {
-    "text": "albufeira",
-    "category": "travel"
-  },
-  {
-    "text": "barcelona",
-    "category": "travel"
-  },
-  {
-    "text": "chester",
-    "category": "travel"
-  },
-  {
-    "text": "ballina",
-    "category": "travel"
-  },
-  {
-    "text": "kilkenny",
-    "category": "travel"
-  },
-  {
-    "text": "ennis",
-    "category": "travel"
-  },
-  {
-    "text": "heres",
-    "category": "travel"
-  },
-  {
-    "text": "lake",
-    "category": "travel"
-  },
-  {
-    "text": "guest",
-    "category": "travel"
-  },
-  {
-    "text": "nest",
-    "category": "travel"
-  },
-  {
-    "text": "germany",
-    "category": "travel"
-  },
-  {
-    "text": "its",
-    "category": "travel"
-  },
-  {
-    "text": "sorrento",
-    "category": "travel"
-  },
-  {
-    "text": "athlone",
-    "category": "travel"
-  },
-  {
-    "text": "other",
-    "category": "travel"
-  },
-  {
-    "text": "krakow",
-    "category": "travel"
-  },
-  {
-    "text": "sep",
-    "category": "travel"
-  },
-  {
-    "text": "ways",
-    "category": "travel"
-  },
-  {
-    "text": "accommodation",
-    "category": "travel"
-  },
-  {
-    "text": "getaway",
-    "category": "travel"
-  },
-  {
-    "text": "lisbon",
-    "category": "travel"
-  },
-  {
-    "text": "carcassonne",
-    "category": "travel"
-  },
-  {
-    "text": "some",
+    "text": "check",
     "category": "travel"
   },
   {
@@ -1068,11 +516,31 @@
     "category": "travel"
   },
   {
-    "text": "chic",
+    "text": "sun",
     "category": "travel"
   },
   {
-    "text": "centre",
+    "text": "booking",
+    "category": "travel"
+  },
+  {
+    "text": "deal",
+    "category": "travel"
+  },
+  {
+    "text": "bed",
+    "category": "travel"
+  },
+  {
+    "text": "ait",
+    "category": "travel"
+  },
+  {
+    "text": "sep",
+    "category": "travel"
+  },
+  {
+    "text": "pool",
     "category": "travel"
   },
   {
@@ -1080,47 +548,19 @@
     "category": "travel"
   },
   {
-    "text": "once",
+    "text": "beach",
     "category": "travel"
   },
   {
-    "text": "around",
+    "text": "york",
     "category": "travel"
   },
   {
-    "text": "options",
+    "text": "abu",
     "category": "travel"
   },
   {
-    "text": "which",
-    "category": "travel"
-  },
-  {
-    "text": "cheap",
-    "category": "travel"
-  },
-  {
-    "text": "display",
-    "category": "travel"
-  },
-  {
-    "text": "airlines",
-    "category": "travel"
-  },
-  {
-    "text": "about",
-    "category": "travel"
-  },
-  {
-    "text": "when",
-    "category": "travel"
-  },
-  {
-    "text": "early",
-    "category": "travel"
-  },
-  {
-    "text": "every",
+    "text": "centre",
     "category": "travel"
   },
   {
@@ -1128,7 +568,7 @@
     "category": "travel"
   },
   {
-    "text": "llc",
+    "text": "ben",
     "category": "travel"
   },
   {
@@ -1136,19 +576,67 @@
     "category": "travel"
   },
   {
-    "text": "million",
+    "text": "breakfast",
     "category": "travel"
   },
   {
-    "text": "turn",
+    "text": "price",
     "category": "travel"
   },
   {
-    "text": "portugal",
+    "text": "dubai",
     "category": "travel"
   },
   {
-    "text": "iceland",
+    "text": "vegas",
+    "category": "travel"
+  },
+  {
+    "text": "los",
+    "category": "travel"
+  },
+  {
+    "text": "every",
+    "category": "travel"
+  },
+  {
+    "text": "airlines",
+    "category": "travel"
+  },
+  {
+    "text": "philippines",
+    "category": "travel"
+  },
+  {
+    "text": "island",
+    "category": "travel"
+  },
+  {
+    "text": "search",
+    "category": "travel"
+  },
+  {
+    "text": "boutique",
+    "category": "travel"
+  },
+  {
+    "text": "angeles",
+    "category": "travel"
+  },
+  {
+    "text": "francisco",
+    "category": "travel"
+  },
+  {
+    "text": "dhabi",
+    "category": "travel"
+  },
+  {
+    "text": "germany",
+    "category": "travel"
+  },
+  {
+    "text": "region",
     "category": "travel"
   },
   {
@@ -1156,7 +644,15 @@
     "category": "travel"
   },
   {
-    "text": "soussmassadraa",
+    "text": "perugia",
+    "category": "travel"
+  },
+  {
+    "text": "galway",
+    "category": "travel"
+  },
+  {
+    "text": "morocco",
     "category": "travel"
   },
   {
@@ -1164,15 +660,15 @@
     "category": "travel"
   },
   {
-    "text": "nam",
+    "text": "soussmassadraa",
+    "category": "travel"
+  },
+  {
+    "text": "iceland",
     "category": "travel"
   },
   {
     "text": "skogafoss",
-    "category": "travel"
-  },
-  {
-    "text": "content",
     "category": "travel"
   },
   {
@@ -1184,14 +680,6 @@
     "category": "travel"
   },
   {
-    "text": "region",
-    "category": "travel"
-  },
-  {
-    "text": "morocco",
-    "category": "travel"
-  },
-  {
     "text": "province",
     "category": "travel"
   },
@@ -1200,15 +688,7 @@
     "category": "travel"
   },
   {
-    "text": "whet",
-    "category": "travel"
-  },
-  {
     "text": "visayas",
-    "category": "travel"
-  },
-  {
-    "text": "perugia",
     "category": "travel"
   }
 ]
