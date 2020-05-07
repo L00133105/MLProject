@@ -32,25 +32,24 @@ let countArray=[];
           countArray.push({"word":word,"count":0});
         });
         countArray.forEach((wordToFind) => {
-          wordToFind.count=(occurrences(formattedString,wordToFind.word,false));
+          wordToFind.count=(noOfOccurrences(formattedString,wordToFind.word,false));
         });
-        function occurrences(string, subString, allowOverlapping) {
-            string += "";
-            subString += "";
-            if (subString.length <= 0) return (string.length + 1);
-            var n = 0,
-                pos = 0,
-                step = allowOverlapping ? 1 : subString.length;
+        function noOfOccurrences(word, letter, letterOverlap) {
+          word += "";
+          letter += "";
+            if (letter.length <= 0) return (word.length + 1);
+            var i = 0,
+                position = 0,
+                move = letterOverlap ? 1 : letter.length;
             while (true) {
-                pos = string.indexOf(subString, pos);
-                if (pos >= 0) {
-                    ++n;
-                    pos += step;
+              position = word.indexOf(letter, position);
+                if (position >= 0) {
+                    ++i;
+                    position += move;
                 } else break;
             }
-            return n;
+            return i;
         }
-        
         function writeCount(json, filePath) {
           fs.writeFileSync(filePath, JSON.stringify(json, null, 2))
         }
