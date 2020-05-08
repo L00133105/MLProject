@@ -48,18 +48,38 @@
 
 var natural = require('natural');
 var classifier = new natural.BayesClassifier();
+var fs = require('fs');
+var array = fs.readFileSync('URLS.txt').toString().split("\n");
+var gambling = fs.createWriteStream('gambling.txt');
+var explicit = fs.createWriteStream('explicit.txt');
 
 //Training Data
-classifier.addDocument("place a bet?", "gambling");
-classifier.addDocument("make free money?", "gambling");
-classifier.addDocument("Get the best odds on your horse racing?", "gambling");
-classifier.addDocument("what do you want xx", "explicit");
-classifier.addDocument("where are you going x", "explicit");
-classifier.addDocument("lets hang out xx", "explicit");
+//classifier.addDocument("bet365", "gambling");
+// classifier.addDocument("make free money?", "gambling");
+// classifier.addDocument("Get the best odds on your horse racing?", "gambling");
+// classifier.addDocument("what do you want xx", "explicit");
+// classifier.addDocument("where are you going x", "explicit");
+// classifier.addDocument("lets hang out xx", "explicit");
+// classifier.addDocument("porn", "explicit");
+// classifier.addDocument("xvideos", "explicit");
 
+//External Dataset
+const trainer = require('./trainAlg.json');
+trainer.forEach(item=>{
+    classifier.addDocument(item.text, item.category);
+})
 //Train
 classifier.train();
-
+console.log(classifier.classify("https://www.bet365.com/"));
 //Apply and Predict
-console.log(classifier.classify("where are you going, some free money get best odds xx "));
-
+ for(i in array){
+     if(classifier.classify(array[i]) == "explicit"){
+         explicit.write(array[i]);
+     }
+     else if(classifier.classify(array[i]) == "gambling"){
+         gambling.write(array[i]);
+     }
+     else if(classifier.classify(array[i]) == "gambling"){
+          gambling.write(array[i]);
+ }
+}

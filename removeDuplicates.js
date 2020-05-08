@@ -1,3 +1,17 @@
+var fs = require('fs');
+var array = fs.readFileSync('updatedURLs.txt').toString().split("\n");
+var substr = fs.readFileSync('baseURLs.txt').toString().split("\r\n");
+var wstream = fs.createWriteStream('filteredBaseURLs.txt');
+//console.log(substr);
+//console.log(array);
+ for(i in array){
+        if(!array[i].includes(substr) && !array[i].includes("undefined", "#")){
+         //console.log(substr);
+         wstream.write(array[i] + '\n');
+         console.log(array[i]);
+      }
+}
+
 // fs.readFile(FILE_LOCATION, function (err, data) {
 //   if (err) throw err;
 //   if(data.includes('search string')){
@@ -50,28 +64,23 @@
 // }
 // console.log(el)
 
-var fs = require('fs');
-var array = fs.readFileSync('test.txt').toString().split("\n");
-var substr = fs.readFileSync('URLS.txt').toString().split("\n");
-var wstream = fs.createWriteStream('bigtest.txt');
-//var substr = 'https://www.techradar.com/';
-for(i in array){
-    for(e in substr){
-     if(array[i].includes(substr[e]) < 1){
-         console.log(array[i]);
-         //var newArray = fs.appendFileSync('bigtest.txt'," " + array[i] + '\n');
-         wstream.write(array[i] + '\n');
-      }
-    }
-}
-//console.log(array);
-//console.log(array);
-//fs.appendFileSync('removing.txt', " " + array + '\n');
-
-// var filteredArray = array.filter(item => item !== "https://global.techradar.com/es-us");
-// fs.appendFileSync('techradar.txt', " " + filteredArray + '\n');
-// for(i in array) {
-//     if(array[i].includes("https://techradar.com")){
-
+// var fs = require('fs');
+// var array = fs.readFileSync('test.txt').toString().split("\n");
+// var substr = fs.readFileSync('URLs.txt').toString().split("\n");
+// var wstream = fs.createWriteStream('bigtest.txt');
+// //var substr = 'https://www.techradar.com/';
+// for(i in array){
+//     for(e in substr){
+//      if(array[i].includes(substr[e]) < 1){
+//          console.log(array[i]);
+//          //var newArray = fs.appendFileSync('bigtest.txt'," " + array[i] + '\n');
+//          wstream.write(array[i] + '\n');
+//       }
 //     }
-    
+// }
+
+//  let differences = array
+//                 .filter(x => !substr.includes(x))
+//                 .concat(substr.filter(x => !array.includes(x)));
+//                 console.log(differences);
+//                 wstream.write(differences+"\n");
