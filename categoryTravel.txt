@@ -1,17 +1,17 @@
-https://travelasity.com
-https://travelcape.com
-https://traveliocity.com
-https://travelocidy.com
-https://travelocite.com
-https://travelocitu.com
-https://travelocityca.com
-https://travelocityt.com
-https://travelocoity.com
-https://travelogity.com
-https://traveloicty.com
-https://traveloocity.com
-https://traveloscity.com
-https://travelovity.com
-https://traveolocity.com
-https://travlers.com
-https://treavelocity.com
+0.0.0.0 travelasity.com
+0.0.0.0 travelcape.com
+0.0.0.0 traveliocity.com
+0.0.0.0 travelocidy.com
+0.0.0.0 travelocite.com
+0.0.0.0 travelocitu.com
+0.0.0.0 travelocityca.com
+0.0.0.0 travelocityt.com
+0.0.0.0 travelocoity.com
+0.0.0.0 travelogity.com
+0.0.0.0 traveloicty.com
+0.0.0.0 traveloocity.com
+0.0.0.0 traveloscity.com
+0.0.0.0 travelovity.com
+0.0.0.0 traveolocity.com
+0.0.0.0 travlers.com
+0.0.0.0 treavelocity.com

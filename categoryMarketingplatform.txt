@@ -1,100 +1,100 @@
-betareportcentral.doubleclick.net
-https://accounts.doubleclick.net
-https://analytics.163.com
-https://ad.doubleclick.net
-https://ad-apac.doubleclick.net
-https://ad-emea.doubleclick.net
-https://ad-g.doubleclick.net
-https://ad2.doubleclick.net
-https://betareportcentral.doubleclick.net
-https://ad.bg.doubleclick.net
-https://statsgoogle.appsflyer.com
-https://googleads.g.doubleclick.net
-https://googleads2.g.doubleclick.net
-https://googleads4.g.doubleclick.net
-https://ssl.google-analytics.com
-https://www.google-analytics.com
-https://googletagservices.com
-https://www.googletagservices.com
-https://amplify.outbrain.com
-https://amplify-imp.outbrain.com
-https://amplifypixel.outbrain.com
-https://chi.outbrain.com
-https://eventlog.outbrain.com
-https://hpr.outbrain.com
-https://images.outbrain.com
-https://libs.outbrain.com
-https://log.outbrain.com
-https://log-ird.outbrain.com
-https://mcdp-chidc2.outbrain.com
-https://mcdp-nydc1.outbrain.com
-https://mcdp-sadc1.outbrain.com
-https://mv.outbrain.com
-https://ny.outbrain.com
-https://odb.outbrain.com
-https://recommend.outbrain.com
-https://revee.outbrain.com
-https://rva.outbrain.com
-https://sa.outbrain.com
-https://stas.outbrain.com
-https://sync.outbrain.com
-https://vastcdn.outbrain.com
-https://videoevents.outbrain.com
-https://widgets.outbrain.com
-https://ad.cl.doubleclick.net
-https://creative.doubleclick.net
-https://creatives.doubleclick.net
-https://dfp.doubleclick.net
-https://ad.eg.doubleclick.net
-https://3243857.fls.doubleclick.net
-https://bid.g.doubleclick.net
-https://cm.g.doubleclick.net
-https://dp.g.doubleclick.net
-https://googleads.g.doubleclick.net
-https://googleads2.g.doubleclick.net
-https://googleads4.g.doubleclick.net
-https://pubads.g.doubleclick.net
-https://securepubads.g.doubleclick.net
-https://stats.g.doubleclick.net
-https://survey.g.doubleclick.net
-https://g0.doubleclick.net
-https://g1.doubleclick.net
-https://g2.doubleclick.net
-https://g3.doubleclick.net
-https://gan.doubleclick.net
-https://ad.il.doubleclick.net
-https://ir.doubleclick.net
-https://iv.doubleclick.net
-https://m.doubleclick.net
-https://ad.mo.doubleclick.net
-https://n4403ad.doubleclick.net
-https://ad.nl.doubleclick.net
-https://paypalssl.doubleclick.net
-https://ad.pl.doubleclick.net
-https://publisherportal.doubleclick.net
-https://reportcentral.doubleclick.net
-https://s0.doubleclick.net
-https://s1.doubleclick.net
-https://ad.sg.doubleclick.net
-https://static.doubleclick.net
-https://ad.uk.doubleclick.net
-https://adspruce.com
-https://ani.adspruce.com
-https://assets.adspruce.com
-https://clients.adspruce.com
-https://a.adsrvr.org
-https://ad.adsrvr.org
-https://apa-sha.adsrvr.org
-https://apa-sin.adsrvr.org
-https://apa-tok.adsrvr.org
-https://data.adsrvr.org
-https://adsupplyads.com
-https://adserver.adtech.de
-https://adserverams.adtech.de
-https://adssl-dc2.adtech.de
-https://adsymptotic.co
-https://ads.adtheorent.com
-https://ads.adthrive.com
-https://cdn.advanseads.com
-https://ads.adaptv.advertising.com
-https://ads.adxpansion.com
+0.0.0.0 betareportcentral.doubleclick.net
+0.0.0.0 accounts.doubleclick.net
+0.0.0.0 analytics.163.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad-apac.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 ad2.doubleclick.net
+0.0.0.0 betareportcentral.doubleclick.net
+0.0.0.0 ad.bg.doubleclick.net
+0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 googletagservices.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 amplify.outbrain.com
+0.0.0.0 amplify-imp.outbrain.com
+0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 chi.outbrain.com
+0.0.0.0 eventlog.outbrain.com
+0.0.0.0 hpr.outbrain.com
+0.0.0.0 images.outbrain.com
+0.0.0.0 libs.outbrain.com
+0.0.0.0 log.outbrain.com
+0.0.0.0 log-ird.outbrain.com
+0.0.0.0 mcdp-chidc2.outbrain.com
+0.0.0.0 mcdp-nydc1.outbrain.com
+0.0.0.0 mcdp-sadc1.outbrain.com
+0.0.0.0 mv.outbrain.com
+0.0.0.0 ny.outbrain.com
+0.0.0.0 odb.outbrain.com
+0.0.0.0 recommend.outbrain.com
+0.0.0.0 revee.outbrain.com
+0.0.0.0 rva.outbrain.com
+0.0.0.0 sa.outbrain.com
+0.0.0.0 stas.outbrain.com
+0.0.0.0 sync.outbrain.com
+0.0.0.0 vastcdn.outbrain.com
+0.0.0.0 videoevents.outbrain.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 ad.cl.doubleclick.net
+0.0.0.0 creative.doubleclick.net
+0.0.0.0 creatives.doubleclick.net
+0.0.0.0 dfp.doubleclick.net
+0.0.0.0 ad.eg.doubleclick.net
+0.0.0.0 3243857.fls.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 dp.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 g0.doubleclick.net
+0.0.0.0 g1.doubleclick.net
+0.0.0.0 g2.doubleclick.net
+0.0.0.0 g3.doubleclick.net
+0.0.0.0 gan.doubleclick.net
+0.0.0.0 ad.il.doubleclick.net
+0.0.0.0 ir.doubleclick.net
+0.0.0.0 iv.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
+0.0.0.0 n4403ad.doubleclick.net
+0.0.0.0 ad.nl.doubleclick.net
+0.0.0.0 paypalssl.doubleclick.net
+0.0.0.0 ad.pl.doubleclick.net
+0.0.0.0 publisherportal.doubleclick.net
+0.0.0.0 reportcentral.doubleclick.net
+0.0.0.0 s0.doubleclick.net
+0.0.0.0 s1.doubleclick.net
+0.0.0.0 ad.sg.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 ad.uk.doubleclick.net
+0.0.0.0 adspruce.com
+0.0.0.0 ani.adspruce.com
+0.0.0.0 assets.adspruce.com
+0.0.0.0 clients.adspruce.com
+0.0.0.0 a.adsrvr.org
+0.0.0.0 ad.adsrvr.org
+0.0.0.0 apa-sha.adsrvr.org
+0.0.0.0 apa-sin.adsrvr.org
+0.0.0.0 apa-tok.adsrvr.org
+0.0.0.0 data.adsrvr.org
+0.0.0.0 adsupplyads.com
+0.0.0.0 adserver.adtech.de
+0.0.0.0 adserverams.adtech.de
+0.0.0.0 adssl-dc2.adtech.de
+0.0.0.0 adsymptotic.co
+0.0.0.0 ads.adtheorent.com
+0.0.0.0 ads.adthrive.com
+0.0.0.0 cdn.advanseads.com
+0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 ads.adxpansion.com

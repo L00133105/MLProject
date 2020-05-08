@@ -1,7 +1,7 @@
 vitalfootball.uk.intellitxt.com
-https://squarefootball.uk.intellitxt.com
-https://collegefootballnews.us.intellitxt.com
-https://profootballweekly.us.intellitxt.com
-https://ads.profootballtalk.com
-https://footballnet.vis1.shinobi.jp
-https://stats.mirrorfootball.co.uk
+0.0.0.0 squarefootball.uk.intellitxt.com
+0.0.0.0 collegefootballnews.us.intellitxt.com
+0.0.0.0 profootballweekly.us.intellitxt.com
+0.0.0.0 ads.profootballtalk.com
+0.0.0.0 footballnet.vis1.shinobi.jp
+0.0.0.0 stats.mirrorfootball.co.uk
