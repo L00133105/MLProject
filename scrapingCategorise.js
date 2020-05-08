@@ -38,7 +38,7 @@ trainTravel.forEach(item=>{
 for(i in array) 
 {
     var url = array[i];
-    var url = "https://www.primevideo.com/"
+    //var url = "https://www.primevideo.com/"
     request(url, (error, response, html) => 
     {
         if(!error && response.statusCode==200)
