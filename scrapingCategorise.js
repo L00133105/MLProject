@@ -1,7 +1,7 @@
 const request = require('request');
 const cheerio = require('cheerio');
 var fs = require('fs');
-var array = fs.readFileSync('baseURLs.txt').toString().split("\n");     
+var array = fs.readFileSync('knownAds.txt').toString().split("\n");     
 var natural = require('natural');
 var classifier = new natural.BayesClassifier();
 var gambling = fs.createWriteStream('categoryGambling.txt');
