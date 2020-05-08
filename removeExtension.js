@@ -12,7 +12,8 @@ for(i in array){
          var update3 = update2.replace("http://", "0.0.0.0 ");
          var update4 = update3.replace("//", "0.0.0.0 ");
          var update5 = update4.replace("0.0.0.0 ", "https://");
-         console.log(update5);
+         var update6 = update5.replace("127.0.0.1 ", "https://");
+         console.log(update6);
          //Filtering URLs to only include Domains: to links
     }
     wstream.write(update5 + '\n');
