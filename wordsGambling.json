@@ -16,19 +16,7 @@
     "category": "gambling"
   },
   {
-    "text": "game",
-    "category": "gambling"
-  },
-  {
     "text": "wall",
-    "category": "gambling"
-  },
-  {
-    "text": "age",
-    "category": "gambling"
-  },
-  {
-    "text": "ire",
     "category": "gambling"
   },
   {
@@ -36,7 +24,7 @@
     "category": "gambling"
   },
   {
-    "text": "term",
+    "text": "game",
     "category": "gambling"
   },
   {
@@ -44,15 +32,19 @@
     "category": "gambling"
   },
   {
-    "text": "bet",
+    "text": "age",
     "category": "gambling"
   },
   {
-    "text": "terms",
+    "text": "term",
     "category": "gambling"
   },
   {
     "text": "winning",
+    "category": "gambling"
+  },
+  {
+    "text": "terms",
     "category": "gambling"
   },
   {
@@ -72,11 +64,15 @@
     "category": "gambling"
   },
   {
-    "text": "are",
+    "text": "wagering",
     "category": "gambling"
   },
   {
-    "text": "wagering",
+    "text": "bet",
+    "category": "gambling"
+  },
+  {
+    "text": "are",
     "category": "gambling"
   },
   {
@@ -84,15 +80,11 @@
     "category": "gambling"
   },
   {
-    "text": "conditions",
-    "category": "gambling"
-  },
-  {
     "text": "requirements",
     "category": "gambling"
   },
   {
-    "text": "games",
+    "text": "conditions",
     "category": "gambling"
   },
   {
@@ -100,7 +92,7 @@
     "category": "gambling"
   },
   {
-    "text": "able",
+    "text": "games",
     "category": "gambling"
   },
   {
@@ -108,15 +100,11 @@
     "category": "gambling"
   },
   {
-    "text": "uses",
+    "text": "able",
     "category": "gambling"
   },
   {
     "text": "bonuses",
-    "category": "gambling"
-  },
-  {
-    "text": "bets",
     "category": "gambling"
   },
   {
@@ -132,7 +120,7 @@
     "category": "gambling"
   },
   {
-    "text": "ball",
+    "text": "bets",
     "category": "gambling"
   },
   {
@@ -152,11 +140,11 @@
     "category": "gambling"
   },
   {
-    "text": "pot",
+    "text": "playing",
     "category": "gambling"
   },
   {
-    "text": "playing",
+    "text": "pot",
     "category": "gambling"
   },
   {
@@ -172,14 +160,6 @@
     "category": "gambling"
   },
   {
-    "text": "king",
-    "category": "gambling"
-  },
-  {
-    "text": "jack",
-    "category": "gambling"
-  },
-  {
     "text": "qualify",
     "category": "gambling"
   },
@@ -188,15 +168,11 @@
     "category": "gambling"
   },
   {
+    "text": "king",
+    "category": "gambling"
+  },
+  {
     "text": "aim",
-    "category": "gambling"
-  },
-  {
-    "text": "scratch",
-    "category": "gambling"
-  },
-  {
-    "text": "bingo",
     "category": "gambling"
   },
   {
@@ -208,7 +184,15 @@
     "category": "gambling"
   },
   {
-    "text": "ice",
+    "text": "scratch",
+    "category": "gambling"
+  },
+  {
+    "text": "ball",
+    "category": "gambling"
+  },
+  {
+    "text": "jack",
     "category": "gambling"
   },
   {
@@ -216,11 +200,15 @@
     "category": "gambling"
   },
   {
-    "text": "gaming",
+    "text": "gold",
     "category": "gambling"
   },
   {
-    "text": "gold",
+    "text": "bingo",
+    "category": "gambling"
+  },
+  {
+    "text": "gaming",
     "category": "gambling"
   },
   {
@@ -244,18 +232,6 @@
     "category": "gambling"
   },
   {
-    "text": "its",
-    "category": "gambling"
-  },
-  {
-    "text": "gambling",
-    "category": "gambling"
-  },
-  {
-    "text": "customer",
-    "category": "gambling"
-  },
-  {
     "text": "funds",
     "category": "gambling"
   },
@@ -264,11 +240,11 @@
     "category": "gambling"
   },
   {
-    "text": "please",
+    "text": "applicable",
     "category": "gambling"
   },
   {
-    "text": "applicable",
+    "text": "customer",
     "category": "gambling"
   },
   {
@@ -276,27 +252,11 @@
     "category": "gambling"
   },
   {
-    "text": "slots",
-    "category": "gambling"
-  },
-  {
-    "text": "football",
-    "category": "gambling"
-  },
-  {
-    "text": "customers",
-    "category": "gambling"
-  },
-  {
-    "text": "spin",
-    "category": "gambling"
-  },
-  {
-    "text": "online",
-    "category": "gambling"
-  },
-  {
     "text": "placed",
+    "category": "gambling"
+  },
+  {
+    "text": "slots",
     "category": "gambling"
   },
   {
@@ -304,7 +264,7 @@
     "category": "gambling"
   },
   {
-    "text": "details",
+    "text": "online",
     "category": "gambling"
   },
   {
@@ -320,11 +280,7 @@
     "category": "gambling"
   },
   {
-    "text": "air",
-    "category": "gambling"
-  },
-  {
-    "text": "available",
+    "text": "details",
     "category": "gambling"
   },
   {
@@ -340,7 +296,11 @@
     "category": "gambling"
   },
   {
-    "text": "poker",
+    "text": "customers",
+    "category": "gambling"
+  },
+  {
+    "text": "available",
     "category": "gambling"
   },
   {
@@ -360,7 +320,15 @@
     "category": "gambling"
   },
   {
+    "text": "please",
+    "category": "gambling"
+  },
+  {
     "text": "deposit",
+    "category": "gambling"
+  },
+  {
+    "text": "spin",
     "category": "gambling"
   },
   {
@@ -376,23 +344,7 @@
     "category": "gambling"
   },
   {
-    "text": "roulette",
-    "category": "gambling"
-  },
-  {
-    "text": "card",
-    "category": "gambling"
-  },
-  {
-    "text": "table",
-    "category": "gambling"
-  },
-  {
     "text": "towards",
-    "category": "gambling"
-  },
-  {
-    "text": "cat",
     "category": "gambling"
   },
   {
@@ -401,6 +353,10 @@
   },
   {
     "text": "made",
+    "category": "gambling"
+  },
+  {
+    "text": "card",
     "category": "gambling"
   },
   {
@@ -420,6 +376,14 @@
     "category": "gambling"
   },
   {
+    "text": "table",
+    "category": "gambling"
+  },
+  {
+    "text": "roulette",
+    "category": "gambling"
+  },
+  {
     "text": "reel",
     "category": "gambling"
   },
@@ -432,27 +396,15 @@
     "category": "gambling"
   },
   {
-    "text": "blackjack",
-    "category": "gambling"
-  },
-  {
-    "text": "jackpot",
-    "category": "gambling"
-  },
-  {
     "text": "lotto",
     "category": "gambling"
   },
   {
-    "text": "drop",
+    "text": "cat",
     "category": "gambling"
   },
   {
-    "text": "100",
-    "category": "gambling"
-  },
-  {
-    "text": "site",
+    "text": "poker",
     "category": "gambling"
   },
   {
@@ -461,10 +413,6 @@
   },
   {
     "text": "mega",
-    "category": "gambling"
-  },
-  {
-    "text": "match",
     "category": "gambling"
   },
   {
@@ -488,35 +436,11 @@
     "category": "gambling"
   },
   {
-    "text": "limit",
+    "text": "jackpot",
     "category": "gambling"
   },
   {
-    "text": "pots",
-    "category": "gambling"
-  },
-  {
-    "text": "rules",
-    "category": "gambling"
-  },
-  {
-    "text": "live",
-    "category": "gambling"
-  },
-  {
-    "text": "whilst",
-    "category": "gambling"
-  },
-  {
-    "text": "fair",
-    "category": "gambling"
-  },
-  {
-    "text": "love",
-    "category": "gambling"
-  },
-  {
-    "text": "web",
+    "text": "blackjack",
     "category": "gambling"
   },
   {
@@ -529,14 +453,6 @@
   },
   {
     "text": "received",
-    "category": "gambling"
-  },
-  {
-    "text": "iris",
-    "category": "gambling"
-  },
-  {
-    "text": "format",
     "category": "gambling"
   },
   {
@@ -556,7 +472,23 @@
     "category": "gambling"
   },
   {
+    "text": "whilst",
+    "category": "gambling"
+  },
+  {
     "text": "dee",
+    "category": "gambling"
+  },
+  {
+    "text": "love",
+    "category": "gambling"
+  },
+  {
+    "text": "drop",
+    "category": "gambling"
+  },
+  {
+    "text": "pots",
     "category": "gambling"
   },
   {
@@ -572,7 +504,15 @@
     "category": "gambling"
   },
   {
+    "text": "web",
+    "category": "gambling"
+  },
+  {
     "text": "rise",
+    "category": "gambling"
+  },
+  {
+    "text": "match",
     "category": "gambling"
   },
   {
@@ -596,27 +536,11 @@
     "category": "gambling"
   },
   {
-    "text": "view",
+    "text": "iris",
     "category": "gambling"
   },
   {
-    "text": "and ",
-    "category": "gambling"
-  },
-  {
-    "text": "further",
-    "category": "gambling"
-  },
-  {
-    "text": "gibraltar",
-    "category": "gambling"
-  },
-  {
-    "text": "website",
-    "category": "gambling"
-  },
-  {
-    "text": "read",
+    "text": "gambling",
     "category": "gambling"
   },
   {
@@ -628,19 +552,27 @@
     "category": "gambling"
   },
   {
-    "text": "irish",
-    "category": "gambling"
-  },
-  {
     "text": "side",
     "category": "gambling"
   },
   {
-    "text": "spa",
+    "text": "and ",
+    "category": "gambling"
+  },
+  {
+    "text": "view",
+    "category": "gambling"
+  },
+  {
+    "text": "further",
     "category": "gambling"
   },
   {
     "text": "reserve",
+    "category": "gambling"
+  },
+  {
+    "text": "website",
     "category": "gambling"
   },
   {
@@ -657,10 +589,6 @@
   },
   {
     "text": "example",
-    "category": "gambling"
-  },
-  {
-    "text": "sport",
     "category": "gambling"
   },
   {
@@ -696,7 +624,15 @@
     "category": "gambling"
   },
   {
+    "text": "live",
+    "category": "gambling"
+  },
+  {
     "text": "list",
+    "category": "gambling"
+  },
+  {
+    "text": "rules",
     "category": "gambling"
   },
   {
@@ -705,10 +641,6 @@
   },
   {
     "text": "payment",
-    "category": "gambling"
-  },
-  {
-    "text": "information",
     "category": "gambling"
   },
   {
@@ -724,43 +656,15 @@
     "category": "gambling"
   },
   {
-    "text": "hill",
+    "text": "read",
     "category": "gambling"
   },
   {
-    "text": "responsible",
+    "text": "irish",
     "category": "gambling"
   },
   {
-    "text": "accordance",
-    "category": "gambling"
-  },
-  {
-    "text": "bonanza",
-    "category": "gambling"
-  },
-  {
-    "text": "sports",
-    "category": "gambling"
-  },
-  {
-    "text": "join",
-    "category": "gambling"
-  },
-  {
-    "text": "contact",
-    "category": "gambling"
-  },
-  {
-    "text": "licensed",
-    "category": "gambling"
-  },
-  {
-    "text": "regulated",
-    "category": "gambling"
-  },
-  {
-    "text": "register",
+    "text": "limit",
     "category": "gambling"
   },
   {
@@ -768,7 +672,7 @@
     "category": "gambling"
   },
   {
-    "text": "cookie",
+    "text": "accordance",
     "category": "gambling"
   },
   {
@@ -780,11 +684,7 @@
     "category": "gambling"
   },
   {
-    "text": "try",
-    "category": "gambling"
-  },
-  {
-    "text": "american",
+    "text": "information",
     "category": "gambling"
   },
   {
@@ -844,6 +744,10 @@
     "category": "gambling"
   },
   {
+    "text": "100",
+    "category": "gambling"
+  },
+  {
     "text": "jungle",
     "category": "gambling"
   },
@@ -857,6 +761,10 @@
   },
   {
     "text": "coronation",
+    "category": "gambling"
+  },
+  {
+    "text": "spa",
     "category": "gambling"
   },
   {
@@ -892,18 +800,6 @@
     "category": "gambling"
   },
   {
-    "text": "policy",
-    "category": "gambling"
-  },
-  {
-    "text": "limited",
-    "category": "gambling"
-  },
-  {
-    "text": "commission",
-    "category": "gambling"
-  },
-  {
     "text": "sign",
     "category": "gambling"
   },
@@ -912,7 +808,7 @@
     "category": "gambling"
   },
   {
-    "text": "virtual",
+    "text": "gibraltar",
     "category": "gambling"
   },
   {
@@ -920,27 +816,7 @@
     "category": "gambling"
   },
   {
-    "text": "william",
-    "category": "gambling"
-  },
-  {
-    "text": "found",
-    "category": "gambling"
-  },
-  {
-    "text": "played",
-    "category": "gambling"
-  },
-  {
-    "text": "jackpots",
-    "category": "gambling"
-  },
-  {
-    "text": "racing",
-    "category": "gambling"
-  },
-  {
-    "text": "result",
+    "text": "contact",
     "category": "gambling"
   },
   {
@@ -952,59 +828,11 @@
     "category": "gambling"
   },
   {
-    "text": "deutsch",
-    "category": "gambling"
-  },
-  {
-    "text": "spins",
-    "category": "gambling"
-  },
-  {
-    "text": "allow",
-    "category": "gambling"
-  },
-  {
-    "text": "britain",
-    "category": "gambling"
-  },
-  {
-    "text": "minutes",
-    "category": "gambling"
-  },
-  {
-    "text": "name",
-    "category": "gambling"
-  },
-  {
-    "text": "english",
-    "category": "gambling"
-  },
-  {
-    "text": "cards",
-    "category": "gambling"
-  },
-  {
     "text": "010",
     "category": "gambling"
   },
   {
-    "text": "key",
-    "category": "gambling"
-  },
-  {
-    "text": "page",
-    "category": "gambling"
-  },
-  {
-    "text": "action",
-    "category": "gambling"
-  },
-  {
-    "text": "privacy",
-    "category": "gambling"
-  },
-  {
-    "text": "betfair",
+    "text": "fair",
     "category": "gambling"
   },
   {
@@ -1016,7 +844,7 @@
     "category": "gambling"
   },
   {
-    "text": "registered",
+    "text": "played",
     "category": "gambling"
   },
   {
@@ -1032,19 +860,11 @@
     "category": "gambling"
   },
   {
-    "text": "remember",
-    "category": "gambling"
-  },
-  {
     "text": "does",
     "category": "gambling"
   },
   {
-    "text": "horse",
-    "category": "gambling"
-  },
-  {
-    "text": "next",
+    "text": "found",
     "category": "gambling"
   },
   {
@@ -1064,6 +884,10 @@
     "category": "gambling"
   },
   {
+    "text": "cards",
+    "category": "gambling"
+  },
+  {
     "text": "contribute",
     "category": "gambling"
   },
@@ -1072,15 +896,15 @@
     "category": "gambling"
   },
   {
+    "text": "result",
+    "category": "gambling"
+  },
+  {
     "text": "dishonestly",
     "category": "gambling"
   },
   {
     "text": "share",
-    "category": "gambling"
-  },
-  {
-    "text": "inplay",
     "category": "gambling"
   },
   {
@@ -1121,6 +945,14 @@
   },
   {
     "text": "fruits",
+    "category": "gambling"
+  },
+  {
+    "text": "jackpots",
+    "category": "gambling"
+  },
+  {
+    "text": "bonanza",
     "category": "gambling"
   },
   {
@@ -1224,15 +1056,15 @@
     "category": "gambling"
   },
   {
-    "text": "iframe",
-    "category": "gambling"
-  },
-  {
     "text": "claimed",
     "category": "gambling"
   },
   {
     "text": "including",
+    "category": "gambling"
+  },
+  {
+    "text": "key",
     "category": "gambling"
   },
   {
@@ -1292,51 +1124,35 @@
     "category": "gambling"
   },
   {
-    "text": "popular",
-    "category": "gambling"
-  },
-  {
-    "text": "500",
-    "category": "gambling"
-  },
-  {
-    "text": "quick",
-    "category": "gambling"
-  },
-  {
     "text": "paymentvisa",
     "category": "gambling"
   },
   {
-    "text": "power",
+    "text": "join",
     "category": "gambling"
   },
   {
-    "text": "book",
+    "text": "licensed",
     "category": "gambling"
   },
   {
-    "text": "protect",
+    "text": "regulated",
     "category": "gambling"
   },
   {
-    "text": "vegas",
+    "text": "commission",
     "category": "gambling"
   },
   {
-    "text": "legal",
+    "text": "britain",
     "category": "gambling"
   },
   {
-    "text": "regulatory",
+    "text": "next",
     "category": "gambling"
   },
   {
-    "text": "2018",
-    "category": "gambling"
-  },
-  {
-    "text": "agree",
+    "text": "deutsch",
     "category": "gambling"
   },
   {
@@ -1344,55 +1160,7 @@
     "category": "gambling"
   },
   {
-    "text": "rich",
-    "category": "gambling"
-  },
-  {
-    "text": "100px",
-    "category": "gambling"
-  },
-  {
-    "text": "darts",
-    "category": "gambling"
-  },
-  {
-    "text": "check",
-    "category": "gambling"
-  },
-  {
-    "text": "visiting",
-    "category": "gambling"
-  },
-  {
-    "text": "personal",
-    "category": "gambling"
-  },
-  {
-    "text": "services",
-    "category": "gambling"
-  },
-  {
-    "text": "extra",
-    "category": "gambling"
-  },
-  {
-    "text": "click",
-    "category": "gambling"
-  },
-  {
-    "text": "betting",
-    "category": "gambling"
-  },
-  {
-    "text": "goals",
-    "category": "gambling"
-  },
-  {
-    "text": "scratchcard",
-    "category": "gambling"
-  },
-  {
-    "text": "cookies",
+    "text": "quick",
     "category": "gambling"
   },
   {
@@ -1401,30 +1169,6 @@
   },
   {
     "text": "review",
-    "category": "gambling"
-  },
-  {
-    "text": "minsk",
-    "category": "gambling"
-  },
-  {
-    "text": "gorodeya",
-    "category": "gambling"
-  },
-  {
-    "text": "total",
-    "category": "gambling"
-  },
-  {
-    "text": "international",
-    "category": "gambling"
-  },
-  {
-    "text": "forgot",
-    "category": "gambling"
-  },
-  {
-    "text": "pet",
     "category": "gambling"
   },
   {
@@ -1444,19 +1188,11 @@
     "category": "gambling"
   },
   {
-    "text": "promotions",
-    "category": "gambling"
-  },
-  {
-    "text": "2000",
-    "category": "gambling"
-  },
-  {
-    "text": "exchange",
-    "category": "gambling"
-  },
-  {
     "text": "01082018",
+    "category": "gambling"
+  },
+  {
+    "text": "register",
     "category": "gambling"
   },
   {
@@ -1473,6 +1209,14 @@
   },
   {
     "text": "appeal",
+    "category": "gambling"
+  },
+  {
+    "text": "legal",
+    "category": "gambling"
+  },
+  {
+    "text": "regulatory",
     "category": "gambling"
   },
   {
@@ -1513,10 +1257,6 @@
   },
   {
     "text": "participate",
-    "category": "gambling"
-  },
-  {
-    "text": "slip",
     "category": "gambling"
   },
   {
@@ -1585,6 +1325,10 @@
   },
   {
     "text": "wizard",
+    "category": "gambling"
+  },
+  {
+    "text": "extra",
     "category": "gambling"
   },
   {
@@ -1752,11 +1496,23 @@
     "category": "gambling"
   },
   {
+    "text": "rich",
+    "category": "gambling"
+  },
+  {
+    "text": "scratchcard",
+    "category": "gambling"
+  },
+  {
     "text": "wilds",
     "category": "gambling"
   },
   {
     "text": "diamond",
+    "category": "gambling"
+  },
+  {
+    "text": "spins",
     "category": "gambling"
   },
   {
@@ -1816,6 +1572,10 @@
     "category": "gambling"
   },
   {
+    "text": "check",
+    "category": "gambling"
+  },
+  {
     "text": "subject",
     "category": "gambling"
   },
@@ -1849,6 +1609,10 @@
   },
   {
     "text": "eur",
+    "category": "gambling"
+  },
+  {
+    "text": "action",
     "category": "gambling"
   },
   {
@@ -1888,6 +1652,10 @@
     "category": "gambling"
   },
   {
+    "text": "name",
+    "category": "gambling"
+  },
+  {
     "text": "paragraph",
     "category": "gambling"
   },
@@ -1916,6 +1684,10 @@
     "category": "gambling"
   },
   {
+    "text": "agree",
+    "category": "gambling"
+  },
+  {
     "text": "particular",
     "category": "gambling"
   },
@@ -1929,6 +1701,10 @@
   },
   {
     "text": "terminology",
+    "category": "gambling"
+  },
+  {
+    "text": "visiting",
     "category": "gambling"
   },
   {
@@ -1952,6 +1728,10 @@
     "category": "gambling"
   },
   {
+    "text": "power",
+    "category": "gambling"
+  },
+  {
     "text": "video",
     "category": "gambling"
   },
@@ -1960,15 +1740,15 @@
     "category": "gambling"
   },
   {
+    "text": "click",
+    "category": "gambling"
+  },
+  {
     "text": "development",
     "category": "gambling"
   },
   {
     "text": "second",
-    "category": "gambling"
-  },
-  {
-    "text": "cycling",
     "category": "gambling"
   },
   {
@@ -2004,6 +1784,10 @@
     "category": "gambling"
   },
   {
+    "text": "personal",
+    "category": "gambling"
+  },
+  {
     "text": "secure",
     "category": "gambling"
   },
@@ -2016,6 +1800,10 @@
     "category": "gambling"
   },
   {
+    "text": "american",
+    "category": "gambling"
+  },
+  {
     "text": "three",
     "category": "gambling"
   },
@@ -2024,7 +1812,11 @@
     "category": "gambling"
   },
   {
-    "text": "experience",
+    "text": "protect",
+    "category": "gambling"
+  },
+  {
+    "text": "popular",
     "category": "gambling"
   },
   {
@@ -2064,59 +1856,7 @@
     "category": "gambling"
   },
   {
-    "text": "were",
-    "category": "gambling"
-  },
-  {
-    "text": "enter",
-    "category": "gambling"
-  },
-  {
-    "text": "operated",
-    "category": "gambling"
-  },
-  {
-    "text": "government",
-    "category": "gambling"
-  },
-  {
-    "text": "commissioner",
-    "category": "gambling"
-  },
-  {
-    "text": "player",
-    "category": "gambling"
-  },
-  {
-    "text": "ppb",
-    "category": "gambling"
-  },
-  {
-    "text": "links",
-    "category": "gambling"
-  },
-  {
-    "text": "style",
-    "category": "gambling"
-  },
-  {
-    "text": "aud",
-    "category": "gambling"
-  },
-  {
-    "text": "slutsk",
-    "category": "gambling"
-  },
-  {
-    "text": "price",
-    "category": "gambling"
-  },
-  {
-    "text": "free",
-    "category": "gambling"
-  },
-  {
-    "text": "whats",
+    "text": "remember",
     "category": "gambling"
   },
   {
@@ -2124,27 +1864,7 @@
     "category": "gambling"
   },
   {
-    "text": "height",
-    "category": "gambling"
-  },
-  {
-    "text": "312",
-    "category": "gambling"
-  },
-  {
-    "text": "riches",
-    "category": "gambling"
-  },
-  {
-    "text": "affiliate",
-    "category": "gambling"
-  },
-  {
-    "text": "address",
-    "category": "gambling"
-  },
-  {
-    "text": "300",
+    "text": "english",
     "category": "gambling"
   }
 ]

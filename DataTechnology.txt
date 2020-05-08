@@ -260,6 +260,38 @@ News Stream
 
 
 
+Tokyo Game Show has been cancelled
+
+
+By
+
+Shaun Prescott 
+
+
+
+
+News
+The September convention won't happen, but an online replacement is being planned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Jonathan Frakes is here to tell you how sad PUBG's Dinoland is
 
 
@@ -388,6 +420,7 @@ A budget gaming router that doesn't skimp on features.
 
 
 
+
 Paris Games Week has been cancelled because of the COVID-19 pandemic
 
 
@@ -400,7 +433,6 @@ Andy Chalk
 
 news
 It was scheduled to take place in late October.
-
 
 
 
@@ -855,38 +887,6 @@ The new game from Deep Silver was revealed today during the Inside Xbox livestre
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A brutal war between the High Elves and Greenskins is the next DLC for Total War: Warhammer 2
-
-
-By
-
-Rachel Watts 
-
-
-
-
-News
-The Warden and The Paunch DLC is releasing May 21.
-
-
-
-
-
-
 More News  
 
 
@@ -973,6 +973,38 @@ Budget hero
 
 
 News Continued
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The first gaming laptops from value-focused Adata aren't as interesting as hoped
+
+
+By
+
+Paul Lilly 
+
+
+
+
+
+Pricing starts at $1,698 for Adata's XPG Xenia, which is a bit high for the hardware.
+
+
+
+
 
 
 
@@ -1353,38 +1385,6 @@ Steven Messner
 
 
 Dance and kill, in this new trailer from the Inside Xbox event.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chorus: Rise as One is a space sim that will go 'beyond the boundaries of reality'
-
-
-By
-
-Andy Chalk 
-
-
-
-
-
-The new game from Deep Silver was revealed today during the Inside Xbox livestream.
 
 
 
@@ -2216,6 +2216,16 @@ Retro
 We're giving away a free wireless headset every month to support SpecialEffect
 
 
+By
+
+Rachel Watts 
+
+
+
+
+PCG Forum
+The Epos l Sennheiser
+
 
 
 Skip to main content
@@ -2392,6 +2402,135 @@ Latest News
 
 
 
+How to watch today's Joe Wicks PE workout on YouTube right now
+
+
+By
+
+Gareth Beavis 
+
+
+
+
+
+It's Friday and PE with Joe Wicks is now live on YouTube - here's how to get involved
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samsung Galaxy Note 20 could have a status indicator around its selfie camera
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+Samsung patents detail a selfie camera with a status indicator around it, capable of showing download progress.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Pixel 4a: seven features that you probably won't get from the Pixel 4
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+The Google Pixel 4a is likely to lack many of the Pixel 4's key features, including these seven.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here’s why you shouldn’t watch ‘inappropriate content’ on remote working devices
+
+
+By
+
+Joel Khalili 
+
+
+
+TechRadar Pro
+
+
+Remote working has blurred the boundary between private and professional spheres.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This HP USB drive promises to transform and secure any old PC
 
 
@@ -2437,134 +2576,6 @@ Mackenzie Frazier
 
 TechRadar Deals
 Best Buy's Google Home sale includes price cuts on the Google Home smart speaker, which is on sale for just $29.99.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Apple Watch Series 3 is on sale at Best Buy for only $179
-
-
-By
-
-Mackenzie Frazier 
-
-
-
-
-TechRadar Deals
-A fantastic smartwatch deal, Best Buy has the Apple Watch 3 on sale for just $179.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Xbox Series X game trailers: all the videos from the next-gen gameplay reveal
-
-
-By
-
-David Lumb 
-
-
-
-
-
-The Xbox Series X gameplay event revealed a dozen trailers for new games slated to come out on Microsoft's next-gen console.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-You can officially use your X570 or B550 board with upcoming AMD Ryzen 4000 processors
-
-
-By
-
-Bill Thomas 
-
-
-
-
-
-Good news, you don't need a new motherboard to pick up a Ryzen 4000 processor – as long as you have an X570 or B550 board already.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cheap tablet deals at Best Buy: get the Amazon Fire tablet on sale for $39.99
-
-
-By
-
-Mackenzie Frazier 
-
-
-
-
-TechRadar Deals
-You can score a cheap tablet deal at Best Buy's Mother's Day sale, which includes price cuts on the Amazon Fire tablet and Kindle e-reader.
 
 
 
@@ -2682,19 +2693,118 @@ View more news
 
 
 
-This HP USB drive promises to transform and secure any old PC
+How to watch today's Joe Wicks PE workout on YouTube right now
 
 
 By
 
-Desire Athow 
+Gareth Beavis 
+
+
+
+
+
+It's Friday and PE with Joe Wicks is now live on YouTube - here's how to get involved
+
+
+
+
+Internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samsung Galaxy Note 20 could have a status indicator around its selfie camera
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+Samsung patents detail a selfie camera with a status indicator around it, capable of showing download progress.
+
+
+
+
+Mobile phones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Pixel 4a: seven features that you probably won't get from the Pixel 4
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+The Google Pixel 4a is likely to lack many of the Pixel 4's key features, including these seven.
+
+
+
+
+Mobile phones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here’s why you shouldn’t watch ‘inappropriate content’ on remote working devices
+
+
+By
+
+Joel Khalili 
 
 
 
 TechRadar Pro
 
 
-PC converters can give obsolete hardware a new lease of life.
+Remote working has blurred the boundary between private and professional spheres.
 
 
 
@@ -2716,84 +2826,7 @@ Computing
 
 
 
-Best Buy's Google Home sale cuts the price down to just $29
-
-
-By
-
-Mackenzie Frazier 
-
-
-
-
-TechRadar Deals
-Best Buy's Google Home sale includes price cuts on the Google Home smart speaker, which is on sale for just $29.99.
-
-
-
-
-Smart Home
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Apple Watch Series 3 is on sale at Best Buy for only $179
-
-
-By
-
-Mackenzie Frazier 
-
-
-
-
-TechRadar Deals
-A fantastic smartwatch deal, Best Buy has the Apple Watch 3 on sale for just $179.
-
-
-
-
-Wearables
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Xbox Series X game trailers: all the videos from the next-gen gameplay reveal
-
-
-By
-
-David Lumb 
-
-
-
-
-
-The Xbox Series X gameplay event revealed a dozen trailers for new games slated to come out on 
+This HP USB drive promises to transform a
 
 
 
@@ -2967,6 +3000,38 @@ News Stream
 
 
 
+Tokyo Game Show has been cancelled
+
+
+By
+
+Shaun Prescott 
+
+
+
+
+News
+The September convention won't happen, but an online replacement is being planned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Jonathan Frakes is here to tell you how sad PUBG's Dinoland is
 
 
@@ -3095,6 +3160,7 @@ A budget gaming router that doesn't skimp on features.
 
 
 
+
 Paris Games Week has been cancelled because of the COVID-19 pandemic
 
 
@@ -3107,7 +3173,6 @@ Andy Chalk
 
 news
 It was scheduled to take place in late October.
-
 
 
 
@@ -3562,38 +3627,6 @@ The new game from Deep Silver was revealed today during the Inside Xbox livestre
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A brutal war between the High Elves and Greenskins is the next DLC for Total War: Warhammer 2
-
-
-By
-
-Rachel Watts 
-
-
-
-
-News
-The Warden and The Paunch DLC is releasing May 21.
-
-
-
-
-
-
 More News  
 
 
@@ -3680,6 +3713,38 @@ Budget hero
 
 
 News Continued
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The first gaming laptops from value-focused Adata aren't as interesting as hoped
+
+
+By
+
+Paul Lilly 
+
+
+
+
+
+Pricing starts at $1,698 for Adata's XPG Xenia, which is a bit high for the hardware.
+
+
+
+
 
 
 
@@ -4060,38 +4125,6 @@ Steven Messner
 
 
 Dance and kill, in this new trailer from the Inside Xbox event.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chorus: Rise as One is a space sim that will go 'beyond the boundaries of reality'
-
-
-By
-
-Andy Chalk 
-
-
-
-
-
-The new game from Deep Silver was revealed today during the Inside Xbox livestream.
 
 
 
@@ -5336,28 +5369,6 @@ Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 2
-Cyberpunk 2077 features customizable genitals
-
-
-
-
-
-
-
-
-
-3
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-
-
-
-
-
-
-
-
-4
 Which Assassin's Creed game has the best setting?
 
 
@@ -5368,8 +5379,30 @@ Which Assassin's Creed game has the best setting?
 
 
 
-5
+3
 Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+
+
+
+
+
+
+
+
+4
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+
+
+
+
+
+
+5
+Cyberpunk 2077 features customizable genitals
 
 
 
@@ -5393,7 +5426,7 @@ How The Witcher 3's best quest was made
 
 
 2
-Which Assassin's Creed game has the best setting?
+Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 
@@ -5404,7 +5437,7 @@ Which Assassin's Creed game has the best setting?
 
 
 3
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+Which Assassin's Creed game has the best setting?
 
 
 
@@ -5415,7 +5448,7 @@ Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for ye
 
 
 4
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
@@ -5426,7 +5459,7 @@ What's the next Crysis? The games that give the RTX 2080 Ti nightmares
 
 
 5
-Evil Genius is free right now, and you might want to grab your copy quickly
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
 
 
 
@@ -5853,6 +5886,38 @@ News Stream
 
 
 
+Tokyo Game Show has been cancelled
+
+
+By
+
+Shaun Prescott 
+
+
+
+
+News
+The September convention won't happen, but an online replacement is being planned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Jonathan Frakes is here to tell you how sad PUBG's Dinoland is
 
 
@@ -5981,6 +6046,7 @@ A budget gaming router that doesn't skimp on features.
 
 
 
+
 Paris Games Week has been cancelled because of the COVID-19 pandemic
 
 
@@ -5993,7 +6059,6 @@ Andy Chalk
 
 news
 It was scheduled to take place in late October.
-
 
 
 
@@ -6448,38 +6513,6 @@ The new game from Deep Silver was revealed today during the Inside Xbox livestre
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A brutal war between the High Elves and Greenskins is the next DLC for Total War: Warhammer 2
-
-
-By
-
-Rachel Watts 
-
-
-
-
-News
-The Warden and The Paunch DLC is releasing May 21.
-
-
-
-
-
-
 More News  
 
 
@@ -6566,6 +6599,38 @@ Budget hero
 
 
 News Continued
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The first gaming laptops from value-focused Adata aren't as interesting as hoped
+
+
+By
+
+Paul Lilly 
+
+
+
+
+
+Pricing starts at $1,698 for Adata's XPG Xenia, which is a bit high for the hardware.
+
+
+
+
 
 
 
@@ -6946,38 +7011,6 @@ Steven Messner
 
 
 Dance and kill, in this new trailer from the Inside Xbox event.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chorus: Rise as One is a space sim that will go 'beyond the boundaries of reality'
-
-
-By
-
-Andy Chalk 
-
-
-
-
-
-The new game from Deep Silver was revealed today during the Inside Xbox livestream.
 
 
 
@@ -8222,28 +8255,6 @@ Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 2
-Cyberpunk 2077 features customizable genitals
-
-
-
-
-
-
-
-
-
-3
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-
-
-
-
-
-
-
-
-4
 Which Assassin's Creed game has the best setting?
 
 
@@ -8254,8 +8265,30 @@ Which Assassin's Creed game has the best setting?
 
 
 
-5
+3
 Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+
+
+
+
+
+
+
+
+4
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+
+
+
+
+
+
+5
+Cyberpunk 2077 features customizable genitals
 
 
 
@@ -8279,7 +8312,7 @@ How The Witcher 3's best quest was made
 
 
 2
-Which Assassin's Creed game has the best setting?
+Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 
@@ -8290,7 +8323,7 @@ Which Assassin's Creed game has the best setting?
 
 
 3
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+Which Assassin's Creed game has the best setting?
 
 
 
@@ -8301,7 +8334,7 @@ Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for ye
 
 
 4
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
@@ -8312,7 +8345,7 @@ What's the next Crysis? The games that give the RTX 2080 Ti nightmares
 
 
 5
-Evil Genius is free right now, and you might want to grab your copy quickly
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
 
 
 
@@ -8408,6 +8441,38 @@ News
 
 
 News Stream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tokyo Game Show has been cancelled
+
+
+By
+
+Shaun Prescott 
+
+
+
+
+News
+The September convention won't happen, but an online replacement is being planned.
+
+
+
+
 
 
 
@@ -8552,6 +8617,7 @@ A budget gaming router that doesn't skimp on features.
 
 
 
+
 Paris Games Week has been cancelled because of the COVID-19 pandemic
 
 
@@ -8564,7 +8630,6 @@ Andy Chalk
 
 news
 It was scheduled to take place in late October.
-
 
 
 
@@ -9019,38 +9084,6 @@ The new game from Deep Silver was revealed today during the Inside Xbox livestre
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A brutal war between the High Elves and Greenskins is the next DLC for Total War: Warhammer 2
-
-
-By
-
-Rachel Watts 
-
-
-
-
-News
-The Warden and The Paunch DLC is releasing May 21.
-
-
-
-
-
-
 More News  
 
 
@@ -9137,6 +9170,38 @@ Budget hero
 
 
 News Continued
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The first gaming laptops from value-focused Adata aren't as interesting as hoped
+
+
+By
+
+Paul Lilly 
+
+
+
+
+
+Pricing starts at $1,698 for Adata's XPG Xenia, which is a bit high for the hardware.
+
+
+
+
 
 
 
@@ -9249,74 +9314,6 @@ Next week's game is... a mystery.
 
 
 
-You can get a $50 Steam credit when upgrading to an MSI Z490 motherboard
-
-
-By
-
-Paul Lilly 
-
-
-
-
-
-Intel introduced a new socket for Comet Lake, and this offer takes some of the financial sting out of upgrading.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search for a missing expedition on a mysterious island in this first-person adventure
-
-
-By
-
-Christopher Livingston 
-
-
-
-
-
-
-
-
-
-
-
-
-
-iPhone SE deals: get the best prices and plans for May 2020
-Order Apple's latest iPhone today!
-
-
-
-TechRadar Deals
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -9355,6 +9352,139 @@ Play live
 
 
 
+How to watch today's Joe Wicks PE workout on YouTube right now
+
+
+By
+
+Gareth Beavis 
+
+
+
+
+
+It's Friday and PE with Joe Wicks is now live on YouTube - here's how to get involved
+
+
+
+
+Internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samsung Galaxy Note 20 could have a status indicator around its selfie camera
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+Samsung patents detail a selfie camera with a status indicator around it, capable of showing download progress.
+
+
+
+
+Mobile phones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Pixel 4a: seven features that you probably won't get from the Pixel 4
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+The Google Pixel 4a is likely to lack many of the Pixel 4's key features, including these seven.
+
+
+
+
+Mobile phones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here’s why you shouldn’t watch ‘inappropriate content’ on remote working devices
+
+
+By
+
+Joel Khalili 
+
+
+
+TechRadar Pro
+
+
+Remote working has blurred the boundary between private and professional spheres.
+
+
+
+
+Computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This HP USB drive promises to transform and secure any old PC
 
 
@@ -9406,6 +9536,10 @@ Best Buy's Google Home sale includes price cuts on the Google Home smart speaker
 
 
 Smart Home
+
+
+
+
 
 
 
@@ -9554,10 +9688,6 @@ Tablets
 
 
 
-
-
-
-
 The best reactions to the Xbox Series X's underwhelming gameplay reveal event
 
 
@@ -9575,138 +9705,6 @@ The definition of the word 'gameplay' is suddenly more confusing.
 
 
 Gaming
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Microsoft just made its first big mistake with the Xbox Series X
-
-
-By
-
-Nick Pino 
-
-
-
-
-OPINION
-The caliber of games it chose and the brevity of the presentation could come back to haunt Microsoft.
-
-
-
-
-Gaming
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-NordVPN vs IPVanish: which should you get?
-
-
-By
-
-Mo Harber-Lamond 
-
-
-
-
-VPN
-With so many options, choosing a VPN can be tricky. Here, we pit NordVPN vs IPVanish to see which one is the best for you.
-
-
-
-
-VPN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-After Life season 3 is coming to Netflix – along with more Ricky Gervais shows
-
-
-By
-
-Samuel Roberts 
-
-
-
-
-
-Another season of Ricky Gervais' After Life is coming to Netflix, as well as more shows and stand-up specials.
-
-
-
-
-TV
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Do your AirPods Pro sound crackly? Apple has a fix for that
-
-
-By
-
-Olivia Tambini 
-
-
-
-
-
-Apple has released support articles for owners of the AirPods Pro who have been experiencing issues.
-
-
-
-
-Audio
 
 
 
@@ -9734,28 +9732,6 @@ Most Shared
 
 
 1
-Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
-
-
-
-
-
-
-
-
-
-2
-Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
-
-
-
-
-
-
-
-
-
-3
 This popular adult streaming site just accidentally outed millions of users
 
 
@@ -9766,7 +9742,7 @@ This popular adult streaming site just accidentally outed millions of users
 
 
 
-4
+2
 Windows 10 users should turn this feature off now for better gaming performance
 
 
@@ -9777,8 +9753,30 @@ Windows 10 users should turn this feature off now for better gaming performance
 
 
 
+3
+Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
+
+
+
+
+
+
+
+
+
+4
+Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
+
+
+
+
+
+
+
+
+
 5
-How to watch the Star Wars movies in order
+The Mandalorian season 2: release date, Baby Yoda, Darksaber, Ahsoka Tano and what we know
 
 
 
@@ -9845,6 +9843,276 @@ Here's the first trailer for Space Force, Netflix's successor to The Office
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to watch today's Joe Wicks PE workout on YouTube right now
+
+
+By
+
+Gareth Beavis 
+
+
+
+
+
+It's Friday and PE with Joe Wicks is now live on YouTube - here's how to get involved
+
+
+
+
+Internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to watch today's Joe Wicks PE workout on YouTube right now
+
+
+By
+
+Gareth Beavis 
+
+
+
+
+
+It's Friday and PE with Joe Wicks is now live on YouTube - here's how to get involved
+
+
+How to watch today's Joe Wicks PE workout on YouTube right now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samsung Galaxy Note 20 could have a status indicator around its selfie camera
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+Samsung patents detail a selfie camera with a status indicator around it, capable of showing download progress.
+
+
+
+
+Mobile phones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samsung Galaxy Note 20 could have a status indicator around its selfie camera
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+Samsung patents detail a selfie camera with a status indicator around it, capable of showing download progress.
+
+
+Samsung Galaxy Note 20 could have a status indicator around its selfie camera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Pixel 4a: seven features that you probably won't get from the Pixel 4
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+The Google Pixel 4a is likely to lack many of the Pixel 4's key features, including these seven.
+
+
+
+
+Mobile phones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Pixel 4a: seven features that you probably won't get from the Pixel 4
+
+
+By
+
+James Rogerson 
+
+
+
+
+
+The Google Pixel 4a is likely to lack many of the Pixel 4's key features, including these seven.
+
+
+Google Pixel 4a: seven features that you probably won't get from the Pixel 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here’s why you shouldn’t watch ‘inappropriate content’ on remote working devices
+
+
+By
+
+Joel Khalili 
+
+
+
+TechRadar Pro
+
+
+Remote working has blurred the boundary between private and professional spheres.
+
+
+
+
+Computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here’s why you shouldn’t watch ‘inappropriate content’ on remote working devices
+
+
+By
+
+Joel Khalili 
+
+
+
+TechRadar Pro
+
+
+Remote working has blurred the boundary between private and professional spheres.
+
+
+Here’s why you shouldn’t watch ‘inappropriate content’ on remote working devices
 
 
 
@@ -9981,6 +10249,11 @@ Best Buy's Google Home sale includes price cuts on the Google Home smart speaker
 
 
 Best Buy's Google Home sale cuts the price down to just $29
+
+
+
+
+
 
 
 
@@ -10263,11 +10536,6 @@ Cheap tablet deals at Best Buy: get the Amazon Fire tablet on sale for $39.99
 
 
 
-
-
-
-
-
 The best reactions to the Xbox Series X's underwhelming gameplay reveal event
 
 
@@ -10321,274 +10589,6 @@ The definition of the word 'gameplay' is suddenly more confusing.
 
 
 The best reactions to the Xbox Series X's underwhelming gameplay reveal event
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Microsoft just made its first big mistake with the Xbox Series X
-
-
-By
-
-Nick Pino 
-
-
-
-
-OPINION
-The caliber of games it chose and the brevity of the presentation could come back to haunt Microsoft.
-
-
-
-
-Gaming
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Microsoft just made its first big mistake with the Xbox Series X
-
-
-By
-
-Nick Pino 
-
-
-
-
-OPINION
-The caliber of games it chose and the brevity of the presentation could come back to haunt Microsoft.
-
-
-Microsoft just made its first big mistake with the Xbox Series X
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-NordVPN vs IPVanish: which should you get?
-
-
-By
-
-Mo Harber-Lamond 
-
-
-
-
-VPN
-With so many options, choosing a VPN can be tricky. Here, we pit NordVPN vs IPVanish to see which one is the best for you.
-
-
-
-
-VPN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-NordVPN vs IPVanish: which should you get?
-
-
-By
-
-Mo Harber-Lamond 
-
-
-
-
-VPN
-With so many options, choosing a VPN can be tricky. Here, we pit NordVPN vs IPVanish to see which one is the best for you.
-
-
-NordVPN vs IPVanish: which should you get?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-After Life season 3 is coming to Netflix – along with more Ricky Gervais shows
-
-
-By
-
-Samuel Roberts 
-
-
-
-
-
-Another season of Ricky Gervais' After Life is coming to Netflix, as well as more shows and stand-up specials.
-
-
-
-
-TV
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-After Life season 3 is coming to Netflix – along with more Ricky Gervais shows
-
-
-By
-
-Samuel Roberts 
-
-
-
-
-
-Another season of Ricky Gervais' After Life is coming to Netflix, as well as more shows and stand-up specials.
-
-
-After Life season 3 is coming to Netflix – along with more Ricky Gervais shows
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Do your AirPods Pro sound crackly? Apple has a fix for that
-
-
-By
-
-Olivia Tambini 
-
-
-
-
-
-Apple has released support articles for owners of the AirPods Pro who have been experiencing issues.
-
-
-
-
-Audio
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Do your AirPods Pro sound crackly? Apple has a fix for that
-
-
-By
-
-Olivia Tambini 
-
-
-
-
-
-Apple has released support articles for owners of the AirPods Pro who have been experiencing issues.
-
-
-Do your AirPods Pro sound crackly? Apple has a fix for that
 
 View all news 
 
@@ -10613,28 +10613,6 @@ Most Shared
 
 
 1
-Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
-
-
-
-
-
-
-
-
-
-2
-Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
-
-
-
-
-
-
-
-
-
-3
 This popular adult streaming site just accidentally outed millions of users
 
 
@@ -10645,7 +10623,7 @@ This popular adult streaming site just accidentally outed millions of users
 
 
 
-4
+2
 Windows 10 users should turn this feature off now for better gaming performance
 
 
@@ -10656,8 +10634,30 @@ Windows 10 users should turn this feature off now for better gaming performance
 
 
 
+3
+Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
+
+
+
+
+
+
+
+
+
+4
+Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
+
+
+
+
+
+
+
+
+
 5
-How to watch the Star Wars movies in order
+The Mandalorian season 2: release date, Baby Yoda, Darksaber, Ahsoka Tano and what we know
 
 
 
@@ -10742,28 +10742,6 @@ Most Shared
 
 
 1
-Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
-
-
-
-
-
-
-
-
-
-2
-Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
-
-
-
-
-
-
-
-
-
-3
 This popular adult streaming site just accidentally outed millions of users
 
 
@@ -10774,7 +10752,7 @@ This popular adult streaming site just accidentally outed millions of users
 
 
 
-4
+2
 Windows 10 users should turn this feature off now for better gaming performance
 
 
@@ -10785,8 +10763,30 @@ Windows 10 users should turn this feature off now for better gaming performance
 
 
 
+3
+Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
+
+
+
+
+
+
+
+
+
+4
+Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
+
+
+
+
+
+
+
+
+
 5
-How to watch the Star Wars movies in order
+The Mandalorian season 2: release date, Baby Yoda, Darksaber, Ahsoka Tano and what we know
 
 
 
@@ -10867,28 +10867,6 @@ Most Shared
 
 
 1
-Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
-
-
-
-
-
-
-
-
-
-2
-Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
-
-
-
-
-
-
-
-
-
-3
 This popular adult streaming site just accidentally outed millions of users
 
 
@@ -10899,7 +10877,7 @@ This popular adult streaming site just accidentally outed millions of users
 
 
 
-4
+2
 Windows 10 users should turn this feature off now for better gaming performance
 
 
@@ -10910,8 +10888,30 @@ Windows 10 users should turn this feature off now for better gaming performance
 
 
 
+3
+Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
+
+
+
+
+
+
+
+
+
+4
+Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
+
+
+
+
+
+
+
+
+
 5
-How to watch the Star Wars movies in order
+The Mandalorian season 2: release date, Baby Yoda, Darksaber, Ahsoka Tano and what we know
 
 
 
@@ -10989,7 +10989,7 @@ Most Shared
 
 
 1
-Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
+This popular adult streaming site just accidentally outed millions of users
 
 
 
@@ -10999,11 +10999,86 @@ Sony's flagship 4K OLED TV is now available – and it's way cheaper than we tho
 
 
 1
-Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
+This popular adult streaming site just accidentally outed millions of users
 
 
 
 1
+This popular adult streaming site just accidentally outed millions of users
+
+This popular adult streaming site just accidentally outed millions of users
+
+
+
+
+
+
+2
+Windows 10 users should turn this feature off now for better gaming performance
+
+
+
+
+
+
+
+
+2
+Windows 10 users should turn this feature off now for better gaming performance
+
+
+
+2
+Windows 10 users should turn this feature off now for better gaming performance
+
+Windows 10 users should turn this feature off now for better gaming performance
+
+
+
+
+
+
+3
+Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
+
+
+
+
+
+
+
+
+3
+Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
+
+
+
+3
+Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
+
+Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
+
+
+
+
+
+
+4
+Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
+
+
+
+
+
+
+
+
+4
+Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
+
+
+
+4
 Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
 
 Sony's flagship 4K OLED TV is now available – and it's way cheaper than we thought
@@ -11013,83 +11088,8 @@ Sony's flagship 4K OLED TV is now available – and it's way cheaper than we tho
 
 
 
-2
-Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
-
-
-
-
-
-
-
-
-2
-Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
-
-
-
-2
-Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
-
-Canon EOS R5 moves one step closer to launch, but is Sony preparing to fight back?
-
-
-
-
-
-
-3
-This popular adult streaming site just accidentally outed millions of users
-
-
-
-
-
-
-
-
-3
-This popular adult streaming site just accidentally outed millions of users
-
-
-
-3
-This popular adult streaming site just accidentally outed millions of users
-
-This popular adult streaming site just accidentally outed millions of users
-
-
-
-
-
-
-4
-Windows 10 users should turn this feature off now for better gaming performance
-
-
-
-
-
-
-
-
-4
-Windows 10 users should turn this feature off now for better gaming performance
-
-
-
-4
-Windows 10 users should turn this feature off now for better gaming performance
-
-Windows 10 users should turn this feature off now for better gaming performance
-
-
-
-
-
-
 5
-How to watch the Star Wars movies in order
+The Mandalorian season 2: release date, Baby Yoda, Darksaber, Ahsoka Tano and what we know
 
 
 
@@ -11099,14 +11099,14 @@ How to watch the Star Wars movies in order
 
 
 5
-How to watch the Star Wars movies in order
+The Mandalorian season 2: release date, Baby Yoda, Darksaber, Ahsoka Tano and what we know
 
 
 
 5
-How to watch the Star Wars movies in order
+The Mandalorian season 2: release date, Baby Yoda, Darksaber, Ahsoka Tano and what we know
 
-How to watch the Star Wars movies in order
+The Mandalorian season 2: release date, Baby Yoda, Darksaber, Ahsoka Tano and what we know
 
 
 
@@ -11285,6 +11285,83 @@ The Google Pixel Buds are feature-packed, but these aren't exactly the 'AirPods 
 
 
 
+Hands on: Samsung Galaxy Tab S6 Lite review
+
+
+By
+
+Tom Bedford 
+
+
+
+Not yet rated
+
+
+Samsung’s latest attempt to rival the iPad comes close, but there are some trade-offs.
+
+
+
+
+Tablets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Huawei Watch GT 2e review
+
+
+By
+
+Ammara Rounaq 
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+The Huawei Watch GT 2e retains the same epic two-week battery life of the original Watch GT 2, but offers more sports focused features at a lower price point.
+
+
+
+
+Wearables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Nanoleaf Canvas review
 
 
@@ -11309,10 +11386,6 @@ Make a boring wall interactive and fun with lights that dazzle with color and li
 
 
 Appliances
-
-
-
-
 
 
 
@@ -11585,87 +11658,6 @@ The Edge Plus is the first genuine flagship from the brand in years, and packs a
 
 
 Mobile phones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-IPVanish VPN review
-
-
-By
-
-Mike Williams 
-
-
-
-
- 
- 
- 
- 
-
-
-TechRadar Pro
-
-Updated
-IPVanish is a fast VPN that is highly configurable and offers clients for Windows, Android and iOS.
-
-
-
-
-Utilities
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Adata SE760 external SSD review
-
-
-By
-
-Desire Athow 
-
-
-
-
- 
- 
- 
-
-
-TechRadar Pro
-
-
-How will the SE760 compare against the award-winning SE800?
-
-
-
-
-Storage
 
 
 
@@ -11775,6 +11767,159 @@ Google Pixel Buds (2020) review
 
 
 
+Hands on: Samsung Galaxy Tab S6 Lite review
+
+
+By
+
+Tom Bedford 
+
+
+
+Not yet rated
+
+
+Samsung’s latest attempt to rival the iPad comes close, but there are some trade-offs.
+
+
+
+
+Tablets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hands on: Samsung Galaxy Tab S6 Lite review
+
+
+By
+
+Tom Bedford 
+
+
+
+Not yet rated
+
+
+Samsung’s latest attempt to rival the iPad comes close, but there are some trade-offs.
+
+
+Hands on: Samsung Galaxy Tab S6 Lite review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Huawei Watch GT 2e review
+
+
+By
+
+Ammara Rounaq 
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+The Huawei Watch GT 2e retains the same epic two-week battery life of the original Watch GT 2, but offers more sports focused features at a lower price point.
+
+
+
+
+Wearables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Huawei Watch GT 2e review
+
+
+By
+
+Ammara Rounaq 
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+The Huawei Watch GT 2e retains the same epic two-week battery life of the original Watch GT 2, but offers more sports focused features at a lower price point.
+
+
+Huawei Watch GT 2e review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Nanoleaf Canvas review
 
 
@@ -11842,11 +11987,6 @@ Make a boring wall interactive and fun with lights that dazzle with color and li
 
 
 Nanoleaf Canvas review
-
-
-
-
-
 
 
 
@@ -12399,170 +12539,6 @@ The Edge Plus is the first genuine flagship from the brand in years, and packs a
 
 
 Motorola Edge Plus review
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-IPVanish VPN review
-
-
-By
-
-Mike Williams 
-
-
-
-
- 
- 
- 
- 
-
-
-TechRadar Pro
-
-Updated
-IPVanish is a fast VPN that is highly configurable and offers clients for Windows, Android and iOS.
-
-
-
-
-Utilities
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-IPVanish VPN review
-
-
-By
-
-Mike Williams 
-
-
-
-
- 
- 
- 
- 
-
-
-TechRadar Pro
-
-Updated
-IPVanish is a fast VPN that is highly configurable and offers clients for Windows, Android and iOS.
-
-
-IPVanish VPN review
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Adata SE760 external SSD review
-
-
-By
-
-Desire Athow 
-
-
-
-
- 
- 
- 
-
-
-TechRadar Pro
-
-
-How will the SE760 compare against the award-winning SE800?
-
-
-
-
-Storage
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Adata SE760 external SSD review
-
-
-By
-
-Desire Athow 
-
-
-
-
- 
- 
- 
-
-
-TechRadar Pro
-
-
-How will the SE760 compare against the award-winning SE800?
-
-
-Adata SE760 external SSD review
 
 
 
@@ -13744,21 +13720,7 @@ Cookies policy
 Advertise with us
 Web notifications
 California Privacy Rights
-tive'
-
-
-By
-
-Andy Chalk 
-
-
-
-
-
-The Medium sees it all, and it's not very nice.
-
-
-Layers of Fear studio Bloober Team is working on a new game about 'perspective'
+rs of Fear studio Bloober Team is working on a new game about 'perspective'
 
 
 
@@ -14155,72 +14117,6 @@ Dance and kill, in this new trailer from the Inside Xbox event.
 
 
 Vampire: Bloodlines 2's new trailer makes music out of murder
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chorus: Rise as One is a space sim that will go 'beyond the boundaries of reality'
-
-
-By
-
-Andy Chalk 
-
-
-
-
-
-The new game from Deep Silver was revealed today during the Inside Xbox livestream.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chorus: Rise as One is a space sim that will go 'beyond the boundaries of reality'
-
-
-By
-
-Andy Chalk 
-
-
-
-
-
-The new game from Deep Silver was revealed today during the Inside Xbox livestream.
-
-
-Chorus: Rise as One is a space sim that will go 'beyond the boundaries of reality'
  Latest Updates
 
 
@@ -15455,28 +15351,6 @@ Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 2
-Cyberpunk 2077 features customizable genitals
-
-
-
-
-
-
-
-
-
-3
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-
-
-
-
-
-
-
-
-4
 Which Assassin's Creed game has the best setting?
 
 
@@ -15487,8 +15361,30 @@ Which Assassin's Creed game has the best setting?
 
 
 
-5
+3
 Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+
+
+
+
+
+
+
+
+4
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+
+
+
+
+
+
+5
+Cyberpunk 2077 features customizable genitals
 
 
 
@@ -15512,7 +15408,7 @@ How The Witcher 3's best quest was made
 
 
 2
-Which Assassin's Creed game has the best setting?
+Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 
@@ -15523,7 +15419,7 @@ Which Assassin's Creed game has the best setting?
 
 
 3
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+Which Assassin's Creed game has the best setting?
 
 
 
@@ -15534,7 +15430,7 @@ Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for ye
 
 
 4
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
@@ -15545,7 +15441,7 @@ What's the next Crysis? The games that give the RTX 2080 Ti nightmares
 
 
 5
-Evil Genius is free right now, and you might want to grab your copy quickly
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
 
 
 
@@ -18413,28 +18309,6 @@ Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 2
-Cyberpunk 2077 features customizable genitals
-
-
-
-
-
-
-
-
-
-3
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-
-
-
-
-
-
-
-
-4
 Which Assassin's Creed game has the best setting?
 
 
@@ -18445,8 +18319,30 @@ Which Assassin's Creed game has the best setting?
 
 
 
-5
+3
 Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+
+
+
+
+
+
+
+
+4
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+
+
+
+
+
+
+5
+Cyberpunk 2077 features customizable genitals
 
 
 
@@ -18470,7 +18366,7 @@ How The Witcher 3's best quest was made
 
 
 2
-Which Assassin's Creed game has the best setting?
+Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 
@@ -18481,7 +18377,7 @@ Which Assassin's Creed game has the best setting?
 
 
 3
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+Which Assassin's Creed game has the best setting?
 
 
 
@@ -18492,7 +18388,7 @@ Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for ye
 
 
 4
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
@@ -18503,7 +18399,7 @@ What's the next Crysis? The games that give the RTX 2080 Ti nightmares
 
 
 5
-Evil Genius is free right now, and you might want to grab your copy quickly
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
 
 
 
@@ -18542,28 +18438,6 @@ Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 2
-Cyberpunk 2077 features customizable genitals
-
-
-
-
-
-
-
-
-
-3
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-
-
-
-
-
-
-
-
-4
 Which Assassin's Creed game has the best setting?
 
 
@@ -18574,8 +18448,30 @@ Which Assassin's Creed game has the best setting?
 
 
 
-5
+3
 Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+
+
+
+
+
+
+
+
+4
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+
+
+
+
+
+
+5
+Cyberpunk 2077 features customizable genitals
 
 
 
@@ -18599,7 +18495,7 @@ How The Witcher 3's best quest was made
 
 
 2
-Which Assassin's Creed game has the best setting?
+Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 
@@ -18610,7 +18506,7 @@ Which Assassin's Creed game has the best setting?
 
 
 3
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+Which Assassin's Creed game has the best setting?
 
 
 
@@ -18621,7 +18517,7 @@ Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for ye
 
 
 4
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
@@ -18632,7 +18528,7 @@ What's the next Crysis? The games that give the RTX 2080 Ti nightmares
 
 
 5
-Evil Genius is free right now, and you might want to grab your copy quickly
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
 
 
 
@@ -18667,28 +18563,6 @@ Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 2
-Cyberpunk 2077 features customizable genitals
-
-
-
-
-
-
-
-
-
-3
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-
-
-
-
-
-
-
-
-4
 Which Assassin's Creed game has the best setting?
 
 
@@ -18699,8 +18573,30 @@ Which Assassin's Creed game has the best setting?
 
 
 
-5
+3
 Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+
+
+
+
+
+
+
+
+4
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+
+
+
+
+
+
+5
+Cyberpunk 2077 features customizable genitals
 
 
 
@@ -18724,7 +18620,7 @@ How The Witcher 3's best quest was made
 
 
 2
-Which Assassin's Creed game has the best setting?
+Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 
@@ -18735,7 +18631,7 @@ Which Assassin's Creed game has the best setting?
 
 
 3
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+Which Assassin's Creed game has the best setting?
 
 
 
@@ -18746,7 +18642,7 @@ Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for ye
 
 
 4
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
@@ -18757,7 +18653,7 @@ What's the next Crysis? The games that give the RTX 2080 Ti nightmares
 
 
 5
-Evil Genius is free right now, and you might want to grab your copy quickly
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
 
 
 
@@ -18803,7 +18699,7 @@ Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 2
-Cyberpunk 2077 features customizable genitals
+Which Assassin's Creed game has the best setting?
 
 
 
@@ -18813,89 +18709,89 @@ Cyberpunk 2077 features customizable genitals
 
 
 2
-Cyberpunk 2077 features customizable genitals
+Which Assassin's Creed game has the best setting?
 
 
 
 2
+Which Assassin's Creed game has the best setting?
+
+Which Assassin's Creed game has the best setting?
+
+
+
+
+
+
+3
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+
+
+
+
+
+
+
+3
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+
+
+3
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
+
+
+
+
+
+
+4
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+
+
+
+
+
+4
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+4
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+
+
+
+5
+Cyberpunk 2077 features customizable genitals
+
+
+
+
+
+
+
+
+5
+Cyberpunk 2077 features customizable genitals
+
+
+
+5
 Cyberpunk 2077 features customizable genitals
 
 Cyberpunk 2077 features customizable genitals
-
-
-
-
-
-
-3
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-
-
-
-
-
-
-
-3
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-
-
-3
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-Rumor: Mass Effect trilogy remaster will be out before next April
-
-
-
-
-
-
-4
-Which Assassin's Creed game has the best setting?
-
-
-
-
-
-
-
-
-4
-Which Assassin's Creed game has the best setting?
-
-
-
-4
-Which Assassin's Creed game has the best setting?
-
-Which Assassin's Creed game has the best setting?
-
-
-
-
-
-
-5
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
-
-
-
-
-
-
-
-
-5
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
-
-
-
-5
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
-
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
@@ -18928,7 +18824,7 @@ How The Witcher 3's best quest was made
 
 
 2
-Which Assassin's Creed game has the best setting?
+Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 
@@ -18938,11 +18834,36 @@ Which Assassin's Creed game has the best setting?
 
 
 2
-Which Assassin's Creed game has the best setting?
+Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 
 2
+Evil Genius is free right now, and you might want to grab your copy quickly
+
+Evil Genius is free right now, and you might want to grab your copy quickly
+
+
+
+
+
+
+3
+Which Assassin's Creed game has the best setting?
+
+
+
+
+
+
+
+
+3
+Which Assassin's Creed game has the best setting?
+
+
+
+3
 Which Assassin's Creed game has the best setting?
 
 Which Assassin's Creed game has the best setting?
@@ -18952,33 +18873,8 @@ Which Assassin's Creed game has the best setting?
 
 
 
-3
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
-
-
-
-
-
-
-
-
-3
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
-
-
-
-3
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
-
-Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
-
-
-
-
-
-
 4
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
@@ -18988,24 +18884,14 @@ What's the next Crysis? The games that give the RTX 2080 Ti nightmares
 
 
 4
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
 4
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
-What's the next Crysis? The games that give the RTX 2080 Ti nightmares
-
-
-
-
-
-
-5
-Evil Genius is free right now, and you might want to grab your copy quickly
-
-
+Footage of a cancelled Prince of Persia reboot has been hiding on YouTube for years
 
 
 
@@ -19013,14 +18899,24 @@ Evil Genius is free right now, and you might want to grab your copy quickly
 
 
 5
-Evil Genius is free right now, and you might want to grab your copy quickly
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+
+
+
+
 
 
 
 5
-Evil Genius is free right now, and you might want to grab your copy quickly
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
 
-Evil Genius is free right now, and you might want to grab your copy quickly
+
+
+5
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
+
+Assassin's Creed Valhalla 'gameplay trailer' reveals an incredible 2-3 seconds of gameplay
 
 
 

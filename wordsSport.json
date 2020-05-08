@@ -4,23 +4,15 @@
     "category": "sport"
   },
   {
-    "text": "sport",
-    "category": "sport"
-  },
-  {
     "text": "podcast",
     "category": "sport"
   },
   {
+    "text": "sport",
+    "category": "sport"
+  },
+  {
     "text": "league",
-    "category": "sport"
-  },
-  {
-    "text": "sports",
-    "category": "sport"
-  },
-  {
-    "text": "sky",
     "category": "sport"
   },
   {
@@ -29,10 +21,6 @@
   },
   {
     "text": "audio",
-    "category": "sport"
-  },
-  {
-    "text": "euro",
     "category": "sport"
   },
   {
@@ -48,19 +36,19 @@
     "category": "sport"
   },
   {
-    "text": "win",
-    "category": "sport"
-  },
-  {
     "text": "agofrom",
     "category": "sport"
   },
   {
-    "text": "age",
+    "text": "win",
     "category": "sport"
   },
   {
     "text": "club",
+    "category": "sport"
+  },
+  {
+    "text": "clubs",
     "category": "sport"
   },
   {
@@ -72,15 +60,7 @@
     "category": "sport"
   },
   {
-    "text": "clubs",
-    "category": "sport"
-  },
-  {
-    "text": "star",
-    "category": "sport"
-  },
-  {
-    "text": "rugby",
+    "text": "sports",
     "category": "sport"
   },
   {
@@ -88,23 +68,11 @@
     "category": "sport"
   },
   {
+    "text": "footballer",
+    "category": "sport"
+  },
+  {
     "text": "season",
-    "category": "sport"
-  },
-  {
-    "text": "darts",
-    "category": "sport"
-  },
-  {
-    "text": "dor",
-    "category": "sport"
-  },
-  {
-    "text": "king",
-    "category": "sport"
-  },
-  {
-    "text": "alt",
     "category": "sport"
   },
   {
@@ -112,23 +80,11 @@
     "category": "sport"
   },
   {
-    "text": "live",
-    "category": "sport"
-  },
-  {
-    "text": "golf",
-    "category": "sport"
-  },
-  {
-    "text": "bet",
-    "category": "sport"
-  },
-  {
-    "text": "footballer",
-    "category": "sport"
-  },
-  {
     "text": "german",
+    "category": "sport"
+  },
+  {
+    "text": "alt",
     "category": "sport"
   },
   {
@@ -148,31 +104,7 @@
     "category": "sport"
   },
   {
-    "text": "team",
-    "category": "sport"
-  },
-  {
-    "text": "cricket",
-    "category": "sport"
-  },
-  {
-    "text": "games",
-    "category": "sport"
-  },
-  {
-    "text": "podcasts",
-    "category": "sport"
-  },
-  {
-    "text": "start",
-    "category": "sport"
-  },
-  {
-    "text": "latest",
-    "category": "sport"
-  },
-  {
-    "text": "lockdown",
+    "text": "star",
     "category": "sport"
   },
   {
@@ -180,11 +112,7 @@
     "category": "sport"
   },
   {
-    "text": "bundesliga",
-    "category": "sport"
-  },
-  {
-    "text": "utd",
+    "text": "team",
     "category": "sport"
   },
   {
@@ -192,15 +120,7 @@
     "category": "sport"
   },
   {
-    "text": "virus",
-    "category": "sport"
-  },
-  {
     "text": "footballers",
-    "category": "sport"
-  },
-  {
-    "text": "resume",
     "category": "sport"
   },
   {
@@ -212,15 +132,7 @@
     "category": "sport"
   },
   {
-    "text": "union",
-    "category": "sport"
-  },
-  {
     "text": "scottish",
-    "category": "sport"
-  },
-  {
-    "text": "are",
     "category": "sport"
   },
   {
@@ -236,19 +148,23 @@
     "category": "sport"
   },
   {
+    "text": "dor",
+    "category": "sport"
+  },
+  {
+    "text": "utd",
+    "category": "sport"
+  },
+  {
+    "text": "latest",
+    "category": "sport"
+  },
+  {
     "text": "squad",
     "category": "sport"
   },
   {
-    "text": "nfl",
-    "category": "sport"
-  },
-  {
-    "text": "ever",
-    "category": "sport"
-  },
-  {
-    "text": "east",
+    "text": "resume",
     "category": "sport"
   },
   {
@@ -260,15 +176,11 @@
     "category": "sport"
   },
   {
-    "text": "watch",
-    "category": "sport"
-  },
-  {
-    "text": "contact",
-    "category": "sport"
-  },
-  {
     "text": "players",
+    "category": "sport"
+  },
+  {
+    "text": "are",
     "category": "sport"
   },
   {
@@ -276,67 +188,15 @@
     "category": "sport"
   },
   {
-    "text": "free",
-    "category": "sport"
-  },
-  {
-    "text": "boxing",
-    "category": "sport"
-  },
-  {
     "text": "sounds",
     "category": "sport"
   },
   {
-    "text": "scores",
+    "text": "darts",
     "category": "sport"
   },
   {
-    "text": "transfer",
-    "category": "sport"
-  },
-  {
-    "text": "era",
-    "category": "sport"
-  },
-  {
-    "text": "listen",
-    "category": "sport"
-  },
-  {
-    "text": "england",
-    "category": "sport"
-  },
-  {
-    "text": "racing",
-    "category": "sport"
-  },
-  {
-    "text": "sporting",
-    "category": "sport"
-  },
-  {
-    "text": "fit",
-    "category": "sport"
-  },
-  {
-    "text": "page",
-    "category": "sport"
-  },
-  {
-    "text": "tennis",
-    "category": "sport"
-  },
-  {
-    "text": "coronavirus",
-    "category": "sport"
-  },
-  {
-    "text": "favourite",
-    "category": "sport"
-  },
-  {
-    "text": "different",
+    "text": "golf",
     "category": "sport"
   },
   {
@@ -344,19 +204,11 @@
     "category": "sport"
   },
   {
-    "text": "draft",
-    "category": "sport"
-  },
-  {
-    "text": "hit",
+    "text": "page",
     "category": "sport"
   },
   {
     "text": "rising",
-    "category": "sport"
-  },
-  {
-    "text": "links",
     "category": "sport"
   },
   {
@@ -388,11 +240,7 @@
     "category": "sport"
   },
   {
-    "text": "case",
-    "category": "sport"
-  },
-  {
-    "text": "restart",
+    "text": "lockdown",
     "category": "sport"
   },
   {
@@ -404,7 +252,15 @@
     "category": "sport"
   },
   {
+    "text": "sporting",
+    "category": "sport"
+  },
+  {
     "text": "talking",
+    "category": "sport"
+  },
+  {
+    "text": "start",
     "category": "sport"
   },
   {
@@ -413,6 +269,10 @@
   },
   {
     "text": "motd",
+    "category": "sport"
+  },
+  {
+    "text": "era",
     "category": "sport"
   },
   {
@@ -504,6 +364,10 @@
     "category": "sport"
   },
   {
+    "text": "podcasts",
+    "category": "sport"
+  },
+  {
     "text": "match",
     "category": "sport"
   },
@@ -512,11 +376,7 @@
     "category": "sport"
   },
   {
-    "text": "formula",
-    "category": "sport"
-  },
-  {
-    "text": "giant",
+    "text": "fit",
     "category": "sport"
   },
   {
@@ -540,7 +400,11 @@
     "category": "sport"
   },
   {
-    "text": "2020",
+    "text": "bundesliga",
+    "category": "sport"
+  },
+  {
+    "text": "coronavirus",
     "category": "sport"
   },
   {
@@ -552,7 +416,15 @@
     "category": "sport"
   },
   {
+    "text": "favourite",
+    "category": "sport"
+  },
+  {
     "text": "something",
+    "category": "sport"
+  },
+  {
+    "text": "different",
     "category": "sport"
   },
   {
@@ -564,11 +436,7 @@
     "category": "sport"
   },
   {
-    "text": "content",
-    "category": "sport"
-  },
-  {
-    "text": "fiorentina",
+    "text": "rugby",
     "category": "sport"
   },
   {
@@ -592,11 +460,11 @@
     "category": "sport"
   },
   {
-    "text": "search",
+    "text": "quizzes",
     "category": "sport"
   },
   {
-    "text": "quizzes",
+    "text": "links",
     "category": "sport"
   }
 ]
