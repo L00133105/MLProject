@@ -1,6 +1,18 @@
 [
   {
+    "text": "and",
+    "category": "marketingPlatform"
+  },
+  {
     "text": "learn",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "more",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "our",
     "category": "marketingPlatform"
   },
   {
@@ -16,11 +28,23 @@
     "category": "marketingPlatform"
   },
   {
+    "text": "you",
+    "category": "marketingPlatform"
+  },
+  {
     "text": "sponsored",
     "category": "marketingPlatform"
   },
   {
     "text": "advertising",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "your",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "with",
     "category": "marketingPlatform"
   },
   {
@@ -40,6 +64,10 @@
     "category": "marketingPlatform"
   },
   {
+    "text": "over",
+    "category": "marketingPlatform"
+  },
+  {
     "text": "store",
     "category": "marketingPlatform"
   },
@@ -48,7 +76,15 @@
     "category": "marketingPlatform"
   },
   {
+    "text": "the",
+    "category": "marketingPlatform"
+  },
+  {
     "text": "solution",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "that",
     "category": "marketingPlatform"
   },
   {
@@ -56,7 +92,11 @@
     "category": "marketingPlatform"
   },
   {
-    "text": "appear",
+    "text": "results",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "off",
     "category": "marketingPlatform"
   },
   {
@@ -64,7 +104,7 @@
     "category": "marketingPlatform"
   },
   {
-    "text": "results",
+    "text": "appear",
     "category": "marketingPlatform"
   },
   {
@@ -72,11 +112,11 @@
     "category": "marketingPlatform"
   },
   {
-    "text": "blog",
+    "text": "publisher",
     "category": "marketingPlatform"
   },
   {
-    "text": "publisher",
+    "text": "blog",
     "category": "marketingPlatform"
   },
   {
@@ -84,11 +124,11 @@
     "category": "marketingPlatform"
   },
   {
-    "text": "english",
+    "text": "outbrain",
     "category": "marketingPlatform"
   },
   {
-    "text": "outbrain",
+    "text": "english",
     "category": "marketingPlatform"
   },
   {
@@ -97,6 +137,10 @@
   },
   {
     "text": "advertise",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "help",
     "category": "marketingPlatform"
   },
   {
@@ -109,6 +153,14 @@
   },
   {
     "text": "faq",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "for",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "new",
     "category": "marketingPlatform"
   },
   {
@@ -128,15 +180,11 @@
     "category": "marketingPlatform"
   },
   {
-    "text": "awareness",
-    "category": "marketingPlatform"
-  },
-  {
     "text": "customized",
     "category": "marketingPlatform"
   },
   {
-    "text": "solutions",
+    "text": "awareness",
     "category": "marketingPlatform"
   },
   {
@@ -144,11 +192,15 @@
     "category": "marketingPlatform"
   },
   {
-    "text": "resources",
+    "text": "solutions",
     "category": "marketingPlatform"
   },
   {
     "text": "marketing",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "resources",
     "category": "marketingPlatform"
   },
   {
@@ -160,6 +212,10 @@
     "category": "marketingPlatform"
   },
   {
+    "text": "business",
+    "category": "marketingPlatform"
+  },
+  {
     "text": "france",
     "category": "marketingPlatform"
   },
@@ -168,19 +224,15 @@
     "category": "marketingPlatform"
   },
   {
-    "text": "visibility",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "business",
-    "category": "marketingPlatform"
-  },
-  {
     "text": "audiences",
     "category": "marketingPlatform"
   },
   {
-    "text": "states",
+    "text": "visibility",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "discover",
     "category": "marketingPlatform"
   },
   {
@@ -188,55 +240,7 @@
     "category": "marketingPlatform"
   },
   {
-    "text": "individual",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "logo",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "headline",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "reaching",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "relevant",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "using",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "loyalty",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "free",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "multipage",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "improve",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "pages",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "boost",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "inspire",
+    "text": "states",
     "category": "marketingPlatform"
   },
   {
@@ -244,31 +248,75 @@
     "category": "marketingPlatform"
   },
   {
+    "text": "inspire",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "this",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "multipage",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "free",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "using",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "boost",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "own",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "individual",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "loyalty",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "relevant",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "reaching",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "pages",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "headline",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "improve",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "logo",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "but",
+    "category": "marketingPlatform"
+  },
+  {
     "text": "start",
     "category": "marketingPlatform"
   },
   {
-    "text": "productsimprove",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "pageslearn",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "brandsboost",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "resultslearn",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "solutionlearn",
-    "category": "marketingPlatform"
-  },
-  {
-    "text": "storesinspire",
+    "text": "native",
     "category": "marketingPlatform"
   },
   {
@@ -276,7 +324,27 @@
     "category": "marketingPlatform"
   },
   {
-    "text": "native",
+    "text": "storesinspire",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "solutionlearn",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "resultslearn",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "brandsboost",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "pageslearn",
+    "category": "marketingPlatform"
+  },
+  {
+    "text": "productsimprove",
     "category": "marketingPlatform"
   }
 ]
