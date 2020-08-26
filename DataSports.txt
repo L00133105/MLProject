@@ -67,8 +67,13 @@
   
   
     
+<<<<<<< HEAD
   
   
+=======
+FootballExtra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section BurnleyMust seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's FootballNetherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section RangersInsight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?Try our football quizzesRank these EFL internationals by caps wonTake our footballing Venn diagram quizCan you name every goal of the month winner in the Premier League era?Take on our 20 quizzes for 20 Premier League teamsFrom the section Premier LeagueLonger reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and KaneWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartAround the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cupsWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartFind us hereFind out more about our BBC Sport AppHelp & FAQs
+
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
     
 
 
@@ -146,6 +151,7 @@
             
       
         
+<<<<<<< HEAD
         
         
           
@@ -259,6 +265,182 @@
             
             
             Games
+=======
+    
+FootballExtra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section BurnleyMust seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's FootballNetherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section RangersInsight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?Try our football quizzesRank these EFL internationals by caps wonTake our footballing Venn diagram quizCan you name every goal of the month winner in the Premier League era?Take on our 20 quizzes for 20 Premier League teamsFrom the section Premier LeagueLonger reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and KaneWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartAround the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cupsWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartFind us hereFind out more about our BBC Sport AppHelp & FAQs
+
+    
+
+Explore the BBCHomeNewsSportWeatheriPlayerSoundsCBBCCBeebiesFoodBitesizeArtsTasterLocalThree Terms of UseAbout the BBCPrivacy PolicyCookiesAccessibility HelpParental GuidanceContact the BBCGet Personalised NewslettersCopyright © 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. <img src="//ssc.api.bbc.com/?c1=2&c2=19293874&ns_site=bbc&name=" height="1" width="1" alt="">  
+
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+HomepageAccessibility linksSkip to contentAccessibility HelpBBC AccountNotificationsHomeNewsSportWeatheriPlayerSoundsCBBCCBeebiesFoodBitesizeArtsTasterLocalThreeMenuSearchSearch the BBCSearch the BBC
+HomepageAccessibility linksSkip to contentAccessibility HelpBBC AccountNotificationsHomeNewsSportWeatheriPlayerSoundsCBBCCBeebiesFoodBitesizeArtsTasterLocalThreeMenuSearchSearch the BBCSearch the BBC
+Homepage
+Accessibility linksSkip to contentAccessibility Help
+Accessibility links
+Skip to content
+Accessibility Help
+BBC AccountNotifications
+BBC Account
+
+
+HomeNewsSportWeatheriPlayerSoundsCBBCCBeebiesFoodBitesizeArtsTasterLocalThreeMenu
+Home
+News
+Sport
+Weather
+iPlayer
+Sounds
+CBBC
+CBeebies
+Food
+Bitesize
+Arts
+Taster
+Local
+Three
+Menu
+SearchSearch the BBCSearch the BBC
+Search the BBCSearch the BBC
+
+
+    
+BBCSport All SportAll SportHomeFootballFormula 1CricketRugby UTennisGolfAthleticsCycling All SportHomeFootballFormula 1CricketRugby UTennisGolfAthleticsCyclingA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGet InspiredGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballOlympic SportsRugby LeagueRugby UnionSnookerSwimmingTennisWinter SportsFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandNews FeedsHelp & FAQsFootball Scores & FixturesTablesGossipTransfersAll TeamsLeagues & CupsFA CupWomenEuropean
+
+        
+            
+                
+            
+        
+    
+FootballExtra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section BurnleyMust seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's FootballNetherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section RangersInsight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?Try our football quizzesRank these EFL internationals by caps wonTake our footballing Venn diagram quizCan you name every goal of the month winner in the Premier League era?Take on our 20 quizzes for 20 Premier League teamsFrom the section Premier LeagueLonger reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and KaneWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartAround the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cupsWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartFind us hereFind out more about our BBC Sport AppHelp & FAQs
+
+    
+
+BBCSport All SportAll SportHomeFootballFormula 1CricketRugby UTennisGolfAthleticsCycling All SportHomeFootballFormula 1CricketRugby UTennisGolfAthleticsCyclingA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGet InspiredGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballOlympic SportsRugby LeagueRugby UnionSnookerSwimmingTennisWinter SportsFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandNews FeedsHelp & FAQsFootball Scores & FixturesTablesGossipTransfersAll TeamsLeagues & CupsFA CupWomenEuropean
+BBCSport All SportAll SportHomeFootballFormula 1CricketRugby UTennisGolfAthleticsCycling All SportHomeFootballFormula 1CricketRugby UTennisGolfAthleticsCyclingA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGet InspiredGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballOlympic SportsRugby LeagueRugby UnionSnookerSwimmingTennisWinter SportsFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandNews FeedsHelp & FAQsFootball Scores & FixturesTablesGossipTransfersAll TeamsLeagues & CupsFA CupWomenEuropean
+BBCSport All SportAll Sport
+BBCSport All SportAll Sport
+BBCSport All SportAll Sport
+
+HomeFootballFormula 1CricketRugby UTennisGolfAthleticsCycling All Sport
+HomeFootballFormula 1CricketRugby UTennisGolfAthleticsCycling All Sport
+Home
+Football
+Formula 1
+Cricket
+Rugby U
+Tennis
+Golf
+Athletics
+Cycling
+HomeFootballFormula 1CricketRugby UTennisGolfAthleticsCyclingA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGet InspiredGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballOlympic SportsRugby LeagueRugby UnionSnookerSwimmingTennisWinter SportsFull Sports A-ZMore from SportEnglandScotlandWalesNorthern IrelandNews FeedsHelp & FAQs
+HomeFootballFormula 1CricketRugby UTennisGolfAthleticsCyclingA-Z SportsAmerican FootballAthleticsBasketballBoxingCricketCyclingDartsDisability SportFootballFormula 1Gaelic GamesGet InspiredGolfGymnasticsHorse RacingMixed Martial ArtsMotorsportNetballOlympic SportsRugby LeagueRugby UnionSnookerSwimmingTennisWinter SportsFull Sports A-Z
+Home
+Football
+Formula 1
+Cricket
+Rugby U
+Tennis
+Golf
+Athletics
+Cycling
+American Football
+Athletics
+Basketball
+Boxing
+Cricket
+Cycling
+Darts
+Disability Sport
+Football
+Formula 1
+Gaelic Games
+Get Inspired
+Golf
+Gymnastics
+Horse Racing
+Mixed Martial Arts
+Motorsport
+Netball
+Olympic Sports
+Rugby League
+Rugby Union
+Snooker
+Swimming
+Tennis
+Winter Sports
+Full Sports A-Z
+More from SportEnglandScotlandWalesNorthern IrelandNews FeedsHelp & FAQs
+England
+Scotland
+Wales
+Northern Ireland
+News Feeds
+Help & FAQs
+Football Scores & FixturesTablesGossipTransfersAll TeamsLeagues & CupsFA CupWomenEuropean
+Football Scores & FixturesTablesGossipTransfersAll TeamsLeagues & CupsFA CupWomenEuropean
+Football Scores & FixturesTablesGossipTransfersAll TeamsLeagues & CupsFA CupWomenEuropean
+Football 
+Scores & Fixtures
+Tables
+Gossip
+Transfers
+All Teams
+Leagues & Cups
+FA Cup
+Women
+European
+
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
             
             
             More
@@ -347,6 +529,7 @@
     
         
             
+<<<<<<< HEAD
         
     
 
@@ -9746,6 +9929,63 @@ Football
   
 
 
+=======
+FootballExtra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section BurnleyMust seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's FootballNetherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section RangersInsight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?Try our football quizzesRank these EFL internationals by caps wonTake our footballing Venn diagram quizCan you name every goal of the month winner in the Premier League era?Take on our 20 quizzes for 20 Premier League teamsFrom the section Premier LeagueLonger reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and KaneWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartAround the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cupsWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartFind us hereFind out more about our BBC Sport AppHelp & FAQs
+FootballExtra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section BurnleyMust seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's FootballNetherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section RangersInsight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?Try our football quizzesRank these EFL internationals by caps wonTake our footballing Venn diagram quizCan you name every goal of the month winner in the Premier League era?Take on our 20 quizzes for 20 Premier League teamsFrom the section Premier LeagueLonger reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and KaneWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartAround the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cupsWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartFind us hereFind out more about our BBC Sport AppHelp & FAQs
+Football
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section BurnleyMust seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's FootballNetherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section RangersInsight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?Try our football quizzesRank these EFL internationals by caps wonTake our footballing Venn diagram quizCan you name every goal of the month winner in the Premier League era?Take on our 20 quizzes for 20 Premier League teamsFrom the section Premier LeagueLonger reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and KaneWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartAround the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cupsWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartFind us hereFind out more about our BBC Sport AppHelp & FAQs
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section BurnleyMust seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's FootballNetherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section RangersInsight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?Try our football quizzesRank these EFL internationals by caps wonTake our footballing Venn diagram quizCan you name every goal of the month winner in the Premier League era?Take on our 20 quizzes for 20 Premier League teamsFrom the section Premier LeagueLonger reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and KaneWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartAround the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cupsWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section BurnleyMust seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's FootballNetherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section RangersInsight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?Try our football quizzesRank these EFL internationals by caps wonTake our footballing Venn diagram quizCan you name every goal of the month winner in the Premier League era?Take on our 20 quizzes for 20 Premier League teamsFrom the section Premier LeagueLonger reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and KaneWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartAround the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cupsWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section BurnleyMust seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's FootballNetherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section RangersInsight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?Try our football quizzesRank these EFL internationals by caps wonTake our footballing Venn diagram quizCan you name every goal of the month winner in the Premier League era?Take on our 20 quizzes for 20 Premier League teamsFrom the section Premier LeagueLonger reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and KaneWatch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam TaggartAround the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cups
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section Burnley
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section Burnley
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 CommentsWalker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man CityIghalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man UtdWhich squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 CommentsHow La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European FootballRobertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours agoCrowd noise played over loudspeakers as football returns to South Korea24habout 24 hours agoLast-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours agoBig quiz: Can you name every British Premier League manager?8habout 8 hours agoSon completes military service - and wins award for best performance4habout 4 hours agoFrom the section TottenhamFriday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours agoVideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours agoVideo'Pogba likes his steak well done'8habout 8 hours agoPlayers can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section Burnley
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 Comments
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 Comments
+
+
+
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.1habout 1 hour ago84 Comments
+Extra subs among temporary law changes when leagues resumeTeams will be allowed to use five substitutes when the season resumes after a Fifa proposal to help with fixture congestion was approved.
+Extra subs among temporary law changes when leagues resume
+1habout 1 hour ago
+84 Comments
+Walker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man City
+Walker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man City
+
+
+
+Walker says he feels 'harassed' after lockdown breach reports6habout 6 hours agoFrom the section Man City
+Walker says he feels 'harassed' after lockdown breach reports
+Walker says he feels 'harassed' after lockdown breach reports
+6habout 6 hours ago
+From the section Man City
+Ighalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man Utd
+Ighalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man Utd
+
+
+
+Ighalo wants to extend Man Utd loan until season is completed1habout 1 hour agoFrom the section Man Utd
+Ighalo wants to extend Man Utd loan until season is completed
+Ighalo wants to extend Man Utd loan until season is completed
+1habout 1 hour ago
+From the section Man Utd
+
+
+Which squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 Comments
+Which squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 Comments
+
+
+
+Which squads need work in the next transfer window? The bottom 10 clubs8habout 8 hours agoFrom the section Premier League380 Comments
+Which squads need work in the next transfer window? The bottom 10 clubs
+Which squads need work in the next transfer window? The bottom 10 clubs
+8habout 8 hours ago
+From the section Premier League
+380 Comments
+How La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European Football
+How La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European Football
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
     
       
@@ -9779,6 +10019,7 @@ Football
   
     
 
+<<<<<<< HEAD
         
           
     
@@ -9855,6 +10096,15 @@ Football
           
         
       
+=======
+How La Liga is planning to restart football in Spain14:50Coverage starts in 2 minutesFrom the section European Football
+How La Liga is planning to restart football in Spain
+How La Liga is planning to restart football in Spain
+14:50Coverage starts in 2 minutes
+From the section European Football
+Robertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours ago
+Robertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours ago
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
           
     
@@ -10004,6 +10254,7 @@ Football
             
           
 
+<<<<<<< HEAD
               
               
                 
@@ -10027,6 +10278,12 @@ Football
               
             
             
+=======
+Robertson on Messi, partying with Dalglish and M&S lingerie4habout 4 hours ago
+Robertson on Messi, partying with Dalglish and M&S lingerie
+Robertson on Messi, partying with Dalglish and M&S lingerie
+4habout 4 hours ago
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
                 
                   
@@ -10035,6 +10292,7 @@ Football
                 
               
 
+<<<<<<< HEAD
               
                 
                             Rugby Union
@@ -10046,6 +10304,10 @@ Football
                 
               
             
+=======
+Crowd noise played over loudspeakers as football returns to South Korea24habout 24 hours ago
+Crowd noise played over loudspeakers as football returns to South Korea24habout 24 hours ago
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
                 
                             Rugby Union
@@ -10060,10 +10322,19 @@ Football
                             Rugby Union
                         Rugby Union
 
+<<<<<<< HEAD
                     
                   Wigan vs Bath: Where are they now?
                     
                 
+=======
+Crowd noise played over loudspeakers as football returns to South Korea24habout 24 hours ago
+Crowd noise played over loudspeakers as football returns to South Korea
+Crowd noise played over loudspeakers as football returns to South Korea
+24habout 24 hours ago
+Last-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours ago
+Last-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours ago
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
               
@@ -10096,6 +10367,7 @@ Football
                 
               
 
+<<<<<<< HEAD
               
                 
                             Football
@@ -10107,6 +10379,14 @@ Football
                 
               
             
+=======
+Last-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers8habout 8 hours ago
+Last-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers
+Last-gasp heroics, 65-yard screamers & bicycle kicks - some of the great goals from keepers
+8habout 8 hours ago
+Big quiz: Can you name every British Premier League manager?8habout 8 hours ago
+Big quiz: Can you name every British Premier League manager?8habout 8 hours ago
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
                 
                             Football
@@ -10121,10 +10401,19 @@ Football
                             Football
                         Football
 
+<<<<<<< HEAD
                     
                   Who is the Greatest PL Manager?
                     
                 
+=======
+Big quiz: Can you name every British Premier League manager?8habout 8 hours ago
+Big quiz: Can you name every British Premier League manager?
+Big quiz: Can you name every British Premier League manager?
+8habout 8 hours ago
+Son completes military service - and wins award for best performance4habout 4 hours agoFrom the section Tottenham
+Son completes military service - and wins award for best performance4habout 4 hours agoFrom the section Tottenham
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
               
@@ -10157,6 +10446,7 @@ Football
                 
               
 
+<<<<<<< HEAD
               
                 
                             Football
@@ -10168,6 +10458,15 @@ Football
                 
               
             
+=======
+Son completes military service - and wins award for best performance4habout 4 hours agoFrom the section Tottenham
+Son completes military service - and wins award for best performance
+Son completes military service - and wins award for best performance
+4habout 4 hours ago
+From the section Tottenham
+Friday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours ago
+Friday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours ago
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
                 
                             Football
@@ -10182,6 +10481,7 @@ Football
                             Football
                         Football
 
+<<<<<<< HEAD
                     
                   Partey: The Atletico Madrid man in demand
                     
@@ -10308,6 +10608,33 @@ Football
             
           
         
+=======
+Friday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 6habout 6 hours ago
+Friday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 
+Friday's gossip: Newcastle eye Coutinho and Liverpool target Koulibaly 
+6habout 6 hours ago
+VideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours ago
+VideoSolskjaer 'ramping up' Man Utd training ready for return3habout 3 hours ago
+Video
+Video
+
+Solskjaer 'ramping up' Man Utd training ready for return3habout 3 hours ago
+Solskjaer 'ramping up' Man Utd training ready for return
+Solskjaer 'ramping up' Man Utd training ready for return
+3habout 3 hours ago
+Video'Pogba likes his steak well done'8habout 8 hours ago
+Video'Pogba likes his steak well done'8habout 8 hours ago
+Video
+Video
+
+'Pogba likes his steak well done'8habout 8 hours ago
+'Pogba likes his steak well done'
+'Pogba likes his steak well done'
+8habout 8 hours ago
+Players can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section Burnley
+Players can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section Burnley
+
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
     
     
@@ -10362,6 +10689,7 @@ Football
             
           
 
+<<<<<<< HEAD
               
               
                 
@@ -10404,6 +10732,38 @@ Football
                 
               
             
+=======
+Players can 'get over' neutral venues to give Britain 'positive boost'4habout 4 hours agoFrom the section Burnley
+Players can 'get over' neutral venues to give Britain 'positive boost'
+Players can 'get over' neutral venues to give Britain 'positive boost'
+4habout 4 hours ago
+From the section Burnley
+Must seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's Football
+Must seeVideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's Football
+Must see
+Must see
+VideoThe Southampton keeper who went to warVideoMaddison magic & Archer heartache on FifaVideoThis workout will maintain your football fitnessFrom the section SportVideoSocial media abuse towards women's football 'abhorrent'From the section Women's Football
+VideoThe Southampton keeper who went to war
+VideoThe Southampton keeper who went to war
+Video
+Video
+
+The Southampton keeper who went to war
+The Southampton keeper who went to war
+The Southampton keeper who went to war
+VideoMaddison magic & Archer heartache on Fifa
+VideoMaddison magic & Archer heartache on Fifa
+Video
+Video
+
+Maddison magic & Archer heartache on Fifa
+Maddison magic & Archer heartache on Fifa
+Maddison magic & Archer heartache on Fifa
+VideoThis workout will maintain your football fitnessFrom the section Sport
+VideoThis workout will maintain your football fitnessFrom the section Sport
+Video
+Video
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
                 
                             Football
@@ -10415,8 +10775,22 @@ Football
                 
               
 
+<<<<<<< HEAD
                             Football
                         Football
+=======
+Social media abuse towards women's football 'abhorrent'From the section Women's Football
+Social media abuse towards women's football 'abhorrent'
+Social media abuse towards women's football 'abhorrent'
+From the section Women's Football
+Netherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section Rangers
+Netherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section Rangers
+Netherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European FootballGermany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European FootballToure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section Rangers
+Netherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European Football
+Netherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European Football
+Netherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European Football
+Netherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European Football
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
                     
                   Listen to Sky Sports Podcasts
@@ -10450,6 +10824,7 @@ Football
             
             
 
+<<<<<<< HEAD
                       
                         
                       
@@ -10459,6 +10834,16 @@ Football
                   
                 
               
+=======
+Netherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".From the section European Football
+Netherlands manager Koeman 'fit as a fiddle' after chest complaintsNetherlands manager Ronald Koeman says he feels "fit as a fiddle" after being admitted to hospital in Amsterdam last week with "chest complaints".
+Netherlands manager Koeman 'fit as a fiddle' after chest complaints
+From the section European Football
+Germany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European Football
+Germany's Bundesliga to resume on 16 MayFrom the section European FootballNo fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European FootballMan City parent company close to deal for Belgian second-tier clubFrom the section European Football
+Germany's Bundesliga to resume on 16 MayFrom the section European Football
+Germany's Bundesliga to resume on 16 MayFrom the section European Football
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
                 
@@ -10482,8 +10867,17 @@ Football
                 
               
 
+<<<<<<< HEAD
                             Football
                         Football
+=======
+Germany's Bundesliga to resume on 16 MayFrom the section European Football
+Germany's Bundesliga to resume on 16 May
+Germany's Bundesliga to resume on 16 May
+From the section European Football
+No fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European Football
+No fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European Football
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
                     
                   Relive Arsenal's '89 triumph on Sky Sports
@@ -10573,6 +10967,7 @@ Football
         
       
 
+<<<<<<< HEAD
           
     
     
@@ -10653,6 +11048,14 @@ Football
             
           
         
+=======
+No fans at Dutch sporting events until vaccine is developed, says health ministerFrom the section European Football
+No fans at Dutch sporting events until vaccine is developed, says health minister
+No fans at Dutch sporting events until vaccine is developed, says health minister
+From the section European Football
+Man City parent company close to deal for Belgian second-tier clubFrom the section European Football
+Man City parent company close to deal for Belgian second-tier clubFrom the section European Football
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
     
     
@@ -10757,12 +11160,23 @@ Football
             
             
 
+<<<<<<< HEAD
                 
                   
                   
                   
                 
               
+=======
+Man City parent company close to deal for Belgian second-tier clubFrom the section European Football
+Man City parent company close to deal for Belgian second-tier club
+Man City parent company close to deal for Belgian second-tier club
+From the section European Football
+Toure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section Rangers
+Toure backs Drogba's bid for Ivorian FA presidentFrom the section Sport AfricaKlose appointed Bayern assistant coachFrom the section European FootballSPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section Rangers
+Toure backs Drogba's bid for Ivorian FA presidentFrom the section Sport Africa
+Toure backs Drogba's bid for Ivorian FA presidentFrom the section Sport Africa
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
                 
@@ -10786,7 +11200,16 @@ Football
                 
               
 
+<<<<<<< HEAD
     
+=======
+Toure backs Drogba's bid for Ivorian FA presidentFrom the section Sport Africa
+Toure backs Drogba's bid for Ivorian FA president
+Toure backs Drogba's bid for Ivorian FA president
+From the section Sport Africa
+Klose appointed Bayern assistant coachFrom the section European Football
+Klose appointed Bayern assistant coachFrom the section European Football
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
                     
                   Flypast over London as UK marks 75th anniversary of VE Day
@@ -10820,6 +11243,7 @@ Football
             
             
 
+<<<<<<< HEAD
                       
                         
                       
@@ -10829,6 +11253,14 @@ Football
                   
                 
               
+=======
+Klose appointed Bayern assistant coachFrom the section European Football
+Klose appointed Bayern assistant coach
+Klose appointed Bayern assistant coach
+From the section European Football
+SPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section Rangers
+SPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section Rangers
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
                 
@@ -10852,7 +11284,23 @@ Football
                 
               
 
+<<<<<<< HEAD
     
+=======
+SPFL must be 'democracy not dictatorship' - Rangers' RobertsonFrom the section Rangers
+SPFL must be 'democracy not dictatorship' - Rangers' Robertson
+SPFL must be 'democracy not dictatorship' - Rangers' Robertson
+From the section Rangers
+Insight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?
+Insight: Must-read football storiesKlopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?
+Insight: Must-read football stories
+Insight: Must-read football stories
+Klopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.The footballers who escaped East BerlinHow Didier Drogba helped halt a civil warThe football team rising from America's biggest ruinSimeone: The 'street-fighter' taking on Spain's giantsThe rising star who doesn't want to be ZlatanWhy is this man the most hated in German football?
+Klopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.
+Klopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.
+Klopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.
+Klopp - the Black Forest boy who 'became a hero'Even as a young boy in south Germany Jurgen Klopp showed signs of what he would achieve. This is the story of his journey to Anfield.
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
                     
                   VE Day: Nation pays tribute to its 'greatest generation'
@@ -12352,9 +12800,21 @@ Football
           Scores
           
 
+<<<<<<< HEAD
           
           Video
           
+=======
+Longer reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+Longer reads and moreA heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+Longer reads and more
+Longer reads and more
+A heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European FootballWhich squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European FootballMOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+A heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European Football
+A heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European Football
+A heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European Football
+A heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European Football
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
           
           TV
@@ -12364,9 +12824,20 @@ Football
           Sky Bet
           
 
+<<<<<<< HEAD
           
           Games
           
+=======
+A heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.From the section European Football
+A heart attack & president phone calls - the amateur team that almost conquered FranceAt the turn of the century, a team of shopkeepers, teachers and labourers went on a miracle cup run that upset the football establishment and gripped France.
+A heart attack & president phone calls - the amateur team that almost conquered France
+From the section European Football
+Which squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European Football
+Which squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 CommentsTests? Masks? Physical contact? Issues facing footballers after lockdownWhen will Europe's top leagues return?From the section European Football
+Which squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 Comments
+Which squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 Comments
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
           More
           
@@ -12511,6 +12982,7 @@ Football
           
           
 
+<<<<<<< HEAD
             
               
               
@@ -12578,6 +13050,15 @@ Football
               
             
           
+=======
+Which squads need work in the next transfer window? The top 10 clubsFrom the section Premier League597 Comments
+Which squads need work in the next transfer window? The top 10 clubs
+Which squads need work in the next transfer window? The top 10 clubs
+From the section Premier League
+597 Comments
+Tests? Masks? Physical contact? Issues facing footballers after lockdown
+Tests? Masks? Physical contact? Issues facing footballers after lockdown
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
               Transfer Centre
@@ -12587,9 +13068,17 @@ Football
               Live on Sky
               
 
+<<<<<<< HEAD
               
               Get Sky Sports
               
+=======
+Tests? Masks? Physical contact? Issues facing footballers after lockdown
+Tests? Masks? Physical contact? Issues facing footballers after lockdown
+Tests? Masks? Physical contact? Issues facing footballers after lockdown
+When will Europe's top leagues return?From the section European Football
+When will Europe's top leagues return?From the section European Football
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
               TV Shows
@@ -12599,9 +13088,20 @@ Football
               TV Guide
               
 
+<<<<<<< HEAD
               
               Competitions
               
+=======
+When will Europe's top leagues return?From the section European Football
+When will Europe's top leagues return?
+When will Europe's top leagues return?
+From the section European Football
+MOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+MOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European FootballIf there are no fans at Premier League games next season, which club would suffer most?From the section Premier League'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+MOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European Football
+MOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European Football
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
               Sky Go
@@ -12611,14 +13111,34 @@ Football
               Now TV
               
 
+<<<<<<< HEAD
               
               Sports Scholarships
               
+=======
+MOTD podcast: Top 10 Ballon d'Or winners of Premier League eraFrom the section European Football
+MOTD podcast: Top 10 Ballon d'Or winners of Premier League era
+MOTD podcast: Top 10 Ballon d'Or winners of Premier League era
+From the section European Football
+If there are no fans at Premier League games next season, which club would suffer most?From the section Premier League
+If there are no fans at Premier League games next season, which club would suffer most?From the section Premier League
+
+
+
+If there are no fans at Premier League games next season, which club would suffer most?From the section Premier League
+If there are no fans at Premier League games next season, which club would suffer most?
+If there are no fans at Premier League games next season, which club would suffer most?
+From the section Premier League
+'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
               Tackling Racism
               
 
+<<<<<<< HEAD
               
               Podcasts
               
@@ -12626,6 +13146,36 @@ Football
               
               Mobile
               
+=======
+'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+'Lazy? No, I was smart' - Berbatov on Tottenham, Man Utd and Kane
+Watch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+Watch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+Watch and listen
+Watch and listen
+AudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+AudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.
+AudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.
+Audio
+Audio
+
+Discover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.
+Discover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.
+Discover: The BBC's best sports podcasts
+AudioWorld Football podcast: Neven Subotic and the return of the Bundesliga
+AudioWorld Football podcast: Neven Subotic and the return of the Bundesliga
+Audio
+Audio
+
+World Football podcast: Neven Subotic and the return of the Bundesliga
+World Football podcast: Neven Subotic and the return of the Bundesliga
+World Football podcast: Neven Subotic and the return of the Bundesliga
+AudioFootball Daily podcast: You're better than that
+AudioFootball Daily podcast: You're better than that
+Audio
+Audio
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
 
               
               Twitter
@@ -12643,5 +13193,196 @@ Football
               Terms & Conditions
               
 
+<<<<<<< HEAD
 
       
+=======
+World Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+World Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+World Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+Around the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cups
+Around the leaguesAll the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cups
+Around the leagues
+Around the leagues
+All the latest from the Premier LeagueEuropean footballAfrican footballScottish PremiershipChampionshipWomen's footballAll leagues and cups
+All the latest from the Premier League
+All the latest from the Premier League
+All the latest from the Premier League
+All the latest from the Premier League
+
+
+
+All the latest from the Premier League
+All the latest from the Premier League
+All the latest from the Premier League
+European footballAfrican footballScottish Premiership
+European footballAfrican footballScottish Premiership
+European football
+European football
+
+
+
+European football
+European football
+European football
+African football
+African football
+
+
+
+African football
+African football
+African football
+Scottish Premiership
+Scottish Premiership
+
+
+
+Scottish Premiership
+Scottish Premiership
+Scottish Premiership
+ChampionshipWomen's footballAll leagues and cups
+ChampionshipWomen's footballAll leagues and cups
+Championship
+Championship
+
+
+
+Championship
+Championship
+Championship
+Women's football
+Women's football
+
+
+
+Women's football
+Women's football
+Women's football
+All leagues and cups
+All leagues and cups
+
+
+
+All leagues and cups
+All leagues and cups
+All leagues and cups
+
+
+
+Watch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+Watch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+
+
+
+Watch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+Watch and listenAudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+Watch and listen
+Watch and listen
+AudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.AudioWorld Football podcast: Neven Subotic and the return of the BundesligaAudioFootball Daily podcast: You're better than thatAudioThat Peter Crouch podcast: WFH - The Roy Keane GalleryAudioMatch of the Day podcast: Ballon d'Or winnersAudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+AudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.
+AudioDiscover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.
+Audio
+Audio
+
+Discover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.
+Discover: The BBC's best sports podcastsFind the latest episode of your favourite podcast or discover something a little more different by visiting BBC Sounds' sport podcast listings page.
+Discover: The BBC's best sports podcasts
+AudioWorld Football podcast: Neven Subotic and the return of the Bundesliga
+AudioWorld Football podcast: Neven Subotic and the return of the Bundesliga
+Audio
+Audio
+
+World Football podcast: Neven Subotic and the return of the Bundesliga
+World Football podcast: Neven Subotic and the return of the Bundesliga
+World Football podcast: Neven Subotic and the return of the Bundesliga
+AudioFootball Daily podcast: You're better than that
+AudioFootball Daily podcast: You're better than that
+Audio
+Audio
+
+Football Daily podcast: You're better than that
+Football Daily podcast: You're better than that
+Football Daily podcast: You're better than that
+AudioThat Peter Crouch podcast: WFH - The Roy Keane Gallery
+AudioThat Peter Crouch podcast: WFH - The Roy Keane Gallery
+Audio
+Audio
+
+That Peter Crouch podcast: WFH - The Roy Keane Gallery
+That Peter Crouch podcast: WFH - The Roy Keane Gallery
+That Peter Crouch podcast: WFH - The Roy Keane Gallery
+AudioMatch of the Day podcast: Ballon d'Or winners
+AudioMatch of the Day podcast: Ballon d'Or winners
+Audio
+Audio
+
+Match of the Day podcast: Ballon d'Or winners
+Match of the Day podcast: Ballon d'Or winners
+Match of the Day podcast: Ballon d'Or winners
+AudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?
+AudioThe Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?
+Audio
+Audio
+
+The Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?
+The Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?
+The Squad podcast: Neutral grounds, Beckham's brilliance and will Poch return?
+AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+AudioWorld Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+Audio
+Audio
+
+World Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+World Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+World Football podcast: Carli Lloyd, Vivianne Miedema and Socceroo Adam Taggart
+
+
+
+
+
+
+Find us hereFind out more about our BBC Sport AppHelp & FAQs
+Find us hereFind out more about our BBC Sport AppHelp & FAQs
+Find us hereFind out more about our BBC Sport AppHelp & FAQs
+Find us hereFind out more about our BBC Sport AppHelp & FAQs
+Find us here
+Find out more about our BBC Sport AppHelp & FAQs
+
+Find out more about our BBC Sport App
+Find out more about our BBC Sport App
+
+Find out more about our BBC Sport App
+Help & FAQs
+Explore the BBCHomeNewsSportWeatheriPlayerSoundsCBBCCBeebiesFoodBitesizeArtsTasterLocalThree Terms of UseAbout the BBCPrivacy PolicyCookiesAccessibility HelpParental GuidanceContact the BBCGet Personalised NewslettersCopyright © 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+Explore the BBCHomeNewsSportWeatheriPlayerSoundsCBBCCBeebiesFoodBitesizeArtsTasterLocalThree
+Explore the BBCHomeNewsSportWeatheriPlayerSoundsCBBCCBeebiesFoodBitesizeArtsTasterLocalThree
+Explore the BBC
+HomeNewsSportWeatheriPlayerSoundsCBBCCBeebiesFoodBitesizeArtsTasterLocalThree
+Home
+News
+Sport
+Weather
+iPlayer
+Sounds
+CBBC
+CBeebies
+Food
+Bitesize
+Arts
+Taster
+Local
+Three
+ Terms of UseAbout the BBCPrivacy PolicyCookiesAccessibility HelpParental GuidanceContact the BBCGet Personalised NewslettersCopyright © 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+ Terms of UseAbout the BBCPrivacy PolicyCookiesAccessibility HelpParental GuidanceContact the BBCGet Personalised NewslettersCopyright © 2020 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+Terms of Use
+About the BBC
+Privacy Policy
+Cookies
+Accessibility Help
+Parental Guidance
+Contact the BBC
+Get Personalised Newsletters
+<img src="//ssc.api.bbc.com/?c1=2&c2=19293874&ns_site=bbc&name=" height="1" width="1" alt="">
+>>>>>>> 9321ea51e8a105907e94a8fb2929be9237892754
